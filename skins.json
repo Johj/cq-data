@@ -1,49 +1,4 @@
 {
-	"susanoo": {
-		"form": [
-			{
-				"name": "Sword Spirit Susanoo",
-				"atkPower": 110,
-				"hp": 0,
-				"critChance": 0.07,
-				"armor": 0,
-				"resistance": 0,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0
-			}
-		]
-	},
-	"koxinga": {
-		"form": [
-			{
-				"name": "Victorious General Koxinga",
-				"atkPower": 0,
-				"hp": 0,
-				"critChance": 0,
-				"armor": 0,
-				"resistance": 100,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0.05
-			}
-		]
-	},
-	"vivian": {
-		"form": [
-			{
-				"name": "Hellmaid Vivian",
-				"atkPower": 0,
-				"hp": 900,
-				"critChance": 0,
-				"armor": 0,
-				"resistance": 200,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0
-			}
-		]
-	},
 	"leon": {
 		"form": [
 			{
@@ -70,36 +25,6 @@
 			}
 		]
 	},
-	"uzimant": {
-		"form": [
-			{
-				"name": "Drum Destroyer Uzimant",
-				"atkPower": 0,
-				"hp": 0,
-				"critChance": 0,
-				"armor": 0,
-				"resistance": 0,
-				"critDamage": 0.3,
-				"accuracy": 0.05,
-				"evasion": 0
-			}
-		]
-	},
-	"kaori": {
-		"form": [
-			{
-				"name": "Troublemaker Kaori",
-				"atkPower": 80,
-				"hp": 0,
-				"critChance": 0.04,
-				"armor": 0,
-				"resistance": 0,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0
-			}
-		]
-	},
 	"rochefort": {
 		"form": [
 			{
@@ -115,76 +40,16 @@
 			}
 		]
 	},
-	"joan": {
+	"kriemhild": {
 		"form": [
 			{
-				"name": "Joan of Arc, Knight of Roses",
-				"atkPower": 0,
-				"hp": 800,
-				"critChance": 0,
-				"armor": 0,
-				"resistance": 200,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0
-			}
-		]
-	},
-	"hector": {
-		"form": [
-			{
-				"name": "Guest of Honor Hector",
-				"atkPower": 0,
+				"name": "Kriemhild of Dreams",
+				"atkPower": 70,
 				"hp": 0,
-				"critChance": 0,
-				"armor": 100,
-				"resistance": 0,
-				"critDamage": 0,
-				"accuracy": 0.05,
-				"evasion": 0
-			}
-		]
-	},
-	"athena": {
-		"form": [
-			{
-				"name": "Madame Athena",
-				"atkPower": 0,
-				"hp": 500,
-				"critChance": 0,
-				"armor": 100,
-				"resistance": 0,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0
-			}
-		]
-	},
-	"mundeok": {
-		"form": [
-			{
-				"name": "Foreign Knight Mundeok",
-				"atkPower": 90,
-				"hp": 0,
-				"critChance": 0,
-				"armor": 100,
-				"resistance": 0,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0
-			}
-		]
-	},
-	"drake": {
-		"form": [
-			{
-				"name": "Ghost Captain Drake",
-				"atkPower": 0,
-				"hp": 700,
-				"critChance": 0,
+				"critChance": 0.05,
 				"armor": 0,
 				"resistance": 0,
-				"critDamage": 0.2,
+				"critDamage": 0,
 				"accuracy": 0,
 				"evasion": 0
 			}
@@ -205,59 +70,242 @@
 			}
 		]
 	},
-	"stanya": {
+	"sigruna": {
 		"form": [
 			{
-				"name": "Homerun King Stanya",
-				"atkPower": 0,
+				"name": "Fairy Sigruna",
+				"atkPower": 80,
 				"hp": 0,
 				"critChance": 0,
 				"armor": 0,
 				"resistance": 0,
 				"critDamage": 0,
-				"accuracy": 0,
+				"accuracy": 0.06,
 				"evasion": 0
 			}
 		]
 	},
-	"vane": {
+	"demona": {
 		"form": [
 			{
-				"name": "Terrifying Keyboard Vane",
+				"name": "Hell Princess Demona",
 				"atkPower": 0,
-				"hp": 600,
-				"critChance": 0,
-				"armor": 0,
-				"resistance": 0,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0.07
-			}
-		]
-	},
-	"cain": {
-		"form": [
-			{
-				"name": "Tyrant Cain",
-				"atkPower": 70,
-				"hp": 0,
-				"critChance": 0,
-				"armor": 200,
-				"resistance": 0,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0
-			}
-		]
-	},
-	"kriemhild": {
-		"form": [
-			{
-				"name": "Kriemhild of Dreams",
-				"atkPower": 70,
 				"hp": 0,
 				"critChance": 0.05,
 				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0.23,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"d'artagnan": {
+		"form": [
+			{
+				"name": "Captain D'Artagnan",
+				"atkPower": 0,
+				"hp": 0,
+				"critChance": 0.05,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0.2,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"teresa": {
+		"form": [
+			{
+				"name": "Sailor Teresa",
+				"atkPower": 0,
+				"hp": 0,
+				"critChance": 0.1,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0.2,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"dorothy": {
+		"form": [
+			{
+				"name": "Dorothy the White Witch",
+				"atkPower": 100,
+				"hp": 0,
+				"critChance": 0.15,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"cano": {
+		"form": [
+		]
+	},
+	"maria": {
+		"form": [
+			{
+				"name": "Summer Vacation Maria",
+				"atkPower": 0,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 150,
+				"resistance": 150,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"melissa": {
+		"form": [
+		]
+	},
+	"joan": {
+		"form": [
+			{
+				"name": "Joan of Arc, Knight of Roses",
+				"atkPower": 0,
+				"hp": 800,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 200,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"susanoo": {
+		"form": [
+			{
+				"name": "Sword Spirit Susanoo",
+				"atkPower": 110,
+				"hp": 0,
+				"critChance": 0.07,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"vivian": {
+		"form": [
+			{
+				"name": "Hellmaid Vivian",
+				"atkPower": 0,
+				"hp": 900,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 200,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"monte": {
+		"form": [
+		]
+	},
+	"kaori": {
+		"form": [
+			{
+				"name": "Troublemaker Kaori",
+				"atkPower": 80,
+				"hp": 0,
+				"critChance": 0.04,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"abel": {
+		"form": [
+		]
+	},
+	"uzimant": {
+		"form": [
+			{
+				"name": "Drum Destroyer Uzimant",
+				"atkPower": 0,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0.3,
+				"accuracy": 0.05,
+				"evasion": 0
+			}
+		]
+	},
+	"sworden": {
+		"form": [
+		]
+	},
+	"isabel": {
+		"form": [
+		]
+	},
+	"koxinga": {
+		"form": [
+			{
+				"name": "Victorious General Koxinga",
+				"atkPower": 0,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 100,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0.05
+			}
+		]
+	},
+	"victoria": {
+		"form": [
+		]
+	},
+	"lionel": {
+		"form": [
+		]
+	},
+	"arita": {
+		"form": [
+		]
+	},
+	"sien": {
+		"form": [
+		]
+	},
+	"borgos": {
+		"form": [
+		]
+	},
+	"bihyeongrang": {
+		"form": [
+		]
+	},
+	"thor": {
+		"form": [
+			{
+				"name": "Prince Thor",
+				"atkPower": 0,
+				"hp": 1000,
+				"critChance": 0,
+				"armor": 200,
 				"resistance": 0,
 				"critDamage": 0,
 				"accuracy": 0,
@@ -302,12 +350,46 @@
 			}
 		]
 	},
-	"thor": {
+	"achilles": {
+		"form": [
+		]
+	},
+	"drake": {
 		"form": [
 			{
-				"name": "Prince Thor",
+				"name": "Ghost Captain Drake",
 				"atkPower": 0,
-				"hp": 1000,
+				"hp": 700,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0.2,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"vane": {
+		"form": [
+			{
+				"name": "Terrifying Keyboard Vane",
+				"atkPower": 0,
+				"hp": 600,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0.07
+			}
+		]
+	},
+	"cain": {
+		"form": [
+			{
+				"name": "Tyrant Cain",
+				"atkPower": 70,
+				"hp": 0,
 				"critChance": 0,
 				"armor": 200,
 				"resistance": 0,
@@ -317,34 +399,168 @@
 			}
 		]
 	},
-	"demona": {
+	"stanya": {
 		"form": [
 			{
-				"name": "Hell Princess Demona",
+				"name": "Homerun King Stanya",
 				"atkPower": 0,
 				"hp": 0,
-				"critChance": 0.05,
-				"armor": 0,
-				"resistance": 0,
-				"critDamage": 0.23,
-				"accuracy": 0,
-				"evasion": 0
-			}
-		]
-	},
-	"lee": {
-		"form": [
-			{
-				"name": "Flower of the Court Lee",
-				"atkPower": 150,
-				"hp": 0,
-				"critChance": 0.05,
+				"critChance": 0,
 				"armor": 0,
 				"resistance": 0,
 				"critDamage": 0,
 				"accuracy": 0,
 				"evasion": 0
 			}
+		]
+	},
+	"mundeok": {
+		"form": [
+			{
+				"name": "Foreign Knight Mundeok",
+				"atkPower": 90,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 100,
+				"resistance": 0,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"v": {
+		"form": [
+		]
+	},
+	"hector": {
+		"form": [
+			{
+				"name": "Guest of Honor Hector",
+				"atkPower": 0,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 100,
+				"resistance": 0,
+				"critDamage": 0,
+				"accuracy": 0.05,
+				"evasion": 0
+			}
+		]
+	},
+	"athena": {
+		"form": [
+			{
+				"name": "Madame Athena",
+				"atkPower": 0,
+				"hp": 500,
+				"critChance": 0,
+				"armor": 100,
+				"resistance": 0,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"siegfried": {
+		"form": [
+		]
+	},
+	"dullahan": {
+		"form": [
+		]
+	},
+	"captain": {
+		"form": [
+		]
+	},
+	"wolfgang": {
+		"form": [
+		]
+	},
+	"gon": {
+		"form": [
+		]
+	},
+	"hanzo": {
+		"form": [
+			{
+				"name": "Lonely Base Hanzo",
+				"atkPower": 100,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 200,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"robinhood": {
+		"form": [
+		]
+	},
+	"r-0": {
+		"form": [
+			{
+				"name": "Spring Bride R-0",
+				"atkPower": 150,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0,
+				"accuracy": 0.03,
+				"evasion": 0
+			}
+		]
+	},
+	"giparang": {
+		"form": [
+		]
+	},
+	"hikari": {
+		"form": [
+			{
+				"name": "Private Archer Club Hikari",
+				"atkPower": 100,
+				"hp": 0,
+				"critChance": 0.07,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"niven": {
+		"form": [
+		]
+	},
+	"arona": {
+		"form": [
+			{
+				"name": "World Star Arona",
+				"atkPower": 50,
+				"hp": 900,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"magnus": {
+		"form": [
+		]
+	},
+	"atalante": {
+		"form": [
 		]
 	},
 	"mamba": {
@@ -373,73 +589,13 @@
 			}
 		]
 	},
-	"hanzo": {
+	"lee": {
 		"form": [
 			{
-				"name": "Lonely Base Hanzo",
-				"atkPower": 100,
-				"hp": 0,
-				"critChance": 0,
-				"armor": 0,
-				"resistance": 200,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0
-			}
-		]
-	},
-	"arona": {
-		"form": [
-			{
-				"name": "World Star Arona",
-				"atkPower": 50,
-				"hp": 900,
-				"critChance": 0,
-				"armor": 0,
-				"resistance": 0,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0
-			}
-		]
-	},
-	"sigruna": {
-		"form": [
-			{
-				"name": "Fairy Sigruna",
-				"atkPower": 80,
-				"hp": 0,
-				"critChance": 0,
-				"armor": 0,
-				"resistance": 0,
-				"critDamage": 0,
-				"accuracy": 0.06,
-				"evasion": 0
-			}
-		]
-	},
-	"r-0": {
-		"form": [
-			{
-				"name": "Spring Bride R-0",
+				"name": "Flower of the Court Lee",
 				"atkPower": 150,
 				"hp": 0,
-				"critChance": 0,
-				"armor": 0,
-				"resistance": 0,
-				"critDamage": 0,
-				"accuracy": 0.03,
-				"evasion": 0
-			}
-		]
-	},
-	"hikari": {
-		"form": [
-			{
-				"name": "Private Archer Club Hikari",
-				"atkPower": 100,
-				"hp": 0,
-				"critChance": 0.07,
+				"critChance": 0.05,
 				"armor": 0,
 				"resistance": 0,
 				"critDamage": 0,
@@ -448,64 +604,16 @@
 			}
 		]
 	},
-	"spiny": {
+	"rahima": {
 		"form": [
-			{
-				"name": "Farmer Girl Spiny",
-				"atkPower": 0,
-				"hp": 0,
-				"critChance": 0,
-				"armor": 0,
-				"resistance": 0,
-				"critDamage": 0.3,
-				"accuracy": 0.05,
-				"evasion": 0
-			}
 		]
 	},
-	"dox": {
+	"viola": {
 		"form": [
-			{
-				"name": "Puppy Dox",
-				"atkPower": 70,
-				"hp": 0,
-				"critChance": 0,
-				"armor": 0,
-				"resistance": 0,
-				"critDamage": 0,
-				"accuracy": 0.1,
-				"evasion": 0
-			}
 		]
 	},
-	"viper": {
+	"kaguya": {
 		"form": [
-			{
-				"name": "Guerilla Viper",
-				"atkPower": 100,
-				"hp": 0,
-				"critChance": 0,
-				"armor": 0,
-				"resistance": 0,
-				"critDamage": 0.3,
-				"accuracy": 0,
-				"evasion": 0
-			}
-		]
-	},
-	"teresa": {
-		"form": [
-			{
-				"name": "Sailor Teresa",
-				"atkPower": 0,
-				"hp": 0,
-				"critChance": 0.1,
-				"armor": 0,
-				"resistance": 0,
-				"critDamage": 0.2,
-				"accuracy": 0,
-				"evasion": 0
-			}
 		]
 	},
 	"maxi": {
@@ -538,34 +646,27 @@
 			}
 		]
 	},
-	"d'artagnan": {
+	"viper": {
 		"form": [
 			{
-				"name": "Captain D'Artagnan",
-				"atkPower": 0,
+				"name": "Guerilla Viper",
+				"atkPower": 100,
 				"hp": 0,
-				"critChance": 0.05,
+				"critChance": 0,
 				"armor": 0,
 				"resistance": 0,
-				"critDamage": 0.2,
+				"critDamage": 0.3,
 				"accuracy": 0,
 				"evasion": 0
 			}
 		]
 	},
-	"mandy": {
+	"crow": {
 		"form": [
-			{
-				"name": "Lollipop Mandy",
-				"atkPower": 0,
-				"hp": 800,
-				"critChance": 0.05,
-				"armor": 0,
-				"resistance": 0,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0
-			}
+		]
+	},
+	"vincent": {
+		"form": [
 		]
 	},
 	"no.9": {
@@ -583,46 +684,127 @@
 			}
 		]
 	},
-	"demeter": {
+	"sentinel": {
+		"form": [
+		]
+	},
+	"mandy": {
 		"form": [
 			{
-				"name": "Noble Lady Demeter",
+				"name": "Lollipop Mandy",
 				"atkPower": 0,
-				"hp": 200,
-				"critChance": 0,
+				"hp": 800,
+				"critChance": 0.05,
 				"armor": 0,
 				"resistance": 0,
-				"critDamage": 0.15,
+				"critDamage": 0,
 				"accuracy": 0,
 				"evasion": 0
 			}
 		]
 	},
-	"nazrune": {
+	"wilhelm": {
+		"form": [
+		]
+	},
+	"saiga": {
+		"form": [
+		]
+	},
+	"tia": {
+		"form": [
+		]
+	},
+	"spiny": {
 		"form": [
 			{
-				"name": "Ancient Sorceror Nazrune",
-				"atkPower": 100,
+				"name": "Farmer Girl Spiny",
+				"atkPower": 0,
 				"hp": 0,
 				"critChance": 0,
 				"armor": 0,
 				"resistance": 0,
 				"critDamage": 0.3,
+				"accuracy": 0.05,
+				"evasion": 0
+			}
+		]
+	},
+	"dox": {
+		"form": [
+			{
+				"name": "Puppy Dox",
+				"atkPower": 70,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0,
+				"accuracy": 0.1,
+				"evasion": 0
+			}
+		]
+	},
+	"lorelei": {
+		"form": [
+		]
+	},
+	"scarlet": {
+		"form": [
+		]
+	},
+	"ag01-neo": {
+		"form": [
+		]
+	},
+	"ag02-layla": {
+		"form": [
+		]
+	},
+	"ag03-mel": {
+		"form": [
+		]
+	},
+	"archon": {
+		"form": [
+			{
+				"name": "Teacher Archon",
+				"atkPower": 200,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0,
 				"accuracy": 0,
 				"evasion": 0
 			}
 		]
 	},
-	"dorothy": {
+	"korin": {
 		"form": [
 			{
-				"name": "Dorothy the White Witch",
-				"atkPower": 100,
-				"hp": 0,
-				"critChance": 0.15,
+				"name": "Flower Korin",
+				"atkPower": 80,
+				"hp": 500,
+				"critChance": 0,
 				"armor": 0,
 				"resistance": 0,
 				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"sasquatch": {
+		"form": [
+			{
+				"name": "Sasquatch of the South",
+				"atkPower": 1000,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0.2,
 				"accuracy": 0,
 				"evasion": 0
 			}
@@ -684,184 +866,66 @@
 			}
 		]
 	},
-	"korin": {
+	"nazrune": {
 		"form": [
 			{
-				"name": "Flower Korin",
-				"atkPower": 80,
-				"hp": 500,
-				"critChance": 0,
-				"armor": 0,
-				"resistance": 0,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0
-			}
-		]
-	},
-	"sasquatch": {
-		"form": [
-			{
-				"name": "Sasquatch of the South",
-				"atkPower": 1000,
+				"name": "Ancient Sorceror Nazrune",
+				"atkPower": 100,
 				"hp": 0,
 				"critChance": 0,
 				"armor": 0,
 				"resistance": 0,
-				"critDamage": 0.2,
+				"critDamage": 0.3,
 				"accuracy": 0,
 				"evasion": 0
 			}
 		]
 	},
-	"archon": {
+	"mondrian": {
 		"form": [
-			{
-				"name": "Teacher Archon",
-				"atkPower": 200,
-				"hp": 0,
-				"critChance": 0,
-				"armor": 0,
-				"resistance": 0,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0
-			}
 		]
 	},
-	"orfeo": {
+	"necron": {
 		"form": [
-			{
-				"name": "Maestro Orfeo",
-				"atkPower": 80,
-				"hp": 700,
-				"critChance": 0,
-				"armor": 0,
-				"resistance": 0,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0
-			}
 		]
 	},
-	"nurspy": {
+	"demeter": {
 		"form": [
 			{
-				"name": "Eastern Assassin Nurspy",
-				"atkPower": 70,
-				"hp": 0,
-				"critChance": 0.1,
-				"armor": 0,
-				"resistance": 0,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0
-			}
-		]
-	},
-	"himiko": {
-		"form": [
-			{
-				"name": "Exorcist Himiko",
+				"name": "Noble Lady Demeter",
 				"atkPower": 0,
-				"hp": 0,
-				"critChance": 0,
-				"armor": 150,
-				"resistance": 150,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0
-			}
-		]
-	},
-	"nightingale": {
-		"form": [
-			{
-				"name": "Divine Choir Nightingale",
-				"atkPower": 0,
-				"hp": 0,
-				"critChance": 0,
-				"armor": 0,
-				"resistance": 150,
-				"critDamage": 150,
-				"accuracy": 0,
-				"evasion": 0
-			}
-		]
-	},
-	"maria": {
-		"form": [
-			{
-				"name": "Summer Vacation Maria",
-				"atkPower": 0,
-				"hp": 0,
-				"critChance": 0,
-				"armor": 150,
-				"resistance": 150,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0
-			}
-		]
-	},
-	"woopa": {
-		"form": [
-			{
-				"name": "Howling Guitar Woopa",
-				"atkPower": 0,
-				"hp": 800,
-				"critChance": 0,
-				"armor": 0,
-				"resistance": 200,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0
-			}
-		]
-	},
-	"chai": {
-		"form": [
-			{
-				"name": "KP Chai",
-				"atkPower": 200,
-				"hp": 0,
+				"hp": 200,
 				"critChance": 0,
 				"armor": 0,
 				"resistance": 0,
-				"critDamage": 0,
+				"critDamage": 0.15,
 				"accuracy": 0,
 				"evasion": 0
 			}
 		]
 	},
-	"dara": {
+	"uriel": {
 		"form": [
-			{
-				"name": "Dara of Lotus",
-				"atkPower": 0,
-				"hp": 0,
-				"critChance": 0,
-				"armor": 150,
-				"resistance": 150,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0
-			}
 		]
 	},
-	"yeowoodong": {
+	"benjamin": {
 		"form": [
-			{
-				"name": "Moonlit Yeowoodong",
-				"atkPower": 200,
-				"hp": 0,
-				"critChance": 0,
-				"armor": 0,
-				"resistance": 0,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0
-			}
+		]
+	},
+	"lupeow": {
+		"form": [
+		]
+	},
+	"vesper": {
+		"form": [
+		]
+	},
+	"violet": {
+		"form": [
+		]
+	},
+	"yichui": {
+		"form": [
 		]
 	},
 	"mew": {
@@ -899,6 +963,154 @@
 				"accuracy": 0,
 				"evasion": 0
 			}
+		]
+	},
+	"nightingale": {
+		"form": [
+			{
+				"name": "Divine Choir Nightingale",
+				"atkPower": 0,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 150,
+				"critDamage": 150,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"yeowoodong": {
+		"form": [
+			{
+				"name": "Moonlit Yeowoodong",
+				"atkPower": 200,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"nurspy": {
+		"form": [
+			{
+				"name": "Eastern Assassin Nurspy",
+				"atkPower": 70,
+				"hp": 0,
+				"critChance": 0.1,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"woopa": {
+		"form": [
+			{
+				"name": "Howling Guitar Woopa",
+				"atkPower": 0,
+				"hp": 800,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 200,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"himiko": {
+		"form": [
+			{
+				"name": "Exorcist Himiko",
+				"atkPower": 0,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 150,
+				"resistance": 150,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"stein": {
+		"form": [
+		]
+	},
+	"chai": {
+		"form": [
+			{
+				"name": "KP Chai",
+				"atkPower": 200,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"dara": {
+		"form": [
+			{
+				"name": "Dara of Lotus",
+				"atkPower": 0,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 150,
+				"resistance": 150,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"beatrice": {
+		"form": [
+		]
+	},
+	"orfeo": {
+		"form": [
+			{
+				"name": "Maestro Orfeo",
+				"atkPower": 80,
+				"hp": 700,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			}
+		]
+	},
+	"aria": {
+		"form": [
+		]
+	},
+	"yuria": {
+		"form": [
+		]
+	},
+	"faust": {
+		"form": [
+		]
+	},
+	"seiren": {
+		"form": [
+		]
+	},
+	"noel": {
+		"form": [
 		]
 	}
 }

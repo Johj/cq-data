@@ -1485,25 +1485,25 @@
 		]
 	},
 	"melissa": {
-		"faction": "",
+		"faction": "Melissa",
 		"type": "Legendary",
-		"class": "",
-		"skillName": "",
-		"skillDescription": "",
+		"class": "Priest",
+		"skillName": "Cursed Blessing",
+		"skillDescription": "Heals (1/1/all) ally/allies equal for (100/230/250)% of the Hero's attack power based on the chain length, and curses the enemy wth the lowest HP for 5 seconds.",
 		"form": [
 			{
-				"name": "",
+				"name": "Melissa",
 				"star": 1,
 				"level": 10,
-				"atkPower": [],
-				"hp": [],
-				"critChance": [],
-				"armor": [],
-				"resistance": [],
+				"atkPower": [36.3],
+				"hp": [370],
+				"critChance": [0.115],
+				"armor": [51.7],
+				"resistance": [51.7],
 				"critDamage": [0.5],
 				"accuracy": [0],
 				"evasion": [0],
-				"background": "",
+				"background": "A sister of the Order of the Goddesses. After rescuing a mysterious black spirit, she now sees a black aura. Her parents were worried about her so they sent her to the abbey.",
 				"skill": {
 						"level": 1,
 						"passive": ""
@@ -1513,18 +1513,18 @@
 				]
 			},
 			{
-				"name": "",
+				"name": "Crusader Melissa",
 				"star": 2,
 				"level": 20,
-				"atkPower": [, ],
-				"hp": [, ],
-				"critChance": [, ],
-				"armor": [, ],
-				"resistance": [, ],
+				"atkPower": [80.3, 88.3],
+				"hp": [558.2, 614],
+				"critChance": [0.115, 0.115],
+				"armor": [82.2, 90.4],
+				"resistance": [82.2, 90.4],
 				"critDamage": [0.5, 0.5],
 				"accuracy": [0, 0],
 				"evasion": [0, 0],
-				"background": "",
+				"background": "With sober judgment and daring determination, Melissa was closer to a soldier than a sister. She became a segeant. Melissa was obsessed with hiding her secret from her abbey.",
 				"skill": {
 						"level": 1,
 						"passive": ""
@@ -1534,18 +1534,18 @@
 				]
 			},
 			{
-				"name": "",
+				"name": "Melissa of the Wilderness",
 				"star": 3,
 				"level": 30,
-				"atkPower": [, , ],
-				"hp": [, , ],
-				"critChance": [, , ],
-				"armor": [, , ],
-				"resistance": [, , ],
+				"atkPower": [171.7, 188.9, 206.1],
+				"hp": [937.5, 1031.2, 1125],
+				"critChance": [0.115, 0.115, 0.115],
+				"armor": [117.2, 128.9, 140.7],
+				"resistance": [117.2, 128.9, 140.7],
 				"critDamage": [0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0],
 				"evasion": [0, 0, 0],
-				"background": "",
+				"background": "Melissa found a girl in danger in the wilderness and she rescued the girl with the power of the black spirit. Melissa brought the girl to her abbey and wondered about her hidden power.",
 				"skill": {
 						"level": 1,
 						"passive": ""

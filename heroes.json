@@ -475,7 +475,7 @@
 				]
 			},
 			{
-				"name": "",
+				"name": "Shining Roland",
 				"star": 4,
 				"level": 40,
 				"atkPower": [, , , ],
@@ -486,17 +486,17 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0, 0],
 				"evasion": [0, 0, 0, 0],
-				"background": "",
+				"background": "Roland's efforts did not go unnoticed, and he is offered a position with the Paladins of the Goddesses.",
 				"skill": {
 						"level": 2,
-						"passive": ""
+						"passive": "After the hero's skill block is used, the hero heals the entire party for 40% of the hero's attack power every time the hero is attacked by an enemy for the next 5 secs."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
 				]
 			},
 			{
-				"name": "",
+				"name": "Roland of Justice",
 				"star": 5,
 				"level": 50,
 				"atkPower": [, , , , ],
@@ -507,17 +507,17 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0, 0, 0],
 				"evasion": [0, 0, 0, 0, 0],
-				"background": "",
+				"background": "Roland dedicated his life as a paladin to defending Maria.",
 				"skill": {
 						"level": 2,
-						"passive": ""
+						"passive": "After the hero's skill block is used, the hero heals the entire party for 40% of the hero's attack power every time the hero is attacked by an enemy for the next 5 secs."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
 				]
 			},
 			{
-				"name": "",
+				"name": "Roland of Honor",
 				"star": 6,
 				"level": 60,
 				"atkPower": [, , , , , , ],
@@ -528,10 +528,10 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, ],
 				"accuracy": [0, 0, 0, 0, 0, 0, ],
 				"evasion": [0, 0, 0, 0, 0, 0, ],
-				"background": "",
+				"background": "Roland guarded Maria with all his might, and his skill and prowess were legendary throughout the world.",
 				"skill": {
 						"level": 3,
-						"passive": ""
+						"passive": "After a skill block is used, the hero heals the entire party for 60% of the hero's attack power every time the hero is attacked by an enemy for the next 5 secs (5 times max). After the 8th healing, the hero stuns all enemies for 2 secs and generates a block of his own (once every 3 secs)."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -610,7 +610,7 @@
 				]
 			},
 			{
-				"name": "",
+				"name": "Expert Archer Sigruna",
 				"star": 4,
 				"level": 40,
 				"atkPower": [, , , ],
@@ -621,17 +621,17 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0, 0],
 				"evasion": [0, 0, 0, 0],
-				"background": "",
+				"background": "Sigruna's efforts finally pay off. With her excellent archery skills, she joins the Elite Guard and is now an expert archer.",
 				"skill": {
 						"level": 2,
-						"passive": ""
+						"passive": "Using chain-3 skill activates 4 magic arrows that deal magic damage equal to 70% of the hero's attack power."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
 				]
 			},
 			{
-				"name": "",
+				"name": "God Archer Sigruna",
 				"star": 5,
 				"level": 50,
 				"atkPower": [, , , , ],
@@ -642,17 +642,17 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0, 0, 0],
 				"evasion": [0, 0, 0, 0, 0],
-				"background": "",
+				"background": "Sigruna continues to train, even after joining the Elite Guard. Her humble beginnings lead her to conserve everything, always making sure not to waste a single arrow. Elven tradition dictates that trees are sacred, so Sigruna's act of not wasting arrows made from trees has made her a role model for others. She is now known as the \"Archer God\".",
 				"skill": {
 						"level": 2,
-						"passive": ""
+						"passive": "Using chain-3 skill activates 4 magic arrows that deal magic damage equal to 70% of the hero's attack power."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
 				]
 			},
 			{
-				"name": "",
+				"name": "Demon Archer Sigruna",
 				"star": 6,
 				"level": 60,
 				"atkPower": [, , , , , , ],
@@ -663,10 +663,10 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, ],
 				"accuracy": [0, 0, 0, 0, 0, 0, ],
 				"evasion": [0, 0, 0, 0, 0, 0, ],
-				"background": "",
+				"background": "One day, demons had attacked the clan, and Sigruna shoots down countless numbers of them. She draws her bow as if she was born to hunt down the demons. Afterward, a Goddess appears asking her to use that power to save the world.",
 				"skill": {
 						"level": 3,
-						"passive": ""
+						"passive": "Using chain-3 skill activates 4 magic arrows that deal magic damage equal to 100% of the hero's attack power. These arrows have an additional 25% chance to crit."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -745,7 +745,7 @@
 				]
 			},
 			{
-				"name": "",
+				"name": "Demona of Revenge",
 				"star": 4,
 				"level": 40,
 				"atkPower": [, , , ],
@@ -756,17 +756,17 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0, 0],
 				"evasion": [0, 0, 0, 0],
-				"background": "",
+				"background": "After the war with the Apostles, the Goddesses started to hunt the Demons for their crimes. Demona summoned the Demons together and began a war against the Goddesses.",
 				"skill": {
 						"level": 2,
-						"passive": ""
+						"passive": "An enemy damaged by Thorns of Hell is lit on fire and receives neutral damage equal to 50% of the Hero's Attack Power. When this effect is stacked 4 times, the hero shoots a flame arrow that deals magic damage equal to 350% of the Hero's Attack Power. (Activates once every 3 seconds)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
 				]
 			},
 			{
-				"name": "",
+				"name": "Demona of Dawn",
 				"star": 5,
 				"level": 50,
 				"atkPower": [, , , , ],
@@ -777,17 +777,17 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0, 0, 0],
 				"evasion": [0, 0, 0, 0, 0],
-				"background": "",
+				"background": "Demona grew weary of the constant persecution of the demons, and decided to lead them to a new land. This marked the beginning of a new dawn for the demons.",
 				"skill": {
 						"level": 2,
-						"passive": ""
+						"passive": "An enemy damaged by Thorns of Hell is lit on fire and receives neutral damage equal to 50% of the Hero's Attack Power. When this effect is stacked 4 times, the hero shoots a flame arrow that deals magic damage equal to 350% of the Hero's Attack Power. (Activates once every 3 seconds)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
 				]
 			},
 			{
-				"name": "",
+				"name": "Demona of the Red Lotus",
 				"star": 6,
 				"level": 60,
 				"atkPower": [, , , , , , ],
@@ -798,10 +798,10 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, ],
 				"accuracy": [0, 0, 0, 0, 0, 0, ],
 				"evasion": [0, 0, 0, 0, 0, 0, ],
-				"background": "",
+				"background": "The demons that remained in Hasla were hunted down as the Order of the Goddesses grew, and Demona knew she had to return. She entered the Primal mountain and awakened the power of the Red Lotus.",
 				"skill": {
 						"level": 3,
-						"passive": ""
+						"passive": "An enemy damaged by Thorns of Hell is lit on fire and receives neutral damage equal to 50% of the Hero's Attack Power. When this effect is stacked 4 times, the hero shoots the ultimate flame arrow that deals 150% neutral damage and 350% magic damage. (Activates once every 3 seconds)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -880,7 +880,7 @@
 				]
 			},
 			{
-				"name": "",
+				"name": "D'Artagnan of Loyalty",
 				"star": 4,
 				"level": 40,
 				"atkPower": [, , , ],
@@ -891,17 +891,17 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0, 0],
 				"evasion": [0, 0, 0, 0],
-				"background": "",
+				"background": "During the war, the forces of the Neth Empire marched callously past even their own injured soldiers, but D'Artagnan remained to protect her own. Thus she became a symbol of compassion and justice.",
 				"skill": {
 						"level": 2,
-						"passive": ""
+						"passive": "Whenever this Hero is healed or uses a skill block, it has a 50% chance to immediately use a chain-3 Consecutive Fire. (Activates once every 3 seconds.)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
 				]
 			},
 			{
-				"name": "",
+				"name": "D'Artagnan of Faith",
 				"star": 5,
 				"level": 50,
 				"atkPower": [, , , , ],
@@ -912,17 +912,17 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0, 0, 0],
 				"evasion": [0, 0, 0, 0, 0],
-				"background": "",
+				"background": "Having survived many battles without losing faith, she has become a symbol of faith to the people. her popularity is widespread throughout the land.",
 				"skill": {
 						"level": 2,
-						"passive": ""
+						"passive": "Whenever this Hero is healed or uses a skill block, it has a 50% chance to immediately use a chain-3 Consecutive Fire. (Activates once every 3 seconds.)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
 				]
 			},
 			{
-				"name": "",
+				"name": "D'Artagnan of Iron Will",
 				"star": 6,
 				"level": 60,
 				"atkPower": [, , , , , , ],
@@ -933,10 +933,10 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, ],
 				"accuracy": [0, 0, 0, 0, 0, 0, ],
 				"evasion": [0, 0, 0, 0, 0, 0, ],
-				"background": "",
+				"background": "She never gives up and her tenacity is legendary. She is the envy of every man in the Western Country.",
 				"skill": {
 						"level": 3,
-						"passive": ""
+						"passive": "Whenever this Hero is healed or uses a skill block, it has a 75% chance to immediately use a chain-3 Consecutive Fire. (Activates once every 3 seconds.)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1015,7 +1015,7 @@
 				]
 			},
 			{
-				"name": "",
+				"name": "Redeemed Teresa",
 				"star": 4,
 				"level": 40,
 				"atkPower": [, , , ],
@@ -1026,17 +1026,17 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0, 0],
 				"evasion": [0, 0, 0, 0],
-				"background": "",
+				"background": "Teresa met Melissa, who was on a mission in the wilderness. After listening to Teresa's story, Melissa took Teresa to the Order of the Goddesses.",
 				"skill": {
 						"level": 2,
-						"passive": ""
+						"passive": "Enemies with the Mark of Light loses 3 SP everytime it tries to attack. If the enemy's SP is below 30, the hero immediately deals magic damage equal to 200% of the Hero's attack power. (Activates once every 3 seconds)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
 				]
 			},
 			{
-				"name": "",
+				"name": "Calvary Teresa",
 				"star": 5,
 				"level": 50,
 				"atkPower": [, , , , ],
@@ -1047,17 +1047,17 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0, 0, 0],
 				"evasion": [0, 0, 0, 0, 0],
-				"background": "",
+				"background": "Teresa joined the calvary at Melissa's recommendation. With outstanding skills and strong obedience, Teresa soon became a true soldier. One day, she heard a rumor that Melissa was murdered by a demon.",
 				"skill": {
 						"level": 2,
-						"passive": ""
+						"passive": "Enemies with the Mark of Light loses 3 SP everytime it tries to attack. If the enemy's SP is below 30, the hero immediately deals magic damage equal to 200% of the Hero's attack power. (Activates once every 3 seconds)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
 				]
 			},
 			{
-				"name": "",
+				"name": "Night Witch Teresa",
 				"star": 6,
 				"level": 60,
 				"atkPower": [, , , , , , ],
@@ -1068,10 +1068,10 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, ],
 				"accuracy": [0, 0, 0, 0, 0, 0, ],
 				"evasion": [0, 0, 0, 0, 0, 0, ],
-				"background": "",
+				"background": "Teresa was ordered to abandon her search for Melissa's killer, but she refused and left the Order to join the 'Night Witches.'",
 				"skill": {
 						"level": 3,
-						"passive": ""
+						"passive": "Enemies with the Mark of Light loses 3 SP everytime it tries to attack. If the enemy's SP is below 30, the hero immediately deals magic damage equal to 350% of the Hero's attack power. (Activates once every 3 seconds)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1150,7 +1150,7 @@
 				]
 			},
 			{
-				"name": "",
+				"name": "Purple Light Witch Dorothy",
 				"star": 4,
 				"level": 40,
 				"atkPower": [, , , ],
@@ -1161,17 +1161,17 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0, 0],
 				"evasion": [0, 0, 0, 0],
-				"background": "",
+				"background": "Dorothy's passion for magic continues. She finally makes a resolution to become an apprentice of the 4 great witches and master the forbidden dark magic.",
 				"skill": {
 						"level": 2,
-						"passive": ""
+						"passive": "When a chain-3 skill is activated within 1.5 seconds after a chain-1 skill is activated, an extra beam is fired that deals magic damage equal to 310% of the hero's attack power."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
 				]
 			},
 			{
-				"name": "",
+				"name": "Red Witch Dorothy",
 				"star": 5,
 				"level": 50,
 				"atkPower": [, , , , ],
@@ -1182,17 +1182,17 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0, 0, 0],
 				"evasion": [0, 0, 0, 0, 0],
-				"background": "",
+				"background": "Dorothy becomes an apprentice of the four great witches. She travels north, east, south, and west, training very hard.",
 				"skill": {
 						"level": 2,
-						"passive": ""
+						"passive": "When a chain-3 skill is activated within 1.5 seconds after a chain-1 skill is activated, an extra beam is fired that deals magic damage equal to 310% of the hero's attack power."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
 				]
 			},
 			{
-				"name": "",
+				"name": "Black Witch Dorothy",
 				"star": 6,
 				"level": 60,
 				"atkPower": [, , , , , , ],
@@ -1203,10 +1203,10 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, ],
 				"accuracy": [0, 0, 0, 0, 0, 0, ],
 				"evasion": [0, 0, 0, 0, 0, 0, ],
-				"background": "",
+				"background": "Dorothy learns the spells of the four great witches, as well as the forbidden dark magic. Because dark magic is forbidden, Dorothy is expelled by the witches and is called the Black Witch. But she still intends on gaining more magical knowledge, so the Goddess gives her a mission to rightly use her power.",
 				"skill": {
 						"level": 3,
-						"passive": ""
+						"passive": "When a chain-3 skill is activated within 1.5 seconds after a chain-1 skill is activated, an extra beam is fired that deals magic damage equal to 310% of the hero's attack power. The extra beam eliminates all buffs from the enemy."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1285,7 +1285,7 @@
 				]
 			},
 			{
-				"name": "",
+				"name": "Transformed Cano",
 				"star": 4,
 				"level": 40,
 				"atkPower": [, , , ],
@@ -1296,17 +1296,17 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0, 0],
 				"evasion": [0, 0, 0, 0],
-				"background": "",
+				"background": "Cano became famous as a beautiful genius wizard. One day, a producer from popstar entertainment offered her a chance to be a popstar. Cano became a popstar spreading hope and happiness to people.",
 				"skill": {
 						"level": 2,
-						"passive": ""
+						"passive": "Every time an ally uses a skill block 4 times, the Hero shoots a Love Beam at the charmed enemies dealing magical damage equal to 200% of the hero's attack power."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
 				]
 			},
 			{
-				"name": "",
+				"name": "Popstar Cano",
 				"star": 5,
 				"level": 50,
 				"atkPower": [, , , , ],
@@ -1317,17 +1317,17 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0, 0, 0],
 				"evasion": [0, 0, 0, 0, 0],
-				"background": "",
+				"background": "Cano became a famous popstar. She studied hard and learned a new spell which can convert the love and hope of her fans into her own power.",
 				"skill": {
 						"level": 2,
-						"passive": ""
+						"passive": "Every time an ally uses a skill block 4 times, the Hero shoots a Love Beam at the charmed enemies dealing magical damage equal to 200% of the hero's attack power."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
 				]
 			},
 			{
-				"name": "",
+				"name": "Magical Girl Cano",
 				"star": 6,
 				"level": 60,
 				"atkPower": [, , , , , , ],
@@ -1338,10 +1338,10 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, ],
 				"accuracy": [0, 0, 0, 0, 0, 0, ],
 				"evasion": [0, 0, 0, 0, 0, 0, ],
-				"background": "",
+				"background": "Cano became the mascot of 'The Night Witches'. She received a mission to slay Demona. Reminded of her vocation, she started her new journey.",
 				"skill": {
 						"level": 3,
-						"passive": ""
+						"passive": "Every time an ally uses a skill block 4 times, the Hero shoots a Love Beam at the charmed enemies dealing magical damage equal to 200% of the hero's attack power. Charmed enemies hit by Love Beam have a 40% chance of missing their next attack."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1420,7 +1420,7 @@
 				]
 			},
 			{
-				"name": "",
+				"name": "Saintess Maria",
 				"star": 4,
 				"level": 40,
 				"atkPower": [, , , ],
@@ -1431,17 +1431,17 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0, 0],
 				"evasion": [0, 0, 0, 0],
-				"background": "",
+				"background": "There are only three saintesses in the world. Unlike ordinary people, a saintess has unequalled holy power and is considered to be a guardian that protects people from evil. But now, the world has its fourth saintess.",
 				"skill": {
 						"level": 2,
-						"passive": ""
+						"passive": "Allies healed by Sacred Treasure of the Goddess become immune to debuffs for 0.5 seconds. When a block is used after an ally's chain-3 skill, the ally will immediately lose all debuffs."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
 				]
 			},
 			{
-				"name": "",
+				"name": "Saintess of Salvation Maria",
 				"star": 5,
 				"level": 50,
 				"atkPower": [, , , , ],
@@ -1452,17 +1452,17 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0, 0, 0],
 				"evasion": [0, 0, 0, 0, 0],
-				"background": "",
+				"background": "Devils began to appear all over the world. The people of the empire were in utter chaos, looking for the light that would bring them salvation. Maria, after hearing their prayers, was more than willing to use her power.",
 				"skill": {
 						"level": 2,
-						"passive": ""
+						"passive": "Allies healed by Sacred Treasure of the Goddess become immune to debuffs for 0.5 seconds. When a block is used after an ally's chain-3 skill, the ally will immediately lose all debuffs."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
 				]
 			},
 			{
-				"name": "",
+				"name": "Savior Saintess Maria",
 				"star": 6,
 				"level": 60,
 				"atkPower": [, , , , , , ],
@@ -1473,10 +1473,10 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, ],
 				"accuracy": [0, 0, 0, 0, 0, 0, ],
 				"evasion": [0, 0, 0, 0, 0, 0, ],
-				"background": "",
+				"background": "The humans are devastated by the endless battles against the demons. However, Maria never surrenders to the demons and never loses faith in the power of light she possesses. This faith reaches the Goddess, and Maria is blessed by the Goddess' divine grace",
 				"skill": {
 						"level": 3,
-						"passive": ""
+						"passive": "Allies healed by Sacred Treasure of the Goddess become immune to debuffs for 0.5 seconds. When a block is used after an ally's chain-3 skill, the block will act identically to the previous chain-3 skill and the ally will immediately lose all debuffs. (Activates once every 2 seconds)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1555,7 +1555,7 @@
 				]
 			},
 			{
-				"name": "",
+				"name": "Melissa of Truth",
 				"star": 4,
 				"level": 40,
 				"atkPower": [, , , ],
@@ -1566,17 +1566,17 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0, 0],
 				"evasion": [0, 0, 0, 0],
-				"background": "",
+				"background": "Melissa met Demona, the very first Demon. Demona told Melissa everything about her power, the demons and the Order of the Goddesses. Melissa's heart was shaken to the very core.",
 				"skill": {
 						"level": 2,
-						"passive": ""
+						"passive": "Cursed enemy receives 50% of all heals that may be given to them. When a healed ally attacks the cursed enemy, it deals 300% magic damage."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
 				]
 			},
 			{
-				"name": "",
+				"name": "Wandering Melissa",
 				"star": 5,
 				"level": 50,
 				"atkPower": [, , , , ],
@@ -1587,17 +1587,17 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0, 0, 0],
 				"evasion": [0, 0, 0, 0, 0],
-				"background": "",
+				"background": "Melissa investigated the secrets of the Order of the Goddesses on her own and discovered the truth about the Order. She left the abbey to find her own path.",
 				"skill": {
 						"level": 2,
-						"passive": ""
+						"passive": "Cursed enemy receives 50% of all heals that may be given to them. When a healed ally attacks the cursed enemy, it deals 300% magic damage."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
 				]
 			},
 			{
-				"name": "",
+				"name": "Black Sister Melissa",
 				"star": 6,
 				"level": 60,
 				"atkPower": [, , , , , , ],
@@ -1608,10 +1608,10 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, ],
 				"accuracy": [0, 0, 0, 0, 0, 0, ],
 				"evasion": [0, 0, 0, 0, 0, 0, ],
-				"background": "",
+				"background": "Melissa established the Black Order with Demona. Melissa became the Black Sister and sought to put an end to the Order of the Goddesses and their hidden agenda.",
 				"skill": {
 						"level": 3,
-						"passive": ""
+						"passive": "Cursed enemies cannot be healed. When a healed ally attacks the cursed enemy, it deals 300% magic damage, and the party will be healed for 10% of the damage."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"

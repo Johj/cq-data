@@ -1696,6 +1696,84 @@
 			}
 		]
 	},
+	"mew": {
+		"faction": "Unknown",
+		"type": "Promote",
+		"class": "Priest",
+		"skillName": "Whisper of Light",
+		"skillDescription": "With the power of light, an ally is healed by 200% of the hero's attack power plus an additional (7/12/25)% based on the chain number.",
+		"form": [
+			{
+				"name": "Mew",
+				"star": 4,
+				"level": 40,
+				"atkPower": [179.1, 197, 214.9, 232.8],
+				"hp": [2053.5, 2258.8, 2464.2, 2669.5],
+				"critChance": [0.1, 0.1, 0.1, 0.1],
+				"armor": [136.5, 150.2, 163.8, 177.5],
+				"resistance": [136.5, 150.2, 163.8, 177.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A cat lover that loves cats so much that she wears cat ears. By becoming a veterinarian, she can touch a countless numbers of cats, which is the main reason why she started studying medicine.",
+				"skill": {
+						"level": 2,
+						"passive": "When an ally uses a chain-3 skill, one block is added to the queue (triggered once every 1.5 secs)."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Cat Mew",
+				"star": 5,
+				"level": 50,
+				"atkPower": [317.5, 349.3, 381, 412.8, 444.6],
+				"hp": [3194.8, 3514.3, 3833.8, 4153.3, 4472.8],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+				"armor": [162.7, 179, 195.2, 211.5, 227.8],
+				"resistance": [162.7, 179, 195.2, 211.5, 227.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "One day Mew woke up and found herself to be part cat. An ordinary human would have been in a state of panic, but Mew was truly happy.",
+				"skill": {
+						"level": 2,
+						"passive": "When an ally uses a chain-3 skill, one block is added to the queue (triggered once every 1.5 secs)."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Cat Master Mew",
+				"star": 6,
+				"level": 60,
+				"atkPower": [481.9, 530.1, 578.3, 626.5, 674.7, 722.9, 860.9],
+				"hp": [4720.3, 5192.4, 5664.4, 6136.4, 6608.5, 7080.5, 9148.5],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.217],
+				"armor": [188.4, 207.3, 226.1, 245, 263.8, 282.6, 464.6],
+				"resistance": [188.4, 207.3, 226.1, 245, 263.8, 282.6, 464.6],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.05],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.15],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.15],
+				"background": "Now that Mew has become part cat she can understand cats, Mew goes around tempting cats with fresh fish.",
+				"skill": {
+						"level": 3,
+						"passive": "When an ally uses a chain-3 skill, one block is added to the queue and the Hero recovers 10 SP (triggered once every 1.5 secs)."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			}
+		]
+	},
 	"bravedog": {
 		"faction": "",
 		"type": "Normal",

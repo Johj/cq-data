@@ -1,3 +1,2843 @@
 {
-	
+	"leon": {
+		"class": "Sword",
+		"form": [
+			{
+				"name": "Nameless Sword",
+				"star": 4,
+				"atkPower": 84,
+				"atkSpeed": 1,
+				"ability": "(Ultimate Holy Sword) Damage +50%, Armor penetration +50%"
+			},
+			{
+				"name": "Brave Sword",
+				"star": 5,
+				"atkPower": 137,
+				"atkSpeed": 1,
+				"ability": "(Ultimate Holy Sword) Damage +50%, Armor penetration +50%"
+			},
+			{
+				"name": "Nameless Sword",
+				"star": 6,
+				"atkPower": 210,
+				"atkSpeed": 1,
+				"ability": "(Ultimate Holy Sword) Damage +100%, Armor penetration +100%, Critical chance +25%, HP +10% for 5 seconds"
+			}
+		]
+	},
+	"rochefort": {
+		"class": "Sword",
+		"form": [
+			{
+				"name": "Rapier",
+				"star": 4,
+				"atkPower": 88,
+				"atkSpeed": 0.9,
+				"ability": "When counter attacking, casts a shield which absorbs damage amount equal to 100% of armor, critical hit chance increases by 20%"
+			},
+			{
+				"name": "Allegro",
+				"star": 5,
+				"atkPower": 144,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Allegro Asai",
+				"star": 6,
+				"atkPower": 221,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"kriemhild": {
+		"class": "Hammer",
+		"form": [
+			{
+				"name": "Balmung",
+				"star": 4,
+				"atkPower": 60,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Cursed Balmung",
+				"star": 5,
+				"atkPower": 98,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Balmung of Massacre",
+				"star": 6,
+				"atkPower": 149,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"roland": {
+		"class": "Hammer",
+		"form": [
+			{
+				"name": "Blessed Hammer",
+				"star": 4,
+				"atkPower": 52,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Sacred Conviction",
+				"star": 5,
+				"atkPower": 85,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Spreading Light",
+				"star": 6,
+				"atkPower": 129,
+				"atkSpeed": 1,
+				"ability": ""
+			}
+		]
+	},
+	"sigruna": {
+		"class": "Bow",
+		"form": [
+			{
+				"name": "Granar",
+				"star": 4,
+				"atkPower": 85,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Legendary Bow Granar",
+				"star": 5,
+				"atkPower": 140,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Demon Bow Granar",
+				"star": 6,
+				"atkPower": 214,
+				"atkSpeed": 1,
+				"ability": ""
+			}
+		]
+	},
+	"demona": {
+		"class": "Bow",
+		"form": [
+			{
+				"name": "Seed of Fire",
+				"star": 4,
+				"atkPower": 106,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Bloom of Fire",
+				"star": 5,
+				"atkPower": 173,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Inferno",
+				"star": 6,
+				"atkPower": 265,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"d'artagnan": {
+		"class": "Gun",
+		"form": [
+			{
+				"name": "Diffusion Long Gun",
+				"star": 4,
+				"atkPower": 94,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Multi-Barreled L.Gun",
+				"star": 5,
+				"atkPower": 156,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Peacemaker",
+				"star": 6,
+				"atkPower": 238,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"teresa": {
+		"class": "Gun",
+		"form": [
+			{
+				"name": "Chastener's Gun",
+				"star": 4,
+				"atkPower": 113,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Calvary's Gun",
+				"star": 5,
+				"atkPower": 187,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Glowing Darkness",
+				"star": 6,
+				"atkPower": 286,
+				"atkSpeed": 0.7,
+				"ability": ""
+			}
+		]
+	},
+	"dorothy": {
+		"class": "Staff",
+		"form": [
+			{
+				"name": "Moon Rise",
+				"star": 4,
+				"atkPower": 115,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Red Moon",
+				"star": 5,
+				"atkPower": 190,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Queen of the Moon",
+				"star": 6,
+				"atkPower": 290,
+				"atkSpeed": 1,
+				"ability": ""
+			}
+		]
+	},
+	"cano": {
+		"class": "Staff",
+		"form": [
+			{
+				"name": "Trainee's Microphone",
+				"star": 4,
+				"atkPower": 125,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Broadcasting Mircophone",
+				"star": 5,
+				"atkPower": 207,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Grand Finale",
+				"star": 6,
+				"atkPower": 317,
+				"atkSpeed": 0.7,
+				"ability": ""
+			}
+		]
+	},
+	"maria": {
+		"class": "Orb",
+		"form": [
+			{
+				"name": "The Cross of Salvation",
+				"star": 4,
+				"atkPower": 66,
+				"atkSpeed": 1.1,
+				"ability": ""
+			},
+			{
+				"name": "The Cross of Heaven",
+				"star": 5,
+				"atkPower": 108,
+				"atkSpeed": 1.1,
+				"ability": ""
+			},
+			{
+				"name": "Michaela",
+				"star": 6,
+				"atkPower": 164,
+				"atkSpeed": 1.1,
+				"ability": ""
+			}
+		]
+	},
+	"melissa": {
+		"class": "Orb",
+		"form": [
+			{
+				"name": "Mysterious Creature",
+				"star": 4,
+				"atkPower": 92,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Grown Creature",
+				"star": 5,
+				"atkPower": 150,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Asmo",
+				"star": 6,
+				"atkPower": 228,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"joan": {
+		"class": "Sword",
+		"form": [
+			{
+				"name": "Guillotine",
+				"star": 4,
+				"atkPower": 54,
+				"atkSpeed": 1.5,
+				"ability": ""
+			},
+			{
+				"name": "Steel Guillotine",
+				"star": 5,
+				"atkPower": 88,
+				"atkSpeed": 1.5,
+				"ability": ""
+			},
+			{
+				"name": "Guillotine of Faith",
+				"star": 6,
+				"atkPower": 135,
+				"atkSpeed": 1.5,
+				"ability": ""
+			}
+		]
+	},
+	"susanoo": {
+		"class": "Sword",
+		"form": [
+			{
+				"name": "Muramasa",
+				"star": 4,
+				"atkPower": 79,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Mysterious Muramasa",
+				"star": 5,
+				"atkPower": 129,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Demonic Muramasa",
+				"star": 6,
+				"atkPower": 198,
+				"atkSpeed": 1,
+				"ability": ""
+			}
+		]
+	},
+	"vivian": {
+		"class": "Sword",
+		"form": [
+			{
+				"name": "Balrog",
+				"star": 4,
+				"atkPower": 65,
+				"atkSpeed": 1.2,
+				"ability": ""
+			},
+			{
+				"name": "Dark Balrog",
+				"star": 5,
+				"atkPower": 105,
+				"atkSpeed": 1.2,
+				"ability": ""
+			},
+			{
+				"name": "Midnight Balrog",
+				"star": 6,
+				"atkPower": 162,
+				"atkSpeed": 1.2,
+				"ability": ""
+			}
+		]
+	},
+	"monte": {
+		"class": "Sword",
+		"form": [
+			{
+				"name": "Three-Section Staff",
+				"star": 4,
+				"atkPower": 93,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Electric Baton",
+				"star": 5,
+				"atkPower": 152,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Beam Blade",
+				"star": 6,
+				"atkPower": 234,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"kaori": {
+		"class": "Sword",
+		"form": [
+			{
+				"name": "Shinai",
+				"star": 4,
+				"atkPower": 86,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Advanced Shinai",
+				"star": 5,
+				"atkPower": 140,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "The Black Moon",
+				"star": 6,
+				"atkPower": 216,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"abel": {
+		"class": "Sword",
+		"form": [
+			{
+				"name": "Sword of the Successor",
+				"star": 4,
+				"atkPower": 82,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Heir of the Empire",
+				"star": 5,
+				"atkPower": 133,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Fallen Throne",
+				"star": 6,
+				"atkPower": 205,
+				"atkSpeed": 1,
+				"ability": ""
+			}
+		]
+	},
+	"uzimant": {
+		"class": "Sword",
+		"form": [
+			{
+				"name": "Large Bone",
+				"star": 4,
+				"atkPower": 90,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "King's Bone",
+				"star": 5,
+				"atkPower": 146,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "God's Bone",
+				"star": 6,
+				"atkPower": 225,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"b.sworden": {
+		"class": "Sword",
+		"form": [
+			{
+				"name": "Black Tiger Sword",
+				"star": 4,
+				"atkPower": 86,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Black Tiger Hidden Sword",
+				"star": 5,
+				"atkPower": 140,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Black Tiger Divine Sword",
+				"star": 6,
+				"atkPower": 216,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"isabel": {
+		"class": "Sword",
+		"form": [
+			{
+				"name": "Demon Blade",
+				"star": 4,
+				"atkPower": 83,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Demon Sword",
+				"star": 5,
+				"atkPower": 135,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Cyclops",
+				"star": 6,
+				"atkPower": 207,
+				"atkSpeed": 1,
+				"ability": ""
+			}
+		]
+	},
+	"koxinga": {
+		"class": "Sword",
+		"form": [
+			{
+				"name": "Sword of Seven Stars",
+				"star": 4,
+				"atkPower": 82,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Sword of Heaven",
+				"star": 5,
+				"atkPower": 140,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Sword of Heaven's Will",
+				"star": 6,
+				"atkPower": 210,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"victoria": {
+		"class": "Sword",
+		"form": [
+			{
+				"name": "Prayer of Victory",
+				"star": 4,
+				"atkPower": 80,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Dawn of War",
+				"star": 5,
+				"atkPower": 138,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Vow of the Battlefield",
+				"star": 6,
+				"atkPower": 208,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"lionel": {
+		"class": "Sword",
+		"form": [
+			{
+				"name": "Sword of Valencia",
+				"star": 4,
+				"atkPower": 80,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Sword of Ferdinando",
+				"star": 5,
+				"atkPower": 138,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Mark of Darkness",
+				"star": 6,
+				"atkPower": 208,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"arita": {
+		"class": "Sword",
+		"form": [
+			{
+				"name": "Thorny Sword",
+				"star": 4,
+				"atkPower": 80,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Briar Blade",
+				"star": 5,
+				"atkPower": 138,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Pale Rose",
+				"star": 6,
+				"atkPower": 208,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"sien": {
+		"class": "Sword",
+		"form": [
+		]
+	},
+	"borgos": {
+		"class": "Sword",
+		"form": [
+		]
+	},
+	"bihyeongrang": {
+		"class": "Sword",
+		"form": [
+		]
+	},
+	"thor": {
+		"class": "Hammer",
+		"form": [
+			{
+				"name": "Titan Hammer",
+				"star": 4,
+				"atkPower": 47,
+				"atkSpeed": 1.1,
+				"ability": ""
+			},
+			{
+				"name": "Mithril Hammer",
+				"star": 5,
+				"atkPower": 77,
+				"atkSpeed": 1.1,
+				"ability": ""
+			},
+			{
+				"name": "Mjolnir",
+				"star": 6,
+				"atkPower": 116,
+				"atkSpeed": 1.1,
+				"ability": ""
+			}
+		]
+	},
+	"alexander": {
+		"class": "Hammer",
+		"form": [
+			{
+				"name": "Token of the King",
+				"star": 4,
+				"atkPower": 52,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Token of the Emperor",
+				"star": 5,
+				"atkPower": 85,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Locus of Power",
+				"star": 6,
+				"atkPower": 129,
+				"atkSpeed": 1,
+				"ability": ""
+			}
+		]
+	},
+	"achilles": {
+		"class": "Hammer",
+		"form": [
+			{
+				"name": "Pendulum of Destruction",
+				"star": 4,
+				"atkPower": 56,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Pendulum of Siege",
+				"star": 5,
+				"atkPower": 91,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Thanatos",
+				"star": 6,
+				"atkPower": 138,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"drake": {
+		"class": "Hammer",
+		"form": [
+			{
+				"name": "Wooden Oar",
+				"star": 4,
+				"atkPower": 61,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Oar of the Sacred Tree",
+				"star": 5,
+				"atkPower": 100,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Oar of Yggdrasil",
+				"star": 6,
+				"atkPower": 151,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"vane": {
+		"class": "Hammer",
+		"form": [
+			{
+				"name": "Tyrfing",
+				"star": 4,
+				"atkPower": 69,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Tyrfing of Destruction",
+				"star": 5,
+				"atkPower": 112,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Tyrfing of Annihilation",
+				"star": 6,
+				"atkPower": 170,
+				"atkSpeed": 0.7,
+				"ability": ""
+			}
+		]
+	},
+	"cain": {
+		"class": "Hammer",
+		"form": [
+			{
+				"name": "Bloodlust Axe",
+				"star": 4,
+				"atkPower": 65,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Predator Axe",
+				"star": 5,
+				"atkPower": 106,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Clarent",
+				"star": 6,
+				"atkPower": 161,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"stanya": {
+		"class": "Hammer",
+		"form": [
+			{
+				"name": "Grinder",
+				"star": 4,
+				"atkPower": 44,
+				"atkSpeed": 1.2,
+				"ability": ""
+			},
+			{
+				"name": "Mechanic Grinder",
+				"star": 5,
+				"atkPower": 72,
+				"atkSpeed": 1.2,
+				"ability": ""
+			},
+			{
+				"name": "Super Storm Grinder",
+				"star": 6,
+				"atkPower": 110,
+				"atkSpeed": 1.2,
+				"ability": ""
+			}
+		]
+	},
+	"mundeok": {
+		"class": "Hammer",
+		"form": [
+			{
+				"name": "Limitless Sword",
+				"star": 4,
+				"atkPower": 69,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Limitless Hidden Sword",
+				"star": 5,
+				"atkPower": 112,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Limitless Divine Sword",
+				"star": 6,
+				"atkPower": 170,
+				"atkSpeed": 0.7,
+				"ability": ""
+			}
+		]
+	},
+	"v": {
+		"class": "Hammer",
+		"form": [
+			{
+				"name": "Cutting Machine",
+				"star": 4,
+				"atkPower": 73,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Micro Cutting Machine",
+				"star": 5,
+				"atkPower": 119,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Beam Slicer",
+				"star": 6,
+				"atkPower": 181,
+				"atkSpeed": 0.7,
+				"ability": ""
+			}
+		]
+	},
+	"hector": {
+		"class": "Hammer",
+		"form": [
+			{
+				"name": "General's Spear",
+				"star": 4,
+				"atkPower": 65,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Guardian's Spear",
+				"star": 5,
+				"atkPower": 103,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Phalanx",
+				"star": 6,
+				"atkPower": 175,
+				"atkSpeed": 1,
+				"ability": ""
+			}
+		]
+	},
+	"athena": {
+		"class": "Hammer",
+		"form": [
+			{
+				"name": "Champion's Axe",
+				"star": 4,
+				"atkPower": 65,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "War Saint's Axe",
+				"star": 5,
+				"atkPower": 103,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Blessing of the War Goddess",
+				"star": 6,
+				"atkPower": 175,
+				"atkSpeed": 1,
+				"ability": ""
+			}
+		]
+	},
+	"siegfried": {
+		"class": "Hammer",
+		"form": [
+			{
+				"name": "Dragon Lance",
+				"star": 4,
+				"atkPower": 65,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Dragon Paladin Lance",
+				"star": 5,
+				"atkPower": 103,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Chain Fafnir",
+				"star": 6,
+				"atkPower": 175,
+				"atkSpeed": 1,
+				"ability": ""
+			}
+		]
+	},
+	"dullahan": {
+		"class": "Hammer",
+		"form": [
+		]
+	},
+	"captain": {
+		"class": "Hammer",
+		"form": [
+		]
+	},
+	"wolfgang": {
+		"class": "Hammer",
+		"form": [
+		]
+	},
+	"gon": {
+		"class": "Bow",
+		"form": [
+			{
+				"name": "Wild Bow",
+				"star": 4,
+				"atkPower": 75,
+				"atkSpeed": 1.1,
+				"ability": ""
+			},
+			{
+				"name": "Wolk's Bow",
+				"star": 5,
+				"atkPower": 122,
+				"atkSpeed": 1.1,
+				"ability": ""
+			},
+			{
+				"name": "Tiger's Bow",
+				"star": 6,
+				"atkPower": 187,
+				"atkSpeed": 1.1,
+				"ability": ""
+			}
+		]
+	},
+	"hanzo": {
+		"class": "Bow",
+		"form": [
+			{
+				"name": "Gift of the General",
+				"star": 4,
+				"atkPower": 70,
+				"atkSpeed": 1.2,
+				"ability": ""
+			},
+			{
+				"name": "Family's Treasure",
+				"star": 5,
+				"atkPower": 114,
+				"atkSpeed": 1.2,
+				"ability": ""
+			},
+			{
+				"name": "Furinkazan",
+				"star": 6,
+				"atkPower": 175,
+				"atkSpeed": 1.2,
+				"ability": ""
+			}
+		]
+	},
+	"robinhood": {
+		"class": "Bow",
+		"form": [
+			{
+				"name": "Grifall",
+				"star": 4,
+				"atkPower": 90,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Oath of Grifall",
+				"star": 5,
+				"atkPower": 146,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Essence of Grifall",
+				"star": 6,
+				"atkPower": 224,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"r": {
+		"class": "Bow",
+		"form": [
+			{
+				"name": "Ray Wing",
+				"star": 4,
+				"atkPower": 94,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Star Ray",
+				"star": 5,
+				"atkPower": 153,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Albatross",
+				"star": 6,
+				"atkPower": 234,
+				"atkSpeed": 1,
+				"ability": ""
+			}
+		]
+	},
+	"giparang": {
+		"class": "Bow",
+		"form": [
+			{
+				"name": "Archery Bow",
+				"star": 4,
+				"atkPower": 98,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Hwarang Bow",
+				"star": 5,
+				"atkPower": 160,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Pomp and Circumstance",
+				"star": 6,
+				"atkPower": 244,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"hikari": {
+		"class": "Bow",
+		"form": [
+			{
+				"name": "Wooden Bow",
+				"star": 4,
+				"atkPower": 63,
+				"atkSpeed": 1.3,
+				"ability": ""
+			},
+			{
+				"name": "Yggdrasil Bow",
+				"star": 5,
+				"atkPower": 104,
+				"atkSpeed": 1.3,
+				"ability": ""
+			},
+			{
+				"name": "Tyrant Bow",
+				"star": 6,
+				"atkPower": 159,
+				"atkSpeed": 1.3,
+				"ability": ""
+			}
+		]
+	},
+	"niven": {
+		"class": "Bow",
+		"form": [
+			{
+				"name": "Frost Claw",
+				"star": 4,
+				"atkPower": 72,
+				"atkSpeed": 1.1,
+				"ability": ""
+			},
+			{
+				"name": "Frost Canine",
+				"star": 5,
+				"atkPower": 118,
+				"atkSpeed": 1.1,
+				"ability": ""
+			},
+			{
+				"name": "Niflheim",
+				"star": 6,
+				"atkPower": 181,
+				"atkSpeed": 1.1,
+				"ability": ""
+			}
+		]
+	},
+	"arona": {
+		"class": "Bow",
+		"form": [
+			{
+				"name": "Yellow Dragon Bow",
+				"star": 4,
+				"atkPower": 98,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Yellow Dragon Hidden Bow",
+				"star": 5,
+				"atkPower": 160,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Yellow Dragon Divine Bow",
+				"star": 6,
+				"atkPower": 244,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"magnus": {
+		"class": "Bow",
+		"form": [
+			{
+				"name": "Luxurious Bow",
+				"star": 4,
+				"atkPower": 81,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Spirit Dwelling Bow",
+				"star": 5,
+				"atkPower": 133,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Blessing of the Spirit King",
+				"star": 6,
+				"atkPower": 204,
+				"atkSpeed": 1,
+				"ability": ""
+			}
+		]
+	},
+	"atalante": {
+		"class": "Bow",
+		"form": [
+			{
+				"name": "Selinus",
+				"star": 4,
+				"atkPower": 115,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Imiselinus",
+				"star": 5,
+				"atkPower": 190,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Nymphselinus",
+				"star": 6,
+				"atkPower": 295,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"mamba": {
+		"class": "Bow",
+		"form": [
+			{
+				"name": "Steel Bow",
+				"star": 4,
+				"atkPower": 80,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Converted Steel Bow",
+				"star": 5,
+				"atkPower": 132,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "SNAKE K-9",
+				"star": 6,
+				"atkPower": 223,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"lee": {
+		"class": "Bow",
+		"form": [
+			{
+				"name": "Azure Purity",
+				"star": 4,
+				"atkPower": 80,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Azure Horizon",
+				"star": 5,
+				"atkPower": 132,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Cascade of Hundred Blossoms",
+				"star": 6,
+				"atkPower": 223,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"rahima": {
+		"class": "Bow",
+		"form": [
+		]
+	},
+	"viola": {
+		"class": "Bow",
+		"form": [
+		]
+	},
+	"kaguya": {
+		"class": "Bow",
+		"form": [
+		]
+	},
+	"maxi": {
+		"class": "Gun",
+		"form": [
+			{
+				"name": "Pink Girl",
+				"star": 4,
+				"atkPower": 74,
+				"atkSpeed": 1.1,
+				"ability": ""
+			},
+			{
+				"name": "Pink Lady",
+				"star": 5,
+				"atkPower": 122,
+				"atkSpeed": 1.1,
+				"ability": ""
+			},
+			{
+				"name": "Rodeo of Passion",
+				"star": 6,
+				"atkPower": 187,
+				"atkSpeed": 1.1,
+				"ability": ""
+			}
+		]
+	},
+	"spyro": {
+		"class": "Gun",
+		"form": [
+			{
+				"name": "Bullet Generator",
+				"star": 4,
+				"atkPower": 87,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Bullet Creator",
+				"star": 5,
+				"atkPower": 144,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Home Wrecker",
+				"star": 6,
+				"atkPower": 220,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"viper": {
+		"class": "Gun",
+		"form": [
+			{
+				"name": "Peace Loader",
+				"star": 4,
+				"atkPower": 104,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Ground One",
+				"star": 5,
+				"atkPower": 171,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Phantom Rage",
+				"star": 6,
+				"atkPower": 264,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"crow": {
+		"class": "Gun",
+		"form": [
+			{
+				"name": "Shadow Catapult",
+				"star": 4,
+				"atkPower": 81,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Dark Catapult",
+				"star": 5,
+				"atkPower": 134,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Dark Shadow",
+				"star": 6,
+				"atkPower": 205,
+				"atkSpeed": 1,
+				"ability": ""
+			}
+		]
+	},
+	"vincent": {
+		"class": "Gun",
+		"form": [
+			{
+				"name": "Magnum",
+				"star": 4,
+				"atkPower": 96,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "88 Magnum",
+				"star": 5,
+				"atkPower": 159,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Execution of Justice",
+				"star": 6,
+				"atkPower": 242,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"no.9": {
+		"class": "Gun",
+		"form": [
+			{
+				"name": "Falcon Musket",
+				"star": 4,
+				"atkPower": 117,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Elite Musket",
+				"star": 5,
+				"atkPower": 195,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Kiss of Jamiel",
+				"star": 6,
+				"atkPower": 297,
+				"atkSpeed": 0.7,
+				"ability": ""
+			}
+		]
+	},
+	"sentinel": {
+		"class": "Gun",
+		"form": [
+			{
+				"name": "Supply type SMG",
+				"star": 4,
+				"atkPower": 91,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Super Electronic Cannon",
+				"star": 5,
+				"atkPower": 151,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Hyper Electronic Cannon",
+				"star": 6,
+				"atkPower": 231,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"mandy": {
+		"class": "Gun",
+		"form": [
+			{
+				"name": "Daddy",
+				"star": 4,
+				"atkPower": 96,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Quiet Daddy",
+				"star": 5,
+				"atkPower": 159,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Outraged Daddy",
+				"star": 6,
+				"atkPower": 242,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"wilhelm": {
+		"class": "Gun",
+		"form": [
+			{
+				"name": "MonChaser",
+				"star": 4,
+				"atkPower": 100,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "MonTracer",
+				"star": 5,
+				"atkPower": 166,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "MonDestroy",
+				"star": 6,
+				"atkPower": 253,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"saiga": {
+		"class": "Gun",
+		"form": [
+			{
+				"name": "Eastern Cannon",
+				"star": 4,
+				"atkPower": 101,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Improved Eastern Cannon",
+				"star": 5,
+				"atkPower": 158,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Dragon Flame Cannon",
+				"star": 6,
+				"atkPower": 252,
+				"atkSpeed": 0.7,
+				"ability": ""
+			}
+		]
+	},
+	"tia": {
+		"class": "Gun",
+		"form": [
+			{
+				"name": "UARNERI - 2",
+				"star": 4,
+				"atkPower": 95,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "MATI - 5",
+				"star": 5,
+				"atkPower": 178,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "VARIUS - 7",
+				"star": 6,
+				"atkPower": 290,
+				"atkSpeed": 0.7,
+				"ability": ""
+			}
+		]
+	},
+	"spiny": {
+		"class": "Gun",
+		"form": [
+			{
+				"name": "Bullet Launcher",
+				"star": 4,
+				"atkPower": 95,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Bullet Exploder",
+				"star": 5,
+				"atkPower": 178,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Blockbuster",
+				"star": 6,
+				"atkPower": 290,
+				"atkSpeed": 0.7,
+				"ability": ""
+			}
+		]
+	},
+	"dox": {
+		"class": "Gun",
+		"form": [
+			{
+				"name": "Gas Hangun",
+				"star": 4,
+				"atkPower": 95,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Light Handgun",
+				"star": 5,
+				"atkPower": 178,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Mystery Chaser",
+				"star": 6,
+				"atkPower": 290,
+				"atkSpeed": 0.7,
+				"ability": ""
+			}
+		]
+	},
+	"lorelei": {
+		"class": "Gun",
+		"form": [
+		]
+	},
+	"scarlet": {
+		"class": "Gun",
+		"form": [
+		]
+	},
+	"ag01-neo": {
+		"class": "Gun",
+		"form": [
+			{
+				"name": "Optical machine gun",
+				"star": 4,
+				"atkPower": 85,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Optical machine gun",
+				"star": 5,
+				"atkPower": 135,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Optical machine gun",
+				"star": 6,
+				"atkPower": 215,
+				"atkSpeed": 1,
+				"ability": ""
+			}
+		]
+	},
+	"ag02-layla": {
+		"class": "Gun",
+		"form": [
+			{
+				"name": "Lumen rifle",
+				"star": 4,
+				"atkPower": 80,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Lumen rifle",
+				"star": 5,
+				"atkPower": 125,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Lumen rifle",
+				"star": 6,
+				"atkPower": 210,
+				"atkSpeed": 0.7,
+				"ability": ""
+			}
+		]
+	},
+	"ag03-mel": {
+		"class": "Gun",
+		"form": [
+			{
+				"name": "Lumen laser cannon",
+				"star": 4,
+				"atkPower": 78,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Lumen laser cannon",
+				"star": 5,
+				"atkPower": 136,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Lumen laser cannon",
+				"star": 6,
+				"atkPower": 214,
+				"atkSpeed": 0.7,
+				"ability": ""
+			}
+		]
+	},
+	"archon": {
+		"class": "Staff",
+		"form": [
+			{
+				"name": "Sealed Eye",
+				"star": 4,
+				"atkPower": 105,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Tears of the Goddess",
+				"star": 5,
+				"atkPower": 173,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Tears of Dawn",
+				"star": 6,
+				"atkPower": 264,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"korin": {
+		"class": "Staff",
+		"form": [
+			{
+				"name": "Kerosene Lantern",
+				"star": 4,
+				"atkPower": 84,
+				"atkSpeed": 1.1,
+				"ability": ""
+			},
+			{
+				"name": "Underworld Lantern",
+				"star": 5,
+				"atkPower": 138,
+				"atkSpeed": 1.1,
+				"ability": ""
+			},
+			{
+				"name": "Flower of Yama",
+				"star": 6,
+				"atkPower": 211,
+				"atkSpeed": 1.1,
+				"ability": ""
+			}
+		]
+	},
+	"sasquatch": {
+		"class": "Staff",
+		"form": [
+			{
+				"name": "Seed of Snow",
+				"star": 4,
+				"atkPower": 108,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Snow Bud",
+				"star": 5,
+				"atkPower": 178,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Snow Flower",
+				"star": 6,
+				"atkPower": 272,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"lilith": {
+		"class": "Staff",
+		"form": [
+			{
+				"name": "Scythe of Death",
+				"star": 4,
+				"atkPower": 120,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Soul Reaper",
+				"star": 5,
+				"atkPower": 199,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Soul Eater",
+				"star": 6,
+				"atkPower": 304,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"rachel": {
+		"class": "Staff",
+		"form": [
+			{
+				"name": "Sweet Kiss",
+				"star": 4,
+				"atkPower": 112,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Kiss of Temptation",
+				"star": 5,
+				"atkPower": 185,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Deadly Kiss",
+				"star": 6,
+				"atkPower": 282,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"alice": {
+		"class": "Staff",
+		"form": [
+			{
+				"name": "Heart Q",
+				"star": 4,
+				"atkPower": 94,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Diamond K",
+				"star": 5,
+				"atkPower": 155,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Spade A",
+				"star": 6,
+				"atkPower": 238,
+				"atkSpeed": 1,
+				"ability": ""
+			}
+		]
+	},
+	"nazrune": {
+		"class": "Staff",
+		"form": [
+			{
+				"name": "Twisted Branch",
+				"star": 4,
+				"atkPower": 89,
+				"atkSpeed": 1.1,
+				"ability": ""
+			},
+			{
+				"name": "Revived Branch",
+				"star": 5,
+				"atkPower": 147,
+				"atkSpeed": 1.1,
+				"ability": ""
+			},
+			{
+				"name": "Branch of Life",
+				"star": 6,
+				"atkPower": 224,
+				"atkSpeed": 1.1,
+				"ability": ""
+			}
+		]
+	},
+	"mondrian": {
+		"class": "Staff",
+		"form": [
+			{
+				"name": "Village Totem Pole",
+				"star": 4,
+				"atkPower": 115,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Strengthened Totem Pole",
+				"star": 5,
+				"atkPower": 190,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Powerful Totel Pole",
+				"star": 6,
+				"atkPower": 290,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"necron": {
+		"class": "Staff",
+		"form": [
+			{
+				"name": "Staff of Plunder",
+				"star": 4,
+				"atkPower": 99,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Staff of Extortion",
+				"star": 5,
+				"atkPower": 164,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Pandemonium",
+				"star": 6,
+				"atkPower": 251,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"demeter": {
+		"class": "Staff",
+		"form": [
+			{
+				"name": "Sickle of Harvest",
+				"star": 4,
+				"atkPower": 112,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Sickle of Plenty",
+				"star": 5,
+				"atkPower": 186,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Enesidaone",
+				"star": 6,
+				"atkPower": 275,
+				"atkSpeed": 0.7,
+				"ability": ""
+			}
+		]
+	},
+	"uriel": {
+		"class": "Staff",
+		"form": [
+			{
+				"name": "Vow of Judgment",
+				"star": 4,
+				"atkPower": 120,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Dawn of Conviction",
+				"star": 5,
+				"atkPower": 203,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Prayer of Atonement",
+				"star": 6,
+				"atkPower": 305,
+				"atkSpeed": 0.7,
+				"ability": ""
+			}
+		]
+	},
+	"benjamin": {
+		"class": "Staff",
+		"form": [
+			{
+				"name": "Fallen Light",
+				"star": 4,
+				"atkPower": 120,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Light of Creation",
+				"star": 5,
+				"atkPower": 203,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Heaven's Code",
+				"star": 6,
+				"atkPower": 305,
+				"atkSpeed": 0.7,
+				"ability": ""
+			}
+		]
+	},
+	"lupeow": {
+		"class": "Staff",
+		"form": [
+			{
+				"name": "Rod",
+				"star": 4,
+				"atkPower": 120,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Magic Rod",
+				"star": 5,
+				"atkPower": 203,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Magic Temptation",
+				"star": 6,
+				"atkPower": 305,
+				"atkSpeed": 0.7,
+				"ability": ""
+			}
+		]
+	},
+	"vesper": {
+		"class": "Staff",
+		"form": [
+		]
+	},
+	"violet": {
+		"class": "Staff",
+		"form": [
+		]
+	},
+	"yichui": {
+		"class": "Staff",
+		"form": [
+		]
+	},
+	"mew": {
+		"class": "Orb",
+		"form": [
+			{
+				"name": "Cat Balloon",
+				"star": 4,
+				"atkPower": 60,
+				"atkSpeed": 1.2,
+				"ability": ""
+			},
+			{
+				"name": "Wingcat Balloon",
+				"star": 5,
+				"atkPower": 97,
+				"atkSpeed": 1.2,
+				"ability": ""
+			},
+			{
+				"name": "Ultimacute",
+				"star": 6,
+				"atkPower": 148,
+				"atkSpeed": 1.2,
+				"ability": ""
+			}
+		]
+	},
+	"nightingale": {
+		"class": "Orb",
+		"form": [
+			{
+				"name": "Sacred Treasure of Salvation",
+				"star": 4,
+				"atkPower": 74,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Sacred Treasure of Heaven",
+				"star": 5,
+				"atkPower": 120,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Gabriella",
+				"star": 6,
+				"atkPower": 183,
+				"atkSpeed": 1,
+				"ability": ""
+			}
+		]
+	},
+	"yeowoodong": {
+		"class": "Orb",
+		"form": [
+			{
+				"name": "Soul Fire",
+				"star": 4,
+				"atkPower": 81,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Foxfire",
+				"star": 5,
+				"atkPower": 132,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Thunder Struck",
+				"star": 6,
+				"atkPower": 201,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"nurspy": {
+		"class": "Orb",
+		"form": [
+			{
+				"name": "Vaccine-A",
+				"star": 4,
+				"atkPower": 77,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Vaccine - T",
+				"star": 5,
+				"atkPower": 126,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Vaccine - G",
+				"star": 6,
+				"atkPower": 192,
+				"atkSpeed": 1.0,
+				"ability": ""
+			}
+		]
+	},
+	"woopa": {
+		"class": "Orb",
+		"form": [
+			{
+				"name": "Ominous Charm",
+				"star": 4,
+				"atkPower": 68,
+				"atkSpeed": 1.1,
+				"ability": ""
+			},
+			{
+				"name": "Mysterious Charm",
+				"star": 5,
+				"atkPower": 110,
+				"atkSpeed": 1.1,
+				"ability": ""
+			},
+			{
+				"name": "Golden Charm",
+				"star": 6,
+				"atkPower": 168,
+				"atkSpeed": 1.1,
+				"ability": ""
+			}
+		]
+	},
+	"himiko": {
+		"class": "Orb",
+		"form": [
+			{
+				"name": "Onusa",
+				"star": 4,
+				"atkPower": 57,
+				"atkSpeed": 1.3,
+				"ability": ""
+			},
+			{
+				"name": "Blooming Onusa",
+				"star": 5,
+				"atkPower": 92,
+				"atkSpeed": 1.3,
+				"ability": ""
+			},
+			{
+				"name": "Full Bloom Onusa",
+				"star": 6,
+				"atkPower": 141,
+				"atkSpeed": 1.3,
+				"ability": ""
+			}
+		]
+	},
+	"stein": {
+		"class": "Orb",
+		"form": [
+			{
+				"name": "Mysterious Power",
+				"star": 4,
+				"atkPower": 88,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Refined Power",
+				"star": 5,
+				"atkPower": 144,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Infinite Power",
+				"star": 6,
+				"atkPower": 219,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"chai": {
+		"class": "Orb",
+		"form": [
+			{
+				"name": "Mysterious Ladle",
+				"star": 4,
+				"atkPower": 70,
+				"atkSpeed": 1.1,
+				"ability": ""
+			},
+			{
+				"name": "Dragonhead Ladle",
+				"star": 5,
+				"atkPower": 114,
+				"atkSpeed": 1.1,
+				"ability": ""
+			},
+			{
+				"name": "Yellow-dragon Laddle",
+				"star": 6,
+				"atkPower": 173,
+				"atkSpeed": 1.1,
+				"ability": ""
+			}
+		]
+	},
+	"dara": {
+		"class": "Orb",
+		"form": [
+			{
+				"name": "Biwa",
+				"star": 4,
+				"atkPower": 74,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Wooden Biwa",
+				"star": 5,
+				"atkPower": 120,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Golden Biwa",
+				"star": 6,
+				"atkPower": 183,
+				"atkSpeed": 1,
+				"ability": ""
+			}
+		]
+	},
+	"beatrice": {
+		"class": "Orb",
+		"form": [
+			{
+				"name": "Little Lamp",
+				"star": 4,
+				"atkPower": 84,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Dreaming Lamp",
+				"star": 5,
+				"atkPower": 128,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Light of Paros",
+				"star": 6,
+				"atkPower": 192,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"orfeo": {
+		"class": "Orb",
+		"form": [
+			{
+				"name": "Harp",
+				"star": 4,
+				"atkPower": 75,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Angel's Harp",
+				"star": 5,
+				"atkPower": 127,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Eurydice",
+				"star": 6,
+				"atkPower": 181,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"aria": {
+		"class": "Orb",
+		"form": [
+			{
+				"name": "Lamp of Valencia",
+				"star": 4,
+				"atkPower": 75,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Lamp of Astrology",
+				"star": 5,
+				"atkPower": 127,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Mark of Starlight",
+				"star": 6,
+				"atkPower": 181,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"yuria": {
+		"class": "Orb",
+		"form": [
+			{
+				"name": "Nursing Chart",
+				"star": 4,
+				"atkPower": 75,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Strategy Map",
+				"star": 5,
+				"atkPower": 127,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "NNC SYSTEM",
+				"star": 6,
+				"atkPower": 181,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"faust": {
+		"class": "Orb",
+		"form": [
+		]
+	},
+	"seiren": {
+		"class": "Orb",
+		"form": [
+		]
+	},
+	"noel": {
+		"class": "Orb",
+		"form": [
+		]
+	},
+	"solbadguy": {
+		"class": "Sword",
+		"form": [
+			{
+				"name": "Junkyard Dog",
+				"star": 4,
+				"atkPower": 86,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Junkyard Dog",
+				"star": 5,
+				"atkPower": 140,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Junkyard Dog",
+				"star": 6,
+				"atkPower": 216,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"kykiske": {
+		"class": "Sword",
+		"form": [
+			{
+				"name": "Magnolia clair",
+				"star": 4,
+				"atkPower": 86,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Magnolia clair",
+				"star": 5,
+				"atkPower": 140,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Magnolia clair",
+				"star": 6,
+				"atkPower": 216,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"milliarage": {
+		"class": "Sword",
+		"form": [
+			{
+				"name": "Hair",
+				"star": 4,
+				"atkPower": 86,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Hair",
+				"star": 5,
+				"atkPower": 140,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Hair",
+				"star": 6,
+				"atkPower": 216,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"johnny": {
+		"class": "Sword",
+		"form": [
+			{
+				"name": "Long Sword",
+				"star": 4,
+				"atkPower": 86,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Long Sword",
+				"star": 5,
+				"atkPower": 140,
+				"atkSpeed": 0.9,
+				"ability": ""
+			},
+			{
+				"name": "Long Sword",
+				"star": 6,
+				"atkPower": 216,
+				"atkSpeed": 0.9,
+				"ability": ""
+			}
+		]
+	},
+	"jin-kyung": {
+		"class": "Hammer",
+		"form": [
+			{
+				"name": "Long Spear",
+				"star": 4,
+				"atkPower": 78,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Guardian Spear",
+				"star": 5,
+				"atkPower": 128,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Black Tortoise Guarding Spear",
+				"star": 6,
+				"atkPower": 194,
+				"atkSpeed": 0.7,
+				"ability": ""
+			}
+		]
+	},
+	"rebecca": {
+		"class": "Hammer",
+		"form": [
+			{
+				"name": "Flower of a Hundred Roots",
+				"star": 4,
+				"atkPower": 52,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Flower of a Thousand Roots",
+				"star": 5,
+				"atkPower": 85,
+				"atkSpeed": 1,
+				"ability": ""
+			},
+			{
+				"name": "Flower of Ten Thousand Roots",
+				"star": 6,
+				"atkPower": 162,
+				"atkSpeed": 1,
+				"ability": ""
+			}
+		]
+	},
+	"may": {
+		"class": "Hammer",
+		"form": [
+			{
+				"name": "Great Anchor",
+				"star": 4,
+				"atkPower": 63,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Great Anchor",
+				"star": 5,
+				"atkPower": 102,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Great Anchor",
+				"star": 6,
+				"atkPower": 155,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"sinkiske": {
+		"class": "Hammer",
+		"form": [
+			{
+				"name": "Flag",
+				"star": 4,
+				"atkPower": 73,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Flag",
+				"star": 5,
+				"atkPower": 119,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Flag",
+				"star": 6,
+				"atkPower": 181,
+				"atkSpeed": 0.7,
+				"ability": ""
+			}
+		]
+	},
+	"altair": {
+		"class": "Bow",
+		"form": [
+			{
+				"name": "Moonripple",
+				"star": 4,
+				"atkPower": 106,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Mooncrest",
+				"star": 5,
+				"atkPower": 173,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Dawn Cleaver",
+				"star": 6,
+				"atkPower": 275,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"hong-ran": {
+		"class": "Bow",
+		"form": [
+			{
+				"name": "Fire Bow",
+				"star": 4,
+				"atkPower": 114,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Flaming Bow",
+				"star": 5,
+				"atkPower": 186,
+				"atkSpeed": 0.7,
+				"ability": ""
+			},
+			{
+				"name": "Hell Flaming Bow",
+				"star": 6,
+				"atkPower": 285,
+				"atkSpeed": 0.7,
+				"ability": ""
+			}
+		]
+	},
+	"chippzanuff": {
+		"class": "Bow",
+		"form": [
+			{
+				"name": "Kunai",
+				"star": 4,
+				"atkPower": 57,
+				"atkSpeed": 1.5,
+				"ability": ""
+			},
+			{
+				"name": "Kunai",
+				"star": 5,
+				"atkPower": 93,
+				"atkSpeed": 1.5,
+				"ability": ""
+			},
+			{
+				"name": "Kunai",
+				"star": 6,
+				"atkPower": 142,
+				"atkSpeed": 1.5,
+				"ability": ""
+			}
+		]
+	},
+	"elpheltvalentine": {
+		"class": "Gun",
+		"form": [
+			{
+				"name": "Ms. Travailler",
+				"star": 4,
+				"atkPower": 96,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Ms. Travailler",
+				"star": 5,
+				"atkPower": 159,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Ms. Travailler",
+				"star": 6,
+				"atkPower": 242,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"ramlethalvalentine": {
+		"class": "Staff",
+		"form": [
+			{
+				"name": "VelFa & Venus",
+				"star": 4,
+				"atkPower": 112,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "VelFa & Venus",
+				"star": 5,
+				"atkPower": 185,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "VelFa & Venus",
+				"star": 6,
+				"atkPower": 282,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"jack-o`": {
+		"class": "Staff",
+		"form": [
+			{
+				"name": "Iron ball",
+				"star": 4,
+				"atkPower": 112,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Iron ball",
+				"star": 5,
+				"atkPower": 185,
+				"atkSpeed": 0.8,
+				"ability": ""
+			},
+			{
+				"name": "Iron ball",
+				"star": 6,
+				"atkPower": 282,
+				"atkSpeed": 0.8,
+				"ability": ""
+			}
+		]
+	},
+	"i-no": {
+		"class": "Orb",
+		"form": [
+			{
+				"name": "Marlene",
+				"star": 4,
+				"atkPower": 70,
+				"atkSpeed": 1.1,
+				"ability": ""
+			},
+			{
+				"name": "Marlene",
+				"star": 5,
+				"atkPower": 114,
+				"atkSpeed": 1.1,
+				"ability": ""
+			},
+			{
+				"name": "Marlene",
+				"star": 6,
+				"atkPower": 173,
+				"atkSpeed": 1.1,
+				"ability": ""
+			}
+		]
+	}
 }

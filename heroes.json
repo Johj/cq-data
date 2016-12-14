@@ -20,8 +20,8 @@
 				"evasion": [0],
 				"background": "Leon has just started his adventure and he has no idea what he's doing. He spends more time cleaning up his messes than saving damsels.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Ancient Dungeon: Clear Reward!"
@@ -41,8 +41,8 @@
 				"evasion": [0, 0],
 				"background": "Leon has learned from his mistakes (and his scrapes and bruises) and has become a competent if not spectacular hero.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -62,8 +62,8 @@
 				"evasion": [0, 0, 0],
 				"background": "Leon's famous now and he lets it get to his head. He draws his pen faster to sign autographs than he draws his sword for combat.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -83,8 +83,8 @@
 				"evasion": [0, 0, 0, 0],
 				"background": "Leon's big shot attitude almost cost him his life and the lives of those he had sworn to protect. He realizes now that he set out to become a hero to save people, not to be rewarded with fame and fortune.",
 				"skill": {
-						"level": 2,
-						"passive": "Summons the ultimate Holy Sword every 4 blocks. Deals physical damage equal to 380% of attack power and ignores target's armor equal to 50% of own armor."
+					"level": 2,
+					"passive": "Summons the ultimate Holy Sword every 4 blocks. Deals physical damage equal to 380% of attack power and ignores target's armor equal to 50% of own armor."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -104,8 +104,8 @@
 				"evasion": [0, 0, 0, 0, 0],
 				"background": "Leon has been charged by the goddesses to save the world. Finally, he can put all that adventuring to good use!",
 				"skill": {
-						"level": 2,
-						"passive": "Summons the ultimate Holy Sword every 4 blocks. Deals physical damage equal to 380% of attack power and ignores target's armor equal to 50% of own armor."
+					"level": 2,
+					"passive": "Summons the ultimate Holy Sword every 4 blocks. Deals physical damage equal to 380% of attack power and ignores target's armor equal to 50% of own armor."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -125,8 +125,8 @@
 				"evasion": [0, 0, 0, 0, 0, 0, 0.15],
 				"background": "Every time Leon fights against evil, dazzling lights cover his entire body, radiating an unbreachable energy. The monsters tremble at his sight, let them fall to Leon of Light",
 				"skill": {
-						"level": 3,
-						"passive": "Summons Ultimate Holy Sword whenever the hero uses a chain-3 skill, that deals physical damage equal to 380% of the hero's attack power and also deals extra physical damage equal to 10% of the hero's HP. The bonus damage ignores enemy's armor equal to 100% of the hero's armor."
+					"level": 3,
+					"passive": "Summons Ultimate Holy Sword whenever the hero uses a chain-3 skill, that deals physical damage equal to 380% of the hero's attack power and also deals extra physical damage equal to 10% of the hero's HP. The bonus damage ignores enemy's armor equal to 100% of the hero's armor."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -155,8 +155,8 @@
 				"evasion": [0],
 				"background": "Rochefort was a simple fencing instructor until he was drafted into the Tristan army.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Ancient Dungeon: Clear Reward!"
@@ -176,8 +176,8 @@
 				"evasion": [0, 0],
 				"background": "Rochefort became so sick of his life that he illegally escaped from the army seeking freedom and beautiful women.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -197,8 +197,8 @@
 				"evasion": [0, 0, 0],
 				"background": "As Rochefort entered the war with the Neth Empire, he encountered D'artagnan and fell in love. He lost an eye while trying to protect her in a fierce battle.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -218,8 +218,8 @@
 				"evasion": [0, 0, 0, 0],
 				"background": "Rochefort announced his desire to join the Musketeers. His request is denied, but he continued to train.",
 				"skill": {
-						"level": 2,
-						"passive": "If an attack is blocked, the Hero immediately counterattacks dealing physical damage equal to 100% of the Hero's defense. When a skill block is used after the counterattack, the Hero counterattacks 3 additional times. (Activates once every second)"
+					"level": 2,
+					"passive": "If an attack is blocked, the Hero immediately counterattacks dealing physical damage equal to 100% of the Hero's defense. When a skill block is used after the counterattack, the Hero counterattacks 3 additional times. (Activates once every second)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -239,8 +239,8 @@
 				"evasion": [0, 0, 0, 0, 0],
 				"background": "Rochefort's exploits could no longer be ignored, and he was allowed admission into the Musketeers.",
 				"skill": {
-						"level": 2,
-						"passive": "If an attack is blocked, the Hero immediately counterattacks dealing physical damage equal to 100% of the Hero's defense. When a skill block is used after the counterattack, the Hero counterattacks 3 additional times. (Activates once every second)"
+					"level": 2,
+					"passive": "If an attack is blocked, the Hero immediately counterattacks dealing physical damage equal to 100% of the Hero's defense. When a skill block is used after the counterattack, the Hero counterattacks 3 additional times. (Activates once every second)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -260,8 +260,8 @@
 				"evasion": [0, 0, 0, 0, 0, 0, 0.1],
 				"background": "His name became a symbol of victory in Trista, and his legend grew among the people. However, his heart belonged to a single person.",
 				"skill": {
-						"level": 3,
-						"passive": "If an attack is blocked, the Hero immediately counterattacks dealing physical damage equal to 200% of the Hero's defense. When a skill block is used after the counterattack, the Hero counterattacks 3 additional times. When the counterattack is a critical hit, the Hero immediately generates a block of its own. (Activates once every second)"
+					"level": 3,
+					"passive": "If an attack is blocked, the Hero immediately counterattacks dealing physical damage equal to 200% of the Hero's defense. When a skill block is used after the counterattack, the Hero counterattacks 3 additional times. When the counterattack is a critical hit, the Hero immediately generates a block of its own. (Activates once every second)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -290,8 +290,8 @@
 				"evasion": [0],
 				"background": "A female knight of a tribe known for fighting demons. The most skillful knights of this tribe are Kriemhild and Siegried. People think there's a lot of chemistry going on between those two.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Ancient Dungeon: Clear Reward!"
@@ -311,8 +311,8 @@
 				"evasion": [0, 0],
 				"background": "A demon slaying knight who was cursed by a powerful demon to sleep forever.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -332,8 +332,8 @@
 				"evasion": [0, 0, 0],
 				"background": "To save Kriemhild from the cruse, her lover, Siegfried, uses a forbidden tribal spell to undertake Kriemhild's curse for himself. When Kriemhild awakens and learns what happened, she is overwhelmed with grief and is unable to leave her lover's side.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -353,8 +353,8 @@
 				"evasion": [0, 0, 0, 0],
 				"background": "Not long after Kriemhild lost her lover, demons come looking for Siegfried's soul. Kriemhild's sorrow turns to rage, slaughtering all the demons that approach Siegfried.",
 				"skill": {
-						"level": 2,
-						"passive": "When a chain-3 skill is used, auto attacks for the next 2 seconds deal physical damage equal to 380% of the hero's attack power and activate the ultimate Flamespout that stuns enemies for 0.75 seconds (max 2 times). This effect cannot be canceled and is not enhanced by buffs."
+					"level": 2,
+					"passive": "When a chain-3 skill is used, auto attacks for the next 2 seconds deal physical damage equal to 380% of the hero's attack power and activate the ultimate Flamespout that stuns enemies for 0.75 seconds (max 2 times). This effect cannot be canceled and is not enhanced by buffs."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -374,8 +374,8 @@
 				"evasion": [0, 0, 0, 0, 0],
 				"background": "The only way for Siegfried can wake is for him to find an exit in his dream world. It is an endless wait for Kriemhild, but she has faith in him. She makes a resolution not to leave his side until he wakes up.",
 				"skill": {
-						"level": 2,
-						"passive": "When a chain-3 skill is used, auto attacks for the next 2 seconds deal physical damage equal to 380% of the hero's attack power and activate the ultimate Flamespout that stuns enemies for 0.75 seconds (max 2 times). This effect cannot be canceled and is not enhanced by buffs."
+					"level": 2,
+					"passive": "When a chain-3 skill is used, auto attacks for the next 2 seconds deal physical damage equal to 380% of the hero's attack power and activate the ultimate Flamespout that stuns enemies for 0.75 seconds (max 2 times). This effect cannot be canceled and is not enhanced by buffs."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -395,8 +395,8 @@
 				"evasion": [0, 0, 0, 0, 0, 0, 0.1],
 				"background": "A Goddess appears before her as she is protecting Siegfried. The Goddess offers her help to awaken him, and in return asks Kriemhild to help them save the world from danger when the time comes. For her lover, she makes an oath to do so.",
 				"skill": {
-						"level": 3,
-						"passive": "When a chain-3 skill is used, auto attacks for the next 5 seconds deal physical damage equal to 380% of the hero's attack power and activate the ultimate Flamespout that stuns enemies for 0.75 seconds (max 4 times). This effect cannot be canceled and is not enhanced by buffs."
+					"level": 3,
+					"passive": "When a chain-3 skill is used, auto attacks for the next 5 seconds deal physical damage equal to 380% of the hero's attack power and activate the ultimate Flamespout that stuns enemies for 0.75 seconds (max 4 times). This effect cannot be canceled and is not enhanced by buffs."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -425,8 +425,8 @@
 				"evasion": [0],
 				"background": "An orphan who became an apprentice monk in service to the Goddesses.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Ancient Dungeon: Clear Reward!"
@@ -446,8 +446,8 @@
 				"evasion": [0, 0],
 				"background": "Roland was very strong, showing brilliant talents in physical activities rather than practicing asceticism. At first he was a troublemaker but he gained the trust of the people after he successfully took on the village thugs.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -467,8 +467,8 @@
 				"evasion": [0, 0, 0],
 				"background": "Roland begins to agonize about his future. During his slump, he met Maria. After that, Roland starts his training to become a true monk so that he can be with Maria.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -488,8 +488,8 @@
 				"evasion": [0, 0, 0, 0],
 				"background": "Roland's efforts did not go unnoticed, and he is offered a position with the Paladins of the Goddesses.",
 				"skill": {
-						"level": 2,
-						"passive": "After the hero's skill block is used, the hero heals the entire party for 40% of the hero's attack power every time the hero is attacked by an enemy for the next 5 secs."
+					"level": 2,
+					"passive": "After the hero's skill block is used, the hero heals the entire party for 40% of the hero's attack power every time the hero is attacked by an enemy for the next 5 secs."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -509,8 +509,8 @@
 				"evasion": [0, 0, 0, 0, 0],
 				"background": "Roland dedicated his life as a paladin to defending Maria.",
 				"skill": {
-						"level": 2,
-						"passive": "After the hero's skill block is used, the hero heals the entire party for 40% of the hero's attack power every time the hero is attacked by an enemy for the next 5 secs."
+					"level": 2,
+					"passive": "After the hero's skill block is used, the hero heals the entire party for 40% of the hero's attack power every time the hero is attacked by an enemy for the next 5 secs."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -530,8 +530,8 @@
 				"evasion": [0, 0, 0, 0, 0, 0, 0.15],
 				"background": "Roland guarded Maria with all his might, and his skill and prowess were legendary throughout the world.",
 				"skill": {
-						"level": 3,
-						"passive": "After a skill block is used, the hero heals the entire party for 60% of the hero's attack power every time the hero is attacked by an enemy for the next 5 secs (5 times max). After the 8th healing, the hero stuns all enemies for 2 secs and generates a block of his own (once every 3 secs)."
+					"level": 3,
+					"passive": "After a skill block is used, the hero heals the entire party for 60% of the hero's attack power every time the hero is attacked by an enemy for the next 5 secs (5 times max). After the 8th healing, the hero stuns all enemies for 2 secs and generates a block of his own (once every 3 secs)."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -560,8 +560,8 @@
 				"evasion": [0],
 				"background": "Sigruna is a member of the Silver Elf clan. She lives a very tough life because she is from the lowest caste in the elves' caste-based society.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Ancient Dungeon: Clear Reward!"
@@ -581,8 +581,8 @@
 				"evasion": [0, 0],
 				"background": "One day, her parents were attacked by monsters. In order to support her family, she tries to climb the social ladder at all costs. There is only one way to do this: join the King's Elite Guard. To make it, Sigruna trains whenever possible.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -602,8 +602,8 @@
 				"evasion": [0, 0, 0],
 				"background": "After failing her 7th examination, she gives up on her hopes and dreams. Her parents, who have recovered from the attack, encouraged her to go on. Now Sigruna feels unstoppable.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -623,8 +623,8 @@
 				"evasion": [0, 0, 0, 0],
 				"background": "Sigruna's efforts finally pay off. With her excellent archery skills, she joins the Elite Guard and is now an expert archer.",
 				"skill": {
-						"level": 2,
-						"passive": "Using chain-3 skill activates 4 magic arrows that deal magic damage equal to 70% of the hero's attack power."
+					"level": 2,
+					"passive": "Using chain-3 skill activates 4 magic arrows that deal magic damage equal to 70% of the hero's attack power."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -644,8 +644,8 @@
 				"evasion": [0, 0, 0, 0, 0],
 				"background": "Sigruna continues to train, even after joining the Elite Guard. Her humble beginnings lead her to conserve everything, always making sure not to waste a single arrow. Elven tradition dictates that trees are sacred, so Sigruna's act of not wasting arrows made from trees has made her a role model for others. She is now known as the \"Archer God\".",
 				"skill": {
-						"level": 2,
-						"passive": "Using chain-3 skill activates 4 magic arrows that deal magic damage equal to 70% of the hero's attack power."
+					"level": 2,
+					"passive": "Using chain-3 skill activates 4 magic arrows that deal magic damage equal to 70% of the hero's attack power."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -665,8 +665,8 @@
 				"evasion": [0, 0, 0, 0, 0, 0, 0.1],
 				"background": "One day, demons had attacked the clan, and Sigruna shoots down countless numbers of them. She draws her bow as if she was born to hunt down the demons. Afterward, a Goddess appears asking her to use that power to save the world.",
 				"skill": {
-						"level": 3,
-						"passive": "Using chain-3 skill activates 4 magic arrows that deal magic damage equal to 100% of the hero's attack power. These arrows have an additional 25% chance to crit."
+					"level": 3,
+					"passive": "Using chain-3 skill activates 4 magic arrows that deal magic damage equal to 100% of the hero's attack power. These arrows have an additional 25% chance to crit."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -695,8 +695,8 @@
 				"evasion": [0],
 				"background": "Centuries ago, the Apostles brought demons from another dimension to destroy Hasla, and those demons wrecked havoc using humans as hosts. Demona was one of these human hosts.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Ancient Dungeon: Clear Reward!"
@@ -716,8 +716,8 @@
 				"evasion": [0, 0],
 				"background": "Demona battled against the evil inside of her, until one day, a saintess exorcised the demon from her, leaving only the power behind. This was the birth of the first devil.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -737,8 +737,8 @@
 				"evasion": [0, 0, 0],
 				"background": "Humans associated the demons with evil. Demona fought a lonely fight against humanity. However, more and more demons were born, and Demona gathered them together.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -758,8 +758,8 @@
 				"evasion": [0, 0, 0, 0],
 				"background": "After the war with the Apostles, the Goddesses started to hunt the Demons for their crimes. Demona summoned the Demons together and began a war against the Goddesses.",
 				"skill": {
-						"level": 2,
-						"passive": "An enemy damaged by Thorns of Hell is lit on fire and receives neutral damage equal to 50% of the Hero's Attack Power. When this effect is stacked 4 times, the hero shoots a flame arrow that deals magic damage equal to 350% of the Hero's Attack Power. (Activates once every 3 seconds)"
+					"level": 2,
+					"passive": "An enemy damaged by Thorns of Hell is lit on fire and receives neutral damage equal to 50% of the Hero's Attack Power. When this effect is stacked 4 times, the hero shoots a flame arrow that deals magic damage equal to 350% of the Hero's Attack Power. (Activates once every 3 seconds)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -779,8 +779,8 @@
 				"evasion": [0, 0, 0, 0, 0],
 				"background": "Demona grew weary of the constant persecution of the demons, and decided to lead them to a new land. This marked the beginning of a new dawn for the demons.",
 				"skill": {
-						"level": 2,
-						"passive": "An enemy damaged by Thorns of Hell is lit on fire and receives neutral damage equal to 50% of the Hero's Attack Power. When this effect is stacked 4 times, the hero shoots a flame arrow that deals magic damage equal to 350% of the Hero's Attack Power. (Activates once every 3 seconds)"
+					"level": 2,
+					"passive": "An enemy damaged by Thorns of Hell is lit on fire and receives neutral damage equal to 50% of the Hero's Attack Power. When this effect is stacked 4 times, the hero shoots a flame arrow that deals magic damage equal to 350% of the Hero's Attack Power. (Activates once every 3 seconds)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -800,8 +800,8 @@
 				"evasion": [0, 0, 0, 0, 0, 0, 0.11],
 				"background": "The demons that remained in Hasla were hunted down as the Order of the Goddesses grew, and Demona knew she had to return. She entered the Primal mountain and awakened the power of the Red Lotus.",
 				"skill": {
-						"level": 3,
-						"passive": "An enemy damaged by Thorns of Hell is lit on fire and receives neutral damage equal to 50% of the Hero's Attack Power. When this effect is stacked 4 times, the hero shoots the ultimate flame arrow that deals 150% neutral damage and 350% magic damage. (Activates once every 3 seconds)"
+					"level": 3,
+					"passive": "An enemy damaged by Thorns of Hell is lit on fire and receives neutral damage equal to 50% of the Hero's Attack Power. When this effect is stacked 4 times, the hero shoots the ultimate flame arrow that deals 150% neutral damage and 350% magic damage. (Activates once every 3 seconds)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -830,8 +830,8 @@
 				"evasion": [0],
 				"background": "A new gunman in the desert area. Despite not used to using a gun she still dreams of becoming a sheriff one day.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Ancient Dungeon: Clear Reward!"
@@ -851,8 +851,8 @@
 				"evasion": [0, 0],
 				"background": "A women who has fully mastered the gun through endless training. She's well known for arresting countless outlaws.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -872,8 +872,8 @@
 				"evasion": [0, 0, 0],
 				"background": "Highly skilled at capturing outlaws and a master of weaponry. D'Artagnan fights in the war between the Neth Empire and the Western Country. Her prowess on the battlefield earns her the attention of the Musketeers. She joins the Musketeers and although they are few in number, they are a powerful force in the Western Country.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -893,8 +893,8 @@
 				"evasion": [0, 0, 0, 0],
 				"background": "During the war, the forces of the Neth Empire marched callously past even their own injured soldiers, but D'Artagnan remained to protect her own. Thus she became a symbol of compassion and justice.",
 				"skill": {
-						"level": 2,
-						"passive": "Whenever this Hero is healed or uses a skill block, it has a 50% chance to immediately use a chain-3 Consecutive Fire. (Activates once every 3 seconds.)"
+					"level": 2,
+					"passive": "Whenever this Hero is healed or uses a skill block, it has a 50% chance to immediately use a chain-3 Consecutive Fire. (Activates once every 3 seconds.)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -914,8 +914,8 @@
 				"evasion": [0, 0, 0, 0, 0],
 				"background": "Having survived many battles without losing faith, she has become a symbol of faith to the people. her popularity is widespread throughout the land.",
 				"skill": {
-						"level": 2,
-						"passive": "Whenever this Hero is healed or uses a skill block, it has a 50% chance to immediately use a chain-3 Consecutive Fire. (Activates once every 3 seconds.)"
+					"level": 2,
+					"passive": "Whenever this Hero is healed or uses a skill block, it has a 50% chance to immediately use a chain-3 Consecutive Fire. (Activates once every 3 seconds.)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -935,8 +935,8 @@
 				"evasion": [0, 0, 0, 0, 0, 0, 0.1],
 				"background": "She never gives up and her tenacity is legendary. She is the envy of every man in the Western Country.",
 				"skill": {
-						"level": 3,
-						"passive": "Whenever this Hero is healed or uses a skill block, it has a 75% chance to immediately use a chain-3 Consecutive Fire. (Activates once every 3 seconds.)"
+					"level": 3,
+					"passive": "Whenever this Hero is healed or uses a skill block, it has a 75% chance to immediately use a chain-3 Consecutive Fire. (Activates once every 3 seconds.)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -965,8 +965,8 @@
 				"evasion": [0],
 				"background": "Born in a slum in Trista. She made her living by stealing and begging, but she was quick-witted and dexterous. People say that her father used to be a legendary hunter.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Ancient Dungeon: Clear Reward!"
@@ -986,8 +986,8 @@
 				"evasion": [0, 0],
 				"background": "Teresa got caught stealing from a Western outlaw. She tried to escape by grabbing the outlaw's weapon but accidently shot him.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1007,8 +1007,8 @@
 				"evasion": [0, 0, 0],
 				"background": "With blood on her hands, Teresa ran away. Teresa struggled to survive with all her might.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1028,8 +1028,8 @@
 				"evasion": [0, 0, 0, 0],
 				"background": "Teresa met Melissa, who was on a mission in the wilderness. After listening to Teresa's story, Melissa took Teresa to the Order of the Goddesses.",
 				"skill": {
-						"level": 2,
-						"passive": "Enemies with the Mark of Light loses 3 SP everytime it tries to attack. If the enemy's SP is below 30, the hero immediately deals magic damage equal to 200% of the Hero's attack power. (Activates once every 3 seconds)"
+					"level": 2,
+					"passive": "Enemies with the Mark of Light loses 3 SP everytime it tries to attack. If the enemy's SP is below 30, the hero immediately deals magic damage equal to 200% of the Hero's attack power. (Activates once every 3 seconds)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1049,8 +1049,8 @@
 				"evasion": [0, 0, 0, 0, 0],
 				"background": "Teresa joined the calvary at Melissa's recommendation. With outstanding skills and strong obedience, Teresa soon became a true soldier. One day, she heard a rumor that Melissa was murdered by a demon.",
 				"skill": {
-						"level": 2,
-						"passive": "Enemies with the Mark of Light loses 3 SP everytime it tries to attack. If the enemy's SP is below 30, the hero immediately deals magic damage equal to 200% of the Hero's attack power. (Activates once every 3 seconds)"
+					"level": 2,
+					"passive": "Enemies with the Mark of Light loses 3 SP everytime it tries to attack. If the enemy's SP is below 30, the hero immediately deals magic damage equal to 200% of the Hero's attack power. (Activates once every 3 seconds)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1070,8 +1070,8 @@
 				"evasion": [0, 0, 0, 0, 0, 0, 0.1],
 				"background": "Teresa was ordered to abandon her search for Melissa's killer, but she refused and left the Order to join the 'Night Witches.'",
 				"skill": {
-						"level": 3,
-						"passive": "Enemies with the Mark of Light loses 3 SP everytime it tries to attack. If the enemy's SP is below 30, the hero immediately deals magic damage equal to 350% of the Hero's attack power. (Activates once every 3 seconds)"
+					"level": 3,
+					"passive": "Enemies with the Mark of Light loses 3 SP everytime it tries to attack. If the enemy's SP is below 30, the hero immediately deals magic damage equal to 350% of the Hero's attack power. (Activates once every 3 seconds)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1100,8 +1100,8 @@
 				"evasion": [0],
 				"background": "Born with a high affinity to magic, her latent talent is great.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Ancient Dungeon: Clear Reward!"
@@ -1121,8 +1121,8 @@
 				"evasion": [0, 0],
 				"background": "In addition to her affinity for magic, Dorothy also grasps magical concepts very easily. She is a true genius.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1142,8 +1142,8 @@
 				"evasion": [0, 0, 0],
 				"background": "Dorothy has become skilled in all 4 elements of magic. However, her craving for power is not sated.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1163,8 +1163,8 @@
 				"evasion": [0, 0, 0, 0],
 				"background": "Dorothy's passion for magic continues. She finally makes a resolution to become an apprentice of the 4 great witches and master the forbidden dark magic.",
 				"skill": {
-						"level": 2,
-						"passive": "When a chain-3 skill is activated within 1.5 seconds after a chain-1 skill is activated, an extra beam is fired that deals magic damage equal to 310% of the hero's attack power."
+					"level": 2,
+					"passive": "When a chain-3 skill is activated within 1.5 seconds after a chain-1 skill is activated, an extra beam is fired that deals magic damage equal to 310% of the hero's attack power."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1184,8 +1184,8 @@
 				"evasion": [0, 0, 0, 0, 0],
 				"background": "Dorothy becomes an apprentice of the four great witches. She travels north, east, south, and west, training very hard.",
 				"skill": {
-						"level": 2,
-						"passive": "When a chain-3 skill is activated within 1.5 seconds after a chain-1 skill is activated, an extra beam is fired that deals magic damage equal to 310% of the hero's attack power."
+					"level": 2,
+					"passive": "When a chain-3 skill is activated within 1.5 seconds after a chain-1 skill is activated, an extra beam is fired that deals magic damage equal to 310% of the hero's attack power."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1205,8 +1205,8 @@
 				"evasion": [0, 0, 0, 0, 0, 0, 0.12],
 				"background": "Dorothy learns the spells of the four great witches, as well as the forbidden dark magic. Because dark magic is forbidden, Dorothy is expelled by the witches and is called the Black Witch. But she still intends on gaining more magical knowledge, so the Goddess gives her a mission to rightly use her power.",
 				"skill": {
-						"level": 3,
-						"passive": "When a chain-3 skill is activated within 1.5 seconds after a chain-1 skill is activated, an extra beam is fired that deals magic damage equal to 310% of the hero's attack power. The extra beam eliminates all buffs from the enemy."
+					"level": 3,
+					"passive": "When a chain-3 skill is activated within 1.5 seconds after a chain-1 skill is activated, an extra beam is fired that deals magic damage equal to 310% of the hero's attack power. The extra beam eliminates all buffs from the enemy."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1235,8 +1235,8 @@
 				"evasion": [0],
 				"background": "She was not only smart and polite but she sung very well so everyone liked her. The only problem was that she looked very ordinary...",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Ancient Dungeon: Clear Reward!"
@@ -1256,8 +1256,8 @@
 				"evasion": [0, 0],
 				"background": "Cano studied hard to enter the School of Magic. She concentrated on her study to the point of isolation. Still, the people of the village sent her letters to keep her company.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1277,8 +1277,8 @@
 				"evasion": [0, 0, 0],
 				"background": "Cano received the highest score on the school's entrance examination. She attended the school talent show and won by singing. However, she accidently tripped on her way off the stage and her glasses broke... Surprise! She was the most beautiful girl in school!",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1298,8 +1298,8 @@
 				"evasion": [0, 0, 0, 0],
 				"background": "Cano became famous as a beautiful genius wizard. One day, a producer from popstar entertainment offered her a chance to be a popstar. Cano became a popstar spreading hope and happiness to people.",
 				"skill": {
-						"level": 2,
-						"passive": "Every time an ally uses a skill block 4 times, the Hero shoots a Love Beam at the charmed enemies dealing magical damage equal to 200% of the hero's attack power."
+					"level": 2,
+					"passive": "Every time an ally uses a skill block 4 times, the Hero shoots a Love Beam at the charmed enemies dealing magical damage equal to 200% of the hero's attack power."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1319,8 +1319,8 @@
 				"evasion": [0, 0, 0, 0, 0],
 				"background": "Cano became a famous popstar. She studied hard and learned a new spell which can convert the love and hope of her fans into her own power.",
 				"skill": {
-						"level": 2,
-						"passive": "Every time an ally uses a skill block 4 times, the Hero shoots a Love Beam at the charmed enemies dealing magical damage equal to 200% of the hero's attack power."
+					"level": 2,
+					"passive": "Every time an ally uses a skill block 4 times, the Hero shoots a Love Beam at the charmed enemies dealing magical damage equal to 200% of the hero's attack power."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1340,8 +1340,8 @@
 				"evasion": [0, 0, 0, 0, 0, 0, 0.12],
 				"background": "Cano became the mascot of 'The Night Witches'. She received a mission to slay Demona. Reminded of her vocation, she started her new journey.",
 				"skill": {
-						"level": 3,
-						"passive": "Every time an ally uses a skill block 4 times, the Hero shoots a Love Beam at the charmed enemies dealing magical damage equal to 200% of the hero's attack power. Charmed enemies hit by Love Beam have a 40% chance of missing their next attack."
+					"level": 3,
+					"passive": "Every time an ally uses a skill block 4 times, the Hero shoots a Love Beam at the charmed enemies dealing magical damage equal to 200% of the hero's attack power. Charmed enemies hit by Love Beam have a 40% chance of missing their next attack."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1370,8 +1370,8 @@
 				"evasion": [0],
 				"background": "An ordinary girl that lives in a small church in town. Due to her kind and devoted attitude, she receives the respect of the people in town despite being very young.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Ancient Dungeon: Clear Reward!"
@@ -1391,8 +1391,8 @@
 				"evasion": [0, 0],
 				"background": "Living in a church, the girl eventually becomes a sister and her popularity and virtue spread beyond the town.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1412,8 +1412,8 @@
 				"evasion": [0, 0, 0],
 				"background": "As her internal strength continues to show divine power, the religious order of the Empire begins to pay great attention to her. Although she is young she is qualified to become Mother Superior.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1433,8 +1433,8 @@
 				"evasion": [0, 0, 0, 0],
 				"background": "There are only three saintesses in the world. Unlike ordinary people, a saintess has unequalled holy power and is considered to be a guardian that protects people from evil. But now, the world has its fourth saintess.",
 				"skill": {
-						"level": 2,
-						"passive": "Allies healed by Sacred Treasure of the Goddess become immune to debuffs for 0.5 seconds. When a block is used after an ally's chain-3 skill, the ally will immediately lose all debuffs."
+					"level": 2,
+					"passive": "Allies healed by Sacred Treasure of the Goddess become immune to debuffs for 0.5 seconds. When a block is used after an ally's chain-3 skill, the ally will immediately lose all debuffs."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1454,8 +1454,8 @@
 				"evasion": [0, 0, 0, 0, 0],
 				"background": "Devils began to appear all over the world. The people of the empire were in utter chaos, looking for the light that would bring them salvation. Maria, after hearing their prayers, was more than willing to use her power.",
 				"skill": {
-						"level": 2,
-						"passive": "Allies healed by Sacred Treasure of the Goddess become immune to debuffs for 0.5 seconds. When a block is used after an ally's chain-3 skill, the ally will immediately lose all debuffs."
+					"level": 2,
+					"passive": "Allies healed by Sacred Treasure of the Goddess become immune to debuffs for 0.5 seconds. When a block is used after an ally's chain-3 skill, the ally will immediately lose all debuffs."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1475,8 +1475,8 @@
 				"evasion": [0, 0, 0, 0, 0, 0, 0.16],
 				"background": "The humans are devastated by the endless battles against the demons. However, Maria never surrenders to the demons and never loses faith in the power of light she possesses. This faith reaches the Goddess, and Maria is blessed by the Goddess' divine grace",
 				"skill": {
-						"level": 3,
-						"passive": "Allies healed by Sacred Treasure of the Goddess become immune to debuffs for 0.5 seconds. When a block is used after an ally's chain-3 skill, the block will act identically to the previous chain-3 skill and the ally will immediately lose all debuffs. (Activates once every 2 seconds)"
+					"level": 3,
+					"passive": "Allies healed by Sacred Treasure of the Goddess become immune to debuffs for 0.5 seconds. When a block is used after an ally's chain-3 skill, the block will act identically to the previous chain-3 skill and the ally will immediately lose all debuffs. (Activates once every 2 seconds)"
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1505,8 +1505,8 @@
 				"evasion": [0],
 				"background": "A sister of the Order of the Goddesses. After rescuing a mysterious black spirit, she now sees a black aura. Her parents were worried about her so they sent her to the abbey.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Ancient Dungeon: Clear Reward!"
@@ -1526,8 +1526,8 @@
 				"evasion": [0, 0],
 				"background": "With sober judgment and daring determination, Melissa was closer to a soldier than a sister. She became a segeant. Melissa was obsessed with hiding her secret from her abbey.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1547,8 +1547,8 @@
 				"evasion": [0, 0, 0],
 				"background": "Melissa found a girl in danger in the wilderness and she rescued the girl with the power of the black spirit. Melissa brought the girl to her abbey and wondered about her hidden power.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1568,8 +1568,8 @@
 				"evasion": [0, 0, 0, 0],
 				"background": "Melissa met Demona, the very first Demon. Demona told Melissa everything about her power, the demons and the Order of the Goddesses. Melissa's heart was shaken to the very core.",
 				"skill": {
-						"level": 2,
-						"passive": "Cursed enemy receives 50% of all heals that may be given to them. When a healed ally attacks the cursed enemy, it deals 300% magic damage."
+					"level": 2,
+					"passive": "Cursed enemy receives 50% of all heals that may be given to them. When a healed ally attacks the cursed enemy, it deals 300% magic damage."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1589,8 +1589,8 @@
 				"evasion": [0, 0, 0, 0, 0],
 				"background": "Melissa investigated the secrets of the Order of the Goddesses on her own and discovered the truth about the Order. She left the abbey to find her own path.",
 				"skill": {
-						"level": 2,
-						"passive": "Cursed enemy receives 50% of all heals that may be given to them. When a healed ally attacks the cursed enemy, it deals 300% magic damage."
+					"level": 2,
+					"passive": "Cursed enemy receives 50% of all heals that may be given to them. When a healed ally attacks the cursed enemy, it deals 300% magic damage."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1610,8 +1610,8 @@
 				"evasion": [0, 0, 0, 0, 0, 0, 0.11],
 				"background": "Melissa established the Black Order with Demona. Melissa became the Black Sister and sought to put an end to the Order of the Goddesses and their hidden agenda.",
 				"skill": {
-						"level": 3,
-						"passive": "Cursed enemies cannot be healed. When a healed ally attacks the cursed enemy, it deals 300% magic damage, and the party will be healed for 10% of the damage."
+					"level": 3,
+					"passive": "Cursed enemies cannot be healed. When a healed ally attacks the cursed enemy, it deals 300% magic damage, and the party will be healed for 10% of the damage."
 				},
 				"howToGet": [
 					"Promote Hero: Promoting Heroes!"
@@ -1640,8 +1640,8 @@
 				"evasion": [0, 0, 0, 0],
 				"background": "A girl who wants to become a knight to avenge her parent's death. However, she knows it is difficult for a girl become a knight, but she hopes she can become strong enough to overcome their prejudice.",
 				"skill": {
-						"level": 2,
-						"passive": "Increases leader's SP by 15 whenever a block is used."
+					"level": 2,
+					"passive": "Increases leader's SP by 15 whenever a block is used."
 				},
 				"howToGet": [
 					"Contract: Buy Contracts!",
@@ -1663,8 +1663,8 @@
 				"evasion": [0, 0, 0, 0, 0],
 				"background": "Joan of Arc becomes a knight after rigorous training, but she must hide the fact that she is a girl. Luckily, the armor for men isn't as revealing as the armor for women.",
 				"skill": {
-						"level": 2,
-						"passive": "Increases leader's SP by 15 whenever a block is used."
+					"level": 2,
+					"passive": "Increases leader's SP by 15 whenever a block is used."
 				},
 				"howToGet": [
 					"Contract: Buy Contracts!",
@@ -1686,11 +1686,603 @@
 				"evasion": [0, 0, 0, 0, 0, 0, 0.27],
 				"background": "Even after she revealed that she was indeed female, her stoic demeanor and calm in battle earned her the title of Steel Knight.",
 				"skill": {
-						"level": 3,
-						"passive": "Increases leader's SP by 30 and takes allies' damage for 5 seconds whenever a block is used."
+					"level": 3,
+					"passive": "Increases leader's SP by 30 and takes allies' damage for 5 seconds whenever a block is used."
 				},
 				"howToGet": [
 					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"vane": {
+		"faction": "Hero of Freedom",
+		"type": "Premium",
+		"class": "Paladin",
+		"skillName": "Pillar of Destruction",
+		"skillDescription": "Releases energy of the devil, dealing magic damage equal to (50/142/322)% of attack power based on the chain number.",
+		"form": [
+			{
+				"name": "Vane",
+				"star": 4,
+				"level": 40,
+				"atkPower": [145.2, 159.7, 174.3, 188.8],
+				"hp": [2493.8, 2743.2, 2992.6, 3242],
+				"critChance": [0.175, 0.175, 0.175, 0.175],
+				"armor": [32, 35.4, 38.6, 41.8],
+				"resistance": [179.1, 197, 214.9, 232.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A dark being from another world. Where he comes from, power is everything so he is frustrated that in this world, warriors masquerade as strongmen.",
+				"skill": {
+					"level": 2,
+					"passive": "When the ally uses 3-chain after the hero gives damage to enemy by Pillar of Ruin, summons 5 Pillar of Hell that deals neutral damage equal to 150% of hero's attack power. (Once evey 2 seconds)"
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Vane of Dark",
+				"star": 5,
+				"level": 50,
+				"atkPower": [252.4, 277.6, 302.9, 328.1, 353.3],
+				"hp": [4116.2, 4527.8, 4939.4, 5351, 5762.6],
+				"critChance": [0.13, 0.13, 0.13, 0.13, 0.13],
+				"armor": [37.9, 41.7, 45.5, 49.3, 53],
+				"resistance": [213, 234.3, 255.6, 276.9, 298.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Vane cannot stand it anymore and decides to destroy all those masquerading as strongmen. As a result, all the criminals are injured and hospitalized leaving the city streets a safer place. The people learn that this was the act of 'Vane' and give him the name 'Vane of Dark' because he acts in the darkness.",
+				"skill": {
+					"level": 2,
+					"passive": "When the ally uses 3-chain after the hero gives damage to enemy by Pillar of Ruin, summons 5 Pillar of Hell that deals neutral damage equal to 150% of hero's attack power. (Once evey 2 seconds)"
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Vane the Dark Knight",
+				"star": 6,
+				"level": 60,
+				"atkPower": [384, 422.4, 460.8, 499.2, 537.6, 576, 686],
+				"hp": [5554.1, 6109.5, 6664.9, 7220.3, 7775.7, 8331.1, 11456.1],
+				"critChance": [0.175, 0.175, 0.175, 0.175, 0.175, 0.175, 0.342],
+				"armor": [44, 48.4, 52.8, 57.2, 61.6, 66, 120],
+				"resistance": [247.1, 271.9, 296.6, 321.3, 346, 370.7, 676.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.14],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.20],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.22],
+				"background": "Criminals, in order to protect themselves from the unknown stranger who attacked them, hire well-known mercenaries from all over the world. Bored of just destroying weak human beings, he finds joy in crushing strong mercenaries and planting fear in the weaklings. Not knowing the true intntions of Vane, people start calling him a hero of justice, the Dark Knight.",
+				"skill": {
+					"level": 3,
+					"passive": "When the ally uses 3-chain after the hero gives damage to enemy by Pillar of Ruin, summons 5 Pillar of Hell that deals neutral damage equal to 150% of hero's attack power. When enemy damaged by Pillar of Ruin attacks the hero, the hero's attack power increases 30% for 5 seconds. (Once evey 2 seconds)"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"cain": {
+		"faction": "Unknown",
+		"type": "Premium",
+		"class": "Paladin",
+		"skillName": "Whirlwind of Pain",
+		"skillDescription": "Attack by spinning quickly. Deals physical damage equal to (33/147/325)% of the Hero's attack power.",
+		"form": [
+			{
+				"name": "Cain",
+				"star": 4,
+				"level": 40,
+				"atkPower": [203.7, 224.1, 244.5, 264.8],
+				"hp": [2360.4, 2596.5, 2832.5, 3068.6],
+				"critChance": [0.1, 0.1, 0.1, 0.1],
+				"armor": [19.3, 21.2, 23.2, 25.1],
+				"resistance": [94.1, 103.5, 112.9, 122.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "The first in line for the throne of the West, Cain was known for his cruelty. Afer ascending to the throne, he was quickly overthrown. He led a failed coup to reclaim his throne and was banished from his homeland forever.",
+				"skill": {
+					"level": 2,
+					"passive": "Attacking a debuffed enemy will stun them for 1 second. The target you hit last will have its attack power reduced by 20% for 5 seconds."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Devil Cain",
+				"star": 5,
+				"level": 50,
+				"atkPower": [352.8, 388.1, 423.4, 458.7, 494],
+				"hp": [3620.8, 3982.8, 4344.9, 4707, 5069.1],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+				"armor": [22.7, 25, 27.2, 29.5, 31.8],
+				"resistance": [127.8, 140.5, 153.3, 166.1, 178.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Cain made a pact with the devil and sealed it with the blood of his own brother, Abel. He uses his new found might to organize an army of marauders, hoping to take back his kingdom by force.",
+				"skill": {
+					"level": 2,
+					"passive": "Attacking a debuffed enemy will stun them for 1 second. The target you hit last will have its attack power reduced by 20% for 5 seconds."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "True Devil Cain",
+				"star": 6,
+				"level": 60,
+				"atkPower": [537.4, 591.1, 644.9, 698.6, 752.3, 806.1, 968.1],
+				"hp": [5256.7, 5782.4, 6308.1, 6833.7, 7359.4, 7885.1, 10783.1],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.217],
+				"armor": [26.3, 28.9, 31.5, 34.2, 36.8, 39.4, 83.4],
+				"resistance": [148, 162.8, 177.6, 192.4, 207.2, 222, 470],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.28],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.2],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.23],
+				"background": "Cain led his army forward but was stopped by Abel. After a long fight, Cain found himself at the mercy of the devils with whom he made a pact and promises them more blood if they spare him from death.",
+				"skill": {
+					"level": 3,
+					"passive": "Attacking a debuffed enemy will stun them for 1 second. The target you hit last will have its attack power reduced by 30% for 5 seconds. The Hero then has a 65% chance of activating a chain-3 skill."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"mundeok": {
+		"faction": "Unknown",
+		"type": "Premium",
+		"class": "Paladin",
+		"skillName": "Hero's Charge",
+		"skillDescription": "Pushes back the enemy and deals physical damage equal to (50/150/976)% of heros attack power for (0.5/0.5/5) seconds.",
+		"form": [
+			{
+				"name": "Mundeok",
+				"star": 4,
+				"level": 40,
+				"atkPower": [152.6, 167.9, 183.2, 198.4],
+				"hp": [2950.5, 3245.6, 3540.6, 3835.6],
+				"critChance": [0.105, 0.105, 0.105, 0.105],
+				"armor": [33.7, 37.1, 40.5, 43.9],
+				"resistance": [158.4, 174.3, 190.1, 206],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "When the country of Han was overrun by the forces of its oldest enemy, only one man dared opposed their might. That man was Mundeok.",
+				"skill": {
+					"level": 2,
+					"passive": "During Hero's Charge, one chain-1 skill will be treated as a chain-3 skill for an ally. Hero's charge cannot be interrupted."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Colonel Mundeok",
+				"star": 5,
+				"level": 50,
+				"atkPower": [264.6, 291.1, 317.6, 344, 370.5],
+				"hp": [4525.3, 4977.8, 5430.4, 5882.9, 6335.4],
+				"critChance": [0.105, 0.105, 0.105, 0.105, 0.105],
+				"armor": [39.8, 43.8, 47.8, 51.8, 55.8],
+				"resistance": [223.8, 246.2, 268.6, 291, 313.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Impressed by Mundeok's valor, the king of Han entrusted him with a small force to fight against their oppressors. UNder the cover of night, Mundeok led his force to the enemy camp and decimated their army.",
+				"skill": {
+					"level": 2,
+					"passive": "During Hero's Charge, one chain-1 skill will be treated as a chain-3 skill for an ally. Hero's charge cannot be interrupted."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "General Mundeok",
+				"star": 6,
+				"level": 60,
+				"atkPower": [403.5, 443.8, 484.2, 524.5, 564.8, 605.2, 721.2],
+				"hp": [6570.6, 7227.7, 7884.8, 8541.8, 9198.9, 9856, 13757],
+				"critChance": [0.105, 0.105, 0.105, 0.105, 0.105, 0.105, 0.225],
+				"armor": [46.3, 51, 55.6, 60,3, 64.9, 69.5, 125.5],
+				"resistance": [259.5, 285.5, 311.4, 337.4, 363.3, 389.3, 703.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.21],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.19],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.21],
+				"background": "With the tides of war almost turned, Mundeok was granted complete control over the armies of Han. When piece finally returned to the land, the king of Han promised to reward Mundeok with jewels and gold, but Mundeok was already gone, in search of new battles.",
+				"skill": {
+					"level": 3,
+					"passive": "During Hero's Charge damage is reduced by 50% and chain-1 skills will be treated as a chain-3 skills for an ally (maximum of 2 times). Hero's charge cannot be interrupted."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"v": {
+		"faction": "Neth Empire",
+		"type": "Premium",
+		"class": "Paladin",
+		"skillName": "Unlimited!",
+		"skillDescription": "Pushes toward the enemy, dealing physical damage equal to (50/150/250)% of the hero's attack power based on the length of the chain skill used.",
+		"form": [
+			{
+				"name": "V",
+				"star": 4,
+				"level": 40,
+				"atkPower": [152.6, 167.9, 183.2, 198.4],
+				"hp": [2346.4, 2581, 2815.7, 3050.3],
+				"critChance": [0.21, 0.21, 0.21, 0.21],
+				"armor": [32.2, 35.4, 38.6, 41.8],
+				"resistance": [179.1, 197, 214.9, 232.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "After R-0 overrode her command protocol and escaped, Road Industry invented a new android based on the R-0 design. That robot is V. Road Industry conducts an experiment to test whether V can replace R-0.",
+				"skill": {
+					"level": 2,
+					"passive": "Goes into Fury Mode for 5 seconds after using 3-chain. Fury Mode increases attack power/armor/physical and magical penetration every 1 second equal to 2% of hero's maximum HP, and magnifies the power of 3-chains by 50%. (Maximum 5 stacks) In Fury Mode, hero receives penalty of 10% of maximum HP every second. Usage of block skill increases duration of Fury Mode by 1 second."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Hunter - V",
+				"star": 5,
+				"level": 50,
+				"atkPower": [285.2, 313.7, 342.3, 370.8, 399.3],
+				"hp": [3876.1, 4263.7, 4651.3, 5038.9, 5426.5],
+				"critChance": [0.21, 0.21, 0.21, 0.21],
+				"armor": [40.8, 44.9, 49, 53.1, 57.2],
+				"resistance": [229.2, 252.1, 275, 298, 320.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Road Industry concludes that V cannot replace R-0. In order to eliminate R-0 they modify V to track R-0. After a long persuit, V finally confronts R-0.",
+				"skill": {
+					"level": 2,
+					"passive": "Goes into Fury Mode for 5 seconds after using 3-chain. Fury Mode increases attack power/armor/physical and magical penetration every 1 second equal to 2% of hero's maximum HP, and magnifies the power of 3-chains by 50%. (Maximum 5 stacks) In Fury Mode, hero receives penalty of 10% of maximum HP every second. Usage of block skill increases duration of Fury Mode by 1 second."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Berserk - V",
+				"star": 6,
+				"level": 60,
+				"atkPower": [403.5, 443.8, 482.2, 524.5, 564.8, 625.2, 721.2],
+				"hp": [5225.4, 5748, 6270.5, 6793.1, 7315.6, 7838.2, 10713.2],
+				"critChance": [0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.4],
+				"armor": [44, 48.4, 52.8, 57.2, 61.6, 66, 120],
+				"resistance": [247.1, 271.9, 296.6, 321.3, 346, 370.7, 676.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.22],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.23],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.16],
+				"background": "It was created to replace R-0, but the result wasn't as great as expected. Therefore, it was remodeled as a tracking device and is used to track down R-0. It was destroyed by R-0 in the middle of an operation, which led to its rampage mode. Now, it chases R-0 until complete elimination of R-0, and nothing can possibly control it.",
+				"skill": {
+					"level": 3,
+					"passive": "Goes into Fury Mode for 5 seconds after using 3-chain. Fury Mode increases attack power/armor/physical and magical penetration every 1 second equal to 2% of hero's maximum HP, and magnifies the power of 3-chains by 50%. (Maximum 5 stacks) In Fury Mode, hero receives penalty of 10% of maximum HP every second. Usage of block skill increases duration of Fury Mode by 1 second. In Fury Mode, every block skill is activated as 3-chain skill effect, and every block used by ally triggers hero's own block skill. The strength of hero's every third block skill is magnified by 1.5 times."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"hector": {
+		"faction": "Unknown",
+		"type": "Premium",
+		"class": "Paladin",
+		"skillName": "Iron will",
+		"skillDescription": "Jabs a spear forward which deals physical damage equal to (50/130/220)% of Hero's attack power according to the chain number.",
+		"form": [
+			{
+				"name": "Hector",
+				"star": 4,
+				"level": 40,
+				"atkPower": [95.7, 105.3, 114.8, 124.4],
+				"hp": [2866.3, 3152.9, 3439.5, 3726.1],
+				"critChance": [0.1, 0.1, 0.1, 0.1],
+				"armor": [54.5, 60, 65.4, 70.9],
+				"resistance": [289.2, 318.2, 371.1, 376],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "The troublemaker of Roman's Military Academy. When he finds himself in the danger of expulsion for fighting with his greatest rival, Achilles, his fellow classmate and noble Athena helps him from getting expelled. Afterwards Hector becomes a model student, and rumors about Hector and Athena's relationship are passed around the school.",
+				"skill": {
+					"level": 2,
+					"passive": "Iron will is activated for 5 seonds after receiving every 5th attack from the enemy. During the activation, Hero's armor/resistance increases by 100% and attack power decreases by 50%."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Wondering Hector",
+				"star": 5,
+				"level": 50,
+				"atkPower": [180.8, 198.9, 217, 235.1, 253.2],
+				"hp": [4396.4, 4836.1, 5275.7, 5715.4, 6155],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+				"armor": [70.3, 77.3, 84.3, 91.4, 98.4],
+				"resistance": [362.5, 398.8 , 435.1, 471.3, 507.6],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Hector graduated from the military academy as the second-best of his class. After graduation, he becomes a covert operative, reporting directly to Athena. He becomes Athena's right-hand man and she entrusts him with her most important missions. He reports back to Athena with coded messages, so clever than he can report all the details in one simple sentence.",
+				"skill": {
+					"level": 2,
+					"passive": "Iron will is activated for 5 seonds after receiving every 5th attack from the enemy. During the activation, Hero's armor/resistance increases by 100% and attack power decreases by 50%."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Hector of Steel",
+				"star": 6,
+				"level": 60,
+				"atkPower": [309.1, 340, 370.9, 401.8, 432.7, 463.6, 547.6],
+				"hp": [6383, 7021.3, 7659.6, 8297.9, 8936.2, 9574.5, 13332.5],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.217],
+				"armor": [85.4, 93.9, 102.5, 111, 119.5, 128.1, 203.1],
+				"resistance": [432.8, 476.1, 519.3, 562.6, 605.9, 649.2, 1073.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.17],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.15],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.25],
+				"background": "One day, Hector figures out that Manacar had been freed. Realizing the seriousness of the situation, he reports to Athena about the incident and goes on a journey to chase after the people who freed Manacar. His steadfast determination and skill in battle earn him the name \"Hector of Steel\".",
+				"skill": {
+					"level": 3,
+					"passive": "Iron will is activated for 5 seonds after receiving every 5th attack from the enemy. During the activation, Hero's armor/resistance increases by 100% and attack power decreases by 50%. When ally uses chain-3 skill, hero deals physical damage equal to 150% of hero's resistance and recovers own SP by 20."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"siegfried": {
+		"faction": "Unknown",
+		"type": "Premium",
+		"class": "Paladin",
+		"skillName": "Chains of Confinement",
+		"skillDescription": "Upon using block, uses Chain of Confinement that deal physical damage equal to (120/200/320)% of hero's attack power. Enemies hit by Chains of Confinement are restricted from moving for 2 seconds.",
+		"form": [
+			{
+				"name": "Siegfried",
+				"star": 4,
+				"level": 40,
+				"atkPower": [114.8, 126.3, 137.8, 149.3],
+				"hp": [2293, 2522.3, 2751.6, 2980.9],
+				"critChance": [0.1, 0.1, 0.1, 0.1],
+				"armor": [54.5, 60, 65.4, 70.9],
+				"resistance": [289.2, 318.2, 347.1, 376],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Siegfried is the strongest fighter among the Devil Dragon hunters. However, to save the life of his beloved Kriemhild, he took a curse that was meant for her and he fell into a magical sleep.",
+				"skill": {
+					"level": 2,
+					"passive": "Upon using 4 blocks, hero will plunge spear towards enemy and deal physical damage equal to 400% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Siegfried of Dreams",
+				"star": 5,
+				"level": 50,
+				"atkPower": [217, 238.7, 260.4, 282.1, 303.8],
+				"hp": [3517.2, 3868.9, 4220.6, 4572.3, 4924],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+				"armor": [70.3, 77.3, 84.3, 91.4, 98.4],
+				"resistance": [362.5, 398.8, 435.1, 471.3, 507.6],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Not being able to waken from the dream world, Siegfried slept for many years before the first Saintless found him. The Saintless was able to exorcise the devil out of him with a special incantation. Siegfried was finally able to wake up and embrace his beloved Kriemhild.",
+				"skill": {
+					"level": 2,
+					"passive": "Upon using 4 blocks, hero will plunge spear towards enemy and deal physical damage equal to 400% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Siegfried the Dragon Paladin",
+				"star": 6,
+				"level": 60,
+				"atkPower": [370.9, 408, 445, 482.1, 519.2, 556.3, 677.3],
+				"hp": [5106.4, 5617.1, 6127.7, 6638.3, 7149, 7659.6, 10471.6],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.267],
+				"armor": [85.4, 93.9, 102.5, 111, 119.5, 128.1, 182.1],
+				"resistance": [432.8, 476.1, 519.3, 562.6, 605.9, 649.2, 955.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.14],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.2],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.22],
+				"background": "Having awoken from the curse, Siegfried finds that the world is in total chaos. To help Kriemhild, the warrior chosen to fight against devils, Siegfried arms himself with armor made from the horn and scales of a corrupted devil dragon and joins her in battle.",
+				"skill": {
+					"level": 3,
+					"passive": "Upon using 4 blocks, hero will plunge spear towards enemy and deal physical damage equal to 400% of hero's attack power. Enemies already under hero's confinement will receive additional damage equal to 700% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"dullahan": {
+		"faction": "Unknown",
+		"type": "Premium",
+		"class": "Paladin",
+		"skillName": "Executioner's Ax",
+		"skillDescription": "Using blocks causes the hero to smash down with his axe dealing physical damage equal to (140/200/310)% of hero's attack power",
+		"form": [
+			{
+				"name": "Dullahan",
+				"star": 4,
+				"level": 40,
+				"atkPower": [108, 118.8, 129.6, 140.4],
+				"hp": [2434, 2677.4, 2920.8, 3164.2],
+				"critChance": [0.1, 0.1, 0.1, 0.1],
+				"armor": [54.5, 60, 65.4, 70.9],
+				"resistance": [289.2, 318.2, 347.1, 376],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Goddesses encounter an unknown power in the wilderness and try restoring it from the ruin. Which results in the Paladin, Dullahan. Unfortunately, the Goddesses are unable to restore the head and replace it with a pumpkin. Dullahan is often mad, maybe because the pumpkin is literally on fire.",
+				"skill": {
+					"level": 2,
+					"passive": "Using blocks after the hero is healed will make hero move forward and smash down with his axe 5 times rapidly. Each attack deals physical damage equal to 200% of hero's attack power. There is a 50% chance that the hero fails an attack and falls. When the hero gets up, he deals damage with his head equal to 200% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Steel Warrior Dullahan",
+				"star": 5,
+				"level": 50,
+				"atkPower": [204.6, 225.1, 245.5, 266, 286.5],
+				"hp": [3753.2, 4128.5, 4503.8, 4879.1, 5254.4],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+				"armor": [70.3, 77.3, 84.3, 91.4, 98.4],
+				"resistance": [362.5, 393.8, 435.1, 471.3, 507.6],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Goddesses couldn't control Dullahan. To solve the problem, they got rid of the pumpkin and replaced it with a steel pot instead. Dullahan becomes a calm and cold warrior. However, he is more like a pacifist and often walks away from the battlefield.",
+				"skill": {
+					"level": 2,
+					"passive": "Using blocks after the hero is healed will make hero move forward and smash down with his axe 5 times rapidly. Each attack deals physical damage equal to 200% of hero's attack power. There is a 50% chance that the hero fails an attack and falls. When the hero gets up, he deals damage with his head equal to 200% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Dullahan of the Apocalypse",
+				"star": 6,
+				"level": 60,
+				"atkPower": [347.9, 382.7, 417.4, 452.2, 487, 521.8, 642.8],
+				"hp": [5498.2, 6048, 6597.9, 7147.7, 7697.5, 8247.3, 11059.3],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.267],
+				"armor": [85.4, 93.9, 102.5, 111, 119.5, 128.1, 182.1],
+				"resistance": [432.8, 476.1, 519.3, 562.6, 605.9, 649.2, 955.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.14],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.2],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.22],
+				"background": "While Dullahan was investigating a strange phenomenon of Hasla, he finds a helmet with an ominous aura and anxiously puts on the helmet. As a result Dullahan gets a Devil's head and becomes corrupt, only pursuing destruction.",
+				"skill": {
+					"level": 3,
+					"passive": "Using blocks after the hero is healed will make hero move forward and smash down with his axe 5 times rapidly. Each attack deals physical damage equal to 200% of hero's attack power. There is a 20% chance that the hero fails an attack and falls. When the hero gets up, he deals damage with his head equal to 260% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"wolfgang": {
+		"faction": "Unknown",
+		"type": "Premium",
+		"class": "Paladin",
+		"skillName": "Raging Hammer",
+		"skillDescription": "When Block skill is used, deals physical damage equal to (100/250/450)% of hero's attack power by moving forward with hammer swinging for 3 seconds. When 3-chain block is used, deals extra physical damage equal to 350% of hero's attack power after hammer spinning.",
+		"form": [
+			{
+				"name": "Wolfgang",
+				"star": 4,
+				"level": 40,
+				"atkPower": [142.2, 156.5, 170.7, 184.9],
+				"hp": [2775.1, 3052.6, 3330.1, 3607.6],
+				"critChance": [0.1, 0.1, 0.1, 0.1],
+				"armor": [135.5, 149.1, 162.6, 176.2],
+				"resistance": [176.9, 194.6, 212.3, 229.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Wolfgang is from one of the small tribes bordering Nosgard. He loves nature so he protects it. However, poachers kept destroying it, so Wolfgang learned martial arts and incantations to drive them out.",
+				"skill": {
+					"level": 2,
+					"passive": "When ally other than the hero uses the skill, that ally will be applicated with the following stat based on the ally's class.\nWarrior: Increase armor equal to 80% of ally's armor\nPaladin: Increase resistance equal to 80% of ally's resistance\nArcher: Increase critical chance equal to 100% of ally's critical chance\nHunter: Increase critical damage equal to 120% of ally's critical damage\nWizard: Increase attack power equal to 40% of ally's attack power\nPriest: Increase HP equal to 30% of ally's maximum HP"
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Chief Wolfgang",
+				"star": 5,
+				"level": 50,
+				"atkPower": [249.8, 274.8, 299.8, 324.8, 349.7],
+				"hp": [4271.2, 4698.3, 5125.4, 5552.6, 5979.7],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+				"armor": [169.1, 186, 202.9, 219.8, 236.7],
+				"resistance": [211.3, 232.4, 253.6, 274.7, 295.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Wolfgang rooted out poachers. He became so popular that people from Nosgard knew of him. Thor suggested he join the Guard, since he defeated most of the poachers. He gladly joined.",
+				"skill": {
+					"level": 2,
+					"passive": "When ally other than the hero uses the skill, that ally will be applicated with the following stat based on the ally's class.\nWarrior: Increase armor equal to 80% of ally's armor\nPaladin: Increase resistance equal to 80% of ally's resistance\nArcher: Increase critical chance equal to 100% of ally's critical chance\nHunter: Increase critical damage equal to 120% of ally's critical damage\nWizard: Increase attack power equal to 40% of ally's attack power\nPriest: Increase HP equal to 30% of ally's maximum HP"
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Frost Hammer Wolfgang",
+				"star": 6,
+				"level": 60,
+				"atkPower": [381.4, 419.6, 457.7, 495.9, 534, 572.1, 687.1],
+				"hp": [6218.9, 6840.8, 7462.7, 8084.6, 8706.5, 9328.4, 12774.8],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.217],
+				"armor": [202.7, 223, 243.2, 263.5, 283.8, 304, 499.3],
+				"resistance": [245.7, 270.3, 294.9, 319.4, 344, 368.6, 610.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.14],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.21],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.21],
+				"background": "After Wolfgang left to join the Guard, a skilled poacher appeared. The tribe tried to solve the problem on their own but failed. So they contacted Wolfgang. A furious Wolfgang came back home to kill the poacher.",
+				"skill": {
+					"level": 3,
+					"passive": "When ally other than the hero uses the skill, that ally and hero will be applicated with the following stat based on the ally's class.\nWarrior: Increase armor equal to 100% of ally's armor\nPaladin: Increase resistance equal to 100% of ally's resistance\nArcher: Increase critical chance equal to 120% of ally's critical chance\nHunter: Increase critical damage equal to 150% of ally's critical damage\nWizard: Increase attack power equal to 50% of ally's attack power\nPriest: Increase HP equal to 40% of ally's maximum HP"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
 					"Promote Hero: Promoting Heroes!"
 				]
 			}
@@ -1717,8 +2309,8 @@
 				"evasion": [0, 0, 0, 0],
 				"background": "A cat lover that loves cats so much that she wears cat ears. By becoming a veterinarian, she can touch a countless numbers of cats, which is the main reason why she started studying medicine.",
 				"skill": {
-						"level": 2,
-						"passive": "When an ally uses a chain-3 skill, one block is added to the queue (triggered once every 1.5 secs)."
+					"level": 2,
+					"passive": "When an ally uses a chain-3 skill, one block is added to the queue (triggered once every 1.5 secs)."
 				},
 				"howToGet": [
 					"Contract: Buy Contracts!",
@@ -1740,8 +2332,8 @@
 				"evasion": [0, 0, 0, 0, 0],
 				"background": "One day Mew woke up and found herself to be part cat. An ordinary human would have been in a state of panic, but Mew was truly happy.",
 				"skill": {
-						"level": 2,
-						"passive": "When an ally uses a chain-3 skill, one block is added to the queue (triggered once every 1.5 secs)."
+					"level": 2,
+					"passive": "When an ally uses a chain-3 skill, one block is added to the queue (triggered once every 1.5 secs)."
 				},
 				"howToGet": [
 					"Contract: Buy Contracts!",
@@ -1763,13 +2355,12 @@
 				"evasion": [0, 0, 0, 0, 0, 0, 0.15],
 				"background": "Now that Mew has become part cat she can understand cats. In order to meet more cats, Mew goes around tempting cats with fresh fish.",
 				"skill": {
-						"level": 3,
-						"passive": "When an ally uses a chain-3 skill, one block is added to the queue and the Hero recovers 10 SP (triggered once every 1.5 secs)."
+					"level": 3,
+					"passive": "When an ally uses a chain-3 skill, one block is added to the queue and the Hero recovers 10 SP (triggered once every 1.5 secs)."
 				},
 				"howToGet": [
 					"Contract: Buy Contracts!",
-					"Promote Hero: Promoting Heroes!",
-					"Noble Honor Box: Acquired chance to get Noble honor box!"
+					"Promote Hero: Promoting Heroes!"
 				]
 			}
 		]
@@ -1795,8 +2386,8 @@
 				"evasion": [0, 0, 0],
 				"background": "There are two things you can count on in this world: Brave Dog being brave and Goblins smelling like old milk.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Contract: Buy Contracts!",
@@ -1829,8 +2420,8 @@
 				"evasion": [0, 0],
 				"background": "As a warrior of the East, he trains to reach a higher state of being by battling against the strongest opponents he can find.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Contract: Buy Contracts!",
@@ -1863,8 +2454,8 @@
 				"evasion": [0],
 				"background": "He worked hard on the farm, but now he's set out on a quest to save his cabbages from monsters.",
 				"skill": {
-						"level": 1,
-						"passive": ""
+					"level": 1,
+					"passive": ""
 				},
 				"howToGet": [
 					"Stage: Forest 1-23",

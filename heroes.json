@@ -2365,6 +2365,83 @@
 			}
 		]
 	},
+	"yeowoodong": {
+		"faction": "Unknown",
+		"type": "Promote",
+		"class": "Priest",
+		"skillName": "Bell of Goddess",
+		"skillDescription": "With the power of the Goddess, the entire party's HP is healed by (42/152/275)% of the hero's attack power based on the chain number.",
+		"form": [
+			{
+				"name": "Yeowoodong",
+				"star": 4,
+				"level": 40,
+				"atkPower": [193.1, 212.5, 231.8, 251.1],
+				"hp": [1786.7, 1965.4, 2144.1, 2322.7],
+				"critChance": [0.175, 0.175, 0.175, 0.175],
+				"armor": [104.9, 115.4, 125.9, 136.4],
+				"resistance": [104.9, 115.4, 125.9, 136.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A well known dancing girl from the Eastern Country. Her true identity is the Nine Tailed Fox, who is desperately trying to become human.",
+				"skill": {
+					"level": 2,
+					"passive": "When a chain-3 skill is activated, there will be a 45% chance of the activating ally's block being generated."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Stunning Yeowoodong",
+				"star": 5,
+				"level": 50,
+				"atkPower": [332.7, 366, 399.3, 432.5, 465.8],
+				"hp": [2779.8, 3057.8, 3335.8, 3613.7, 3891.7],
+				"critChance": [0.175, 0.175, 0.175, 0.175, 0.175],
+				"armor": [125, 137.5, 150, 162.4, 174.9],
+				"resistance": [125, 137.5, 150, 162.4, 174.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Yeowoodong has polished herself through endless effort. Before long, people compliment her intelligence and beauty. Eventually Yeowodoong falls in love with one of her admirers.",
+				"skill": {
+					"level": 2,
+					"passive": "When a chain-3 skill is activated, there will be a 45% chance of the activating ally's block being generated."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Nine Tailed Fox Yeowoodong",
+				"star": 6,
+				"level": 60,
+				"atkPower": [497.8, 547.6, 597.4, 647.2, 697, 746.8, 889.8],
+				"hp": [4107.3, 4518.1, 4928.8, 5339.5, 5750.2, 6161, 7918],
+				"critChance": [0.175, 0.175, 0.175, 0.175, 0.175, 0.175, 0.342],
+				"armor": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 377.2],
+				"resistance": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 377.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.14],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.15],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.17],
+				"background": "Yeowoodong gives up becoming human in order to protect the man she loves. But that man can see past her changed appearance and his feelings remain unchanged. Although Yeowoodong gave up becoming human, she was able to gain true love anyway.",
+				"skill": {
+					"level": 3,
+					"passive": "When a chain-3 skill is activated, there will be a 65% chance of the activating ally's block being generated. Also, the Hero's next healing skill will heal the target for an additional 5% of target's maximum HP."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
 	"bravedog": {
 		"faction": "",
 		"type": "Normal",
@@ -2460,6 +2537,362 @@
 				"howToGet": [
 					"Stage: Forest 1-23",
 					"Stage: Appears at Forest 1-23 Hard."
+				]
+			}
+		]
+	},
+	"jin-kyung": {
+		"faction": "Supply all forces",
+		"type": "Secret",
+		"class": "Paladin",
+		"skillName": "Fascinating Spear Slash",
+		"skillDescription": "Deals physical damage equal to (50/130/220)% of hero's attack based on the length of the chain skill used.",
+		"form": [
+			{
+				"name": "Jin-Kyung",
+				"star": 4,
+				"level": 40,
+				"atkPower": [105, 116.4, 127, 137],
+				"hp": [3540.6, 3894.6, 4248.7, 4602.7],
+				"critChance": [0.1, 0.1, 0.1, 0.1],
+				"armor": [33.7, 37.1, 40.5, 43.9],
+				"resistance": [188.1, 206.9, 225.7, 244.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "The boy who wants to become the greatest general in history. On his way to go fishing, he unintentionally defeated a wild dog with his rod. This incident inspired his decision to practice his spearsmanship.",
+				"skill": {
+					"level": 2,
+					"passive": "When ally's block is used after hero's chain-3 skill, Jin-Kyung throws a spear which deals physical damage equal to 10% of his HP 3 times."
+				},
+				"howToGet": [
+					"Event: Get by event!"
+				]
+			},
+			{
+				"name": "General Jin-Kyung",
+				"star": 5,
+				"level": 50,
+				"atkPower": [183.3, 201.6, 219.9, 238.3, 256.6],
+				"hp": [5430.8, 7973.9, 6517, 7060.1, 7603.2],
+				"critChance": [0.105, 0.105, 0.105, 0.105, 0.105],
+				"armor": [39.8, 43.8, 47.8, 51.8, 55.8],
+				"resistance": [223.8, 246.2, 268.6, 291, 313.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Jin-Kyung gets recognized for his talented spearsmanship. While serving as a general in the empire, he saved the imperial prince from danger. Ever since then, Jin-Kyung became the right hand man of the imperial prince.",
+				"skill": {
+					"level": 2,
+					"passive": "When ally's block is used after hero's chain-3 skill, Jin-Kyung throws a spear which deals physical damage equal to 10% of his HP 3 times."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Invincible General Jin-Kyung",
+				"star": 6,
+				"level": 60,
+				"atkPower": [279, 306.9, 334.8, 362.7, 390.6, 418.5, 522.5],
+				"hp": [7885.2, 8673.7, 9462.2, 10250.7, 11039.2, 11827.6, 16730.7],
+				"critChance": [0.105, 0.105, 0.105, 0.105, 0.105, 0.105, 0.222],
+				"armor": [46.3, 51, 55,6, 60.3, 64.9, 69.5, 125.5],
+				"resistance": [259.5, 285.5, 311.4, 337.4, 363.3, 389.3, 703.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.22],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.2],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.22],
+				"background": "The empire decides to hold a festival just for Jin-Kyung. While people were preparing for festival, Jin-Kyung went outside to get some fresh air and accidentally runs into Hong-Ran. At that moment, he fell into the dimentional portal and arrived at Hasla.",
+				"skill": {
+					"level": 3,
+					"passive": "When ally's block is used after hero's chain-3 skill, Jin-Kyung throws a spear which deals physical damage equal to 20% of his HP 3 times."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"rebecca": {
+		"faction": "Unknown",
+		"type": "Secret",
+		"class": "Paladin",
+		"skillName": "Iron hammer of destruction",
+		"skillDescription": "Hero throws an iron hammer which deals physical damage equal to (50/130/260)%. Mark of the Sun appears on hit enemies for 5 seconds.",
+		"form": [
+			{
+				"name": "Rebecca",
+				"star": 4,
+				"level": 40,
+				"atkPower": [152.6, 167.9, 183.2, 198.4],
+				"hp": [2803.1, 3083.4, 3363.7, 3644],
+				"critChance": [0.105, 0.105, 0.105, 0.105],
+				"armor": [46.7, 51.4, 56.1, 60.7],
+				"resistance": [196.4, 216.1, 235.7, 255.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Chen's only daugher. She is already well known for her outstanding skill in martial arts. Her strong will makes her feel obligated to join the expedition to conquer Han. During the long journey she meets Artair and falls in love with at first sight.",
+				"skill": {
+					"level": 2,
+					"passive": "When marked enemies are attacked by ally, they receive additional physical damage equal to 25% of attacking Hero's attack power."
+				},
+				"howToGet": [
+					"Event: Get by event!"
+				]
+			},
+			{
+				"name": "Battle Princess Rebecca",
+				"star": 5,
+				"level": 50,
+				"atkPower": [304.3, 334.8, 365.2, 395.6, 426],
+				"hp": [3445.8, 3790.4, 4135, 4479.6, 4824.2],
+				"critChance": [0.105, 0.105, 0.105, 0.105, 0.105],
+				"armor": [61, 67.1, 73.2, 79.2, 85.3],
+				"resistance": [309.1, 340.1, 371, 401.9, 432.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Rebecca and Altair ran away together after Altair was wounded in battle. They grew closer together as Rebecca nursed him back to health. However, when the war ended, they were caught and punished for deserting. Rebecca was forced to return home to Chen to face her outraged father.",
+				"skill": {
+					"level": 2,
+					"passive": "When marked enemies are attacked by ally, they receive additional physical damage equal to 25% of attacking Hero's attack power."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "War Princess Rebecca",
+				"star": 6,
+				"level": 60,
+				"atkPower": [443.6, 487, 532.3, 576.7, 621, 665.4, 795.4],
+				"hp": [5450.2, 5995.3, 6540.3, 7085.3, 7630.3, 8175.3, 11221.3],
+				"critChance": [0.105, 0.105, 0.105, 0.105, 0.105, 0.105, 0.225],
+				"armor": [74.2, 81.6, 89, 96.4, 103.9, 111.3, 180.3],
+				"resistance": [370.8, 407.9, 445, 482.1, 519.2, 556.3, 959.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.03],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.25],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.16],
+				"background": "Rebecca is placed under house arrest for running away from the battle. She hires Crow and orders him to bomb the house where she is kept. Crow makes it look like an accident and Rebecca successfully escapes. Now she journeys to find her beloved Altair.",
+				"skill": {
+					"level": 3,
+					"passive": "When marked enemies are attacked by ally, they receive additional physical damage equal to 40% of attacking Hero's attack power. The maximum HP is increased by 10% during the attack."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"may": {
+		"faction": "Supply all forces",
+		"type": "Secret",
+		"class": "Paladin",
+		"skillName": "Mr. Dolphin",
+		"skillDescription": "Summons a dolphin that deals physical damage equal to (60/150/320)% of the Hero's attack power according to the chain numbers.",
+		"form": [
+			{
+				"name": "May",
+				"star": 4,
+				"level": 40,
+				"atkPower": [99.6, 109.5, 119.5, 129.5],
+				"hp": [3558.9, 3914.8, 4270.7, 4626.6],
+				"critChance": [0.15, 0.15, 0.15, 0.15],
+				"armor": [38.8, 42.7, 46.6, 50.5],
+				"resistance": [216.2, 237.8, 259.4, 281],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "She was orphaned during the Holy War. Johnny, the leader of the Jellyfish air pirates, found and raised her since then. She was named May, since Johnny adopted her in May. She is a young, cute, and spunky member of the Jellyfish air pirates.",
+				"skill": {
+					"level": 2,
+					"passive": "Whenever the hero takes a critical strike, a chain-3 skill is activated. (Activates once every 3 seconds)"
+				},
+				"howToGet": [
+					"Event: Get by event!"
+				]
+			},
+			{
+				"name": "May",
+				"star": 5,
+				"level": 50,
+				"atkPower": [178.9, 196.8, 214.7, 232.5, 250.4],
+				"hp": [5297.1, 5826.8, 6356.5, 6886.2, 7415.9],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15],
+				"armor": [45.7, 50.3, 54.9, 59.4, 64],
+				"resistance": [257.1, 282.8, 308.6, 334.3, 360],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "May falls in love with Johnny. But one day, Johnny gets caught by the police. May decides to participate in a martial arts contest where the grand prize is to grant the winner's wish to bail Johnny out of prison. Meantime, Johnny has escaped from the prison by himself.",
+				"skill": {
+					"level": 2,
+					"passive": "Whenever the hero takes a critical strike, a chain-3 skill is activated. (Activates once every 3 seconds)"
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "May",
+				"star": 6,
+				"level": 60,
+				"atkPower": [294.3, 323.7, 353.2, 382.6, 312, 441.5, 520.5],
+				"hp": [7855.1, 8640.6, 9426.1, 10211.6, 10997.1, 11782.6, 17163.6],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.3],
+				"armor": [52.8, 58.1, 63.4, 68.7, 72, 79.3, 139.3],
+				"resistance": [284.3, 312.7, 341.2, 369.6, 398, 426.5, 763.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.17],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.21],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.18],
+				"background": "After the invasion from Ramlethal, May develops a headache. She finds out that her origin was the reason, but thanks to her colleagues including Johnny, she is able to recover. While investigating the cause of this unknown disease with Johnny, both of them are ditched at Hasla due to an unexpected change in dimension.",
+				"skill": {
+					"level": 3,
+					"passive": "Whenever the hero takes a critical strike, a chain-3 skill is activated. (Activates once every 3 seconds) Whenever another skill is used after May's chain-3 skill, a killer whale is summoned that deals physical damage equal to 30% of the enemy's maximum HP. (Activated once every 2 seconds)"
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"sinkiske": {
+		"faction": "Supply all forces",
+		"type": "Secret",
+		"class": "Paladin",
+		"skillName": "Beak Driver",
+		"skillDescription": "When a block is used it activates Beak Driver that deals magic damage equal to (60/130/250)% of the hero's attack power.",
+		"form": [
+			{
+				"name": "Sin Kiske",
+				"star": 4,
+				"level": 40,
+				"atkPower": [250, 275, 300, 325],
+				"hp": [1922.5, 2114.7, 2307, 2499.2],
+				"critChance": [0.2, 0.2, 0.2, 0.2],
+				"armor": [31.3, 34.5, 37.6, 40.7],
+				"resistance": [236.9, 260.6, 284.3, 308],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A bounty hunter from another dimension. Born half human half gear. Sin grows much faster than humans because of his gear blood. In reality he is only 10 years old. For Sin's safety, Kai, Sin's father, has left Sin to Sol, the bounty hunter. Unfortunately, Sin knows nothing about his father and has always had a grudge against Kai.",
+				"skill": {
+					"level": 2,
+					"passive": "When hero uses 3 blocks, immediately activates \"It's time to grow\". Afetr the activation block skill will change to RTL once. RTL deals magic damage equal to (120/260/500)% of the hero's attack power."
+				},
+				"howToGet": [
+					"Event: Get by event!"
+				]
+			},
+			{
+				"name": "Sin Kiske",
+				"star": 5,
+				"level": 50,
+				"atkPower": [433.4, 476.7, 520, 563.4, 606.7],
+				"hp": [2949.4, 3244.3, 3539.2, 3834.2, 4129.1],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2],
+				"armor": [37.2, 40.9, 44.6, 48.4, 52.1],
+				"resistance": [281.6, 309.8, 337.9, 366.1, 394.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Sin has resolved all misunderstandings he has had with his father, after participating in wars with him. Meanwhile, \"Senate\" has cooked up a scheme to revive Justice the destroyer, but is blocked. However, due to \"Ruthless Revelation\", they lose Elphelt.",
+				"skill": {
+					"level": 2,
+					"passive": "When hero uses 3 blocks, immediately activates \"It's time to grow\". Afetr the activation block skill will change to RTL once. RTL deals magic damage equal to (120/260/500)% of the hero's attack power."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Sin Kiske",
+				"star": 6,
+				"level": 60,
+				"atkPower": [660.1, 726.1, 792.1, 858.1, 924.1, 990.1, 1062.8],
+				"hp": [4281.6, 4709.8, 5138, 5566.1, 5994.3, 6422.5, 12233.9],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.338],
+				"armor": [42.9, 47.2, 51.5, 55.8, 60.1, 64.4, 129.2],
+				"resistance": [327, 359.7, 392.3, 425, 457.7, 490.4, 800.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.224],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.193],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.194],
+				"background": "Unexpected helper came to Sin's party. He was 'Raven', the close associate of 'That Man'. Sin and his party checked out that Raven has the same objective but a different reason to 'That Man', and accept Raven as a party for the journey. During the journey, an unexpected change in dimension occured, and Sin was ditched at Hasla.",
+				"skill": {
+					"level": 3,
+					"passive": "When hero uses 3 blocks, immediately activates \"It's time to grow\". Afetr the activation block skill will change to RTL twice. RTL deals magic damage equal to (120/260/500)% of the hero's attack power."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"bearguy": {
+		"faction": "",
+		"type": "Secret",
+		"class": "Paladin",
+		"skillName": "Soda Eruption!",
+		"skillDescription": "Showers the area with soda, dealing (50/142/322)% physical damage based on the hero's attack power.",
+		"form": [
+			{
+				"name": "Bear Guy",
+				"star": 3,
+				"level": 30,
+				"atkPower": [139.5, 153.4, 167.4],
+				"hp": [3105, 3415.4, 3725.9],
+				"critChance": [0.1, 0.1, 0.1],
+				"armor": [48.6, 53.5, 58.3],
+				"resistance": [212.9, 234.2, 255.5],
+				"critDamage": [0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0],
+				"evasion": [0, 0, 0],
+				"background": "This bear-man has the uncanny ability to control soda, which is a lot more useful than it sounds.",
+				"skill": {
+					"level": 1,
+					"passive": "The attack speed and crit. chance of enemies hit by soda will be reduced by 50% for 5 seconds. When an ally uses a chain-3 skill, another chain-3 Soda Eruption will activate. (Once every 2 seconds)"
+				},
+				"howToGet": [
+					"Event: Get by event!"
+				]
+			}
+		]
+	},
+	"fergus": {
+		"faction": "",
+		"type": "Secret",
+		"class": "Paladin",
+		"skillName": "Great Success!",
+		"skillDescription": "Deals physical damage equal to (85/180/295)% of attack power according to the chain number.",
+		"form": [
+			{
+				"name": "Fergus",
+				"star": 3,
+				"level": 30,
+				"atkPower": [75.7, 83.3, 90.8],
+				"hp": [1819.1, 2001, 2182.9],
+				"critChance": [0.1, 0.1, 0.1],
+				"armor": [26, 28.6, 31.2],
+				"resistance": [145.1, 159.6, 174.1],
+				"critDamage": [0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0],
+				"evasion": [0, 0, 0],
+				"background": "The only Blacksmith in the village. When he sees a strong weapon he just can't refrain from upgrading it. Every time outsiders visit the village looking for the 'legendary weapon hunter', Fergus close the shop and hide somewhere.",
+				"skill": {
+					"level": 1,
+					"passive": "When the hero uses a block skill, Great Success Attack deals 350% of hero's attack power will be activated by 30% chance. Great Success Attack will be counted as chain-3 attack."
+				},
+				"howToGet": [
+					"Event: Get by event!"
 				]
 			}
 		]

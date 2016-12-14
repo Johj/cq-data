@@ -1,2 +1,2 @@
 # cqdb
-Crusaders Quest (CQ) database in JSON format.
+Crusaders Quest database in JSON format.

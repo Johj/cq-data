@@ -1761,7 +1761,7 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.05],
 				"accuracy": [0, 0, 0, 0, 0, 0, 0.15],
 				"evasion": [0, 0, 0, 0, 0, 0, 0.15],
-				"background": "Now that Mew has become part cat she can understand cats, Mew goes around tempting cats with fresh fish.",
+				"background": "Now that Mew has become part cat she can understand cats. In order to meet more cats, Mew goes around tempting cats with fresh fish.",
 				"skill": {
 						"level": 3,
 						"passive": "When an ally uses a chain-3 skill, one block is added to the queue and the Hero recovers 10 SP (triggered once every 1.5 secs)."

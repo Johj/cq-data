@@ -1696,6 +1696,315 @@
 			}
 		]
 	},
+	"thor": {
+		"faction": "Unknown",
+		"type": "Promote",
+		"class": "Paladin",
+		"skillName": "Burst of Passion",
+		"skillDescription": "Explodes with inner power, dealing magic damage equal to (50/142/322)% of attack power based on the chain number.",
+		"form": [
+			{
+				"name": "Thor",
+				"star": 4,
+				"level": 40,
+				"atkPower": [133.1, 146, 159.8, 173.1],
+				"hp": [2866.3, 3152.9, 3439.5, 3726.1],
+				"critChance": [0.1, 0.1, 0.1, 0.1],
+				"armor": [41.5, 45.7, 49.8, 54],
+				"resistance": [232.5, 255.8, 279, 302.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Head of the Northern Kingdom, bravely fighting against the cold. Working day and night since he was young, he helped the people of the north survive the winters, but Thor's hair could not.",
+				"skill": {
+					"level": 2,
+					"passive": "Using a block after an ally uses a chain-3 skills increases the Hero's armor and resistace by 200% for 5 seconds. During this time, the Hero is granted a 35% chance to counter-atack with a thunder strike that deals magical damage equal to 30% of the Hero's HP. Activates once every 2 seconds)."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Thor of the North",
+				"star": 5,
+				"level": 50,
+				"atkPower": [238.7, 262.5, 286.4, 310.3, 334.1],
+				"hp": [4396.4, 4836.1, 5275.7, 5715.4, 6155],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+				"armor": [49.2, 54.1, 59, 63.9, 68.8],
+				"resistance": [276.7, 304.4, 323.1, 359.7, 387.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Since there was not a single hair left on Thor, the citizens presented him with a huge helmet that could cover his bald head.",
+				"skill": {
+					"level": 2,
+					"passive": "Using a block after an ally uses a chain-3 skills increases the Hero's armor and resistace by 200% for 5 seconds. During this time, the Hero is granted a 35% chance to counter-atack with a thunder strike that deals magical damage equal to 30% of the Hero's HP. Activates once every 2 seconds)."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Thor of Severe Cold",
+				"star": 6,
+				"level": 60,
+				"atkPower": [369.8, 406.8, 443.8, 480.8, 517.8, 554.7, 659.7],
+				"hp": [6383, 7021.3, 7659.6, 8297.9, 8936.2, 9574.5,13332.5],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.217],
+				"armor": [57, 62.7, 68.4, 74.1, 79.8, 85.5, 147.5],
+				"resistance": [320.9, 353, 385.1, 417.2, 449.2, 481.3, 831.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.19],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.20],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.18],
+				"background": "Even through the severe cold, Thor does his best to protect the kingdom. As the kingdom gets better, so does Thor's hair.",
+				"skill": {
+					"level": 3,
+					"passive": "Using a block after an ally uses a chain-3 skills increases the Hero's armor and resistace by 200% for 5 seconds. During this time, the Hero is granted a 50% chance to counter-atack with a thunder strike that deals magical damage equal to 45% of the Hero's HP. Activates once every second)."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"alexander": {
+		"faction": "Grancia Empire",
+		"type": "Promote",
+		"class": "Paladin",
+		"skillName": "Ground Crush",
+		"skillDescription": "Knock back enemies, dealing physical damage equal to (58/178/271)% of attack power based on the chain number.",
+		"form": [
+			{
+				"name": "Alexander",
+				"star": 4,
+				"level": 40,
+				"atkPower": [101.9, 112.1, 122.3, 132.5],
+				"hp": [3652.9, 4018.2, 4383.5, 4748.8],
+				"critChance": [0.1, 0.1, 0.1, 0.1],
+				"armor": [32.2, 35.4, 38.6, 41.8],
+				"resistance": [179.1, 197, 214.9, 232.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Alexander vowed to cross the continent to see the legendary sea that lies beyond.",
+				"skill": {
+					"level": 2,
+					"passive": "When a block is used, the hero's armor and magic resistance increases by 3% of maximum hp for 5 seconds."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Quest: Epic Quest Reward!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "King Alexander the Great",
+				"star": 5,
+				"level": 50,
+				"atkPower": [176.4, 194.1, 211.7, 229.4, 247],
+				"hp": [5602.8, 6163.1, 6723.4, 7283.7, 7843.9],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+				"armor": [37.9, 41.7, 45.5, 49.3, 53],
+				"resistance": [213, 234.3, 255.6, 276.9, 298.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Alexander moves up and becomes a Great King. But even in his position as the Great King, he still desires to see the sea across the continent and prepares an expedition to do so.",
+				"skill": {
+					"level": 2,
+					"passive": "When a block is used, the hero's armor and magic resistance increases by 3% of maximum hp for 5 seconds"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Emperor Alexander",
+				"star": 6,
+				"level": 60,
+				"atkPower": [268.9, 295.8, 322.7, 349.6, 376.5, 403.4, 474.4],
+				"hp": [8135.3, 8948.9, 9762.4, 10575.9, 11389.4, 12203, 17297],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.217],
+				"armor": [44, 48.4, 52.8, 57.2, 61.6, 66, 120],
+				"resistance": [247.1, 271.9, 296.6, 321.3, 346, 370.7, 676.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.24],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.21],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.23],
+				"background": "Alexander finally reaches the eastern end of the continent. To his disappointment, the sea he fins is not the legendary sea he sought. However, by the time he reaches the sea, he is an Emperor.",
+				"skill": {
+					"level": 3,
+					"passive": "When a block is used, the hero's armor and magic resistance increases by 3% of maximum hp for 5 seconds, and receives allies damage"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"achilles": {
+		"faction": "Unknown",
+		"type": "Promote",
+		"class": "Paladin",
+		"skillName": "Prevent!",
+		"skillDescription": "Summons spears that deal physical damage equal to (15/35/50)% of attack power, and prevents enemy approach based on the chain number.",
+		"form": [
+			{
+				"name": "Achilles",
+				"star": 4,
+				"level": 40,
+				"atkPower": [145.2, 159.7, 174.3, 188.8],
+				"hp": [2810.1, 3091.1, 3372.1, 3653.1],
+				"critChance": [0.1, 0.1, 0.1, 0.1],
+				"armor": [32.2, 35.4, 38.6, 41.8],
+				"resistance": [179.1, 197, 214.9, 232.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A representative in the Roman Republic, soaked his son Achilles in mysterious water to make him immortal. However, the water turned out to be just an ordinary stream.",
+				"skill": {
+					"level": 2,
+					"passive": "Decreases attacked enemy's attack power and resistance by 30% of the hero's attack power. Block skills used, after an ally's chain-3 skill is activated, will have the power of a chain-3 skill. (Once every 2 seconds)"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Hero Achilles",
+				"star": 5,
+				"level": 50,
+				"atkPower": [252.4, 277.6, 302.9, 328.1, 353.3],
+				"hp": [4310.2, 4741.2, 5172.2, 5603.3, 6034.3],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+				"armor": [37.9, 41.7, 45.5, 49.3, 53],
+				"resistance": [213, 234.3, 255.6, 276.9, 298.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Achilles, who believes himself to be immortal, remains victorious after charging an enemy camp. The people bestow him with the title of hero after the victory, but his heel still aches.",
+				"skill": {
+					"level": 2,
+					"passive": "Decreases attacked enemy's attack power and resistance by 30% of the hero's attack power. Block skills used, after an ally's chain-3 skill is activated, will have the power of a chain-3 skill. (Once every 2 seconds)"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "War God Achilles",
+				"star": 6,
+				"level": 60,
+				"atkPower": [384, 422.4, 460.8, 499.2, 537.6, 576, 686],
+				"hp": [6257.9, 6883.7, 7509.5, 8135.3, 8761.1, 9386.9, 13048.9],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.217],
+				"armor": [44, 48.4, 52.8, 57.2, 61.6, 66, 120],
+				"resistance": [247.1, 271.9, 296.6, 321.3, 356, 370.7, 676.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.05],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.25],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.25],
+				"background": "One day, Achilles figures out that he had never been immortal and becomes bery depressed. In order to cheer him up, the Roman Republic representatives present him a golden armor. At the moment he wore the armor, he became suddenly overwhelmed by a mysterious energy which granted him a great power.",
+				"skill": {
+					"level": 3,
+					"passive": "Decreases attacked enemy's attack power and resistance by 50% of the hero's attack power. Block skills used, after an ally's chain-3 skill is activated, will have the power of a chain-3 skill. (Once every 2 seconds)"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"drake": {
+		"faction": "Unknown",
+		"type": "Promote",
+		"class": "Paladin",
+		"skillName": "Navigation Basics",
+		"skillDescription": "Strikes with a big anchor, dealing physical damage equal to (56/205/322)% of attack power based on the chain number.",
+		"form": [
+			{
+				"name": "Drake",
+				"star": 4,
+				"level": 40,
+				"atkPower": [145.2, 159.7, 174, 188.8],
+				"hp": [2493.8, 2743.2, 2992.6, 3242],
+				"critChance": [0.175, 0.175, 0.175, 0.175],
+				"armor": [32.2, 35.4, 38.6, 41.8],
+				"resistance": [179.1, 197, 214.9, 232.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A notorious pirate that plunders the high seas. However, he does not plunder ships of the Southern Kingdom, his homeland.",
+				"skill": {
+					"level": 2,
+					"passive": "When a block is used, all allies' critical chance increases by 30% for 5 seconds."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Nobleman Drake",
+				"star": 5,
+				"level": 50,
+				"atkPower": [252.4, 277, 302.9, 328.1, 353.3],
+				"hp": [3825.1, 4207.6, 4590.1, 4972.6, 5355.1],
+				"critChance": [0.175, 0.175, 0.175, 0.175, 0.175],
+				"armor": [37.9, 41.7, 45.5, 49.3, 53],
+				"resistance": [213, 234.3, 255.6, 276.9, 298.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Although a pirate, he contributes a lot to the Southern Kingdom. The King of the Southern Kingdom himself grants Drake the title of nobleman.",
+				"skill": {
+					"level": 2,
+					"passive": "When a block is used, all allies' critical chance increases by 30% for 5 seconds."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "White Beard Drake",
+				"star": 6,
+				"level": 60,
+				"atkPower": [384, 422.4, 460.8, 499.2, 537.6, 576, 686],
+				"hp": [5554.1, 6109.5, 6664.9, 7220.3, 7775.7, 8331.1, 11456.1],
+				"critChance": [0.175, 0.175, 0.175, 0.175, 0.175, 0.175, 0.342],
+				"armor": [44, 48.4, 52.8, 57.2, 61.6, 66, 120],
+				"resistance": [247.1, 271.9, 296.6, 321.3, 346, 370.7, 676.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.08],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.25],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.24],
+				"background": "Although he has become a nobleman, he goes back to the sea knowing he is not suited to the life of a nobleman. From then on he wanders the seas with 6 navigators and many subordinates.",
+				"skill": {
+					"level": 3,
+					"passive": "When a block is used, the party gains +50% critical chance for 5 seconds. When an ally gets a critical hit while this effect is active, a shield will be applied to the party that absorbs damage equal to 50% of the Hero's HP. (Activates once every 2 seconds)"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
 	"vane": {
 		"faction": "Hero of Freedom",
 		"type": "Premium",
@@ -1839,6 +2148,83 @@
 				},
 				"howToGet": [
 					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"stanya": {
+		"faction": "Neth Empire",
+		"type": "Promote",
+		"class": "Paladin",
+		"skillName": "Shining Star!",
+		"skillDescription": "Deals physical damage equal to (50/142/322)% of the hero's attack power, and knocks enemies into the air. While dashing, the hero is immune to knockback.",
+		"form": [
+			{
+				"name": "Stanya",
+				"star": 4,
+				"level": 40,
+				"atkPower": [98.8, 108.7, 118.6, 128.5],
+				"hp": [2866.3, 3152.9, 3439.5, 3726.1],
+				"critChance": [0.1, 0.1, 0.1, 0.1],
+				"armor": [53, 58.3, 63.6, 68.9],
+				"resistance": [280.3, 308.3, 336.3, 364.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A young robotics engineer. Her robots catch the attention of Stein, who invites her to an elite University to study robotics. There, she invents the Sentinel.",
+				"skill": {
+					"level": 2,
+					"passive": "Hero is immune to all debuffs for 5 seconds after using a chain-3 skill. When hit during this effect, the Hero dashes forward and deals physical damage equal to 322% of the Hero's attack power. (Once every 2 seconds)"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Stanya the Destroyer",
+				"star": 5,
+				"level": 50,
+				"atkPower": [185.3, 203.8, 222.3, 240.8, 259.4],
+				"hp": [4396.4, 4836.1, 5275.7, 5715.4, 6155],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+				"armor": [68.3, 75.1, 82, 88.8, 95.6],
+				"resistance": [351.8, 386.9, 422.1, 457.3, 492.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Stein steals the schematics to Stanya's robot and assembles an army. Betrayed, Staya dismantles her remaining machines.",
+				"skill": {
+					"level": 2,
+					"passive": "Hero is immune to all debuffs for 5 seconds after using a chain-3 skill. When hit during this effect, the Hero dashes forward and deals physical damage equal to 322% of the Hero's attack power. (Once every 2 seconds)"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Stanya the Annihilator",
+				"star": 6,
+				"level": 60,
+				"atkPower": [313.8, 345.2, 376.5, 407.9, 439.3, 470.7, 556.7],
+				"hp": [6383, 7021.3, 7659.6, 8297.9, 8936.2, 9574.5, 13332.5],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.217],
+				"armor": [83, 91.3, 99.6, 107.9, 116.2, 124.5, 199.5],
+				"resistance": [420.4, 462.4, 504.5, 546.5, 588.6, 630.6, 1046.6],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.01],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.18],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.20],
+				"background": "She travels to the future to destroy the Sentinel. In the future, she meets the completed Sentinel and destroys it. But she soon realizes it was only a copy. She continues her search for the original Sentinel.",
+				"skill": {
+					"level": 3,
+					"passive": "When a chain-3 skill is activated, all party members become immune to all debuffs for 5 seconds. When the hero is attacked during this effect, the Hero dashes forward, stunning the enemy for 1 second and dealing physical damage equal to 322% of the Hero's attack power. (Activates once every 2 seconds)"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
 					"Promote Hero: Promoting Heroes!"
 				]
 			}
@@ -2066,6 +2452,83 @@
 			}
 		]
 	},
+	"athena": {
+		"faction": "Unknown",
+		"type": "Promote",
+		"class": "Paladin",
+		"skillName": "Sun Blow",
+		"skillDescription": "Deals magical damage equal to (50/120/210)% of attack power.",
+		"form": [
+			{
+				"name": "Athena",
+				"star": 4,
+				"level": 40,
+				"atkPower": [132.4, 145.6, 158.8, 172.1],
+				"hp": [2866.3, 3152.9, 3439.5, 3726.1],
+				"critChance": [0.1, 0.1, 0.1, 0.1],
+				"armor": [39.3, 43.3, 47.2, 51.1],
+				"resistance": [203.4, 223.8, 244.1, 264.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A model student of the Roman Republic Military Academy. Her elegant behavior and strong sense of justice make her quite popular among the students. Athena has a tendency to bring home abandoned animals - but it is not always animals that she brings back.",
+				"skill": {
+					"level": 2,
+					"passive": "When a chain-3 block skill is used, a shield which absorbs damage equal to 200% of Athena's resistance is cast on the entire party for 10 seconds."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Holy Warrior Athena",
+				"star": 5,
+				"level": 50,
+				"atkPower": [237.7, 261.4, 285.2, 309, 332.8],
+				"hp": [4396.4, 4836.1, 5275.7, 5715.4, 6155],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+				"armor": [52.1, 57.4, 62.6, 67.8, 73],
+				"resistance": [260.1, 286.2, 312.2, 338.2, 364.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "After graduation, Athena becomes a senator of the Roman Republic Grand Council \"Olympus.\" Holding honor and battle above all else, she naturally becomes the head commander of legions of warriors, and claims victory over every battle. Athena comes to be called \"the Holy Warrior\" among her soldiers.",
+				"skill": {
+					"level": 2,
+					"passive": "When a chain-3 block skill is used, a shield which absorbs damage equal to 200% of Athena's resistance is cast on the entire party for 10 seconds."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Athena the Saintess of the Battlefield",
+				"star": 6,
+				"level": 60,
+				"atkPower": [369.2, 406.2, 443.1, 480, 516.9, 553.9, 658.9],
+				"hp": [6383, 7021.3, 7659.6, 8297.9, 8936.2, 9574.5, 13332.5],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.21],
+				"armor": [64.2, 70.6, 77, 83.4, 89.8, 96.2, 159.2],
+				"resistance": [314.2, 345.6, 377, 408.5, 439.9, 471.3, 824.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.18],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.19],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.23],
+				"background": "Atena believed that battles are holy and noble. She could never accept anything disgracing honor, so she taught the importance of honor and pride to mercenary soldiers. Soldiers now call her Athena the Saintess of the Battlefield.",
+				"skill": {
+					"level": 3,
+					"passive": "When a chain-3 block skill is used, it creates a shield equal to 200% of Athenas resistance for 10 seconds. When Athena uses 3-chain block skill, it deals magical damage equal to 350% of Athenas resistance and creates her own block for 40% chance."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
 	"siegfried": {
 		"faction": "Unknown",
 		"type": "Premium",
@@ -2209,6 +2672,83 @@
 				},
 				"howToGet": [
 					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"captain": {
+		"faction": "Hero of Freedom",
+		"type": "Promote",
+		"class": "Paladin",
+		"skillName": "Burning Justice",
+		"skillDescription": "Deals fiery justice to an enemy dealing physical damage equal to (60/130/220)% of the hero's attack power.",
+		"form": [
+			{
+				"name": "Captain",
+				"star": 4,
+				"level": 40,
+				"atkPower": [124.6, 137, 149.5, 161.9],
+				"hp": [2866.3, 3152.9, 3439.5, 3726.1],
+				"critChance": [0.1, 0.1, 0.1, 0.1],
+				"armor": [48.2, 53, 57.8, 62.6],
+				"resistance": [268.4, 295.3, 322.1, 348.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Captain is an idle boy and would prefer to remain idle, thank you very much! When called upon by his friends to play, Captain always insists on playing \"Hero and Villian.\" That's how he can remain as a commander and lazily sprawl about, using his friends as human shields when necessary.",
+				"skill": {
+					"level": 2,
+					"passive": "Uses Friend Shield that gives immunity 3 times for 10 seconds when block skill is used (once per 2 seconds). This will also be applied to the ally with lowest HP."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Red Captain",
+				"star": 5,
+				"level": 50,
+				"atkPower": [229.8, 252.8, 275.8, 298.8, 321.8],
+				"hp": [4396.4, 4836.1, 5275.7, 5715.4, 6155],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+				"armor": [57, 62.7, 68.4, 74.1, 79.8],
+				"resistance": [319.4, 351.3, 383.2, 415.2, 447.1],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "One day, the first Red Gatcha Ranger witnesses Captain in trouble. After seeing Captain defeating the enemy with a phenomenal, if rather unrefined, strength, the first Red Ranger insists on recruiting Captain to the Gatcha Rangers.",
+				"skill": {
+					"level": 2,
+					"passive": "Uses Friend Shield that gives immunity 3 times for 10 seconds when block skill is used (once per 2 seconds). This will also be applied to the ally with lowest HP."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Captain of the Gatcha Rangers",
+				"star": 6,
+				"level": 60,
+				"atkPower": [360.4, 396.4, 432.5, 468.5, 504.5, 540.6, 642.8],
+				"hp": [6383, 7021.3, 7659.6, 8297.9, 8936.2, 9574.5, 13331.6],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.217],
+				"armor": [65.8, 72.4, 79, 85.6, 92.1, 98.7, 166],
+				"resistance": [370.5, 407.5, 444.5, 481.6, 518.6, 555.7, 934.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.05],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.23],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.2],
+				"background": "After his successor becomes the third Red Gatcha Ranger, Captain retires to enjoy a life of indolence. But when rumors about the identity of the current Overlord of Darkness reach him, the bored Captain sets out to see whether he really is his childhood friend. Unaware of the mysterious tights-wearing shadows trailing suspiciously after him...!",
+				"skill": {
+					"level": 3,
+					"passive": "Uses Friend Shield that gives immunity 5 times for 10 seconds when block skill is used (once per 2 seconds). This will also be applied to the ally with lowest HP and SP of ally attacked while shield is on will be recovered by 7."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
 					"Promote Hero: Promoting Heroes!"
 				]
 			}

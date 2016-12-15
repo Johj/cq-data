@@ -63,6 +63,8 @@ This section concerns where it says `THIS`:
 
 ```
 "": {
+	"skillName": "THIS",
+	"passiveSkillName": "THIS",
 	"skillDescription": "THIS",
 	"form": [
 		{

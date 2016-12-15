@@ -114,6 +114,17 @@
 				"evasion": 0
 			},
 			{
+				"name": "Autumn Festival D'Artagnan",
+				"atkPower": 150,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0.25,
+				"accuracy": 0,
+				"evasion": 0
+			},
+			{
 				"name": "Captain D'Artagnan",
 				"atkPower": 0,
 				"hp": 0,

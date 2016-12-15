@@ -4,6 +4,7 @@
 		"type": "Legendary",
 		"class": "Warrior",
 		"skillName": "Call of Holy Sword",
+		"passiveSkillName": "Ultimate Holy Sword",
 		"skillDescription": "Summons Holy Sword that deals physical damage equal to (80/180/340)% of hero's attack power based on chain length.",
 		"form": [
 			{
@@ -139,6 +140,7 @@
 		"type": "Legendary",
 		"class": "Warrior",
 		"skillName": "Hawk Feather",
+		"passiveSkillName": "Hawk Flight",
 		"skillDescription": "When a skill block is used it deals physical damage equal to (100/150/250)% according to the chain length, and provides a (25/50/75)% chance of blocking up to 10 attacks for the next 5 secs.",
 		"form": [
 			{
@@ -274,6 +276,7 @@
 		"type": "Legendary",
 		"class": "Paladin",
 		"skillName": "Flamespout",
+		"passiveSkillName": "Ultimate Flamespout",
 		"skillDescription": "Explodes with the energy of the earth, dealing physical damage equal to (50/142/322)% of attack power based on the chain number.",
 		"form": [
 			{
@@ -409,6 +412,7 @@
 		"type": "Legendary",
 		"class": "Paladin",
 		"skillName": "Guardian of Light",
+		"passiveSkillName": "Brilliant Flash",
 		"skillDescription": "When a skill block is used, the Hero deals physical damage equal to (50/100/175)% of the hero's resistance according to the chain length and the Hero's defense increases by 25% of hero's resistance for 5 secs.",
 		"form": [
 			{
@@ -544,6 +548,7 @@
 		"type": "Legendary",
 		"class": "Archer",
 		"skillName": "Driving Feathers",
+		"passiveSkillName": "Fluttering Arrow Feathers",
 		"skillDescription": "Shoots feathers that attack the enemies in back, dealing magic damage equal to (10/25/52)% of the hero's attack power based on chain length.",
 		"form": [
 			{
@@ -679,6 +684,7 @@
 		"type": "Legendary",
 		"class": "Archer",
 		"skillName": "Thorns of Hell",
+		"passiveSkillName": "Hellfire Arrow",
 		"skillDescription": "Shoots thorns of hell to an enemy in the rear and deals magic damage equal to (50/120/250)% of the Hero's attack power. A flame stack will pile up equal to (1/2/3).",
 		"form": [
 			{
@@ -814,6 +820,7 @@
 		"type": "Legendary",
 		"class": "Hunter",
 		"skillName": "Consecutive Fire",
+		"passiveSkillName": "Concentrated Shot",
 		"skillDescription": "Fires consecutive bullets, dealing physical damage equal to (81/297/540)% of attack power based on the chain number.",
 		"form": [
 			{
@@ -949,6 +956,7 @@
 		"type": "Legendary",
 		"class": "Hunter",
 		"skillName": "The Last Light",
+		"passiveSkillName": "Artillery of Light",
 		"skillDescription": "Shoots a magic beam dealing magical damage equal to (75/150/275)% of the Hero's attack power according to the chain length and leaves the Mark of Light on the eenmy of 5 secs.",
 		"form": [
 			{
@@ -1084,6 +1092,7 @@
 		"type": "Legendary",
 		"class": "Wizard",
 		"skillName": "Magic Beam",
+		"passiveSkillName": "Ultimate Magic Beam",
 		"skillDescription": "Fires Magic Beam, dealing magic damage equal to (70/150/240)% of the hero's attack power based on chain length.",
 		"form": [
 			{
@@ -1219,6 +1228,7 @@
 		"type": "Legendary",
 		"class": "Wizard",
 		"skillName": "Love Impact!",
+		"passiveSkillName": "Love Beam!",
 		"skillDescription": "Deals magic damage equal to (85/125/250)% according to the chain length and charms the enemy for 5 seconds.",
 		"form": [
 			{
@@ -1354,6 +1364,7 @@
 		"type": "Legendary",
 		"class": "Priest",
 		"skillName": "Sacred Treasure of the Goddess",
+		"passiveSkillName": "Prayer of the Saintess",
 		"skillDescription": "Summons an object that heals nearby allies 8 times for (1/3/6)% of the Hero's attack power based on the chain number.",
 		"form": [
 			{
@@ -1489,6 +1500,7 @@
 		"type": "Legendary",
 		"class": "Priest",
 		"skillName": "Cursed Blessing",
+		"passiveSkillName": "Holy Curse",
 		"skillDescription": "Heals (1/1/all) ally/allies equal for (100/230/250)% of the Hero's attack power based on the chain length, and curses the enemy wth the lowest HP for 5 seconds.",
 		"form": [
 			{
@@ -1624,6 +1636,7 @@
 		"type": "Promote",
 		"class": "Warrior",
 		"skillName": "Sonic Wave",
+		"passiveSkillName": "Will of Iron",
 		"skillDescription": "Throws a wave of energy that deals magic damage equal to (49/122/221)% of attack power based on the chain number.",
 		"form": [
 			{
@@ -1696,11 +1709,87 @@
 			}
 		]
 	},
+	"vivian": {
+		"faction": "Unknown",
+		"type": "Premium",
+		"class": "Warrior",
+		"skillName": "Call of Demon Sword",
+		"passiveSkillName": "Ultimate Demonic Sword",
+		"skillDescription": "Summons a demon sword that deals magic damage equal to (56/178/322)% of attack power based on chain number.",
+		"form": [
+			{
+				"name": "Vivian",
+				"star": 4,
+				"level": 40,
+				"atkPower": [182.3, 200.6, 218.8, 237],
+				"hp": [2072.8, 2280.1, 2487.3, 2694.6],
+				"critChance": [0.175, 0.175, 0.175, 0.175],
+				"armor": [179.1, 197, 214.9, 232.8],
+				"resistance": [32.2, 35.4, 38.6, 41.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "The direct descendant of the royal devil family, 'Devilius.' Her father kicked her out of the house for spending too much time on the couch. She may be the only person that will look wistful when told to \"go to heck.\"",
+				"skill": {
+					"level": 2,
+					"passive": "Upon chain-3 combo, summons Call of Demon Sword and deals magic damage equal to 380% of attack power. Afterwards, reduces damage received by 50% for 3 secs."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Devil Vivian",
+				"star": 5,
+				"level": 50,
+				"atkPower": [314.2, 345.7, 377.1, 408.5, 439.9],
+				"hp": [3406.6, 3747.3, 4087.9, 4428.6, 4769.3],
+				"critChance": [0.13, 0.13, 0.13, 0.13, 0.13],
+				"armor": [213, 234.3, 255.6, 276.9, 298.2],
+				"resistance": [37.9, 41.7, 45.5, 49.3, 53],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Vivian has trained herself using the rage she feels towards her father to spur her on. She hatches a plan to invade the underworld and overthrow her father, but upon arriving at his house, all she finds is a note that says \"Gone Fishing.\"",
+				"skill": {
+					"level": 2,
+					"passive": "Upon chain-3 combo, summons Call of Demon Sword and deals magic damage equal to 380% of attack power. Afterwards, reduces damage received by 50% for 3 secs."
+				},
+				"howToGet": [
+					"Promote Hero: Promoting Heroes!",
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Absolute Devil Vivian",
+				"star": 6,
+				"level": 60,
+				"atkPower": [479.3, 527.3, 575.2, 623.1, 671.1, 719, 872],
+				"hp": [4601.9, 5062.1, 5522.3, 5982.5, 6442.7, 6902.9, 9095.9],
+				"critChance": [0.175, 0.175, 0.175, 0.175, 0.175, 0.175, 0.342],
+				"armor": [247.1, 271.9, 296.6, 351.3, 346, 370.7, 676.7],
+				"resistance": [44, 48.4, 52.8, 57.2, 61.6, 66, 120],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.25],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.27],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.13],
+				"background": "Vivian start a war to clear her head. Surprisingly, the other devils surrender instantly. Lo and behold, Vivian is now the Absolute Devil.",
+				"skill": {
+					"level": 3,
+					"passive": "Upon chain-3 combo, summons Call of Demon Sword and deals magic damage equal to 380% of attack power. Afterwards, reduces damage received by 50% for 3 secs. Upon enemy attack ultimate demon sword is summoned again. (Up to 2 times.)"
+				},
+				"howToGet": [
+					"Promote Hero: Promoting Heroes!",
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			}
+		]
+	},
 	"thor": {
 		"faction": "Unknown",
 		"type": "Promote",
 		"class": "Paladin",
 		"skillName": "Burst of Passion",
+		"passiveSkillName": "Rage of the North",
 		"skillDescription": "Explodes with inner power, dealing magic damage equal to (50/142/322)% of attack power based on the chain number.",
 		"form": [
 			{
@@ -1778,6 +1867,7 @@
 		"type": "Promote",
 		"class": "Paladin",
 		"skillName": "Ground Crush",
+		"passiveSkillName": "Dignity of the Emperor",
 		"skillDescription": "Knock back enemies, dealing physical damage equal to (58/178/271)% of attack power based on the chain number.",
 		"form": [
 			{
@@ -1856,6 +1946,7 @@
 		"type": "Promote",
 		"class": "Paladin",
 		"skillName": "Prevent!",
+		"passiveSkillName": "Roman Law",
 		"skillDescription": "Summons spears that deal physical damage equal to (15/35/50)% of attack power, and prevents enemy approach based on the chain number.",
 		"form": [
 			{
@@ -1933,6 +2024,7 @@
 		"type": "Promote",
 		"class": "Paladin",
 		"skillName": "Navigation Basics",
+		"passiveSkillName": "Greatness of the Captain",
 		"skillDescription": "Strikes with a big anchor, dealing physical damage equal to (56/205/322)% of attack power based on the chain number.",
 		"form": [
 			{
@@ -2010,6 +2102,7 @@
 		"type": "Premium",
 		"class": "Paladin",
 		"skillName": "Pillar of Destruction",
+		"passiveSkillName": "Pillars of the Underworld",
 		"skillDescription": "Releases energy of the devil, dealing magic damage equal to (50/142/322)% of attack power based on the chain number.",
 		"form": [
 			{
@@ -2084,6 +2177,7 @@
 		"type": "Premium",
 		"class": "Paladin",
 		"skillName": "Whirlwind of Pain",
+		"passiveSkillName": "Whirwind of Despair",
 		"skillDescription": "Attack by spinning quickly. Deals physical damage equal to (33/147/325)% of the Hero's attack power.",
 		"form": [
 			{
@@ -2158,6 +2252,7 @@
 		"type": "Promote",
 		"class": "Paladin",
 		"skillName": "Shining Star!",
+		"passiveSkillName": "Stanya Buster",
 		"skillDescription": "Deals physical damage equal to (50/142/322)% of the hero's attack power, and knocks enemies into the air. While dashing, the hero is immune to knockback.",
 		"form": [
 			{
@@ -2234,7 +2329,8 @@
 		"faction": "Unknown",
 		"type": "Premium",
 		"class": "Paladin",
-		"skillName": "Hero's Charge",
+		"skillName": "Rush into Battle",
+		"passiveSkillName": "Undefeated Courage",
 		"skillDescription": "Pushes back the enemy and deals physical damage equal to (50/150/976)% of heros attack power for (0.5/0.5/5) seconds.",
 		"form": [
 			{
@@ -2309,6 +2405,7 @@
 		"type": "Premium",
 		"class": "Paladin",
 		"skillName": "Unlimited!",
+		"passiveSkillName": "Undisputed!",
 		"skillDescription": "Pushes toward the enemy, dealing physical damage equal to (50/150/250)% of the hero's attack power based on the length of the chain skill used.",
 		"form": [
 			{
@@ -2382,7 +2479,8 @@
 		"faction": "Unknown",
 		"type": "Premium",
 		"class": "Paladin",
-		"skillName": "Iron will",
+		"skillName": "Shattering Spear",
+		"passiveSkillName": "Shield of Roman",
 		"skillDescription": "Jabs a spear forward which deals physical damage equal to (50/130/220)% of Hero's attack power according to the chain number.",
 		"form": [
 			{
@@ -2457,6 +2555,7 @@
 		"type": "Promote",
 		"class": "Paladin",
 		"skillName": "Sun Blow",
+		"passiveSkillName": "Golden Helios",
 		"skillDescription": "Deals magical damage equal to (50/120/210)% of attack power.",
 		"form": [
 			{
@@ -2534,6 +2633,7 @@
 		"type": "Premium",
 		"class": "Paladin",
 		"skillName": "Chains of Confinement",
+		"passiveSkillName": "Cry of the Dragon",
 		"skillDescription": "Upon using block, uses Chain of Confinement that deal physical damage equal to (120/200/320)% of hero's attack power. Enemies hit by Chains of Confinement are restricted from moving for 2 seconds.",
 		"form": [
 			{
@@ -2608,6 +2708,7 @@
 		"type": "Premium",
 		"class": "Paladin",
 		"skillName": "Executioner's Ax",
+		"passiveSkillName": "Cruel Punishment",
 		"skillDescription": "Using blocks causes the hero to smash down with his axe dealing physical damage equal to (140/200/310)% of hero's attack power",
 		"form": [
 			{
@@ -2682,6 +2783,7 @@
 		"type": "Promote",
 		"class": "Paladin",
 		"skillName": "Burning Justice",
+		"passiveSkillName": "Friend Shield",
 		"skillDescription": "Deals fiery justice to an enemy dealing physical damage equal to (60/130/220)% of the hero's attack power.",
 		"form": [
 			{
@@ -2759,6 +2861,7 @@
 		"type": "Premium",
 		"class": "Paladin",
 		"skillName": "Raging Hammer",
+		"passiveSkillName": "Totem Blessing",
 		"skillDescription": "When Block skill is used, deals physical damage equal to (100/250/450)% of hero's attack power by moving forward with hammer swinging for 3 seconds. When 3-chain block is used, deals extra physical damage equal to 350% of hero's attack power after hammer spinning.",
 		"form": [
 			{
@@ -2828,11 +2931,1159 @@
 			}
 		]
 	},
+	"gon": {
+		"faction": "Hero of Freedom",
+		"type": "Premium",
+		"class": "Archer",
+		"skillName": "Resolute Shot",
+		"passiveSkillName": "Hunt Start!",
+		"skillDescription": "Shoots an arrow that pierces the enemy, dealing physical damage equal to (34/122/221)% of attack power based on the chain number.",
+		"form": [
+			{
+				"name": "Gon",
+				"star": 4,
+				"level": 40,
+				"atkPower": [213.9, 235.2, 256.6, 278],
+				"hp": [1978.2, 2176, 2373.8, 2571.6],
+				"critChance": [0.15, 0.15, 0.15, 0.15],
+				"armor": [136.5, 150.2, 163.8, 177.5],
+				"resistance": [136.5, 150.2, 163.8, 177.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A young member of a tribe where warriors collect the bones of beasts. The more bones they have, the more powerful they become.",
+				"skill": {
+					"level": 2,
+					"passive": "Shoots resolute arrow that deals physical damage equal to 250% of hero's attack power when ally uses 3-chain after Gon's block. (Once every 1 second) Armor of enemy damaged by resolute arrow during passive activation will decrease by 50%."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Bone Beast Gon",
+				"star": 5,
+				"level": 50,
+				"atkPower": [378.2, 416, 453.9, 491.7, 529.5],
+				"hp": [3049.2, 3354.1, 3659.1, 3964, 4268.9],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15],
+				"armor": [162.7, 179, 195.2, 211.5, 227.8],
+				"resistance": [162.7, 179, 195.2, 211.5, 227.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Gon decorates his head with the bones of the fearful Urk. His tribe is impressed because he is the first one to ever defeat an Urk or even know what an Urk is.",
+				"skill": {
+					"level": 2,
+					"passive": "Shoots resolute arrow that deals physical damage equal to 250% of hero's attack power when ally uses 3-chain after Gon's block. (Once every 1 second) Armor of enemy damaged by resolute arrow during passive activation will decrease by 50%."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Bone Dragon Gon",
+				"star": 6,
+				"level": 60,
+				"atkPower": [583.2, 641.5, 699.8, 758.2, 816.5, 874.8, 1059.8],
+				"hp": [4427.9, 4870.7, 5313.4, 5756.2, 6199, 6641.8, 8341.8],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.311],
+				"armor": [188.4, 207.3, 226.1, 245, 263.8, 282.6, 417.6],
+				"resistance": [188.4, 207.3, 226.1, 245, 263.8, 282.6, 417.6],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.17],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.15],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.13],
+				"background": "Gon has succeeded in hunting down the fearsome Tiga. He proves that he is the tribe's strongest warrior by adorning himself with Tiga's horn on the head of an Urk and its wing bones on his back.",
+				"skill": {
+					"level": 3,
+					"passive": "Throws 4 arrowheads that deals physical damage equal to 180% of hero's attack power to the enemy in the back and shoots resolute arrow that deals physical damage equal to 250% of hero's attack power when ally uses 3-chain after Gon's block. (Once every 1 second) Armor of enemy damaged by resolute arrow during passive actiavtion will decrease 50%."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"hanzo": {
+		"faction": "Eastern Kingdom - Ryu",
+		"type": "Promote",
+		"class": "Archer",
+		"skillName": "Silver Moon Flying Sword",
+		"passiveSkillName": "Shuriken",
+		"skillDescription": "Throws a dagger at the enemy frontline, dealing physical damage equal to (81/150/250)% of attack power based on the chain number.",
+		"form": [
+			{
+				"name": "Hanzo",
+				"star": 4,
+				"level": 40,
+				"atkPower": [159.3, 175.2, 191.1, 207],
+				"hp": [2521.1, 2773.2, 3025.3, 3277.4],
+				"critChance": [0.15, 0.15, 0.15, 0.15],
+				"armor": [104.9, 115.4, 125.9, 136.4],
+				"resistance": [104.9, 115.4, 125.9, 136.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A famous ninja who is well known for his very agile movements. As a side job, he delivers papers in the morning.",
+				"skill": {
+					"level": 2,
+					"passive": "When a Hero's skill block is used, the Hero will deal physical damage equal to 10% of the Hero's HP."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Hanzo of Swiftness",
+				"star": 5,
+				"level": 50,
+				"atkPower": [275.8, 303.4, 331, 358.6, 386.1],
+				"hp": [3886.1, 4274.8, 4663.4, 5052, 5440.6],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15],
+				"armor": [125, 137.5, 150, 162.4, 174],
+				"resistance": [125, 137.5, 150, 162.4, 174.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "The income from his side job is pretty decent, but decides to increase the delivery area. Doing so, he meets the legendary deliery man, \"Gale\".",
+				"skill": {
+					"level": 2,
+					"passive": "When a Hero's skill block is used, the Hero will deal physical damage equal to 10% of the Hero's HP."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Hanzo of Gale",
+				"star": 6,
+				"level": 60,
+				"atkPower": [419.2, 461.1, 503, 544.9, 586.9, 628.8, 743.8],
+				"hp": [5643.9, 6208.2, 6772.6, 7337, 7901.4, 8465.8, 10680.8],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.311],
+				"armor": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 333.2],
+				"resistance": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 333.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.22],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.21],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.21],
+				"background": "Hanzo wins the battle against Gale, winning by 1 newspaper. He succeeds the name of Gale, and becomes the chief of the 23rd Newspaper Delivery Men.",
+				"skill": {
+					"level": 3,
+					"passive": "When a Hero's skill block is used, the Hero will deal physical damage equal to 10% of the Hero's HP. When a block is used after an ally's chain-3 skill, the enemies' armor will be decreased by 5% of hero's HP and the enemies will lose all buffs."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"robinhood": {
+		"faction": "Grancia Empire",
+		"type": "Promote",
+		"class": "Archer",
+		"skillName": "Critical Shot",
+		"passiveSkillName": "Final Shot",
+		"skillDescription": "Shoots an arrow that pierces the enemy, dealing magic damage equal to (34/122/250)% of attack power based on the chain number.",
+		"form": [
+			{
+				"name": "Robin Hood",
+				"star": 4,
+				"level": 40,
+				"atkPower": [227.5, 250.3, 273, 295.8],
+				"hp": [1612, 1773.2, 1934.4, 2095.6],
+				"critChance": [0.262, 0.262, 0.262, 0.262],
+				"armor": [104.9, 115.4, 125.9, 136.4],
+				"resistance": [104.9, 115.4, 125.9, 136.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Robin Hood is now a new member of Green Apple. He plunders the belongings of corrupt noblemen in the name of Justice, but deep down inside his heart he realizes his wrongdoing.",
+				"skill": {
+					"level": 2,
+					"passive": "Block skill activated after ally's 3-chain will change into a single \"Critical Shot\" attack that deals magic damage equal to 300% of hero's attack power. Critical Shot deals 30% increased critical damage."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Righteous Outlaw Robin Hood",
+				"star": 5,
+				"level": 50,
+				"atkPower": [393.4, 432.8, 472.1, 511,4, 550.8],
+				"hp": [2484.7, 2733.2, 2981.7, 3230.2, 3478.6],
+				"critChance": [0.262, 0.262, 0.262, 0.262, 0.262],
+				"armor": [125, 137.5, 150, 162.4, 174.9],
+				"resistance": [125, 137.5, 150, 162.4, 174.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Robin Hood becomes the head of Green Apple. Before long, he accepts the darkness in his heard and makes a vow to plunder all the noblemen.",
+				"skill": {
+					"level": 2,
+					"passive": "Block skill activated after ally's 3-chain will change into a single \"Critical Shot\" attack that deals magic damage equal to 300% of hero's attack power. Critical Shot deals 30% increased critical damage"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Nobleman Robin Hood",
+				"star": 6,
+				"level": 60,
+				"atkPower": [599.1, 659, 719, 778.9, 838.8, 898.7, 1090.7],
+				"hp": [3608.9, 3969.8, 4330.7, 4691.6, 5052.5, 5413.4, 6766.4],
+				"critChance": [0.262, 0.262, 0.262, 0.262, 0.262, 0.262, 0.45],
+				"armor": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 333.2],
+				"resistance": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 333.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.03],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.18],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.12],
+				"background": "The King has taken notice of Robin Hood's ability to curb corruption and has asked him to aim his bow at the corruption within in his own administration.",
+				"skill": {
+					"level": 3,
+					"passive": "Upon ally's 3-chain, immediately shoots \"Critical Arrow\" that deals magic damage equal to 200% of hero's attack power. The next block skill is changed into a single \"Critical Shot\" attack that deals magic damage equal to 300% of hero's attack power. Critical Shot deals 30% increased critical damage."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"r": {
+		"faction": "Neth Empire",
+		"type": "Promote",
+		"class": "Archer",
+		"skillName": "Arrow Storm",
+		"passiveSkillName": "TNT Bolt",
+		"skillDescription": "Shoots multiple arrows to enemies in the rear, dealing physical damage equal to (7/20/45)% of attack power based on the chain number.",
+		"form": [
+			{
+				"name": "R - 9999",
+				"star": 4,
+				"level": 40,
+				"atkPower": [296.1, 325, 355.4, 385],
+				"hp": [1357.3, 1493, 1628.8, 1764.5],
+				"critChance": [0.15, 0.15, 0.15, 0.15],
+				"armor": [104.9, 115.4, 125.9, 136.4],
+				"resistance": [104.9, 115.4, 125.9, 136.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Female type android developed by Road Industry. The data for development is said to have been stolen from Rapture Science, but the truth is unknown. As prototypes, all the machines were given the same mission, but only one machine managed to accomplish this mission.",
+				"skill": {
+					"level": 2,
+					"passive": "Enemies hit by her arrows have 50% reduced damage for 5 seconds. When a block is used after an ally's chain-3 skill, the arrows will have a 40% chance of exploding, dealing physical damage equal to 50% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "R - 1",
+				"star": 5,
+				"level": 50,
+				"atkPower": [511.5, 562.7, 613.8, 665, 716.1],
+				"hp": [2091.8, 2300.9, 2510.1, 2719.3, 2928.5],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15],
+				"armor": [125, 137.5, 150, 162.4, 174.9],
+				"resistance": [125, 137.5, 150, 162.4, 174.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "The only R series prototype to survive. R - 1 is the result of the tireless analysis of the data uncovered by the prototypes.",
+				"skill": {
+					"level": 2,
+					"passive": "Enemies hit by her arrows have 50% reduced damage for 5 seconds. When a block is used after an ally's chain-3 skill, the arrows will have a 40% chance of exploding, dealing physical damage equal to 50% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "R - 0",
+				"star": 6,
+				"level": 60,
+				"atkPower": [779.1, 857,934.90, 1012.8, 1090.7, 1168.6, 1436.6],
+				"hp": [3039.6, 3343.6, 3647.5, 3951.5, 4255.4, 4559.4, 5671.4],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.311],
+				"armor": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 333.2],
+				"resistance": [144.8, 159.2, 137.7, 188.2, 202.7, 217.2, 333.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.04],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.17],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.13],
+				"background": "With the success of R-1, Road Industry receives wide-ranging support from the empire, and finally created the ultimate android, R-0. But R-0, having the memories of R-9999, seeks the truth of its existence.",
+				"skill": {
+					"level": 3,
+					"passive": "Enemies hit by her arrows have 50% reduced damage for 5 seconds. When a block is used after an ally's chain-3 skill, the arrows will have a 40% chance of exploding, dealing physical damage equal to 75& of hero's attack power. Also, the enemies' SP will decrease by 7."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"giparang": {
+		"faction": "Unknown",
+		"type": "Promote",
+		"class": "Archer",
+		"skillName": "Flame Arrow",
+		"passiveSkillName": "Arrow of the Hwarang",
+		"skillDescription": "Shoots an arrow that penetrates enemy dealing magical power equal to (55/160/300)% of hero's attack power according to chain number.",
+		"form": [
+			{
+				"name": "Giparang",
+				"star": 4,
+				"level": 40,
+				"atkPower": [227.5, 250.3, 273, 295.8],
+				"hp": [1612, 1773.2, 1934.4, 2095.6],
+				"critChance": [0.262, 0.262, 0.262, 0.262],
+				"armor": [104.9, 115.4, 125.9, 136.4],
+				"resistance": [104.9, 115.4, 125.9, 136.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A warrior of an Eastern country with a deep history and tradition. He is so skilled at archery, people who see him are said to be entranced by it.",
+				"skill": {
+					"level": 2,
+					"passive": "When chain-3 skill is used, next skill's critical hit chance and critical damage increases by 30%. Also, resistance penetration increases by 15% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Quest: Epic Quest Reward!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Giparang of Half Moon",
+				"star": 5,
+				"level": 50,
+				"atkPower": [393.4, 432.8, 472.1, 511.4, 550.8],
+				"hp": [2484.7, 2733.2, 2981.7, 3230.2, 3478.6],
+				"critChance": [0.262, 0.262, 0.262, 0.262, 0.262],
+				"armor": [125, 137.5, 150, 162.4, 174.9],
+				"resistance": [125, 137.5, 150, 162.4, 174.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "In the Eastern countries, they hold an erchery tournament once every 4 years when the moonlight is at its brightest. This tournament is held from the day of the half moon till the next night when the full moon rises. A title, \"Half Moon\", is granted to the winner. Giparang attracts the attention of everyone with his fancy skills, and nobody doubts that he'll receive the title.",
+				"skill": {
+					"level": 2,
+					"passive": "When chain-3 skill is used, next skill's critical hit chance and critical damage increases by 30%. Also, resistance penetration increases by 15% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Giparang of Full Moon",
+				"star": 6,
+				"level": 60,
+				"atkPower": [599.1, 659, 719, 778.9, 838.8, 898.7, 1090.7],
+				"hp": [3608.9, 3969.8, 4330.7, 4691.6, 5052.5, 5413.4, 6766.4],
+				"critChance": [0.262, 0.262, 0.262, 0.262, 0.262, 0.262, 0.37],
+				"armor": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 333.2],
+				"resistance": [144.8, 159.2, 137.7, 188.2, 202.7, 217.2, 333.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.02],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.2],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.12],
+				"background": "On the last night of the tournament when the winner is decided, Giparang draws his bow while everyone holds their breath. All through the tournament, Giparang has not missed a single target. He now has only one arrow remaining, and everyone focuses on his every movement. With the sound of a \"swoosh,\" he shoots his last arrow towards the moon. No one knows why he does this, but before long, a rumor spreads: \"He shot down the moon.\"",
+				"skill": {
+					"level": 3,
+					"passive": "When chain-3 skill is used, next skill's critical hit chance increases by 50%, critical damage increases by 75%, and resistance penetration increases by 30% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"hikari": {
+		"faction": "Eastern Kingdom - Ryu",
+		"type": "Premium",
+		"class": "Archer",
+		"skillName": "Wind Arrow",
+		"passiveSkillName": "Tempest Arrow",
+		"skillDescription": "Shoots an arrow bound to the wind. Deals magic damage equal to (34/122/221)% of the Hero's attack power. A Chain-3 skill will knock enemies upwards.",
+		"form": [
+			{
+				"name": "Hikari",
+				"star": 4,
+				"level": 40,
+				"atkPower": [239.2, 263.1, 287.1, 311],
+				"hp": [2036.3, 2239.9, 2443.5, 2647.2],
+				"critChance": [0.158, 0.158, 0.158, 0.158],
+				"armor": [110.4, 121.5, 132.5, 143.5],
+				"resistance": [110.4, 121.5, 132.5, 143.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A student from the East. She has a sister named Kaori, but she lacks her sister's ability to adapt to their new life in the West.",
+				"skill": {
+					"level": 2,
+					"passive": "Every 7th auto attack, whirlwind arrows will be shot dealing magic damage equal to 80% of the Hero's attack power. Whenever the hero uses the block skill, the minimum number of auto attacks to activate whirlwind will be reduced 2 times."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Bullseye Hikari",
+				"star": 5,
+				"level": 50,
+				"atkPower": [413, 454.3, 495.6, 536.9, 578.2],
+				"hp": [3138.9, 3452.8, 3766.7, 4080.6, 4394.4],
+				"critChance": [0.158, 0.158, 0.158, 0.158, 0.158],
+				"armor": [131.3, 144.5, 157.6, 170.7, 183.9],
+				"resistance": [131.3, 144.5, 157.6, 170.7, 183.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Forever living in her sister's shadow, Hikari never accepted her own talent for archery.",
+				"skill": {
+					"level": 2,
+					"passive": "Every 7th auto attack, whirlwind arrows will be shot dealing magic damage equal to 80% of the Hero's attack power. Whenever the hero uses the block skill, the minimum number of auto attacks to activate whirlwind will be reduced 2 times."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Hawk Eye Hikari",
+				"star": 6,
+				"level": 60,
+				"atkPower": [629.2, 692.1, 755.1, 818, 880.9, 943.8, 1147.8],
+				"hp": [4558.3, 5014.1, 5469.9, 5925.7, 6381.6, 6837.4, 8592.4],
+				"critChance": [0.158, 0.158, 0.158, 0.158, 0.158, 0.158, 0.323],
+				"armor": [152.4, 167.7, 182.9, 198.2, 213.4, 228.7, 347.7],
+				"resistance": [152.4, 167.7, 182.9, 198.2, 213.4, 228.7, 347.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.15],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.16],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.14],
+				"background": "Hikari confessed her jealousy to her sister Kaori who told Hikari that she must follow her own path. From that day forth, HIkari placed her faith in her bow and never missed her target.",
+				"skill": {
+					"level": 3,
+					"passive": "Every 5th auto attack, whirlwind arrows will be shot dealing magic damage equal to 80% of the Hero's attack power and will shoot another one if the hero is buffed. Whenever the hero uses the block skill, the minimum number of auto attacks to activate whirlwind will be reduced 2 times."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"niven": {
+		"faction": "Unknown",
+		"type": "Promote",
+		"class": "Archer",
+		"skillName": "Frozen Thorns",
+		"passiveSkillName": "Frost Cage",
+		"skillDescription": "Shoots an enemy in the back row with an ice arrow dealing magic damage equal to (50/150/300)% of the Hero's attack power, and the enemy is moved to the front row.",
+		"form": [
+			{
+				"name": "Niven",
+				"star": 4,
+				"level": 40,
+				"atkPower": [250.5, 275.6, 300.6, 325.7],
+				"hp": [1745.3, 1919.9, 2094.4, 2269],
+				"critChance": [0.15, 0.15, 0.15, 0.15],
+				"armor": [85.9, 94.5, 103.1, 111.7],
+				"resistance": [85.9, 94.5, 103.1, 111.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": " Niven was a female frost elf, but she was born with a magical horn. Her family was murdered by the wolf tribe, so she sought vengeance and killed many of them in battle.",
+				"skill": {
+					"level": 2,
+					"passive": "When using this skill after an ally uses a chain-3 skill, the arrow will immobilize the enemy for 3 seconds."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Frozen Shade Niven",
+				"star": 5,
+				"level": 50,
+				"atkPower": [433.1, 476.4, 519.7, 563, 606.3],
+				"hp": [2609.1, 2959,1, 3228.1, 3497.1, 3766.1],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15],
+				"armor": [113, 124.3, 135.6, 146.8, 158.1],
+				"resistance": [113, 124.3, 135.6, 146.8, 158.1],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Niven assassinated the princess of the Frost Elves to prevent her clan's unification with the Wolf Tribe. She is arrested and banished from her tribe, but once the steamers arrive, she is called back to fight against them.",
+				"skill": {
+					"level": 2,
+					"passive": "When using this skill after an ally uses a chain-3 skill, the arrow will immobilize the enemy for 3 seconds."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Frozen Phantom Niven",
+				"star": 6,
+				"level": 60,
+				"atkPower": [659.3, 725.2, 791.2, 857.1, 923, 989, 1206],
+				"hp": [3907.5, 4298.2, 4689, 5079.7, 5470.5, 5861.2, 7341.2],
+				"critChance": [0.158, 0.158, 0.158, 0.158, 0.158, 0.158, 0.319],
+				"armor": [137.8, 151.5, 165.3, 179.1, 192.9, 206.7, 322.7],
+				"resistance": [137.8, 151.5, 165.3, 179.1, 192.9, 206.7, 322.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.17],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.13],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.19],
+				"background": "After the war, Niven is imprisoned, but she escaped with her followers. She came to be called the Phantom of the Icy Mountains.",
+				"skill": {
+					"level": 3,
+					"passive": "When used after an ally's chain-3 skill, enemies hit will be immobilized for 3 seconds. Also deals additional magic damage equal to 1% of the hero's maximum HP whenever the immobilzed enemy is attacked."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"arona": {
+		"faction": "Unknown",
+		"type": "Premium",
+		"class": "Archer",
+		"skillName": "Guards!",
+		"passiveSkillName": "Elite Hyangdan",
+		"skillDescription": "Call your guards, dealing physical damage equal to (150/325/325)% of the Hero's attack power. Chain-3 guards will use explosive arrows.",
+		"form": [
+			{
+				"name": "Arona",
+				"star": 4,
+				"level": 40,
+				"atkPower": [192, 211.2, 230.4, 249.6],
+				"hp": [2341.7, 2575.8, 2810, 3044.2],
+				"critChance": [0.15, 0.15, 0.15, 0.15],
+				"armor": [110.4, 121.5, 132.5, 143.5],
+				"resistance": [110.4, 121.5, 132.5, 143.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A shy and beautiful woman who grew up in a land that never knew war. One night, she escaped from her peaceful home and fell in love with Mondrian. Now she takes every opportunity she can to meet her lover in secret.",
+				"skill": {
+					"level": 2,
+					"passive": "Guards called after an ally uses a chain-3 skill count as a chain-3 skill. When an ally uses a chain-3 skill while the guards are attacking, elite guards will be summoned. Elite guards are 1.5 times stronger than normal guards summoned by chain-3 skills."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Spoiled Arona",
+				"star": 5,
+				"level": 50,
+				"atkPower": [312.1, 343.3, 374.5, 405.7, 436.9],
+				"hp": [3609.8, 3970.8, 4331.7, 4692.7, 5053.7],
+				"critChance": [0.158, 0.158, 0.158, 0.158, 0.158],
+				"armor": [131.3, 144.5, 157.6, 170.7, 183.9],
+				"resistance": [131.3, 144.5, 157.6, 170.7, 183.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "A local magistrate, in love with Arona, learned of her secret rendezvous with Mondrian and had him arrested. Heartbroken, Arona swore to free her lover and get revenge.",
+				"skill": {
+					"level": 2,
+					"passive": "Guards called after an ally uses a chain-3 skill count as a chain-3 skill. When an ally uses a chain-3 skill while the guards are attacking, elite guards will be summoned. Elite guards are 1.5 times stronger than normal guards summoned by chain-3 skills."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Femme Fatale Arona",
+				"star": 6,
+				"level": 60,
+				"atkPower": [474.6, 522.1, 569.6, 617, 664, 712, 851],
+				"hp": [5242.1, 5766.3, 6290.5, 6814.7, 7338.9, 7863.1, 9908.1],
+				"critChance": [0.158, 0.158, 0.158, 0.158, 0.158, 0.158, 0.323],
+				"armor": [152.4, 167.7, 182.9, 198.2, 213.4, 228.7, 347.7],
+				"resistance": [152.4, 167.7, 182.9, 198.2, 213.4, 228.7, 347.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.2],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.13],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.15],
+				"background": "Arona married the magistrate and used his son, Sworden, to release Mondrian from prison. Once freed, Arona and Sworden exposed the magistrate for the corrupt villian he was and banish him from their land.",
+				"skill": {
+					"level": 3,
+					"passive": "Guards called after an ally uses a chain-3 skill count as a chain-3 skill. When an ally uses a chain-3 skill while the guards are attacking, elite guards will be summoned. Elite guards are 2 times stronger than normal guards summoned by chain-3 skills. When guards and elite guards attack the enemy, they will deal additional physical damage equal to 10% of the Hero's maximum HP."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"magnus": {
+		"faction": "Unknown",
+		"type": "Premium",
+		"class": "Archer",
+		"skillName": "Bark Bomb!",
+		"passiveSkillName": "Tree Spirit Summon",
+		"skillDescription": "Shoots seeds at an enemy in the rear and summons ivy dealing magic damage equal to (50/120/250)% of the Hero's attack power The seed remains for 5 seconds.",
+		"form": [
+			{
+				"name": "Magnus",
+				"star": 4,
+				"level": 40,
+				"atkPower": [286.8, 315.5, 344.1, 372.8],
+				"hp": [1506.7, 1657.3, 1808, 1958.7],
+				"critChance": [0.158, 0.158, 0.158, 0.158],
+				"armor": [110.4, 121.5, 132.5, 143.5],
+				"resistance": [110.4, 121.5, 132.5, 143.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "An aristocrat and distant relative to the King, his heritage allowed him to become the leaderof the Golden Archer group. He loves elegant and beautiful things.",
+				"skill": {
+					"level": 2,
+					"passive": "When an ally uses a chain-3 skill, the seed grows into a tree that deals magic damage equal to 250% of the Hero's attack power."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Superior Magnus",
+				"star": 5,
+				"level": 50,
+				"atkPower": [495.8, 545.4, 595, 644.6, 694.1],
+				"hp": [2322.1, 2554.3, 2786.5, 3018.7, 3250.9],
+				"critChance": [0.158, 0.158, 0.158, 0.158, 0.158],
+				"armor": [131.3, 144.5, 157.6, 170.7, 183.9],
+				"resistance": [131.3, 144.5, 157.6, 170.7, 183.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Magnus believed that only the nobility were worthy of his position. Therefore, Sigruna, the leader of the Silver Archer group and a peasant by birth, was a thorn in his side. Magnus argues that the Silver Archer group should be disbanded and he hates Sigruna.",
+				"skill": {
+					"level": 2,
+					"passive": "When an ally uses a chain-3 skill, the seed growns into a tree that deals magic damage equal to 250% of the Hero's attack power."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Noble Magnus",
+				"star": 6,
+				"level": 60,
+				"atkPower": [754.9, 830.4, 905.9, 981.4, 1056.8, 1132.3, 1390.3],
+				"hp": [3373.5, 3710.9, 4048.2, 4385.6, 4723, 5060.3, 6313.3],
+				"critChance": [0.158, 0.158, 0.158, 0.158, 0.158, 0.158, 0.323],
+				"armor": [152.4, 167.7, 182.9, 198.2, 213.4, 228.7, 347.7],
+				"resistance": [152.4, 167.7, 182.9, 198.2, 213.4, 228.7, 347.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.16],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.12],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.11],
+				"background": "When the Devils invaded them, Magnus was impressed by Sigruna's performance and had a crush on her, but couldn't get closer. Instead, he sends hertons oftree bark after learning she enjoys eating them.",
+				"skill": {
+					"level": 3,
+					"passive": "When an ally uses a chain-3 skill or a seeded enemy receives a buff, the seed grows into a tree that deals magic damage equal to 300% of the Hero's attack power."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"atalante": {
+		"faction": "Unknown",
+		"type": "Premium",
+		"class": "Archer",
+		"skillName": "Essence of Fairy",
+		"passiveSkillName": "Fairy Wing",
+		"skillDescription": "Hero shoots the arrow of fairy magic which deals magical damage equal to (50/120/250)% of Hero attack power to the enemy at the rear.",
+		"form": [
+			{
+				"name": "Atalante",
+				"star": 4,
+				"level": 40,
+				"atkPower": [273.1, 300.5, 327.8, 355.1],
+				"hp": [1459.1, 1605, 1750.9, 1896.8],
+				"critChance": [0.315, 0.315, 0.315, 0.315],
+				"armor": [64.9, 71.4, 77.9, 84.4],
+				"resistance": [64.9, 71.4, 77.9, 84.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A famous hunter of the Roman Empire. At a young age, she won the first place in the Roman Empire hunting competition. She is very proud of her hunting skills, and is dreaming of hunting a great quarry that will surprise and impress everyone.",
+				"skill": {
+					"level": 2,
+					"passive": "One fairy essence is added after every auto attack (Up to a maximum of 3). Using this hero's block skills or an ally's chain-3 skill will activate fairy arrows that deal magic damage equal to 50% of the hero's attack power in addition to (100/200/300)% of the hero's attack power by exhausting all of the fairy essences."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Chaser Atalante",
+				"star": 5,
+				"level": 50,
+				"atkPower": [472.3, 519.5, 566.8, 614, 661.2],
+				"hp": [2249.1, 2474, 2698.9, 2923.8, 3148.7],
+				"critChance": [0.315, 0.315, 0.315, 0.315, 0.315],
+				"armor": [88, 96.8, 105.6, 114.4, 123.2],
+				"resistance": [88, 96.8, 105.6, 114.4, 123.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "After a long chase, Atalante captures a great lion. However, that lion was a pet of an aristocrat. Atalante goes to jail for hunting the lion but Athena saves her. After that, Atalante pledges her loyalty to Athena.",
+				"skill": {
+					"level": 2,
+					"passive": "One fairy essence is added after every auto attack (Up to a maximum of 3). Using this hero's block skills or an ally's chain-3 skill will activate fairy arrows that deal magic damage equal to 50% of the hero's attack power in addition to (100/200/300)% of the hero's attack power by exhausting all of the fairy essences."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Moonlight Chaser Atalante",
+				"star": 6,
+				"level": 60,
+				"atkPower": [599.1, 659, 719, 778.9, 838.8, 898.7, 1090.7],
+				"hp": [3267.3, 3594.1, 3920.8, 4247.5, 4574.3, 4901, 6109],
+				"critChance": [0.315, 0.315, 0.315, 0.315, 0.315, 0.315, 0.42],
+				"armor": [108.9, 119.7, 130.6, 141.5, 152.4, 163.3, 267.3],
+				"resistance": [108.9, 119.7, 130.6, 141.5, 152.4, 163.3, 267.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.12],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.25],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.14],
+				"background": "Athena orders Atalante, to go after the apostle who disappeared. As she was the only one who could chase after the apostle Manacar without leaving any trace behind, she begins the hunt without hesitation.",
+				"skill": {
+					"level": 3,
+					"passive": "One fairy essence is added after every auto attack or when this hero is healed (Up to a maximum of 3). Using this hero's block skills or an ally's chain-3 skill will activate fairy arrows that deal magic damage equal to 50% of the hero's attack power in addition to (100/200/300)% of the hero's attack power by exhausting all of the fairy essences."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"mamba": {
+		"faction": "Neth Enmpire",
+		"type": "Promote",
+		"class": "Archer",
+		"skillName": "Fierce Fang",
+		"passiveSkillName": "Swamp of the Viper",
+		"skillDescription": "Shoots a poison arrow that deals magical damage equal to (50/150/250)% of hero's attack power based on the chain number.",
+		"form": [
+			{
+				"name": "Mamba",
+				"star": 4,
+				"level": 40,
+				"atkPower": [307.5, 338.2, 369, 399.7],
+				"hp": [1260.2, 1386.2, 1512.2, 1638.2],
+				"critChance": [0.15, 0.15, 0.15, 0.15],
+				"armor": [85.9, 94.5, 103.1, 111.7],
+				"resistance": [85.9, 94.5, 103.1, 111.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A young warrior in Woopa tribe. He is tired of his boring life Woopa village. One day, some mysterious eruption occurs in the Primal Volcano threatening the Woopa tribe. In that confusion and disorder, Mamba runs away from the village.",
+				"skill": {
+					"level": 2,
+					"passive": "Enemy hit by poison arrow will be poisoned, receiving magical damage equal to 450% of Mamba's attack power for 5 seconds. Poison will stack up."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Green Mamba",
+				"star": 5,
+				"level": 50,
+				"atkPower": [531.1, 584.2, 637.3, 690.4, 743.5],
+				"hp": [1942.3, 2136.5, 2330.8, 2525, 2719.2],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15],
+				"armor": [113, 124.3, 135.6, 146.8, 158.1],
+				"resistance": [113, 124.3, 135.6, 146.8, 158.1],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "After running away Mamba lives a harsh life in Grancia Empire due to cultural and linguistic difference. He tries to make a living by working a sa repairman. One day Mamba meets Viper who came to fix a weapon, and decides to follow him by instinct.",
+				"skill": {
+					"level": 2,
+					"passive": "Enemy hit by poison arrow will be poisoned, receiving magical damage equal to 450% of Mamba's attack power for 5 seconds. Poison will stack up."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Black Mamba",
+				"star": 6,
+				"level": 60,
+				"atkPower": [809.2, 890.1, 971, 1051.9, 1132.8, 1213.8, 1494.8],
+				"hp": [2822.5, 3104.7, 3387, 3669.2, 3951.5, 4233.7, 5253.7],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.311],
+				"armor": [137.8, 151.5, 165.3, 179.1, 192.9, 206.7, 322.7],
+				"resistance": [137.8, 151.5, 165.3, 179.1, 192.9, 206.7, 322.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.04],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.15],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.12],
+				"background": "Code name Black Mamba. He is not only one of the ace member in Neth Resistance Army but also the right-hand man of Viper. Enemies fear him for his great talent and reticence, but he is in fact a very naive young man who admires Viper and enjoys fixing weapons. He often says ~Woompapa at the end of his sentence-Woompa.",
+				"skill": {
+					"level": 3,
+					"passive": "Enemy hit by poison arrow will be poisoned, receiving magical damage equal to 702% of Mamba's attack power for 5 seconds. Poison will stack up. When poison arrow gives critical damage to the poisoned enemy, hit enemy's chance of evasion will decrease by 40% for 5 seconds."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"lee": {
+		"faction": "Unknown",
+		"type": "Premium",
+		"class": "Archer",
+		"skillName": "Wind Dance",
+		"passiveSkillName": "Dance of Blossoming Fans",
+		"skillDescription": "Throws a fan which deals physical damage equal to (120/240/360) of hero's attack power to the enemy at the rear.",
+		"form": [
+			{
+				"name": "Lee",
+				"star": 4,
+				"level": 40,
+				"atkPower": [311, 341.1, 373.2, 404.3],
+				"hp": [1292.6, 1421.8, 1551.1, 1680.3],
+				"critChance": [0.15, 0.15, 0.15, 0.15],
+				"armor": [91.4, 100.6, 109.7, 118,8],
+				"resistance": [91.4, 100.6, 109.7, 118.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Lee is from an island country in the East Empire. Her mother dreamed to become the top dancer in Chen but she gave up due to hardship. Successing her mother, Lee also dreams to become a great dancer but her mother is firmly against her.",
+				"skill": {
+					"level": 2,
+					"passive": "When a block skill is used after ally's chain-3 skill, Lee throws a fan which deals physical damage equal to 380% of attack power."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Dancer Lee",
+				"star": 5,
+				"level": 50,
+				"atkPower": [537.5, 591.2, 645, 698.7, 752.5],
+				"hp": [1992.3, 2191.5, 2390.7, 2590, 2789.2],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15],
+				"armor": [119.3, 131.3, 143.2, 155.1, 167.1],
+				"resistance": [119.3, 131.3, 143.2, 155.1, 167.1],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Lee is recognized as a dancer after performing in front of her mother. She gets a job as a dancer in the Royal dance company of Chen.",
+				"skill": {
+					"level": 2,
+					"passive": "When a block skill is used after ally's chain-3 skill, Lee throws a fan which deals physical damage equal to 380% of attack power."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Principal Dancer Lee",
+				"star": 6,
+				"level": 60,
+				"atkPower": [818, 899.8, 981.6, 1063.4, 1145.2, 1227, 1511],
+				"hp": [2895.6, 3185.2, 3474.8, 3764.3, 4053.9, 4343.5, 5394.5],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.315],
+				"armor": [145.4, 160, 174.5, 189.1, 203.6, 218.2, 337.2],
+				"resistance": [145.4, 160, 174.5, 189.1, 203.6, 218.2, 337.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.05],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.11],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.13],
+				"background": "An assassin appears during Lee's performans but at the critical moment Lee defends assassin's attack with her fans. Lee gets recognized as the royal savior and gets promoted as the principal dancer who secretly guards the royal family.",
+				"skill": {
+					"level": 3,
+					"passive": "When a block skill is used after ally's chain-3 skill, Lee throws a fan which deals physical damage equal to 498% of attack power. Hit enemy's armor is reduced by 30% for 5 seconds."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"rahima": {
+		"faction": "Hero of Freedom",
+		"type": "Premium",
+		"class": "Archer",
+		"skillName": "Speeding Arrow",
+		"passiveSkillName": "Queen of Hawks",
+		"skillDescription": "Using blocks activates arrows that penetrate and deal magic damage equal to (120/180/240)% of hero's attack power.",
+		"form": [
+			{
+				"name": "Rahima",
+				"star": 4,
+				"level": 40,
+				"atkPower": [358.3, 394.1, 429.9, 465.7],
+				"hp": [1106.1, 1216.7, 1327.3, 1437.9],
+				"critChance": [0.315, 0.315, 0.315, 0.315],
+				"armor": [64.9, 71.4, 77.9, 84.4],
+				"resistance": [64.9, 71.4, 77.9, 84.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Rahima is the daughter of nomadic tribes, wandering the wilderness of Hasla to an undeveloped land. When the tribe attempts to move to another area, they are attacked by cateran. The tribes' archery helps Lahima to resist, sadly she is separated from her family.",
+				"skill": {
+					"level": 2,
+					"passive": "Using chain-3 skill summons Queen Hawk by whistling. Queen Hawk attacks all enemies and deals magic damage equal to 550% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Hawk Eye Rahima",
+				"star": 5,
+				"level": 50,
+				"atkPower": [618, 679.7, 741.6, 803.4, 865.2],
+				"hp": [1717.7, 1889.5, 2061.3, 2233.1, 2404.8],
+				"critChance": [0.315, 0.315, 0.315, 0.315, 0.315],
+				"armor": [88, 96.8, 105.6, 114.4, 123.2],
+				"resistance": [88, 96.8, 105.6, 114.4, 123.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Rahima woke up in Hawk's nest. She regards Hawk as her savior and decides to reside there. Lahima constantly practices archery so that she can keep the tribe's faith. She also learns how to hunt with Hawk.",
+				"skill": {
+					"level": 2,
+					"passive": "Using chain-3 skill summons Queen Hawk by whistling. Queen Hawk attacks all enemies and deals magic damage equal to 550% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Rahima, Daughter of Hawks",
+				"star": 6,
+				"level": 60,
+				"atkPower": [935.1, 1028.6, 1122.1, 1215.6, 1309.1, 1402.7, 1715.1],
+				"hp": [2530.1, 2783.1, 3036.1, 3289.1, 3542.1, 3795.1, 4740.1],
+				"critChance": [0.315, 0.315, 0.315, 0.315, 0.315, 0.315, 0.48],
+				"armor": [108.9, 119.7, 130.6, 141.5, 152.4, 163.3, 282.3],
+				"resistance": [108.9, 119.7, 130.6, 141.5, 152.4, 163.3, 282.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.05],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.11],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.13],
+				"background": "Rahima enters into human society after leaving the nest. She is always with her friendly companion, Yumir, the hawk. Hawks will always be there for Lahima whenever she is in danger during the journey to return to her tribe.",
+				"skill": {
+					"level": 3,
+					"passive": "Using chain-2 skill summons Queen Hawk by whistling. Queen Hawk attacks all enemies and deals magic damage equal to 550% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"viola": {
+		"faction": "Unknown",
+		"type": "Promote",
+		"class": "Archer",
+		"skillName": "Ghost Friends",
+		"passiveSkillName": "Ghost Party Time",
+		"skillDescription": "When the hero uses a block, a ghost is summoned that deals magical damage equal to (60/150/240)% of the hero's attack power.",
+		"form": [
+			{
+				"name": "Viola",
+				"star": 4,
+				"level": 40,
+				"atkPower": [318.8, 350.6, 392.5, 414.4],
+				"hp": [1628.7, 1791.6, 1952.5, 2117.4],
+				"critChance": [0.315, 0.315, 0.315, 0.315],
+				"armor": [110.4, 121.5, 132.5, 143.5],
+				"resistance": [110.4, 121.5, 132.5, 143.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A girl who resides in a convent with her elder sister Violet. One day she develops the special ability of seeing and talking with ghosts. Her sister and the other nuns, however, think she has gone mad, and pity her.",
+				"skill": {
+					"level": 2,
+					"passive": "When a 1-chain skill hits an enemy, the enemy's healing amount will decrease by 30% for 5 seconds. When a 2-chain skill hits an enemy, the enemy's attack power will decrease by 20% for 5 seconds. When a 3-chain skill hits an enemy, the enemy's resistance will decrease by 10% for 5 seconds. When a block skill hits an enemy Ghost party starts, there is a (20/40/60)% chance of an enemy being hit and taking magical damage equal to 150% of Viola's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Ghost Friend Viola",
+				"star": 5,
+				"level": 50,
+				"atkPower": [551.2, 606.3, 661.4, 716.5, 771.7],
+				"hp": [2510.7, 2761.8, 3012.9, 3263.9, 3515],
+				"critChance": [0.315, 0.315, 0.315, 0.315, 0.315],
+				"armor": [131.3, 144.5, 157.6, 170.7, 183.9],
+				"resistance": [131.3, 144.5, 157.6, 170.7, 183.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "When nobody believes her to speak the truth, Viola instead finds sympathy in her ghost friends. The ghosts too find comfort in Viola, through confessing their unfulfilled desires and unresolved woes.",
+				"skill": {
+					"level": 2,
+					"passive": "When a 1-chain skill hits an enemy, the enemy's healing amount will decrease by 30% for 5 seconds. When a 2-chain skill hits an enemy, the enemy's attack power will decrease by 20% for 5 seconds. When a 3-chain skill hits an enemy, the enemy's resistance will decrease by 10% for 5 seconds. When a block skill hits an enemy Ghost party starts, there is a (20/40/60)% chance of an enemy being hit and taking magical damage equal to 150% of Viola's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Ghost Princess Viola",
+				"star": 6,
+				"level": 60,
+				"atkPower": [839.3, 923.2, 1007.1, 1091, 1175, 1258.9, 1552.4],
+				"hp": [3647.3, 4012, 4376.8, 4741.5, 5106.2, 5471, 6454.2],
+				"critChance": [0.315, 0.315, 0.315, 0.315, 0.315, 0.315, 0.558],
+				"armor": [152.4, 167.7, 182.9, 198.2, 213.4, 228.7, 331.1],
+				"resistance": [152.4, 167.7, 182.9, 198.2, 213.4, 228.7, 331.1],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.03],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.12],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.12],
+				"background": "Viola increasingly spends her free time with the ghosts of the convent. Other ghosts, curious of the living girl who has become friends with so many spirits, come seeking Viola's company as well. However, the increased number of ghosts start disrupting the convent with their supernatural powers, causing the nuns to shiver in fear every night.",
+				"skill": {
+					"level": 3,
+					"passive": "When a 1-chain skill hits an enemy, the enemy's healing amount will decrease by 50% for 5 seconds. When a 2-chain skill hits an enemy, the enemy's attack power will decrease by 20% for 5 seconds. When a 3-chain skill hits an enemy, the enemy's resistance will decrease by 20% for 5 seconds. When a block skill hits an enemy Ghost party starts, there is a (40/70/100)% chance of an enemy being hit and taking magical damage equal to 150% of Viola's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"kaguya": {
+		"faction": "Eastern Kingdom - Ryu",
+		"type": "Premium",
+		"class": "Archer",
+		"skillName": "Storm of Cherry Blossoms",
+		"passiveSkillName": "Sakura Blossoms",
+		"skillDescription": "Shoots Demon-Slaying Arrow, dealing magic damage equal to (120/190/310)% of hero's attack power based on chain number.",
+		"form": [
+			{
+				"name": "Kaguya",
+				"star": 4,
+				"level": 40,
+				"atkPower": [277.5, 305.3, 333.1, 360.8],
+				"hp": [1703.6, 1874, 2044.3, 2214.7],
+				"critChance": [0.16, 0.16, 0.16, 0.16],
+				"armor": [97.7, 107.5, 117.2, 127],
+				"resistance": [97.7, 107.5, 117.2, 127],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Her father is a lord of the countryside region of Ryu. He used to be of a royal family who could succeed the throne, but he hated fighting for the throne so he decided to step down. Kaguya lovers her new peaceful life.",
+				"skill": {
+					"level": 2,
+					"passive": "Creates one cherry blossom leaf after each auto attack or Storm of Chery Blossoms, and when Kaguya collects 5 cherry blossoms leaves, cherry blossom tree will bloom. After every attack the tree deals magic damage equal to 90% of hero's attack power for 3 seconds."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Princess Kaguya",
+				"star": 5,
+				"level": 50,
+				"atkPower": [456.3, 501.9, 547.5, 593.2, 638.8],
+				"hp": [2647.4, 2912.2, 3176.9, 3441.6, 3706.4],
+				"critChance": [0.16, 0.16, 0.16, 0.16, 0.16],
+				"armor": [116.3, 128, 139.6, 151.2, 162.9],
+				"resistance": [116.3, 128, 139.6, 151.2, 162.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Kaguya grew up like a tomboy and nobody could stop her. She enjoys running through fields and hunting with her bow. She sometimes gets into trouble, but everybody likes her because she has a friendly nature.",
+				"skill": {
+					"level": 2,
+					"passive": "Creates one cherry blossom leaf after each auto attack or Storm of Chery Blossoms, and when Kaguya collects 5 cherry blossoms leaves, cherry blossom tree will bloom. After every attack, the tree deals magic damage equal to 90% of hero's attack power for 3 seconds."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Moon Princess Kaguya",
+				"star": 6,
+				"level": 60,
+				"atkPower": [735, 808.5, 882, 955.5, 1029, 1102.5, 1283.5],
+				"hp": [4112.2, 4523.4, 4934.7, 5345.9, 5757.1, 6168.3, 7403.3],
+				"critChance": [0.16, 0.16, 0.16, 0.16, 0.16, 0.16, 0.32],
+				"armor": [135, 148.5, 162, 175.5, 189, 202.5, 303.5],
+				"resistance": [135, 148.5, 162, 175.5, 189, 202.5, 303.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.08],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.17],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.11],
+				"background": "On a day when cherry blossoms were particularly beautiful unter the moonlight, a monster appeared and attacked the village. Many people got hurt and the village was in chaos. In that moment, Kaguya knocked the monster down with one arrow. That day is now a holiday to the people of the village.",
+				"skill": {
+					"level": 3,
+					"passive": "Creates 2/3/5 cherry blossom leaf after each auto attack or Storm of Cherry Blossoms based on chain number, and when Kaguya collects 5 cherry blossoms, cherry blossom tree will bloom. After every attack the tree pulls enemy dealing magic damage equal to 110% of hero's attack power for 3 seconds. Moving speed of enemy touched by the tree will slow down by 50% for 3.5 seconds."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
 	"mew": {
 		"faction": "Unknown",
 		"type": "Promote",
 		"class": "Priest",
-		"skillName": "Whisper of Light",
+		"skillName": "Light-nyan!",
+		"passiveSkillName": "Help-nyan!",
 		"skillDescription": "With the power of light, an ally is healed by 200% of the hero's attack power plus an additional (7/12/25)% based on the chain number.",
 		"form": [
 			{
@@ -2910,6 +4161,7 @@
 		"type": "Promote",
 		"class": "Priest",
 		"skillName": "Bell of Goddess",
+		"passiveSkillName": "Beloved Song",
 		"skillDescription": "With the power of the Goddess, the entire party's HP is healed by (42/152/275)% of the hero's attack power based on the chain number.",
 		"form": [
 			{
@@ -2982,11 +4234,170 @@
 			}
 		]
 	},
+	"nurspy": {
+		"faction": "Neth Empire",
+		"type": "Promote",
+		"class": "Priest",
+		"skillName": "Nurse Dispatched!",
+		"passiveSkillName": "Poison Prescription",
+		"skillDescription": "Summons a construction based on the chain number and heals the ally in range equal to (50/130/300)% of hero's attack power. Summons another construction that spreads potion that heals the ally equal to (5/13/30)% of hero's attack power every second for 5 seconds.",
+		"form": [
+			{
+				"name": "Nurspy",
+				"star": 4,
+				"level": 40,
+				"atkPower": [250.9, 276, 301, 326.1],
+				"hp": [1408.8, 1549.7, 1690.6, 1831.4],
+				"critChance": [0.1, 0.1, 0.1, 0.1],
+				"armor": [104.9, 115.4, 125.9, 136.4],
+				"resistance": [104.9, 115.4, 125.9, 136.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A member of the secret organization of the Neth, N.D.D. Camouflages as a nurse and steals information from other organizations.",
+				"skill": {
+					"level": 2,
+					"passive": "Deals magic damage equal to the healing amount to the enemies who are affected by hero's attack, and spread potion that deals magic damage equal to the healing amount of potion. When ally uses block skill after 3-chain, the block skill will work as 3-chain, dealing neutral damage."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Dangerous Nurspy",
+				"star": 5,
+				"level": 50,
+				"atkPower": [432.7, 476, 519.2, 562.5, 605.8],
+				"hp": [2192.3, 2411.5, 2630.7, 2850, 3069.2],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+				"armor": [125, 137.5, 150, 162.4, 174.9],
+				"resistance": [125, 137.5, 150, 162.4, 174.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "To reduce the risk of her identity being revelaed, she studies hard to become a Nurse Officer.",
+				"skill": {
+					"level": 2,
+					"passive": "Deals magic damage equal to the healing amount to the enemies who are affected by hero's attack, and spread potion that deals magic damage equal to the healing amount of potion. When ally uses block skill after 3-chain, the block skill will work as 3-chain, dealing neutral damage."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Emergency Relief Nurspy",
+				"star": 6,
+				"level": 60,
+				"atkPower": [647.1, 711.8, 776.5, 841.2, 906, 970.7, 1164.7],
+				"hp": [3240, 3564, 3888, 4212, 4536, 4860, 6176],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.217],
+				"armor": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 377.2],
+				"resistance": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 377.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.17],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.18],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.13],
+				"background": "During her tour as a nurse officer, she realizes that she would rather use her talents to help people and better the lives of others than ruin them with the secrets she has uncovered",
+				"skill": {
+					"level": 3,
+					"passive": "Deals magic damage equal to the healing amount to the enemies who are affected by hero's attack, and spread potion that deals magic damage equal to the healing amount of potion. Attack power of ally effected by potion will increase by 10% for 5 seconds, and damage from the enemy effected by potion will decrease by 10%. When ally uses block skill after 3-chain, the block skill will work as 3-chain, dealing neutral damage."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			}
+		]
+	},
+	"woopa": {
+		"faction": "Unknown",
+		"type": "Promote",
+		"class": "Priest",
+		"skillName": "Three Faces",
+		"passiveSkillName": "As the Chief Wishes",
+		"skillDescription": "Creates an object that heals the entire party 4 times for HP equal to (35/80/80)% of the hero's attack power based on the chain number.",
+		"form": [
+			{
+				"name": "Woompa Woopa",
+				"star": 4,
+				"level": 40,
+				"atkPower": [193.1, 212.5, 231.8, 251.1],
+				"hp": [1786.7, 1965.4, 2144.1, 2322.7],
+				"critChance": [0.175, 0.175, 0.175, 0.175],
+				"armor": [104.9, 115.4, 125.9, 136.4],
+				"resistance": [104.9, 115.4, 125.9, 136.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Woompa in Woopa tribal language means 'great.' The chief of the Woopa tribe is traditionally called Woompa, and they say the Chief's title changes as they better the tribe.",
+				"skill": {
+					"level": 2,
+					"passive": "All allies' armor and magic resistance increase by 100 when a chain-2 skill is activated, all allies' attack power increases by 30% for 5 seconds when a chain-3 skill is activated."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Roompa Woopa",
+				"star": 5,
+				"level": 50,
+				"atkPower": [332.7, 366, 399.3, 432.5, 465.8],
+				"hp": [2779.8, 3057.8, 3335.8, 3613.7, 3891.7],
+				"critChance": [0.175, 0.175, 0.175, 0.175, 0.175],
+				"armor": [125, 137.5, 150, 162.4, 174.9],
+				"resistance": [125, 137.5, 150, 162.4, 174.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "If a someone can prove themselves to be greater than Woompa Woopa, they will earn the title Roompa Woopa, Roompa meaning 'mighty.' In the history of the Woopa tribe, very few have had the honor of being called Roompa Woopa.",
+				"skill": {
+					"level": 2,
+					"passive": "All allies' armor and magic resistance increase by 100 when a chain-2 skill is activated, all allies' attack power increases by 30% for 5 seconds when a chain-3 skill is activated."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Woomparoom Woopa",
+				"star": 6,
+				"level": 60,
+				"atkPower": [497.8, 547.6, 597.4, 647.2, 697, 746.8, 889.8],
+				"hp": [4107.3, 4518.1, 4928.8, 5339.5, 5750.2, 6161, 7918],
+				"critChance": [0.175, 0.175, 0.175, 0.175, 0.175, 0.175, 0.342],
+				"armor": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 377.2],
+				"resistance": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 377.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.19],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.15],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.16],
+				"background": "The title Woomparoom means 'mighty and great'. During the entire history of the Woopa tribe, there has only efver been one Woomparoom Woopa. He was the one that saved the tribe from the brink of destruction. His name will be praised in songs for generations.",
+				"skill": {
+					"level": 3,
+					"passive": "When 2-chain skill is activated, ally's armor and resistance increases by 200, and when 3-chain skill is activated, ally's attack power and critical chance increases by 35% and 15% each for 5 seconds. Additionally, 2-chain skill will be the same as 3-chain skill."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			}
+		]
+	},
 	"bravedog": {
 		"faction": "",
 		"type": "Normal",
 		"class": "Warrior",
 		"skillName": "Call of Demon Sword",
+		"passiveSkillName": "",
 		"skillDescription": "Summons a demon sword that deals magic damage equal to (56/178/322)% of attack power based on the chain number.",
 		"form": [
 			{
@@ -3021,6 +4432,7 @@
 		"type": "Normal",
 		"class": "Warrior",
 		"skillName": "Sword Shot",
+		"passiveSkillName": "",
 		"skillDescription": "A piercing attack that deals physical damage equal to (49/150/271)% of attack power.",
 		"form": [
 			{
@@ -3055,6 +4467,7 @@
 		"type": "Normal",
 		"class": "Warrior",
 		"skillName": "Sonic Wave",
+		"passiveSkillName": "",
 		"skillDescription": "Throws a wave of energy that deals magic damage equal to (49/122/221)% of attack power based on the chain number.",
 		"form": [
 			{
@@ -3086,6 +4499,7 @@
 		"type": "Secret",
 		"class": "Paladin",
 		"skillName": "Fascinating Spear Slash",
+		"passiveSkillName": "Flaming Spear",
 		"skillDescription": "Deals physical damage equal to (50/130/220)% of hero's attack based on the length of the chain skill used.",
 		"form": [
 			{
@@ -3160,6 +4574,7 @@
 		"type": "Secret",
 		"class": "Paladin",
 		"skillName": "Iron hammer of destruction",
+		"passiveSkillName": "Glorious Sun",
 		"skillDescription": "Hero throws an iron hammer which deals physical damage equal to (50/130/260)%. Mark of the Sun appears on hit enemies for 5 seconds.",
 		"form": [
 			{
@@ -3234,6 +4649,7 @@
 		"type": "Secret",
 		"class": "Paladin",
 		"skillName": "Mr. Dolphin",
+		"passiveSkillName": "Passive",
 		"skillDescription": "Summons a dolphin that deals physical damage equal to (60/150/320)% of the Hero's attack power according to the chain numbers.",
 		"form": [
 			{
@@ -3308,6 +4724,7 @@
 		"type": "Secret",
 		"class": "Paladin",
 		"skillName": "Beak Driver",
+		"passiveSkillName": "Passive",
 		"skillDescription": "When a block is used it activates Beak Driver that deals magic damage equal to (60/130/250)% of the hero's attack power.",
 		"form": [
 			{
@@ -3377,11 +4794,312 @@
 			}
 		]
 	},
+	"billykane": {
+		"faction": "Supply all forces",
+		"type": "Secret",
+		"class": "Paladin",
+		"skillName": "Shuuten Renpa Kon",
+		"passiveSkillName": "Chou Kaen Senpuu Kon",
+		"skillDescription": "Thrusts pole to deal physical damage equal to [90/180/270]% of attack power.",
+		"form": [
+			{
+				"name": "Billy Kane",
+				"star": 4,
+				"level": 40,
+				"atkPower": [167.2, 183.9, 200.6, 217.4],
+				"hp": [3231.5, 3554.6, 3877.8, 4200.9],
+				"critChance": [0.15, 0.15, 0.15, 0.15],
+				"armor": [36.8, 40.5, 44.2, 47.8],
+				"resistance": [205.8, 226.4, 247, 267.6],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A poor youth working in a factory belonging to Howard Connection. Billy works day and night to protect his younger sister Lily Cane, who is suffering from a heart disease.",
+				"skill": {
+					"level": 2,
+					"passive": "Upon using block after ally's 3-chain, uses \"Chou Kaen Senpuu Kon\" that deals additional physical damage equal to 140% of HP. Enemies are pushed back while spinning flames. Power MAX Effect: Upon activation, armor is increased by 350 for 8 seconds."
+				},
+				"howToGet": [
+					"Event: Get by event!"
+				]
+			},
+			{
+				"name": "Billy Kane",
+				"star": 5,
+				"level": 50,
+				"atkPower": [290, 319, 348, 377, 405.9],
+				"hp": [4956.5, 5452.1, 5947.8, 6443.5, 6939.1],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15],
+				"armor": [43.7, 48.1, 52.4, 56.8, 61.2],
+				"resistance": [244.9, 269.4, 293.9, 318.4, 342.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "One day Billy gets into a fight with the factory workers, defeating them all with his skills at the three sectional staff. He is noticed by Geese Howard, the CEO of Howard Connection, and becomes his personal bodyguard and later second-in-command.",
+				"skill": {
+					"level": 2,
+					"passive": "Upon using block after ally's 3-chain, uses \"Chou Kaen Senpuu Kon\" that deals additional physical damage equal to 140% of HP. Enemies are pushed back while spinning flames. Power MAX Effect: Upon activation, armor is increased by 350 for 8 seconds."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Billy Kane",
+				"star": 6,
+				"level": 60,
+				"atkPower": [441.6, 485.8, 529.9, 574.1, 618.2, 662.4, 741.4],
+				"hp": [7196.7, 7916.4, 8636, 9355.7, 10075.4, 10795.1, 16176.1],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.3],
+				"armor": [50.6, 55.7, 60.7, 65.8, 70.8, 75.9, 135.9],
+				"resistance": [284.1, 312.5, 340.9, 369.3, 397.7, 426.1, 763.1],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.17],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.21],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.18],
+				"background": "Under Geese's orders to find out more about Orochi's powers, Billy enters \"The King of Fighters.\" He tries to team up with Iori Yagami, only to be attacked and defeated by the ill-tempered Iori. At that moment, a brilliant explosion transports Billy to Hasla.",
+				"skill": {
+					"level": 3,
+					"passive": "Upon using block after ally's 3-chain, uses \"Chou Kaen Senpuu Kon\" that deals additional physical damage equal to 235% of HP. Enemies are pushed back while spinning flames. Deals additional neutral damage equal to 30% of attack power per hit. Power MAX Effect: Upon activation, armor is increased by 350 for 8 seconds."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"hong-ran": {
+		"faction": "Supply all forces",
+		"type": "Secret",
+		"class": "Archer",
+		"skillName": "Fireworks!",
+		"passiveSkillName": "Festive Hour",
+		"skillDescription": "Shoots a portable firecracker which deals magical damage equal to (80/150/350)% of hero's attack power to the enemy with least amount of HP left according to chain number.",
+		"form": [
+			{
+				"name": "Hong-Ran",
+				"star": 4,
+				"level": 40,
+				"atkPower": [227.5, 250.3, 273, 295.8],
+				"hp": [1939.2, 2133.1, 2327, 2520.9],
+				"critChance": [0.15, 0.15, 0.15, 0.15],
+				"armor": [104.9, 115.4, 125.9, 136.4],
+				"resistance": [104.9, 115.4, 125.9, 136.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Hong-Ran could never forget about the beautiful fireworks she watched at a festival when she was young. She decides to become a great fireworks craftsman. She always quotes, \"I will become the greatest Queen of fireworks!\"",
+				"skill": {
+					"level": 2,
+					"passive": "When chain-3 skill is used, hit enemy becomes stunned for 0.5 seconds and their accuracy and chance of evasion decreases by 20% for 5 seconds."
+				},
+				"howToGet": [
+					"Event: Get by event!"
+				]
+			},
+			{
+				"name": "Hong-Ran of Fireworks",
+				"star": 5,
+				"level": 50,
+				"atkPower": [393.4, 432.8, 472.1, 511.4, 550.8],
+				"hp": [2989.4, 3288.4, 3587.3, 3886.3, 4185.2],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15],
+				"armor": [107.8, 118.6, 129.4, 140.2, 150.9],
+				"resistance": [107.8, 118.6, 129.4, 140.2, 150.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Hong-Ran becomes the disciple of a famous fireworks craftsman. While she was training, she met Jin-Kyung and had a deep conversation about each other's future. Being inspired by Jin-Kyung's vision and diligence, she decided to work even harder to achieve her dreams.",
+				"skill": {
+					"level": 2,
+					"passive": "When chain-3 skill is used, hit enemy becomes stunned for 0.5 seconds and their accuracy and chance of evasion decreases by 20% for 5 seconds."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Hong-Ran of Flame",
+				"star": 6,
+				"level": 60,
+				"atkPower": [599.1, 659, 719, 778.9, 838.8, 989.7, 1090.7],
+				"hp": [4341.1, 4775.3, 5209.4, 5643.5, 6077.6, 6511.7, 8174.7],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.311],
+				"armor": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 333.2],
+				"resistance": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 333.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1,21],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.17],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.17],
+				"background": "Hong-Ran becomes the best fireworks craftsman in the empire. One day the emperor himself asked Hong-Ran to prepare for the national festival for Jin-Kyung. Excited to hear that, Hong-Ran works her hardest for Jin-Kyung to present the best festival. However, she was accidentally sucked up by the dimentional portal which opened up mysteriously.",
+				"skill": {
+					"level": 3,
+					"passive": "When chain-3 skill is used, hit enemy becomes stunned for 0.5 seconds and their accuracy and chance of evasion decreases by 20% for 5 seconds. When ally uses chain-3 skill, hero fires installable firecracker which deals magical damage equal to 300% of attack power instead of auto attacking for 5 seconds."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"altair": {
+		"faction": "Unknown",
+		"type": "Secret",
+		"class": "Archer",
+		"skillName": "Moonlight Arrow",
+		"passiveSkillName": "Beloved Moonlight",
+		"skillDescription": "Hero shines a beam of moonlight towards the enemy at the rear. Targeted enemies are hit by shooting stars which deal magical damage equal to (7/20/45)% of Hero's attack power based on the length of the block chain.",
+		"form": [
+			{
+				"name": "Altair",
+				"star": 4,
+				"level": 40,
+				"atkPower": [220.9, 243, 265.1, 287.1],
+				"hp": [1978.2, 2176, 2373.8, 2571.6],
+				"critChance": [0.15, 0.15, 0.15, 0.15],
+				"armor": [120.9, 133, 145.1, 157.2],
+				"resistance": [120.9, 133, 145.1, 157.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Altair is the only son of an aristocrat. He is very kind-hearted and handsome and although he is not as strong as most men, he was taught the ways of archery by Giparang. When Chen invaded Han, he volunteered for the battle to fulfill his obligation as an aristocrat.",
+				"skill": {
+					"level": 2,
+					"passive": "Mark of the moon appears on the ally at the front for 5 seconds when chain-3 skill is activated. Marked ally deals magical damage equal to 50% of targeted enemy's attack power to surrounding enemies per second."
+				},
+				"howToGet": [
+					"Event: Get by event!"
+				]
+			},
+			{
+				"name": "Moonlight Artair",
+				"star": 5,
+				"level": 50,
+				"atkPower": [386.1, 424.7, 463.3, 501.9, 540.5],
+				"hp": [3049.2, 3354.1, 3659.1, 3964, 4268.9],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15],
+				"armor": [143.6, 157.9, 172,3, 186.7, 201],
+				"resistance": [143.6, 157.9, 172,3, 186.7, 201],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Altair shoots Rebecca's horse out from under her and she is thrown to the ground. However, Altair is surrounded by the Chen army and although he escapes, he is wounded in the process. Rebecca comes to his aid and he is able to get away.",
+				"skill": {
+					"level": 2,
+					"passive": "Mark of the moon appears on the ally at the front for 5 seconds when chain-3 skill is activated. Marked ally deals magical damage equal to 5% of targeted enemy's attack power to surrounding enemies per second."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "MoonShadow Artair",
+				"star": 6,
+				"level": 60,
+				"atkPower": [591.5, 650.6, 709.8, 768.9, 828, 887.2, 1075.2],
+				"hp": [4427.9, 4870.7, 5313.4, 5756.2, 6199, 6641.8, 8341.8],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.311],
+				"armor": [166.6, 183.3, 199.9, 216.6, 233.2, 249.9, 374.9],
+				"resistance": [166.6, 183.3, 199.9, 216.6, 233.2, 249.9, 374.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.11],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.12],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.18],
+				"background": "After the war, Altair's father sends him to recuperate in a small village. While living in the village alone, Altair remembers Rebecca and the aid she gave him. He realizes his love for her and leaves the village to find her.",
+				"skill": {
+					"level": 3,
+					"passive": "When a chain-3 skill is activated, a Lunar Mark appears on all allies, that increases their armor and resistance by 75%. The Lunar Mark also deals magical damage to surrounding enemies equal to 75% of the enemies' attack power every .5 seconds."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"chippzanuff": {
+		"faction": "Supply all forces",
+		"type": "Secret",
+		"class": "Archer",
+		"skillName": "Y blade",
+		"passiveSkillName": "Passive",
+		"skillDescription": "Uses a Y blade that deals magical damage equal to (120/200/450)% of hero's atack power based on the chain length.",
+		"form": [
+			{
+				"name": "Chipp Zanuff",
+				"star": 4,
+				"level": 40,
+				"atkPower": [220.1, 242.1, 264.1, 286.1],
+				"hp": [1876, 2063.6, 2251.2, 2438.8],
+				"critChance": [0.3, 0.3, 0.3, 0.3],
+				"armor": [104.9, 115.4, 125.9, 136.4],
+				"resistance": [104.9, 115.4, 125.9, 136.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "He almost got murdered by the Assassin's Guild, but a healing master saved his life and Chipp became his disciple. However, there was an attack from the Assasin's Guild and the master sacrificed himself to save Chipp. Since then Chipp's life is all about revenge.",
+				"skill": {
+					"level": 2,
+					"passive": "When Y blade hits enemy, the hero gets 1 block by 50% chance at the cost of 30 SP."
+				},
+				"howToGet": [
+					"Event: Get by event!"
+				]
+			},
+			{
+				"name": "Chipp Zanuff",
+				"star": 5,
+				"level": 50,
+				"atkPower": [382.6, 420.9, 459.2, 497.4, 535.7],
+				"hp": [2906.1, 3196.8, 3487.4, 3778, 4068.6],
+				"critChance": [0.3, 0.3, 0.3, 0.3, 0.3],
+				"armor": [125, 137.5, 150, 162.4, 174.9],
+				"resistance": [125, 137.5, 150, 162.4, 174.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "During his trip he met various people, and realized that having more power is necessary to get rid of the infelicities. In order to be the most powerful person, he decided to become the chief of the nation, the president.",
+				"skill": {
+					"level": 2,
+					"passive": "When Y blade hits enemy, the hero gets 1 block by 50% chance at the cost of 30 SP."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Chipp Zanuff",
+				"star": 6,
+				"level": 60,
+				"atkPower": [579.7, 637.6, 695.6, 753.6, 811.5, 869.5, 1052.5],
+				"hp": [4200.1, 4620.1, 5040.2, 5460.2, 5880.2, 6300.2, 7704.2],
+				"critChance": [0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.45],
+				"armor": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 333.2],
+				"resistance": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 333.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.2],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.14],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.12],
+				"background": "Chipp became a president of East Chipp Kingdom, the unauthorized state. To be recognized as an authorized state he seeks Ramlethal, who is fighting against the world. Finally he finds Ramlethal, but due to the unexpected change in dimension, he and his fellows arrived at Hasla.",
+				"skill": {
+					"level": 3,
+					"passive": "When Y blade hits enemy, the hero gets 1 block by 75% chance at the cost of 20 SP. Using a block after ally use chain-3 will activate throwing knives that deal magical damage equal to (80/100/120)% of attack power each and create 1 block."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
 	"bearguy": {
 		"faction": "",
 		"type": "Secret",
 		"class": "Paladin",
 		"skillName": "Soda Eruption!",
+		"passiveSkillName": "Sticky Fingers",
 		"skillDescription": "Showers the area with soda, dealing (50/142/322)% physical damage based on the hero's attack power.",
 		"form": [
 			{
@@ -3412,6 +5130,7 @@
 		"type": "Secret",
 		"class": "Paladin",
 		"skillName": "Great Success!",
+		"passiveSkillName": "Fiery Hammering",
 		"skillDescription": "Deals physical damage equal to (85/180/295)% of attack power according to the chain number.",
 		"form": [
 			{
@@ -3430,6 +5149,37 @@
 				"skill": {
 					"level": 1,
 					"passive": "When the hero uses a block skill, Great Success Attack deals 350% of hero's attack power will be activated by 30% chance. Great Success Attack will be counted as chain-3 attack."
+				},
+				"howToGet": [
+					"Event: Get by event!"
+				]
+			}
+		]
+	},
+	"greenelf": {
+		"faction": "",
+		"type": "Secret",
+		"class": "Archer",
+		"skillName": "Spicy Candy Bar",
+		"passiveSkillName": "More Spicy!",
+		"skillDescription": "Shoots a candy bar that deals (34/122/221)% physical damage based on the hero's attack power. It tastes like it's made of cinnamon and fire!",
+		"form": [
+			{
+				"name": "Green Elf",
+				"star": 3,
+				"level": 30,
+				"atkPower": [246.7, 271.3, 296],
+				"hp": [1991.8, 2103, 2294.1],
+				"critChance": [0.21, 0.21, 0.21],
+				"armor": [113.7, 125.1, 136.5],
+				"resistance": [113.7, 125.1, 136.5],
+				"critDamage": [0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0],
+				"evasion": [0, 0, 0],
+				"background": "A mischievous elf. He shoots candy bars at children every Christmas, but always misses.",
+				"skill": {
+					"level": 1,
+					"passive": "Enemies on fire have a 50% chance of being stunned for 1 second. When other heroes use a chain-3 skill, 2 candy bars will be summoned that deal physical damage equal to 221% of the Hero's attack power. (once every 2 sec)"
 				},
 				"howToGet": [
 					"Event: Get by event!"

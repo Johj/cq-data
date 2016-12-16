@@ -6986,6 +6986,240 @@
 			}
 		]
 	},
+	"stein": {
+		"faction": "Neth Empire",
+		"type": "Promote",
+		"class": "Priest",
+		"skillName": "Life Support",
+		"passiveSkillName": "Device Full Array",
+		"skillDescription": "Whenever ally is damaged, life support equipment drops that heals 65% of ally's attack power for (3/4/5) seconds.",
+		"form": [
+			{
+				"name": "Stein",
+				"star": 4,
+				"level": 40,
+				"atkPower": [151.4, 166.6, 181.7, 196.8],
+				"hp": [2053.5, 2258.8, 2464.2, 2669.5],
+				"critChance": [0.1, 0.1, 0.1, 0.1],
+				"armor": [149.1, 164, 179, 193.3],
+				"resistance": [149.1, 164, 179, 193.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "An engineering genius. No one accepted his techonology until Nemesis came. Nemesis asked him to make an army of robots.",
+				"skill": {
+					"level": 2,
+					"passive": "Using a skill block after ally uses a chain-3 skill, will send a Life Support robot to all allies for 3 seconds. (once every 3 seconds)"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Tenacious Stein",
+				"star": 5,
+				"level": 50,
+				"atkPower": [287.2, 315.9, 344.6, 373.3, 402],
+				"hp": [3194.8, 3514.3, 3833.8, 4253.3, 4472.8],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+				"armor": [187.9, 206.7, 225.5, 244.3, 263.1],
+				"resistance": [187.9, 206.7, 225.5, 244.3, 263.1],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Stein stole the schematics from his pupil to make the ultimate robot. He was able to make an army of steamers, but his ambitions know no ends.",
+				"skill": {
+					"level": 2,
+					"passive": "Using a skill block after ally uses a chain-3 skill, will send a Life Support robot to all allies for 3 seconds. (once every 3 seconds)"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Mad Scientist Stein",
+				"star": 6,
+				"level": 60,
+				"atkPower": [449.5, 494.4, 539.4, 584.3, 629.2, 674.2, 801.2],
+				"hp": [4720.3, 5192.4, 5664.4, 6136.4, 6608.5, 7080.5, 9148.5],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.217],
+				"armor": [225.1, 247.6, 270.1, 292.6, 315.1, 337.6, 541.6],
+				"resistance": [225.1, 247.6, 270.1, 292.6, 315.1, 337.6, 541.6],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.0],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.16],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.19],
+				"background": "On his quest for knowledge, Stein travels to the future and arrives in the Neth Empire.",
+				"skill": {
+					"level": 3,
+					"passive": "Using a skill block after ally uses a chain-3 skill, will send a Life Support robot to all allies for 5 seconds. This robot also increases the ally's attack power by 2% for 5 seconds each time the ally is hit. (once every 3 seconds)"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"aria": {
+		"faction": "Unknown",
+		"type": "Promote",
+		"class": "Priest",
+		"skillName": "Blessings of the Stars",
+		"passiveSkillName": "Luminous Starfall",
+		"skillDescription": "Hero heals the entire party's HP by (35/45/65)% of one's HP and casts blessing of the Stars on them for 3 seconds.",
+		"form": [
+			{
+				"name": "Aria",
+				"star": 4,
+				"level": 40,
+				"atkPower": [135, 148.5, 162, 175.6],
+				"hp": [2617, 2878.7, 3140.4, 3402.1],
+				"critChance": [0.1, 0.1, 0.1, 0.1],
+				"armor": [85.9, 94.5, 103.1, 111.7],
+				"resistance": [85.9, 94.5, 103.1, 111.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Aria serves one of the most prestigious family from generation to generation. One day, the young master of the family runs away from home and she chases after him all around the world. She is waiting for the moment to beat up that kid who ruined her peaceful life!",
+				"skill": {
+					"level": 2,
+					"passive": "[Armor/Resistance] of the ally who received Blessing of the Stars increases by 15% of Aria's [Armor/Resistance], and Aria deals magic damage equal to 50% of attack power whenever Aria is attacked 5 times."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Fortune Teller Aria",
+				"star": 5,
+				"level": 50,
+				"atkPower": [232.8, 256, 279.3, 302.6, 325.9],
+				"hp": [4071.9, 4479.1, 4886.3, 5293.5, 5700.7],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+				"armor": [113, 124.3, 135.6, 146.8, 158.1],
+				"resistance": [113, 124.3, 135.6, 146.8, 158.1],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Aria catches the runaway master by using her fortune teling ability. She just couldn't leave the young boy alone, so she decides to help him gather the scattered power of his family all over the Hasla in order to revive the family.",
+				"skill": {
+					"level": 2,
+					"passive": "[Armor/Resistance] of the ally who received Blessing of the Stars increases by 15% of Aria's [Armor/Resistance], and Aria deals magic damage equal to 50% of attack power whenever Aria is attacked 5 times."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Aria of the Stars",
+				"star": 6,
+				"level": 60,
+				"atkPower": [348.6, 383.4, 418.3, 453.1, 488, 522.9, 615.9],
+				"hp": [6016.6, 6618.2, 7219.9, 7821.5, 8423.2, 9024.8, 11751.8],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.222],
+				"armor": [137.8, 151.5, 165.3, 179.1, 192.9, 206.7, 366.7],
+				"resistance": [137.8, 151.5, 165.3, 179.1, 192.9, 206.7, 366.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.14],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.19],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.21],
+				"background": "Aria receives days off as reward for assisting the revival of family. During her vacation, she finds out about the destiny of the family from a star in the sky by chance. The star points at the capital of Empire, Edenberg. Aria follows Lionel to that city.",
+				"skill": {
+					"level": 3,
+					"passive": "[Armor/Resistance] of the ally who received Blessing of the Stars increase by 30% of Aria's [Armor/Resistance], and Aria deals magic damage equal to 100% of attack power whenever Aria is attacked 5 times."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"seiren": {
+		"faction": "Unknown",
+		"type": "Promote",
+		"class": "Priest",
+		"skillName": "Bubble Shower",
+		"passiveSkillName": "Shell Shield",
+		"skillDescription": "When a block is used, Bubble Shower deals magical damage equal to (60/150/270)% of hero's attack power.",
+		"form": [
+			{
+				"name": "Seiren",
+				"star": 4,
+				"level": 40,
+				"atkPower": [112, 123.2, 134.4, 145.6],
+				"hp": [2959.1, 3255, 3550.9, 3846.8],
+				"critChance": [0.1, 0.1, 0.1, 0.1],
+				"armor": [91.4, 100.6, 109.7, 118.8],
+				"resistance": [91.4, 100.6, 109.7, 118.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "In the southeast lands of Hasla near the Primal Mountain dwell various minor tribes and peoples. Among them is the Naga Tribe, the elusive inhabitants of the deeper waters of the surrounding ocean. Seiren is once Naga who is more curious about the life on land than her fellow tribespeople.",
+				"skill": {
+					"level": 2,
+					"passive": "When a block skill hits an enemy, the enemy's movement speed decreases by 50%. Seiren casts Shell that creates a shield around an ally that absorbs damage equal to (10/30/50)% of Seiren's HP for 5 seconds based on the length of the chain skill that Seiren uses. While Shell shield is active the ally will be healed for 5% of their HP every second."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Tempestuous Seiren",
+				"star": 5,
+				"level": 50,
+				"atkPower": [199.9, 219.9, 239.9, 259.9, 279.9],
+				"hp": [4385, 4823.5, 5262, 5700.6, 6139.1],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+				"armor": [113, 124.3, 135.6, 146.8, 158.1],
+				"resistance": [113, 124.3, 135.6, 146.8, 158.1],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Unable to quench her curiosity, Seiren runs away from home to a life above water. Yet before long  she finds herself utterly lost and helpless, and loses consciousness in the midst of crying for help. Fortunately, a pirate hunter who hears Seiren's beautiful voice rescues her, and takes her to Valencia.",
+				"skill": {
+					"level": 2,
+					"passive": "When a block skill hits an enemy, the enemy's movement speed decreases by 50%. Seiren casts Shell that creates a shield around an ally that absorbs damage equal to (10/30/50)% of Seiren's HP for 5 seconds based on the length of the chain skill that Seiren uses. While Shell shield is active the ally will be healed for 5% of their HP every second."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Ambassador Seiren",
+				"star": 6,
+				"level": 60,
+				"atkPower": [299, 328.9, 358.8, 388.7, 418.6, 448.5, 524.3],
+				"hp": [6479.1, 7127, 7774.9, 8422.9, 9070.8, 9718.7, 12681.1],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.217],
+				"armor": [137.8, 151.5, 165.3, 179.1, 192.9, 206.7, 366.6],
+				"resistance": [137.8, 151.5, 165.3, 179.1, 192.9, 206.7, 366.6],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.28],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.2],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.2],
+				"background": "Seiren wakes up in Valencia and is immediately charmed by life on land. Her happiness does not last long, however, the other Nagas discover her whereabouts and insist on taking her back to their home in the deep sea. After returning home, Seiren volunteers to become an ambassador between the residents under water and those above water.",
+				"skill": {
+					"level": 3,
+					"passive": "When a block skill hits an enemy, the enemy's movement speed decreases by 50%. Seiren casts Shell that creates a shield around an ally that absorbs damge equal to (20/50/80)% of Seiren's HP for 5 seconds based on the length of the chain skill that Seiren uses. While Shell shield is active the ally will be healed for 5% of their HP every second."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
 	"bravedog": {
 		"faction": "",
 		"type": "Normal",

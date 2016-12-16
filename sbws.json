@@ -319,21 +319,21 @@
 				"star": 4,
 				"atkPower": 54,
 				"atkSpeed": 1.5,
-				"ability": ""
+				"ability": "(Passive activated) Immune to physical damage +5 times"
 			},
 			{
 				"name": "Steel Guillotine",
 				"star": 5,
 				"atkPower": 88,
 				"atkSpeed": 1.5,
-				"ability": ""
+				"ability": "(Passive activated) Immune to physical damage +5 times"
 			},
 			{
 				"name": "Guillotine of Faith",
 				"star": 6,
 				"atkPower": 135,
 				"atkSpeed": 1.5,
-				"ability": ""
+				"ability": "(Passive activated) Immune to physical damage +8 times, HP recover +2% every second"
 			}
 		]
 	},
@@ -345,21 +345,21 @@
 				"star": 4,
 				"atkPower": 79,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "(30% chance when block used) Next skill damage +45%"
 			},
 			{
 				"name": "Mysterious Muramasa",
 				"star": 5,
 				"atkPower": 129,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "(30% chance when block used) Next skill damage +45%"
 			},
 			{
 				"name": "Demonic Muramasa",
 				"star": 6,
 				"atkPower": 198,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "(30% chance when block used) Next skill damage +90%, auto attacks are activated as chain-3 block skill power for 3 seconds"
 			}
 		]
 	},
@@ -371,21 +371,21 @@
 				"star": 4,
 				"atkPower": 65,
 				"atkSpeed": 1.2,
-				"ability": ""
+				"ability": "(Ultimate Magic Sword) Damage +35%, Life steal 15%"
 			},
 			{
 				"name": "Dark Balrog",
 				"star": 5,
 				"atkPower": 105,
 				"atkSpeed": 1.2,
-				"ability": ""
+				"ability": "(Ultimate Magic Sword) Damage +35%, Life steal 15%"
 			},
 			{
 				"name": "Midnight Balrog",
 				"star": 6,
 				"atkPower": 162,
 				"atkSpeed": 1.2,
-				"ability": ""
+				"ability": "(Ultimate Magic Sword) Damage +75%, Life steal +15%, Critical damage +30%"
 			}
 		]
 	},
@@ -397,21 +397,21 @@
 				"star": 4,
 				"atkPower": 93,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "(Ultimate-Wind Sword) Number of Activation +1, Critical Chance +20%"
 			},
 			{
 				"name": "Electric Baton",
 				"star": 5,
 				"atkPower": 152,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "(Ultimate-Wind Sword) Number of Activation +1, Critical Chance +20%"
 			},
 			{
 				"name": "Beam Blade",
 				"star": 6,
 				"atkPower": 234,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "(Ultimate-Wind Sword) Number of Activation +1, Number of fire +1, Critical Chance +20%"
 			}
 		]
 	},
@@ -423,21 +423,21 @@
 				"star": 4,
 				"atkPower": 86,
 				"atkSpeed": 0.9,
-				"ability": ""
+				"ability": "Chance of evasion +15% during Black Moon Slash attack, the last Black Moon Slash damage +50%"
 			},
 			{
 				"name": "Advanced Shinai",
 				"star": 5,
 				"atkPower": 140,
 				"atkSpeed": 0.9,
-				"ability": ""
+				"ability": "Chance of evasion +15% during Black Moon Slash attack, the last Black Moon Slash damage +50%"
 			},
 			{
 				"name": "The Black Moon",
 				"star": 6,
 				"atkPower": 216,
 				"atkSpeed": 0.9,
-				"ability": ""
+				"ability": "Chance of evasion +30% during Black Moon Slash attack, the last Black Moon Slash damage +100% and ignores the enemy's armor, everytime the hero kills enemy with Black Moon Slash gain 5% extra critical damage (Maximum 100%)"
 			}
 		]
 	},
@@ -724,21 +724,21 @@
 				"star": 4,
 				"atkPower": 56,
 				"atkSpeed": 0.9,
-				"ability": ""
+				"ability": "(Passive Activated) Additional armor reduced when chain-3 skill effect is activated"
 			},
 			{
 				"name": "Pendulum of Siege",
 				"star": 5,
 				"atkPower": 91,
 				"atkSpeed": 0.9,
-				"ability": ""
+				"ability": "(Passive Activated) Additional armor reduced when chain-3 skill effect is activated"
 			},
 			{
 				"name": "Thanatos",
 				"star": 6,
 				"atkPower": 138,
 				"atkSpeed": 0.9,
-				"ability": ""
+				"ability": "(Passive Activated) Additional armor reduced when chain-3 skill effect is activated, armor increases by the same amount of decreased armor, activated on both sides"
 			}
 		]
 	},
@@ -2391,21 +2391,21 @@
 				"star": 4,
 				"atkPower": 75,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "Attack power of the ally who received Blessing of Star increases 10% in extra."
 			},
 			{
 				"name": "Lamp of Astrology",
 				"star": 5,
 				"atkPower": 127,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "Attack power of the ally who received Blessing of Star increases 10% in extra."
 			},
 			{
 				"name": "Mark of Starlight",
 				"star": 6,
 				"atkPower": 181,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "Increases attack power of the ally who received Blessing of the Stars increases by10%. When Aria attacks the enemy 10 times with passive, a Gemini sign is summoned and increases damage by 15% for 5 seconds. (Once every 7 seconds)"
 			}
 		]
 	},

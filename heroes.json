@@ -5710,7 +5710,7 @@
 					"passive": "Third block used will always be activated as chain-3. This number will also be applied when other ally hero activates chain-3."
 				},
 				"howToGet": [
-					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Contract: Buy Contracts! (Except Noble Honor Box)"
 				]
 			},
 			{
@@ -5864,7 +5864,7 @@
 					"passive": "Summons an upgraded Spade soldier dealing magic damage equal to 210% of the Hero's attack damage. Summoned when diamond soldiers successfully deal damage AFTER a spade soldier deals damaged (triggered only once every 2 secs)."
 				},
 				"howToGet": [
-					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Contract: Buy Contracts! (Except Noble Honor Box)"
 				]
 			},
 			{
@@ -6017,7 +6017,7 @@
 					"passive": "Shadow clones created after ally attacks will attack twice."
 				},
 				"howToGet": [
-					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Contract: Buy Contracts! (Except Noble Honor Box)"
 				]
 			},
 			{
@@ -6092,7 +6092,7 @@
 					"passive": "Based on an ally's chain length, orders the summoned spirits to (Heal 10% of an ally's HP and takes all damage for that ally for 5 seconds / increase attack power by 30% up to 2 times / deal magical damage equal to 120% of the Spirit's attack power)."
 				},
 				"howToGet": [
-					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Contract: Buy Contracts! (Except Noble Honor Box)"
 				]
 			},
 			{
@@ -6122,7 +6122,7 @@
 				"star": 6,
 				"level": 60,
 				"atkPower": [575.4, 633, 690.5, 748, 805.6, 863.1, 1007.1],
-				"hp": [3791.8, 4171, 4550.2, 4929.4, 53-8.6, 5687.8, 6535.8],
+				"hp": [3791.8, 4171, 4550.2, 4929.4, 5308.6, 5687.8, 6535.8],
 				"critChance": [0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.38],
 				"armor": [46.3, 51, 55.6, 60.3, 64.9, 69,5, 95.5],
 				"resistance": [198.2, 218, 237.8, 257.7, 277.5, 297.3, 410.3],
@@ -6167,7 +6167,7 @@
 					"passive": "Scarecrow which deals magical damage equal to 125% of Hero's attack power if sprouted enemies are attacked with critical hits more than 5 times within 3 seconds."
 				},
 				"howToGet": [
-					"Contract: Buy Contracts! (Except Noble Hero Box)",
+					"Contract: Buy Contracts! (Except Noble Hero Box)"
 				]
 			},
 			{
@@ -6242,7 +6242,7 @@
 					"passive": "Using blocks will change auto attack to Cross Blade that deals magic damage equal to (100/150/220)% of the hero's attack power for 6 seconds. Using Cross Blade 6 times will activate Blade of Execution that deals magic damage equal to 350% of the hero's attack power."
 				},
 				"howToGet": [
-					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Contract: Buy Contracts! (Except Noble Honor Box)"
 				]
 			},
 			{
@@ -6329,7 +6329,7 @@
 				"atkPower": [486.3, 534.9, 583.5, 632.1, 680.8],
 				"hp": [1952.1, 2147.3, 2342.5, 2537.7, 2732.9],
 				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2],
-				"armor": [45.7, 50.3, 54.9, , 64],
+				"armor": [45.7, 50.3, 54.9, 59.4, 64],
 				"resistance": [195.7, 215.2, 234.8, 254.4, 274],
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0, 0, 0],
@@ -6395,7 +6395,7 @@
 					"passive": "When card attack is hit critical, hit enemy's accuracy decreases by 30%."
 				},
 				"howToGet": [
-					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Contract: Buy Contracts! (Except Noble Honor Box)"
 				]
 			},
 			{
@@ -6470,7 +6470,7 @@
 					"passive": "Vesper obtains water drop according to the number of chain skills used by herself or ally toward enemy during absorptive status. When 3 water drops are obtained, next auto attack of Vesper will deal magical damage equal to 200% of her attack power."
 				},
 				"howToGet": [
-					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Contract: Buy Contracts! (Except Noble Honor Box)"
 				]
 			},
 			{

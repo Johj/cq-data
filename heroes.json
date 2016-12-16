@@ -5449,6 +5449,1229 @@
 			}
 		]
 	},
+	"archon": {
+		"faction": "Unknown",
+		"type": "Promote",
+		"class": "Wizard",
+		"skillName": "Meteor Shower",
+		"passiveSkillName": "Lightning Ball",
+		"skillDescription": "Summons a meteor shower from the sky, dealing physical damage equal to (49/159/270)% of attack power based on the chain number.",
+		"form": [
+			{
+				"name": "Archon",
+				"star": 4,
+				"level": 40,
+				"atkPower": [315.9, 347.4, 379, 410.6],
+				"hp": [1266.2, 1392.8, 1519.5, 1646.1],
+				"critChance": [0.2, 0.2, 0.2, 0.2],
+				"armor": [41.5, 45.7, 49.8, 54],
+				"resistance": [178.1, 195.9, 213.7, 231.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A magician and archaeologist who studied arcane magic and ancient relics. She was afflicted with a strange condition that caused her to absorb the memories of a long-dead being. She headed towards the southernmost tip of the continent at the insistence of the voices in her head",
+				"skill": {
+					"level": 2,
+					"passive": "Using a chain-3 skill will increase the party's defense and magical penetration by 20% of the Hero's attack power. If already buffed, Summon 1-2 shock spheres that deal magical damage equal to 30% of the Hero's attack power each hit."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Archon the Undiscovered",
+				"star": 5,
+				"level": 50,
+				"atkPower": [554.4, 609.8, 665.2, 720.7, 776.1],
+				"hp": [1952.1, 2147.3, 2342.5, 2537.7, 2732.9],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2],
+				"armor": [49.2, 54.1, 59, 63.9, 68.8],
+				"resistance": [211.9, 233, 254.2, 275.4, 296.6],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Archon arrived at an abandoned fortress only to find the risen souls of wicked men. She can't help but feel that she's fought this war before...",
+				"skill": {
+					"level": 2,
+					"passive": "Using a chain-3 skill will increase the party's defense and magical penetration by 20% of the Hero's attack power. If already buffed, Summon 1-2 shock spheres that deal magical damage equal to 30% of the Hero's attack power each hit."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Archon the Enlightened",
+				"star": 6,
+				"level": 60,
+				"atkPower": [849.8, 934.7, 1019.7, 3683.8, 3967.2, 1274.6, 1488.6],
+				"hp": [2833.7, 3117, 3400.4, 3683.8, 3967.2, 4250.5, 4935.5],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.32],
+				"armor": [57, 62.7, 68.4, 74.1, 79.8, 85.5, 115.5],
+				"resistance": [246, 270.6, 295.2, 319.8, 344.4, 369, 498],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.07],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.12],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.15],
+				"background": "Archon finds a golden chalice hidden in the fortress. She drank from the glass and at last knew she understood what had happened to her. She now knows the truth about the voices in her head and herself.",
+				"skill": {
+					"level": 3,
+					"passive": "Using a chain-3 skill will increase the party's defense and magical penetration by 30% of the Hero's attack power. If already buffed, Summon 2-4 shock spheres that deal magical damage equal to 40% of the Hero's attack power each hit."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"korin": {
+		"faction": "Unknown",
+		"type": "Promote",
+		"class": "Wizard",
+		"skillName": "Phantom Talisman",
+		"passiveSkillName": "Spirit Magic",
+		"skillDescription": "Strikes with an ancient talisman dealing magic damage equal to (49/150/279)% of the Hero's Attack Power based on the chain number.",
+		"form": [
+			{
+				"name": "Korin",
+				"star": 4,
+				"level": 40,
+				"atkPower": [228.9, 251.8, 274.7, 297.5],
+				"hp": [1614.1, 1775.5, 1936.9, 2098.3],
+				"critChance": [0.2, 0.2, 0.2, 0.2],
+				"armor": [32.2, 35.4, 38.6, 41.8],
+				"resistance": [137.1, 150.8, 164.6, 178.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "In the East, there is a rumor that a person dressed in black comes and takes you when you are about to die. Many people do not believe this to be true, and Korin is one of them.",
+				"skill": {
+					"level": 2,
+					"passive": "When using a chain-3 skill, deals additional magic damage equal to 50% of the enemy's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Quest: Epic Quest Reward!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Grim Reaper Korin",
+				"star": 5,
+				"level": 50,
+				"atkPower": [396.6, 436.2, 475.9, 515.6, 555.2],
+				"hp": [2487.6, 2736.4, 2985.2, 3233.9, 3482.7],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2],
+				"armor": [37.9, 41.7, 45.5, 49.3, 53],
+				"resistance": [162.9, 179.1, 195.4, 211.7, 228],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "One day Korin loses her life in an unexpected accident. As her vision begins to fade, the rumored person in black appears before her.",
+				"skill": {
+					"level": 2,
+					"passive": "When using a chain-3 skill, deals additional magic damage equal to 50% of the enemy's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Death Messenger Korin",
+				"star": 6,
+				"level": 60,
+				"atkPower": [603.7, 664.1, 724.5, 784.8, 845.2, 905.6, 1056.6],
+				"hp": [3611.3, 3972.4, 4333.6, 4694.7, 5055.8, 5417, 6234],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.4],
+				"armor": [44, 48.4, 52.8, 57.2, 61.6, 66, 91],
+				"resistance": [188.8, 207.6, 226.5, 245.4, 264.3, 283.1, 393.1],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.09],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.13],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.23],
+				"background": "Korin, a veteran Grim Reaper, can now comfortably deliver dead people to ther target destination through her outstanding appearance. The King of Hell is pleased with her actions, and promotes her to Death Messenger.",
+				"skill": {
+					"level": 3,
+					"passive": "When using a chain-3 skill, deals additional magic damage equal to 100% of the enemy's attack power. Also, activates a shield around the entire party that absorbs damage equal to 70% of Hero's maximum HP. (Activated once every 2 seconds)"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"sasquatch": {
+		"faction": "Unknown",
+		"type": "Promote",
+		"class": "Wizard",
+		"skillName": "Freezing Blizzard",
+		"passiveSkillName": "Frozen Earth",
+		"skillDescription": "Drops countless icicles that deal magic damage equal to (5/13/22)% of attack power based on the chain number.",
+		"form": [
+			{
+				"name": "Sasquatch",
+				"star": 4,
+				"level": 40,
+				"atkPower": [326.8, 359.4, 392.1, 424.8],
+				"hp": [962, 1058.2, 1154.4, 1250.6],
+				"critChance": [0.35, 0.35, 0.35, 0.35],
+				"armor": [32.2, 35.4, 38.6, 41.8],
+				"resistance": [137.1, 150.8, 164.6, 178.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "He is a mischievous boy who enjoys disguising himself as a snowman, only to surprise unsuspecting travelers who walk too close.",
+				"skill": {
+					"level": 2,
+					"passive": "The enemy hit by Glancial Blizzard will become frozen and attack power will decrease by 25%. When enemy becomes frozen 10 times during 10 seconds, stuns the enemy for 1.5 seconds."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Sasquatch of Cold",
+				"star": 5,
+				"level": 50,
+				"atkPower": [566.6, 623.3, 679.9, 736.6, 793.3],
+				"hp": [1482.7, 1630.9, 1779.2, 1927.4, 2075.7],
+				"critChance": [0.35, 0.35, 0.35, 0.35, 0.35],
+				"armor": [37.9, 41.7, 45.5, 49.3, 53],
+				"resistance": [162.9, 179.1, 195.4, 211.7, 228],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "One day via a mysterious lights, he finds ice particles floating around his body. In a panic, he cries for help from the townspeople, but they flee calling him a monster.",
+				"skill": {
+					"level": 2,
+					"passive": "The enemy hit by Glancial Blizzard will become frozen and attack power will decrease by 25%. When enemy becomes frozen 10 times during 10 seconds, stuns the enemy for 1.5 seconds."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Freezing Sasquatch",
+				"star": 6,
+				"level": 60,
+				"atkPower": [862.7, 949, 1035.3, 1121.6, 1207.8, 1294.1, 1511.1],
+				"hp": [2152.8, 2368.1, 2583.4, 2798.9, 3013.9, 3229.2, 3799.2],
+				"critChance": [0.35, 0.35, 0.35, 0.35, 0.35, 0.35, 0.45],
+				"armor": [44, 48.4, 52.8, 57.2, 61.6, 66, 91],
+				"resistance": [188.8, 207.6, 226.5, 245.4, 264.3, 283.1, 393.1],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.03],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.15],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.13],
+				"background": "Disappointed, Sasquatch never leaves his home. Then one day, after hearing cries and commotion outside, he steps out to see the town being attacked by monsters. Knowing he can't hold back, Sasquatch uses his ice crystals to defeat the monsters. He then realizes his form has changed. People from the town apologize to Sasquatch, and ask him to continue protecting the town. They call him 'Freezing Sasquatch.'",
+				"skill": {
+					"level": 3,
+					"passive": "The enemy hit by Glancial Blizzard will become frozen and attack power will decrease by 35%. When enemy becomes frozen 10 times during 7 seconds, stuns the enemy for 1.5 seconds."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"lilith": {
+		"faction": "Pumpkin City",
+		"type": "Premium",
+		"class": "Wizard",
+		"skillName": "Meteor Shower",
+		"passiveSkillName": "Blessing of the Night",
+		"skillDescription": "Summons a meteor shower from the sky, dealing physical damage equal to (49/150/270)% of attack power based on the chain number.",
+		"form": [
+			{
+				"name": "Lilith",
+				"star": 4,
+				"level": 40,
+				"atkPower": [425, 467.6, 510.1, 552.6],
+				"hp": [868.8, 955.7, 1042.6, 1129.4],
+				"critChance": [0.2, 0.2, 0.2, 0.2],
+				"armor": [32.2, 35.4, 38.6, 41.8],
+				"resistance": [137.1, 150.8, 164.6, 178.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Lilith survives by constantly changing her form. Unknown to others, she is actually a legendary witch living amongst the ordinary humans. She uses these humans as a conduit to absorb her magic power.",
+				"skill": {
+					"level": 2,
+					"passive": "Third block used will always be activated as chain-3. This number will also be applied when other ally hero activates chain-3."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+				]
+			},
+			{
+				"name": "Night Queen Lilith",
+				"star": 5,
+				"level": 50,
+				"atkPower": [736.2, 809.8, 883.4, 957, 1030.6],
+				"hp": [1339.1, 1473, 1606.9, 1740.8, 1874.7],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2],
+				"armor": [37.9, 41.7, 45.5, 49.3, 53],
+				"resistance": [162.9, 179.1, 195.4, 211.7, 228],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "As her magic power is fully restored Lilith finally returns to her old self. However, to return to her true form she needs a lot of mana. To obtain the mana required she goes mana hunting every night.",
+				"skill": {
+					"level": 2,
+					"passive": "Third block used will always be activated as chain-3. This number will also be applied when other ally hero activates chain-3."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Night Goddess Lilith",
+				"star": 6,
+				"level": 60,
+				"atkPower": [1121.8, 1233.9, 1346.1, 1458.3, 1570.4, 1682.6, 1965.6],
+				"hp": [1944.6, 2139, 2333.5, 2527.9, 2722.4, 2916.8, 3451.8],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.335],
+				"armor": [44, 48.4, 52.8, 57.2, 61.6, 66, 91],
+				"resistance": [188.8, 207.6, 226.5, 245.4, 264.3, 283.1, 393.1],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.03],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.14],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.11],
+				"background": "Lilith has finally recovered all of her magic power, returning to her true form. Witches shiver in fear, saying that the Night Goddess Lilith has returned.",
+				"skill": {
+					"level": 3,
+					"passive": "Second block used will always be activated as chain-3. This number will also be applied when other ally hero activates chain-3."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"rachel": {
+		"faction": "Pumpkin City",
+		"type": "Promote",
+		"class": "Wizard",
+		"skillName": "Bat Storm",
+		"passiveSkillName": "Fatal Allure",
+		"skillDescription": "Calls for countless bats, dealing magic damage equal to (56/175/280)% of attack power based on the chain number.",
+		"form": [
+			{
+				"name": "Rachel",
+				"star": 4,
+				"level": 40,
+				"atkPower": [326.8, 359.4, 392.1, 424.8],
+				"hp": [962, 1058.2, 1154.4, 1250.6],
+				"critChance": [0.35, 0.35, 0.35, 0.35],
+				"armor": [32.2, 35.4, 38.6, 41.8],
+				"resistance": [137.1, 150.8, 164.6, 178.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Vivian has a half-sister named Rachel. Unlike the pure blooded demon Vivian, Rachel is half demon and half devil. Unfortunately this prevents her from gaining any recognition from the demons as a child of the Great Devil.",
+				"skill": {
+					"level": 2,
+					"passive": "If the Hero uses its block or is healed by a skill, the Hero's attack power will increase by 10% for 5 seconds. (Activates once every second)"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Quest: Epic Quest Reward!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Succubus Rachel",
+				"star": 5,
+				"level": 50,
+				"atkPower": [566.6, 623.3, 679.9, 736.6, 793.3],
+				"hp": [1482.7, 1630.9, 1779.2, 1927.4, 2075.7],
+				"critChance": [0.35, 0.35, 0.35, 0.35, 0.35],
+				"armor": [37.9, 41.7, 45.5, 49.3, 53],
+				"resistance": [162.9, 179.1, 195.4, 211.7, 228],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Rachel, sick and tired of the attention she receives from the demons, comes across a demon all girl revue called Succubus. She immediately becomes obsessed and desperately tries to join Succubus. She is able to join after a successful audition.",
+				"skill": {
+					"level": 2,
+					"passive": "If the Hero uses its block or is healed by a skill, the Hero's attack power will increase by 10% for 5 seconds. (Activates once every second)"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Succubus Queen Rachel",
+				"star": 6,
+				"level": 60,
+				"atkPower": [862.7, 949, 1035.3, 1121.6, 1207.8, 1294.1, 1511.1],
+				"hp": [2152.8, 2368.1, 2583.4, 2798.9, 3013.9, 3229.2, 3799.2],
+				"critChance": [0.35, 0.35, 0.35, 0.35, 0.35, 0.35, 0.45],
+				"armor": [44, 48.4, 52.8, 57.2, 61.6, 66, 91],
+				"resistance": [188.8, 207.6, 226.5, 245.4, 264.3, 283.1, 393.1],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.2],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.14],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.12],
+				"background": "Having performed diligently as a member of Succubus, Rachel becomes the most popular member in Succubus. There is a tradition where the title of Succubus Queen is given to the most popular member. Whoever is titled Queen receives great respect.",
+				"skill": {
+					"level": 3,
+					"passive": "If the Hero uses its block or is healed by a skill, the Hero's attack power will increase by 10% for 5 seconds and recovers 4 SP. The effect of the block(s) used after an ally's chain-3 skill will be tripled. (Activates once every second)"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"alice": {
+		"faction": "Pumpkin City",
+		"type": "Premium",
+		"class": "Wizard",
+		"skillName": "Draw!",
+		"passiveSkillName": "Attack! Spade!",
+		"skillDescription": "Using a Chain-1 or 2 skill summons diamond soldiers. Using a chain-3 skill summons spade soldiers. They deal magic damage equal to (50/130/240)% of the Hero's attack power.",
+		"form": [
+			{
+				"name": "Alice",
+				"star": 4,
+				"level": 40,
+				"atkPower": [343.1, 377.5, 411.8, 446.1],
+				"hp": [1303.7, 1434, 1564.4, 1694.7],
+				"critChance": [0.21, 0.21, 0.21, 0.21],
+				"armor": [33.7, 37.1, 40.5, 43.9],
+				"resistance": [143.8, 158.1, 172.5, 186.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Torn between her studies at the Magic Academy and her addiction to the popular card game \"Super Fighting Monsters,\" she eventually abandons her studies to become a professional Super Monster Fighter.",
+				"skill": {
+					"level": 2,
+					"passive": "Summons an upgraded Spade soldier dealing magic damage equal to 210% of the Hero's attack damage. Summoned when diamond soldiers successfully deal damage AFTER a spade soldier deals damaged (triggered only once every 2 secs)."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+				]
+			},
+			{
+				"name": "Queen Alice",
+				"star": 5,
+				"level": 50,
+				"atkPower": [594.5, 654, 713.4, 772.9, 832.4],
+				"hp": [2009.4, 2210.3, 2411.3, 2612.2, 2813.2],
+				"critChance": [0.21, 0.21, 0.21, 0.21, 0.21],
+				"armor": [39.8, 43.8, 47.8, 51.8, 55.8],
+				"resistance": [171.2, 188.3, 205.4, 222.5, 239.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Since the use of magic is allowed in \"Super Fighting Monsters\", Alice quickly proves herself as one of the world's best and is eventually invited to the World Championship.",
+				"skill": {
+					"level": 2,
+					"passive": "Summons an upgraded Spade soldier dealing magic damage equal to 210% of the Hero's attack damage. Summoned when diamond soldiers successfully deal damage AFTER a spade soldier deals damaged (triggered only once every 2 secs)."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Spade Queen Alice",
+				"star": 6,
+				"level": 60,
+				"atkPower": [905.8, 996.4, 1087, 1177.6, 1268.1, 1358.7, 1586.7],
+				"hp": [2916.9, 3208.6, 3500.2, 3791.9, 4083.6, 4375.3, 5074.3],
+				"critChance": [0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.375],
+				"armor": [46.3, 51, 55.6, 60.3, 64.9, 69,5, 95.5],
+				"resistance": [198.2, 218, 237.8, 257.7, 277.5, 297.3, 410.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.04],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.13],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.15],
+				"background": "Alice easily wins the championship and is granted the titled \"The Queen of Spades.\"",
+				"skill": {
+					"level": 3,
+					"passive": "Summons an upgraded Spade soldier dealing magic damage equal to 540% of the Hero's attack damage and weakens the next enemy skill by 35%. Summoned after diamond soldiers deal damage with their initial attack."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"nazrune": {
+		"faction": "Unknown",
+		"type": "Promote",
+		"class": "Wizard",
+		"skillName": "Call of the Wild",
+		"passiveSkillName": "Rage of Nature",
+		"skillDescription": "Summons a (wolf/wolf/bull) that deals magic damage equal to 150% of the Hero's attack power. Each beast decreases the enemy's (att. speed/att. power/defense) by 15%.",
+		"form": [
+			{
+				"name": "Nazrune",
+				"star": 4,
+				"level": 40,
+				"atkPower": [253.8, 279.2, 304.6, 330],
+				"hp": [126.2, 1392.8, 1519.5, 1646.1],
+				"critChance": [0.21, 0.21, 0.21, 0.21],
+				"armor": [48.2, 53, 57.8, 62.6],
+				"resistance": [205.4, 225.9, 246.5, 267],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Male Frost Elves are brn with horns that allow them to commune with nature and control magic. Nazrune spent his days in peace, living with the animals.",
+				"skill": {
+					"level": 2,
+					"passive": "A block skill used after allys chain-3 skill will summon all beasts."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Nazrune of Harmony",
+				"star": 5,
+				"level": 50,
+				"atkPower": [446.6, 491.2, 535.9, 580.5, 625.2],
+				"hp": [1952.1, 2147.3, 2342.5, 2537.7, 2732.9],
+				"critChance": [0.21, 0.21, 0.21, 0.21, 0.21],
+				"armor": [57, 62.7, 68.4, 74.1, 79.8],
+				"resistance": [244.7, 269.1, 293.6, 318.1, 342.6],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Nazrune learned of the approaching war with the steamers and negotiated a peace treaty with the Wolf Tribe to save both of their clans.",
+				"skill": {
+					"level": 2,
+					"passive": "A block skill used after allys chain-3 skill will summon all beasts."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Nazrune of Nature",
+				"star": 6,
+				"level": 60,
+				"atkPower": [713.5, 784.8, 856.2, 927.5, 998.9, 1070.2, 1281.2],
+				"hp": [2833.7, 3117, 3400.4, 3683.8, 3967.2, 4250.5, 4935.5],
+				"critChance": [0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.36],
+				"armor": [65.8, 72.4, 79, 85.6, 92.1, 98.7, 128.7],
+				"resistance": [283.8, 312.1, 340.5, 368.9, 397.3, 425.6, 554.6],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.03],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.12],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.17],
+				"background": "United under the banner of the Frost Wolf Tribe, they stopped the mechanical army. Nazrune led the first charge against the machines, and decimated their numbers.",
+				"skill": {
+					"level": 3,
+					"passive": "A block skill used after allys chain-3 skill will summon all beasts, and the negative effects beasts apply (to enemy) will increase by 50%."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"mondrian": {
+		"faction": "Unknown",
+		"type": "Premium",
+		"class": "Wizard",
+		"skillName": "Shadow Clone",
+		"passiveSkillName": "Enhanced Illusion",
+		"skillDescription": "Summons a Shadow Clone, dealing magical damage equal to (50/150/240)% of the Hero's attack power.",
+		"form": [
+			{
+				"name": "Mondrian",
+				"star": 4,
+				"level": 40,
+				"atkPower": [394.6, 434.1, 473.6, 513],
+				"hp": [1033, 1136.3, 1239.6, 1342.9],
+				"critChance": [0.21, 0.21, 0.21, 0.21],
+				"armor": [33.7, 37.1, 40.5, 43.9],
+				"resistance": [143.8, 158.1, 172.5, 186.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "The eldest son of a disgraced family, Mondrian found himself a slave to alcohol until he met Arona. Inspired by her love, Mondrian vowed to restore his family's former glory.",
+				"skill": {
+					"level": 2,
+					"passive": "Shadow clones created after ally attacks will attack twice."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+				]
+			},
+			{
+				"name": "Mondrian the Scholar",
+				"star": 5,
+				"level": 50,
+				"atkPower": [683.7, 752.1, 820.5, 888.8, 957.2],
+				"hp": [1591.9, 1751.1, 1910.3, 2069.5, 2228.7],
+				"critChance": [0.21, 0.21, 0.21, 0.21, 0.21],
+				"armor": [39.8, 43.8, 47.8, 51.8, 55.8],
+				"resistance": [171.2, 188.3, 205.4, 222.5, 239.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Mondrian studied to become a scholar and return to his village as a respectable man, but the magistrate soon learned of his affair with Arona and had him arrested.",
+				"skill": {
+					"level": 2,
+					"passive": "Shadow clones created after ally attacks will attack twice."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Mondrian the Savant",
+				"star": 6,
+				"level": 60,
+				"atkPower": [1041.5, 1145.7, 1249.8, 1354, 1458.1, 1562.3, 1825.3],
+				"hp": [2311.5, 2542.7, 2773.8, 3005, 3236.1, 3467.3, 4064.3],
+				"critChance": [0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.345],
+				"armor": [46.3, 51, 55.6, 60.3, 64.9, 69,5, 95.5],
+				"resistance": [198.2, 218, 237.8, 257.7, 277.5, 297.3, 410.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.03],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.12],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.12],
+				"background": "Mondrian continued to study in prison and upon his release he turned his new-found knowledge to the advancement of his people.",
+				"skill": {
+					"level": 3,
+					"passive": "Shadow Clones created after ally attacks will attack twice. Enemies attacked by Clones will have their attack power decreased by 25% for 5 seconds."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"necron": {
+		"faction": "Grancia Empire",
+		"type": "Premium",
+		"class": "Wizard",
+		"skillName": "Hungry Dead",
+		"passiveSkillName": "Ghost Control",
+		"skillDescription": "Summons Demon servant with attack power as 50% of Hero's HP, armor/resistance as 100% of hero's armor/resistance and has HP equal to (80/120/170)% of hero's attack power when using a block skill(Demon servant lasts for 10 seconds). The hero can order the servant to (recover/berserking/attack) according to the chain. This order reacts to ally's chain too.",
+		"form": [
+			{
+				"name": "Necron",
+				"star": 4,
+				"level": 40,
+				"atkPower": [218, 239.8, 261.6, 283.3],
+				"hp": [1694.8, 1864.3, 2033.8, 2203.3],
+				"critChance": [0.21, 0.21, 0.21, 0.21],
+				"armor": [33.7, 37.1, 40.5, 43.9],
+				"resistance": [143.8, 158.1, 172.5, 186.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Necron studied the forbidden art of necromancy and was cast out of his home by his fellow sorcerers. Swearing revenge, he continues to research necromancy on his own while hiding in a remote village.",
+				"skill": {
+					"level": 2,
+					"passive": "Based on an ally's chain length, orders the summoned spirits to (Heal 10% of an ally's HP and takes all damage for that ally for 5 seconds / increase attack power by 30% up to 2 times / deal magical damage equal to 120% of the Spirit's attack power)."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+				]
+			},
+			{
+				"name": "Dark Magician Necron",
+				"star": 5,
+				"level": 50,
+				"atkPower": [378, 415.8, 453.6, 491.3, 529.1],
+				"hp": [2612.1, 2873.3, 3134.5, 3395.7, 3656.9],
+				"critChance": [0.21, 0.21, 0.21, 0.21, 0.21],
+				"armor": [39.8, 43.8, 47.8, 51.8, 55.8],
+				"resistance": [171.2, 188.3, 205.4, 222.5, 239.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Necron's studies finally led him to summon the hungry dead, but he quickly loses control of them. Even as the spirits devour the people of the village, Necron couldn't help but feel the thrill of his new found power.",
+				"skill": {
+					"level": 2,
+					"passive": "Based on an ally's chain length, orders the summoned spirits to (Heal 10% of an ally's HP and takes all damage for that ally for 5 seconds / increase attack power by 30% up to 2 times / deal magical damage equal to 120% of the Spirit's attack power)."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Soul Magician Necron",
+				"star": 6,
+				"level": 60,
+				"atkPower": [575.4, 633, 690.5, 748, 805.6, 863.1, 1007.1],
+				"hp": [3791.8, 4171, 4550.2, 4929.4, 53-8.6, 5687.8, 6535.8],
+				"critChance": [0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.38],
+				"armor": [46.3, 51, 55.6, 60.3, 64.9, 69,5, 95.5],
+				"resistance": [198.2, 218, 237.8, 257.7, 277.5, 297.3, 410.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.27],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.15],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.25],
+				"background": "Necron made a pact with the great beyond and sought vengeance on those who had expelled him for his home. With his enemies destroyed, Necron now travels the land in search of new victims.",
+				"skill": {
+					"level": 3,
+					"passive": "Based on an ally's chain length, orders the summoned spirits to (Heal 10% of an ally's HP and takes all damage for that ally for 5 seconds / increase attack power by 30% up to 2 times / deal magical damage equal to 120% of the Spirit's attack power). The 2nd activation increases these effects by 50%."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"demeter": {
+		"faction": "Grancia Empire",
+		"type": "Premium",
+		"class": "Wizard",
+		"skillName": "Catcher in the wheat field",
+		"passiveSkillName": "Scarecrow Summon",
+		"skillDescription": "Summons wheat field and scarecrow which deals magical damage equal to (85/150/270)%. Wheat sprouts on the attacked enemies for 3 seconds.",
+		"form": [
+			{
+				"name": "Demeter",
+				"star": 4,
+				"level": 40,
+				"atkPower": [377.5, 415.2, 453, 490.7],
+				"hp": [1101.2, 1211.4, 1321.5, 1431.6],
+				"critChance": [0.21, 0.21, 0.21, 0.21],
+				"armor": [33.7, 37.1, 40.5, 43.9],
+				"resistance": [143.8, 158.1, 172.5, 186.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "The daughter of a rich farmer. She has a great talent in magic but is only interested in baking. She opens her own bakery right on the other side of Chocolat's bakery to compete with her.",
+				"skill": {
+					"level": 2,
+					"passive": "Scarecrow which deals magical damage equal to 125% of Hero's attack power if sprouted enemies are attacked with critical hits more than 5 times within 3 seconds."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Hero Box)",
+				]
+			},
+			{
+				"name": "Demeter in the Wheat Field",
+				"star": 5,
+				"level": 50,
+				"atkPower": [654.3, 719.8, 785.2, 850.6, 916],
+				"hp": [1697.8, 1867.5, 2037.3, 2207.1, 2376.9],
+				"critChance": [0.21, 0.21, 0.21, 0.21, 0.21],
+				"armor": [39.8, 43.8, 47.8, 51.8, 55.8],
+				"resistance": [171.2, 188.3, 205.4, 222.5, 239.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Demeter's bakery is experiencing a depression due to Chocolat's sweet desserts. Demeter chooses to develop some healthy food, and starts producing super nutritious wheat for her new products.",
+				"skill": {
+					"level": 2,
+					"passive": "Scarecrow which deals magical damage equal to 125% of Hero's attack power if sprouted enemies are attacked with critical hits more than 5 times within 3 seconds."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Hero Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Demeter in the Golden Wheat Field",
+				"star": 6,
+				"level": 60,
+				"atkPower": [996.7, 1096.3, 1196, 1295.7, 1395.3, 1495, 1746],
+				"hp": [2464.9, 2711.4, 2957.9, 3204.4, 3450.9, 3697.4, 4320.4],
+				"critChance": [0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.32],
+				"armor": [46.3, 51, 55.6, 60.3, 64.9, 69,5, 95.5],
+				"resistance": [198.2, 218, 237.8, 257.7, 277.5, 297.3, 504.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.13],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.11],
+				"background": "Demeter's wheat becomes so famous that even Chocolat admires its quality. Satisfied by public response, Demeter decides to study magic in order to work further on improving the quality of wheat.",
+				"skill": {
+					"level": 3,
+					"passive": "Scarecrow which deals magical damage equal to 125% of Hero's attack power if sprouted enemies are attacked with critical hits more than 5 times within 3 seconds. Sprouted enemies receive additional magical damage equal to 50% of hero's attack power when passive effect is activated."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Hero Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"uriel": {
+		"faction": "Unknown",
+		"type": "Premium",
+		"class": "Wizard",
+		"skillName": "Cross of the Blade",
+		"passiveSkillName": "Blade of Execution",
+		"skillDescription": "Hero drops Cross of the Blade which deals magical damage equal to (85/150/270)% of Hero's attack power according to the chain number.",
+		"form": [
+			{
+				"name": "Uriel",
+				"star": 4,
+				"level": 40,
+				"atkPower": [359.5, 395.5, 431.4, 467.4],
+				"hp": [962, 1058.2, 1154.4, 1250.6],
+				"critChance": [0.35, 0.35, 0.35, 0.35],
+				"armor": [28.7, 31.5, 34.4, 37.3],
+				"resistance": [123.5, 135.8, 148.2, 160.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "An Aristocrat in the local area of Grancia. For some reason, he believes that he is the chosen one of Goddess and swears to slay the evil opposing the law of the Goddess. As a result, he becomes the judge of the law of the Goddess.",
+				"skill": {
+					"level": 2,
+					"passive": "Using blocks will change auto attack to Cross Blade that deals magic damage equal to (100/150/220)% of the hero's attack power for 6 seconds. Using Cross Blade 6 times will activate Blade of Execution that deals magic damage equal to 350% of the hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+				]
+			},
+			{
+				"name": "Inquisitor Uriel",
+				"star": 5,
+				"level": 50,
+				"atkPower": [623, 685.3, 747.6, 809.8, 872.1],
+				"hp": [1482.7, 1630.9, 1779.2, 1927.4, 2075.7],
+				"critChance": [0.35, 0.35, 0.35, 0.35, 0.35],
+				"armor": [34, 37.4, 40.8, 44.2, 47.6],
+				"resistance": [146.7, 161.3, 176, 190.7, 205.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "As a judge showing outstanding performance Uriel starts working in the Grancia palace. One day, he meets Victoria, and falls in love at first sight. Uriel believes that Victoria is the present incarnation of a Goddess and begins to watch and follow her every move.",
+				"skill": {
+					"level": 2,
+					"passive": "Using blocks will change auto attack to Cross Blade that deals magic damage equal to (100/150/220)% of the hero's attack power for 6 seconds. Using Cross Blade 6 times will activate Blade of Execution that deals magic damage equal to 350% of the hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Grand Inquisitor Uriel",
+				"star": 6,
+				"level": 60,
+				"atkPower": [948.9, 1043.8, 1138.7, 1233.5, 1328.4, 1423.3, 1653.3],
+				"hp": [2152.8, 2368.1, 2583.4, 2798.7, 3013.9, 3229.2, 3799.2],
+				"critChance": [0.35, 0.35, 0.35, 0.35, 0.35, 0.35, 0.45],
+				"armor": [39.9, 43.8, 47.8, 51.8, 55.8, 59.8, 83.8],
+				"resistance": [169.9, 186.9, 203.9, 220.8, 237.8, 254.8, 357.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.02],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.13],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.1],
+				"background": "Uriel become anxious about Victoria as she does not obey him. Uriel's obsession gradually turns into madness, which makes him execute people around Victoria under the false accusation of heresy.",
+				"skill": {
+					"level": 3,
+					"passive": "Using blocks will change auto attack to Cross Blade that deals magic damage equal to (100/150/220)% of the hero's attack power for 6 seconds. Using Cross Blade 4 times will activate Blade of Execution that deals magic damage equal to 600% of the hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"benjamin": {
+		"faction": "Neth Empire",
+		"type": "Promote",
+		"class": "Wizard",
+		"skillName": "Magical Scan",
+		"passiveSkillName": "Analysis",
+		"skillDescription": "Hero sets scanning area which deals magical damage equal to (64/120/240)% of hero's attack power. Enemy in the area becomes scanned.",
+		"form": [
+			{
+				"name": "Benjamin",
+				"star": 4,
+				"level": 40,
+				"atkPower": [253.8, 279.2, 304.6, 330],
+				"hp": [1266.2, 1392.8, 1519.5, 1646.1],
+				"critChance": [0.2, 0.2, 0.2, 0.2],
+				"armor": [38.4, 42.31, 46.1, 49.9],
+				"resistance": [164.4, 180.9, 197.3, 213.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A man who appeared in the world with a bright light from the sky. As soon as Rapture Science in the Neth Empire recognized that Benjamin knows amazingly advanced science technology, they took him to their country secretly. As a result, only a few people know about the existance of him.",
+				"skill": {
+					"level": 2,
+					"passive": "Scanned enemy receives magical damage equal to 360% of Benjamin's attack power for 3 seconds."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Researcher Benjamin",
+				"star": 5,
+				"level": 50,
+				"atkPower": [486.3, 534.9, 583.5, 632.1, 680.8],
+				"hp": [1952.1, 2147.3, 2342.5, 2537.7, 2732.9],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2],
+				"armor": [45.7, 50.3, 54.9, , 64],
+				"resistance": [195.7, 215.2, 234.8, 254.4, 274],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Benjamin starts to produce androids with a great support from Rapture Science. After the android production project is coplete,for some reason he discards all the related data regarding on the project. However, some parts of the data secretly flows to Road Industry.",
+				"skill": {
+					"level": 2,
+					"passive": "Scanned enemy receives magical damage equal to 360% of Benjamin's attack power for 3 seconds."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Creator Benjamin",
+				"star": 6,
+				"level": 60,
+				"atkPower": [777.2, 854.9, 932.6, 1010.3, 1088.1, 1165.8, 1361.8],
+				"hp": [2833.7, 3117, 3400.4, 3683.8, 3967.2, 4250.5, 4983.5],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.415],
+				"armor": [52.8, 58.1, 63.4, 68.7, 74, 79.3, 107.3],
+				"resistance": [226.5, 249.2, 271.8, 294.5, 317.1, 339.8, 461.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.05],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.14],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.17],
+				"background": "Benjamin holds lectures on developing new technologies, other than android production. He becomes the chief researcher in Rapture Science. One day, a creature named R-0 comes to meet him. Benjamin is very surprised due to the fact that the android from the past came to see him again.",
+				"skill": {
+					"level": 3,
+					"passive": "Scanned enemy receives magical damage equal to 360% of Benjamin's attack power for 3 seconds. When scanned enemy is located on the scanning area, enemy receives magical damage equal to 100% of Benjamn's attack power and Benjamin's SP will increase by 5. (Activated once every 0.5 second)"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"lupeow": {
+		"faction": "Unknown",
+		"type": "Premium",
+		"class": "Wizard",
+		"skillName": "The phantom thief appears!",
+		"passiveSkillName": "Trick Hat",
+		"skillDescription": "Throws a card which deals magical damage equal to (90/190/310)% of attack power according to the chain number.",
+		"form": [
+			{
+				"name": "Lupeow",
+				"star": 4,
+				"level": 40,
+				"atkPower": [411.8, 453, 494.1, 545.3],
+				"hp": [964.3, 1060.8, 1157.2, 1253.7],
+				"critChance": [0.2, 0.2, 0.2, 0.2],
+				"armor": [33.7, 37.1, 40.5, 43.9],
+				"resistance": [143.8, 158.1, 172.5, 186.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Lupeow aims to become the perfect phantom thief, but often frustrates due to limitation in human body. One day, she gets inspired by swiftness of a cat, and decides to meet Cat Master Mew to acquire cat's physical capability.",
+				"skill": {
+					"level": 2,
+					"passive": "When card attack is hit critical, hit enemy's accuracy decreases by 30%."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+				]
+			},
+			{
+				"name": "Phantom Thief Lupeow",
+				"star": 5,
+				"level": 50,
+				"atkPower": [713.6, 785, 856.3, 927.7, 999.1],
+				"hp": [1486.6, 1635.2, 1783.9, 1932.5, 2081.2],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2],
+				"armor": [39.8, 43.8, 47.8, 51.8, 55.8],
+				"resistance": [171.2, 188.3, 205.4, 222.5, 239.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "After eating the secret fish bread which Cat Master Mew gave, Lupeow transforms into a part cat.With outstanding ability to disguise and cat-like swift movement, Lupeow soon becomes famous as a notorious thief who can never be arrested.",
+				"skill": {
+					"level": 2,
+					"passive": "When card attack is hit critical, hit enemy's accuracy decreases by 30%."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Notorious Phantom Thief Lupeow",
+				"star": 6,
+				"level": 60,
+				"atkPower": [1086.9, 1195.6, 1304.3, 1413, 1521.7, 1630.4, 1860.4],
+				"hp": [2158.7, 2374.6, 2590.5, 2806.3, 3022.2, 3238.1, 3808.1],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.3],
+				"armor": [46.3, 51, 55.6, 60.3, 64.9, 69,5, 93.5],
+				"resistance": [198.2, 218, 237.8, 257.7, 277.5, 297.3, 477.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.02],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.13],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.1],
+				"background": "Lupeow figures out that 'L.C' the secret corporation in Hasla is preparing for its first anniversary party. To test her limitation, she sneaks in to L.C and succeeds in stealing the party invitation letter. However, she does not recognize a dog-man chasing after her...",
+				"skill": {
+					"level": 3,
+					"passive": "When card attack is hit critical, hit enemy's accuracy decreases by 30% and magic hat pops up. Magic hat deals magical damage equal to 300% of Lupeow's attack power and summons tear gas cloud. Enemy covered in the field of tear gas cloud will have its attack power decreased by 50% for 2 seconds."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"vesper": {
+		"faction": "Pumpkin City",
+		"type": "Premium",
+		"class": "Wizard",
+		"skillName": "Guidance of Water",
+		"passiveSkillName": "Trial by Water",
+		"skillDescription": "Hero shoots a magical water drop which deals magical damage equal to (50/100/150)% of hero's attack power, and renders the hit enemy to a absorptive status.",
+		"form": [
+			{
+				"name": "Vesper",
+				"star": 4,
+				"level": 40,
+				"atkPower": [429, 471.8, 514.7, 557.6],
+				"hp": [896.1, 985.7, 1075.3, 1164.9],
+				"critChance": [0.21, 0.21, 0.21, 0.21],
+				"armor": [43.1, 47.4, 51.7, 56],
+				"resistance": [184.3, 202.8, 221.2, 239.6],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Vesper is one of the longest living demons like Demona, and is a talented magician specialized in water magic. In contrast to Demona who leads the demons, Vesper prefers to live a life in seclusion as she hates any hassle.",
+				"skill": {
+					"level": 2,
+					"passive": "Vesper obtains water drop according to the number of chain skills used by herself or ally toward enemy during absorptive status. When 3 water drops are obtained, next auto attack of Vesper will deal magical damage equal to 200% of her attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+				]
+			},
+			{
+				"name": "Hermit Vesper",
+				"star": 5,
+				"level": 50,
+				"atkPower": [743.5, 817.8, 892.2, 966.5, 1040],
+				"hp": [1381.2, 1519.3, 1657.5, 1795.6, 1933.7],
+				"critChance": [0.21, 0.21, 0.21, 0.21, 0.21],
+				"armor": [39.8, 43.8, 47.8, 51.8, 55.8],
+				"resistance": [171.2, 188.3, 205.4, 222.5, 239.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "After a long period of time, Dorothy suddenly visits her. Vesper tries to kick Dorothy out but she soon becomes persuaded by Dorothy's strong enthusiasm. Vesper decides to teach water magic to Dorothy.",
+				"skill": {
+					"level": 2,
+					"passive": "Vesper obtains water drop according to the number of chain skills used by herself or ally toward enemy during absorptive status. When 3 water drops are obtained, next auto attack of Vesper will deal magical damage equal to 200% of her attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Awakened Vesper",
+				"star": 6,
+				"level": 60,
+				"atkPower": [1132.4, 1245.6, 1358.8, 1472.1, 1585.3, 1698.6, 1984.6],
+				"hp": [2005.3, 2205.9, 2406.4, 2606.9, 2807.4, 3008, 3553],
+				"critChance": [0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.35],
+				"armor": [46.3, 51, 55.6, 60.3, 64.9, 69.5, 95.5],
+				"resistance": [249.5, 274.5, 299.4, 324.4, 349.3, 374.3, 504.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.01],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.11],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.1],
+				"background": "Dorothy leaves Vesper after finishing all the lessons. Vesper tries to get back to her hermitry but suddenly realizes a strange atmosphere in Hasla. She concludes that there is great danger approachng Hasla, so she decides to go on a journey to find Demona.",
+				"skill": {
+					"level": 3,
+					"passive": "Vesper obtains water drop according to the number of chain skills used by herself or ally toward enemy during absorptive status. When 3 water drops are obtained, next auto attack of Vesper will deal magical damage equal to 250% of her attack power. Water drop will gain additional 100% of Vesper's resistance penetration."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"violet": {
+		"faction": "Unknown",
+		"type": "Promote",
+		"class": "Wizard",
+		"skillName": "Marionette",
+		"passiveSkillName": "Marionette Show",
+		"skillDescription": "When the hero uses a block, a Marionette is summoned that deals physical damage equal to (60%/80%/300%) of hero's attack power.",
+		"form": [
+			{
+				"name": "Violet",
+				"star": 4,
+				"level": 40,
+				"atkPower": [490.6, 539.6, 588.7, 637.7],
+				"hp": [962, 1058.2, 1154.4, 1250.6],
+				"critChance": [0.35, 0.35, 0.35, 0.35],
+				"armor": [16.2, 17.8, 19.4, 21],
+				"resistance": [68.5, 75.3, 82.2, 89],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A girl who lives in a small village with her younger sister Viola, and has been making dolls from her childhood. Dreaming of creating dolls with lives of their own, Violet immerses herself in studying the art of dollmaking and voodoo magic. Unfortunately, none of the magic dolls she creates succeeds in moving.",
+				"skill": {
+					"level": 2,
+					"passive": "Upon using a block, the number of Violet's magic dolls increases by 1 (maximum 2). Each magic doll deals physical damage equal to (60/180/300)% of Violet's attack power. Once reaching the maximum number of dolls, the next block skill will consume the existing dolls and summon a new one."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Dollmaker Violet",
+				"star": 5,
+				"level": 50,
+				"atkPower": [849.8, 934.8, 1019.8, 1104.8, 1189.8],
+				"hp": [1482.7, 1630.9, 1779.2, 1927.4, 2075.7],
+				"critChance": [0.35, 0.35, 0.35, 0.35, 0.35],
+				"armor": [18.8, 20.7, 22.5, 24.4, 26.3],
+				"resistance": [81.5, 89.7, 97.8, 106, 114.1],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "One fateful day, monsters ambush Violet's village. Despite the efforts of many heroes, the village defenses crumble due to one warrior's arrogance, leaving the village to the mercy of the rampant monsters. In desperation, Violet attempts to protect her sister with her voodoo dolls, but fails. Yet at the very moment of crisis, the magic dolls move for the very first time to protect them both.",
+				"skill": {
+					"level": 2,
+					"passive": "Upon using a block, the number of Violet's magic dolls increases by 1 (maximum 2). Each magic doll deals physical damage equal to (60/180/300)% of Violet's attack power. Once reaching the maximum number of dolls, the next block skill will consume the existing dolls and summon a new one."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Magical Dollmaker Violet",
+				"star": 6,
+				"level": 60,
+				"atkPower": [1294, 1423.4, 1552.8, 1682.2, 1811.6, 1941, 2267.6],
+				"hp": [2152.8, 2368.1, 2583.4, 2798.7, 3013.9, 3229.2, 3799],
+				"critChance": [0.35, 0.35, 0.35, 0.35, 0.35, 0.35, 0.64],
+				"armor": [22.2, 24.4, 26.6, 28.8, 31, 33.2, 51],
+				"resistance": [94.4, 103.8, 113.2, 122.7, 132.1, 141.5, 219.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.95],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.1],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.11],
+				"background": "Violet just barely escapes from the mayhem of the village. After wandering for days in despair and fatigue, she requests sanctuary from a byway convent, where the abbess lets her stay after hearing of her predicament. In gratitude, Violet creates magic dolls to help the nuns in their everyday chores.",
+				"skill": {
+					"level": 3,
+					"passive": "Upon using a block, the number of Violet's magic dolls increases by 1 (maximum 2). Each magic doll deals physical damage equal to (60/180/300)% of Violet's attack power. Once reaching the maximum number of dolls, the next block skill will consume the existing dolls and summon a new one."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"yichui": {
+		"faction": "Pumpkin City",
+		"type": "Premium",
+		"class": "Wizard",
+		"skillName": "Rabbit Punch!",
+		"passiveSkillName": "Moon Bunny Paw Attack!",
+		"skillDescription": "Deals magic damage equal to (90/180/290)% of hero's attack power to the enemy hit by Rabbit Punch.",
+		"form": [
+			{
+				"name": "Yichui",
+				"star": 4,
+				"level": 40,
+				"atkPower": [365.8, 402.3, 438.9, 475.5],
+				"hp": [962, 1058.2, 1154.4, 1250.6],
+				"critChance": [0.35, 0.35, 0.35, 0.35],
+				"armor": [38.4, 42.3, 46.1, 49.9],
+				"resistance": [126.2, 138.8, 151.5, 164.1],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "She was born with a small flare on her head. The flare couldn't be touched and had warmth. Since she was young, Yichui has been researching to get rid of the flare.",
+				"skill": {
+					"level": 2,
+					"passive": "When the hero uses Rabbit Punch, stack will pile up (2/4/6) based on chain number, and ally also gain 1 stack after using block skill. When hero reaches 6 stack, rabbit-feet shaped sphere will launch from the sky, dealing magic damage equal to 250% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Yichui of Moonlight",
+				"star": 5,
+				"level": 50,
+				"atkPower": [636.2, 699.8, 763.4, 827, 890],
+				"hp": [1502.3, 1652.5, 1802.7, 1952.9, 2103.1],
+				"critChance": [0.35, 0.35, 0.35, 0.35, 0.35],
+				"armor": [50.6, 55.7, 60.8, 65.8, 70.9],
+				"resistance": [159.9, 175.9, 191.9, 207.9, 223.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "As Yichui grew up, so did the flare. It had two little ears and blazing arms that moved without intention. Yichui continued to study very hard to get rid of this flare.",
+				"skill": {
+					"level": 2,
+					"passive": "When the hero uses Rabbit Punch, stack will pile up (2/4/6) based on chain number, and ally also gain 1 stack after using block skill. When hero reaches 6 stack, rabbit-feet shaped sphere will launch from the sky, dealing magic damage equal to 250% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Yichui of Moonblossom",
+				"star": 6,
+				"level": 60,
+				"atkPower": [980.7, 1078.8, 1176.9, 1275, 1373, 1471.1, 1682.1],
+				"hp": [2380, 2618, 2856, 3094, 3332, 3570, 4193],
+				"critChance": [0.35, 0.35, 0.35, 0.35, 0.35, 0.35, 0.47],
+				"armor": [62.9, 69.2, 75.4, 81.7, 88, 94.3, 129.3],
+				"resistance": [197.6, 217.4, 237.1, 256.9, 276.7, 296.4, 401.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.19],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.1],
+				"background": "Day after day the flare grew, and it became bigger and fancier. Yichui tried very hard to find out what the flare is, but she failed to do so. Instead, she decides to help others with the knowledge she has gained from her studies.",
+				"skill": {
+					"level": 3,
+					"passive": "When the hero uses Rabbit Punch, stack will pile up (2/4/6) based on chain number, and ally also gain 1 stack after using block skill. When hero reaches 6 stack, rabbit-feet shaped sphere will launch from the sky, dealing magic damage equal to (350% of hero's attack power plus 1000% of entire ally's armor). When Yichui enters into battle, she starts with instant shield. (Shield: 3000, on/off unable)"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
 	"mew": {
 		"faction": "Unknown",
 		"type": "Promote",
@@ -6615,6 +7838,231 @@
 			}
 		]
 	},
+	"ramlethalvalentine": {
+		"faction": "Supply all forces",
+		"type": "Secret",
+		"class": "Wizard",
+		"skillName": "VelFa & Venus",
+		"passiveSkillName": "Passive",
+		"skillDescription": "Deals magical damage equal to (120/240/450)% of the Hero's attack power based on chain lenth. When ally uses a block skill after Ramlethal uses her skill, she will cast one spell of the same chain length.",
+		"form": [
+			{
+				"name": "Ramlethal Valentine",
+				"star": 4,
+				"level": 40,
+				"atkPower": [425, 467.6, 510.1, 552.6],
+				"hp": [962, 1058.2, 1154.4, 1250.6],
+				"critChance": [0.35, 0.35, 0.35, 0.35],
+				"armor": [22.4, 24.7, 26.9, 29.2],
+				"resistance": [95.8, 105.4, 114.9, 124.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "One of the 'Valentine' twins created by 'Ruthless Revelation', the unknown existence of another dimension. As her only mission is to destroy mankind, she declares war on mankind.",
+				"skill": {
+					"level": 2,
+					"passive": "Using a block skill after her chain-3 skill summons Kalbados that deals magical damage equal to 700% of the hero's attack power. In the meantime, Ramlethal's critical damage is increased by 20% for 8 seconds."
+				},
+				"howToGet": [
+					"Event: Get by event!"
+				]
+			},
+			{
+				"name": "Ramlethal Valentine",
+				"star": 5,
+				"level": 50,
+				"atkPower": [736.2, 809.8, 883.4, 957, 1030.6],
+				"hp": [1482.7, 1630.9, 1779.2, 1927.4, 2075.7],
+				"critChance": [0.35, 0.35, 0.35, 0.35, 0.35],
+				"armor": [26.6, 29.3, 31.9, 34.6, 37.3],
+				"resistance": [114.3, 125.8, 137.2, 148.6, 160.1],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Ramlethal's declaration was just a bait to revive Justice, the destroyer. Ramlethal tried self destruction to get rid of Sol and her party, but was stopped by Elphelt, the other twin. Since then, Ramlethal is being protected by Sol.",
+				"skill": {
+					"level": 2,
+					"passive": "Using a block skill after her chain-3 skill summons Kalbados that deals magical damage equal to 700% of the hero's attack power. In the meantime, Ramlethal's critical damage is increased by 20% for 8 seconds."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Ramlethal Valentine",
+				"star": 6,
+				"level": 60,
+				"atkPower": [1121.8, 1233.9, 1346.1, 1458.3, 1570.4, 1682.6, 1915.6],
+				"hp": [2152.8, 2368.1, 2583.4, 2798.7, 3013.9, 3229.2, 3799.2],
+				"critChance": [0.35, 0.35, 0.35, 0.35, 0.35, 0.35, 0.45],
+				"armor": [31, 34.1, 37.2, 40.3, 43.4, 96.5, 67.5],
+				"resistance": [132.1, 145.3, 158.5, 171.8, 185, 198.2, 288.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.03],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.1],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.11],
+				"background": "Ramlethal begins to feel emotional after interacting with Sol and others. She and Sol's party start to journey to save her twin sister from \"Ruthless Revelation\", but all of a sudden the unknown magic brought them to Hasla.",
+				"skill": {
+					"level": 3,
+					"passive": "Using a block skill after her chain-3 skill summons Kalbados that deals magical damage equal to 700% of the hero's attack power. In the meantime, the critical strike damage of all your allies is increased by 30% for 8 seconds."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"jack-o`": {
+		"faction": "Supply all forces",
+		"type": "Secret",
+		"class": "Wizard",
+		"skillName": "Drop the Guillotine",
+		"passiveSkillName": "Passive",
+		"skillDescription": "When a block is used, \"Drop the Guillotine\" activates dealing magic damage equal to (60/130/320)% of the hero's attack power.",
+		"form": [
+			{
+				"name": "Jack-O`",
+				"star": 4,
+				"level": 40,
+				"atkPower": [488.8, 537.7, 586.6, 1063],
+				"hp": [817.7, 899.5, 981.3, 29.8],
+				"critChance": [0.298, 0.298, 0.298, 0.298],
+				"armor": [19.1, 21, 22.9, 24.8],
+				"resistance": [110.2, 121.2, 132.2, 143.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Valentine' is from another dimension. Jack-O` was created to stop the convergence of Elphelt and Justice. Jack-O` was awakened much earlier than planned, just to stop the conspiracy of 'Ruthless Revelation'.",
+				"skill": {
+					"level": 2,
+					"passive": "When hero uses a block skill twice, a ghost spawns next to the hero. Ghost deals magic damage equal to 250% of hero's attack power when it gets too far from an ally, or touches an enemy. When a block skill is used with an active ghost, a Knight, Lancer, or Magician Servant will be summoned from the ghost sequentially. Servant will rush to the enemy dealing magic damage equal to (100/230/450)% of the hero's attack power."
+				},
+				"howToGet": [
+					"Event: Get by event!"
+				]
+			},
+			{
+				"name": "Jack-O`",
+				"star": 5,
+				"level": 50,
+				"atkPower": [846.6, 931.2, 1015.9, 1100.5, 1185.2],
+				"hp": [1260.3, 1386.3, 1512.3, 1638.3, 1764.4],
+				"critChance": [0.298, 0.298, 0.298, 0.298, 0.298],
+				"armor": [22.6, 24.9, 27.2, 29.4, 31.7],
+				"resistance": [131.5, 144.6, 157.8, 170.9, 184.1],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Jack-O` was awakened in an incomplete state, so he needs a mask and candy to function. Suddenly, without permission Jack-O` runs outside to have a look at the world.",
+				"skill": {
+					"level": 2,
+					"passive": "When hero uses a block skill twice, a ghost spawns next to he hero. Ghost deals magic damage equal to 250% of hero's attack power when it gets too far from an ally, or touches an enemy. When a block skill is used with an active ghost, a Knight, Lancer, or Magician Servant will be summoned from the ghost sequentially. Servant will rush to the enemy dealing magic damage equal to (100/230/450)% of the hero's attack power."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Jack-O`",
+				"star": 6,
+				"level": 60,
+				"atkPower": [1290, 1419, 1548, 1677, 1806, 1935, 2149.4],
+				"hp": [1829.9, 2012.9, 2195.9, 2378.9, 2561.9, 2744.8, 3360.4],
+				"critChance": [0.298, 0.298, 0.298, 0.298, 0.298, 0.298, 0.39],
+				"armor": [26.4, 29, 31.6, 34.3, 36.9, 39.5, 62.2],
+				"resistance": [151.9, 167.1, 182.3, 197.5, 212.7, 227.9, 310.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.072],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.092],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.119],
+				"background": "Raven, the close associate of 'That Man' finds Jack-O` and takes him back to where he should be, with 'Sold Badguy'. When Jack-O` sees Sol's face, a mysterious change of dimension leads Jack-O` to Hasla.",
+				"skill": {
+					"level": 3,
+					"passive": "When hero uses a block skill twice, a ghost spawns next to the hero. Ghost deals magic damage equal to 250% of hero's attack power when it gets too far from an ally, or touches an enemy. When a block skill is used with an active ghost, a Knight, Lancer, or Magician Servant will be summoned from the ghost sequentially. Servant will rush to the enemy dealing magic damage equal to (100/230/450)% of the hero's attack power. When servant attacks an enemy, additional effects will trigger. (Knight : Attacked enemy's resistance decreases by 20% for 5 seconds, Lancer : Jack-O`s attack power increases by 30% for 5 seconds, Magician : stuns the hit enemy)"
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"chizurukagura": {
+		"faction": "Supply all forces",
+		"type": "Secret",
+		"class": "Wizard",
+		"skillName": "212 Katsu Shinsoku no Norito",
+		"passiveSkillName": "Rimen 85-Katsu: Reigi no Ishizue",
+		"skillDescription": "Projection of self dashes forward and deals magical damage equal to [145/194/285]% of attack power per hit.",
+		"form": [
+			{
+				"name": "Chizuru Kagura",
+				"star": 4,
+				"level": 40,
+				"atkPower": [413.5, 454.9, 496.3, 537.6],
+				"hp": [1285.1, 1413.6, 1542.2, 1670.7],
+				"critChance": [0.276, 0.276, 0.276, 0.276],
+				"armor": [36.8, 40.5, 44.1, 47.8],
+				"resistance": [157.6, 173.3, 189.1, 204.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "The second daughter of the Kagura clan, a rich family that serves the Japanese royalty. The Kagura clan's real name is the Yata clan, one of the families who used the Three Sacred Treasures to seal Orochi long ago. But as Chizuru's older sister, Maki, bears the responsibilities of guarding the sealed Orochi, Chizuru is free to live as she pleases.",
+				"skill": {
+					"level": 2,
+					"passive": "Activates additional \"Rimen 85-Katsu: Reigi no Ishizue\" every second block, and decreases enemy's sp by 40. Power MAX Effect: Upon activation, attack power is increased by 300 for 8 seconds."
+				},
+				"howToGet": [
+					"Event: Get by event!"
+				]
+			},
+			{
+				"name": "Chizuru Kagura",
+				"star": 5,
+				"level": 50,
+				"atkPower": [716.5, 788.2, 859.9, 931.5, 1003.2],
+				"hp": [1980.7, 2178.8, 2376.9, 2575, 2773],
+				"critChance": [0.276, 0.276, 0.276, 0.276, 0.276],
+				"armor": [43.7, 48.1, 52.5, 56.8, 61.2],
+				"resistance": [187.4, 206.2, 224.9, 243.7, 262.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Chizuru's older sister Maki is murdered by one of the Four Heavenly Kings, Goenitz, who breaks the seals of the other Four Heavenly Kings of Orochi. In order to find a fighter who can kill Goenitz and avenge her sister's death, Chizuru hosts and enters \"The King of Fighters.\"",
+				"skill": {
+					"level": 2,
+					"passive": "Activates additional \"Rimen 85-Katsu: Reigi no Ishizue\" every second block, and decreases enemy's sp by 40. Power MAX Effect: Upon activation, attack power is increased by 300 for 8 seconds."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Chizuru Kagura",
+				"star": 6,
+				"level": 60,
+				"atkPower": [1091.2, 1200.4, 1309.5, 1418.6, 1527.7, 1636.9, 1869.9],
+				"hp": [2875.5, 3163.1, 3450.6, 3738.2, 4025.7, 4313.3, 4883.3],
+				"critChance": [0.276, 0.276, 0.276, 0.276, 0.276, 0.276, 0.376],
+				"armor": [50.6, 55.7, 60.7, 65.8, 70.8, 75.9, 96.9],
+				"resistance": [217.4, 239.1, 260.9, 282.6, 304.3, 326.1, 416.1],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.03],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.1],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.11],
+				"background": "The unleashed Four Heavenly Kings begin the ritual to revive Orochi. Chizuru decides that it is the time to use the powers of the Three Sacred Treasures and seal Orochi once more. Chizuru, Kyo Kusanagi, and Iori Yagami gather their powers to fight against Orochi, but Kyo's final attack results in an explosion that carry them to Hasla.",
+				"skill": {
+					"level": 3,
+					"passive": "Activates additional \"Rimen 85-Katsu: Reigi no Ishizue\" every second block, and decreases enemy's sp by 40. Also deals one additional hit. Power MAX Effect: Upon activation, attack power is increased by 300 for 8 seconds."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
 	"bearguy": {
 		"faction": "",
 		"type": "Secret",
@@ -6763,6 +8211,68 @@
 				"skill": {
 					"level": 1,
 					"passive": "Jack-o-Lantern shoots when a block skill is used. Has a 50% chance to explode after it hits an enemy and scatters candy around. Enemy hit by candy will take physical damage equal to 300% hero's attack power."
+				},
+				"howToGet": [
+					"Event: Get by event!"
+				]
+			}
+		]
+	},
+	"santaclaus": {
+		"faction": "",
+		"type": "Secret",
+		"class": "Wizard",
+		"skillName": "Dirty Laundry Maelstrom",
+		"passiveSkillName": "Christmas Stocking Attack",
+		"skillDescription": "Deals (5/13/22)% magic damage based on the hero's attack power, with a hail of dirty socks.",
+		"form": [
+			{
+				"name": "Santa Claus",
+				"star": 3,
+				"level": 30,
+				"atkPower": [356, 391.6, 427.2],
+				"hp": [1439.1, 1583, 1726.9],
+				"critChance": [0.21, 0.21, 0.21],
+				"armor": [48.6, 53.5, 58.3],
+				"resistance": [207.9, 228.7, 249.4],
+				"critDamage": [0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0],
+				"evasion": [0, 0, 0],
+				"background": "A Christmas icon. However, with the bad economy, he's having a hard time getting presents to every good boy and girl. He's considering making his criteria stricter next year...",
+				"skill": {
+					"level": 1,
+					"passive": "Each sock reduces the target's SP by 5. When an ally uses a chain-3 skill, the next Maelstrom is counted as chain-3 skill. (Once every 2 seconds)"
+				},
+				"howToGet": [
+					"Event: Get by event!"
+				]
+			}
+		]
+	},
+	"lovelychocolat": {
+		"faction": "",
+		"type": "Secret",
+		"class": "Wizard",
+		"skillName": "Sugar and Spice!",
+		"passiveSkillName": "Chocolate Holic",
+		"skillDescription": "Explosive chocolates (max 10) fall from the sky dealing magic damage equal to (10/25/50)% of the Hero's attack power. The longer the chain, the more chocolates will fall!",
+		"form": [
+			{
+				"name": "Santa Claus",
+				"star": 3,
+				"level": 30,
+				"atkPower": [513.2, 564.5, 615.8],
+				"hp": [989.6, 1088.5, 1187.5],
+				"critChance": [0.21, 0.21, 0.21],
+				"armor": [41.9, 46.1, 50.3],
+				"resistance": [179.2, 197.1, 215],
+				"critDamage": [0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0],
+				"evasion": [0, 0, 0],
+				"background": "Chocolat was just handing out bread to all the heroes until she went broke. So, she asked Bridget for help. Bridget gave her this costume and told her to make it work...",
+				"skill": {
+					"level": 1,
+					"passive": "The next skill block activates as a chain-3 when used after an allied chain-3. Every time the chocolates deal damage, increase all allies' attack power by 5%."
 				},
 				"howToGet": [
 					"Event: Get by event!"

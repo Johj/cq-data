@@ -4066,13 +4066,1384 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.08],
 				"accuracy": [0, 0, 0, 0, 0, 0, 0.17],
 				"evasion": [0, 0, 0, 0, 0, 0, 0.11],
-				"background": "On a day when cherry blossoms were particularly beautiful unter the moonlight, a monster appeared and attacked the village. Many people got hurt and the village was in chaos. In that moment, Kaguya knocked the monster down with one arrow. That day is now a holiday to the people of the village.",
+				"background": "On a day when cherry blossoms were particularly beautiful under the moonlight, a monster appeared and attacked the village. Many people got hurt and the village was in chaos. In that moment, Kaguya knocked the monster down with one arrow. That day is now a holiday to the people of the village.",
 				"skill": {
 					"level": 3,
 					"passive": "Creates 2/3/5 cherry blossom leaf after each auto attack or Storm of Cherry Blossoms based on chain number, and when Kaguya collects 5 cherry blossoms, cherry blossom tree will bloom. After every attack the tree pulls enemy dealing magic damage equal to 110% of hero's attack power for 3 seconds. Moving speed of enemy touched by the tree will slow down by 50% for 3.5 seconds."
 				},
 				"howToGet": [
 					"Contract!: Only Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"maxi": {
+		"faction": "Unknown",
+		"type": "Promote",
+		"class": "Hunter",
+		"skillName": "MD-21 Bullet",
+		"passiveSkillName": "Maximum Shot!",
+		"skillDescription": "Fires an explosive magic bullet, dealing magic damage equal to (121/242/410)% of attack power based on the chain number.",
+		"form": [
+			{
+				"name": "Maxi",
+				"star": 4,
+				"level": 40,
+				"atkPower": [190.8, 209.9, 228.9, 248],
+				"hp": [2017, 2218.7, 2420.4, 2662],
+				"critChance": [0.2, 0.2, 0.2, 0.2],
+				"armor": [137.1, 150.8, 164.6, 178.3],
+				"resistance": [32.2, 35.4, 38.6, 41.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "As the only female sheriff fighting the outlaws in the desert area, she is very popular, not only with the sheriffs, but also with the outlaws. Outlaws will intentionally get themselves arrested by Maxi just to spend time with her.",
+				"skill": {
+					"level": 2,
+					"passive": "Using a chain-3 skill will increase the damage of that chain-3 skill by 3% of Maxis max health. There is a 50% chance that the chain-3 will activate 2 times. Triggered bonus bullets will not recover SP."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Tomboy Maxi",
+				"star": 5,
+				"level": 50,
+				"atkPower": [330.5, 363.5, 396.6, 429.6, 462.7],
+				"hp": [3108.8, 3419.7, 3730.6, 4041.5, 4352.3],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2],
+				"armor": [162.9, 179.1, 195.4, 211.7, 228],
+				"resistance": [37.9, 41.7, 45.5, 49.3, 53],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "The fact that the arrest rate is lower in the desert than in the Neth Empire, has motivated her to work harder. She plans to strike a large outlaw hideout with an operation she has called \"The Cattle Drive.\"",
+				"skill": {
+					"level": 2,
+					"passive": "Using a chain-3 skill will increase the damage of that chain-3 skill by 3% of Maxis max health. There is a 50% chance that the chain-3 will activate 2 times. Triggered bonus bullets will not recover SP."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Cowgirl Maxi",
+				"star": 6,
+				"level": 60,
+				"atkPower": [503.6, 553.9, 604.3, 654.6, 705, 755.4, 881.4],
+				"hp": [4515.2, 4966.7, 5418.2, 5869.7, 6321.2, 6772.8, 8586.8],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.42],
+				"armor": [188.8, 207.6, 226.5, 245.4, 264.3, 283.1, 393.1],
+				"resistance": [44, 48.4, 52.8, 57.2, 61.6, 66, 91],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.22],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.18],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.15],
+				"background": "Having successfully capturing the outlaws in her \"Cattle Drive\" operation, she receives an honorable \"Horse Head Ornament.\" Normally this would be displayed in a house, but she carries it on her back wherever she goes to strike fear into the hearts of the outlaws.",
+				"skill": {
+					"level": 3,
+					"passive": "Using a chain-3 skill will increase the damage of that chain-3 skill by 6% of Maxis max health. There is a 65% chance that the chain-3 will activate 2 times. Triggered bonus bullets will not recover SP."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"spyro": {
+		"faction": "Neth Empire",
+		"type": "Promote",
+		"class": "Hunter",
+		"skillName": "Bombardier Support",
+		"passiveSkillName": "Concentrated Bombing",
+		"skillDescription": "Requests Bombardier Support to the party which deals physical damage equal to (80/180/300) of hero's attack power.",
+		"form": [
+			{
+				"name": "Spyro",
+				"star": 4,
+				"level": 40,
+				"atkPower": [272.3, 299.5, 326.8, 354],
+				"hp": [1551.7, 1706.9, 1862, 2017.2],
+				"critChance": [0.2, 0.2, 0.2, 0.2],
+				"armor": [137.1, 150.8, 164.6, 178.3],
+				"resistance": [32.2, 35.4, 38.6, 41.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Member of the secret Neth organization, 'N.D.D.' He joined 'N.D.D.' because he admired Viper so much.",
+				"skill": {
+					"level": 2,
+					"passive": "Converts into combat mode for 5 seconds after using chain-3 skill, and when ally's block is used hero deals physical damage equal to 200% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Officer Spyro",
+				"star": 5,
+				"level": 50,
+				"atkPower": [472.1, 519.3, 566.5, 613.7, 660.9],
+				"hp": [2391.4, 2630.6, 2869.7, 3108.9, 3348],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2],
+				"armor": [162.9, 179.1, 195.4, 211.7, 228],
+				"resistance": [37.9, 41.7, 45.5, 49.3, 53],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Having been promoted to officer within the ranks of 'N.D.D.' Spyro vows to beome a better operative than even Viper.",
+				"skill": {
+					"level": 2,
+					"passive": "Converts into combat mode for 5 seconds after using chain-3 skill, and when ally's block is used hero deals physical damage equal to 200% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Commander Spyro",
+				"star": 6,
+				"level": 60,
+				"atkPower": [719.5, 791.5, 863.4, 935.4, 1007.3, 1079.3, 1260.3],
+				"hp": [3473.2, 3820.6, 4167.9, 4515.2, 4862.5, 5209.8, 6493.8],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.4],
+				"armor": [188.8, 207.6, 226.5, 245.4, 264.3, 283.1, 393.1],
+				"resistance": [44, 48.4, 52.8, 57.2, 61.6, 66, 91],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.1],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.14],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.12],
+				"background": "Spyro is disappointed after Viper decides to fight against the Neth Empire. He volunteers to fight against Viper and earns a promotion to commander of 'N.D.D.'",
+				"skill": {
+					"level": 3,
+					"passive": "Activates saturation bombing after 3-chain, dealing physical damage equal to 200% of hero's attack power. When passive bombing and block skill deal critical damage to the enemy during saturation bombing, increase 3 SP if ally's SP is under 50, and if SP is over 50, increase attack power 35% for 1.5 seconds."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"viper": {
+		"faction": "Neth Empire",
+		"type": "Premium",
+		"class": "Hunter",
+		"skillName": "Consecutive Fire",
+		"passiveSkillName": "Chain Explosion",
+		"skillDescription": "Fires consecutive bullets, dealing physical damage equal to (81/297/540)% of attack power based on the chain number.",
+		"form": [
+			{
+				"name": "Viper",
+				"star": 4,
+				"level": 40,
+				"atkPower": [272.3, 299.5, 326.8, 354],
+				"hp": [1202.3, 1322.5, 1442.7, 1562.9],
+				"critChance": [0.35, 0.35, 0.35, 0.35],
+				"armor": [137.1, 150.8, 164.6, 178.3],
+				"resistance": [32.2, 35.4, 38.6, 41.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A Member of 'N.D.D.', a secret organization in the Neth Empire. He believes that hard work will bring peace to his country. His N.D.D helmet is his only treasure.",
+				"skill": {
+					"level": 2,
+					"passive": "When Consecutive Fire is used, has 17.5% chance to cause 2nd explosion that deals physical damage equal to 100% of attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Mercenary Viper",
+				"star": 5,
+				"level": 50,
+				"atkPower": [472.1, 519.3, 566.5, 613.7, 660.9],
+				"hp": [1852.9, 2038.2, 2223.5, 2408.8, 2594.1],
+				"critChance": [0.35, 0.35, 0.35, 0.35, 0.35],
+				"armor": [162.9, 179.1, 195.4, 211.7, 228],
+				"resistance": [37.9, 41.7, 45.5, 49.3, 53],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Viper's prowess made him a legend on the battlefield, but soon the Neth Empire sold him to the highest bidder. Viper, feeling betrayed, vowed to fight against the Neth Empire.",
+				"skill": {
+					"level": 2,
+					"passive": "When Consecutive Fire is used, has 17.5% chance to cause 2nd explosion that deals physical damage equal to 100% of attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Legendary Mercenary Viper",
+				"star": 6,
+				"level": 60,
+				"atkPower": [719.5, 791.5, 863.4, 935.4, 1007.3, 1079.3, 1260.3],
+				"hp": [2691.5, 2960.6, 3229.8, 3498.9, 3768.1, 4037.2, 4924.2],
+				"critChance": [0.35, 0.35, 0.35, 0.35, 0.35, 0.35, 0.45],
+				"armor": [188.8, 207.6, 226.5, 245.4, 264.3, 283.1, 393.1],
+				"resistance": [44, 48.4, 52.8, 57.2, 61.6, 66, 91],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.15],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.16],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.12],
+				"background": "After a long, lonely fight, Viper realized that the peace he had hoped for would never come. But he couldn't stop. He put his N.D.D helmet on backwards and kept fighting, and this made him a living legend.",
+				"skill": {
+					"level": 3,
+					"passive": "When Consecutive Fire is used, has 35% chance to cause 2nd explosion that deals physical damage equal to 100% of attack power and increases the leaders SP by 4."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"crow": {
+		"faction": "Hero of Freedom",
+		"type": "Promote",
+		"class": "Hunter",
+		"skillName": "PD-21 Bullet",
+		"passiveSkillName": "PD-CROW",
+		"skillDescription": "Fires an explosive bullet, dealing physical damage equal to (40/114/252)% of attack power based on the chain number.",
+		"form": [
+			{
+				"name": "Crow",
+				"star": 4,
+				"level": 40,
+				"atkPower": [353.8, 389.2, 424.6, 460],
+				"hp": [1086, 1194.6, 1303.2, 1411.8],
+				"critChance": [0.2, 0.2, 0.2, 0.2],
+				"armor": [137.1, 150.8, 164.6, 178.3],
+				"resistance": [32.2, 35.4, 38.6, 41.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A monster hunter who wears a white mask with a beaklike protrusion. His true name is unknown, but others know him as the Crow. Though skillful in his craft, his methods are too brutal. This causes clients to hesitate before making requests.",
+				"skill": {
+					"level": 2,
+					"passive": "When a block is used after an ally's chain-3 skill, the Hero will fire a PD-Crow bullet which deals physical damage equal to 200% of the Hero's attack power during its next 3 automatic attacks."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Gentleman Crow",
+				"star": 5,
+				"level": 50,
+				"atkPower": [613.7, 675.1, 736.5, 797.8, 859.2],
+				"hp": [1673.1, 1840.4, 2007.7, 2175, 2342.4],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2],
+				"armor": [162.9, 179.1, 195.4, 211.7, 228],
+				"resistance": [37.9, 41.7, 45.5, 49.3, 53],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "After hearing the rumors about his own deeds, Crow decides to hunt monsters in a more humane and gentlemanly way. The people now think of him as Gentleman Crow. Strangely, his new methods have caused his enemies to fear him even more.",
+				"skill": {
+					"level": 2,
+					"passive": "When a block is used after an ally's chain-3 skill, the Hero will fire a PD-Crow bullet which deals physical damage equal to 200% of the Hero's attack power during its next 3 automatic attacks."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Evil Spirit Crow",
+				"star": 6,
+				"level": 60,
+				"atkPower": [934.9, 1028.3, 1121.8, 1215.3, 1308.8, 1402.3, 1638.3],
+				"hp": [2431.3, 2674.4, 2917.5, 3160.7, 3403.8, 3646.9, 4401.9],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.335],
+				"armor": [188.8, 207.6, 226.5, 245.4, 264.3, 283.1, 393.1],
+				"resistance": [44, 48.4, 52.8, 57.2, 61.6, 66, 91],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.02],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.18],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.16],
+				"background": "As the rumors about him spread, he realizes that he cannot leave the bodies of his monster kills lying around to rot. He now carries a coffin around him wherever he goes. Each monster he kills disappears inside the coffin. After each kill, the people say \"the evil spirit made a visit.\"",
+				"skill": {
+					"level": 3,
+					"passive": "When a block is used after an ally's chain-3 skill, the Hero will fire a PD-Crow bullet which deals physical damage equal to 200% of the Hero's attack power during its next 3 automatic attacks. The bullet has a 50% chance of exploding, dealing physical damage equal to 150% of the enemy's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"vincent": {
+		"faction": "Grancia Empire",
+		"type": "Promote",
+		"class": "Hunter",
+		"skillName": "GP-7 Shot",
+		"passiveSkillName": "Grenade Dispatch",
+		"skillDescription": "Fires a shot, dealing physical damage equal to (40/125/300)% of attack power.",
+		"form": [
+			{
+				"name": "Vincent",
+				"star": 4,
+				"level": 40,
+				"atkPower": [272.3, 299.5, 326.8, 354],
+				"hp": [1202.3, 1322.5, 1442.7, 1562.9],
+				"critChance": [0.35, 0.35, 0.35, 0.35],
+				"armor": [137,1, 150.8, 164.6, 178.3],
+				"resistance": [32.2, 35.4, 38.6, 41.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A gunner who blames himself for the demons that killed his family. He has lost the will to live and he wanders the streets at night.",
+				"skill": {
+					"level": 2,
+					"passive": "Using a chain-3 skill increases the Hero's crit chance by 15%. If a skill block scores a critical hit, increase the Hero's attack power by 25% for 7 seconds and shoot 2 extra explosives dealing physical damage equal to 150% of the Hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Avenger Vincent",
+				"star": 5,
+				"level": 50,
+				"atkPower": [472.1, 519.3, 566.5, 613.7, 660.9],
+				"hp": [1852.9, 2038.2, 2223.5, 2408.8, 2594.1],
+				"critChance": [0.35, 0.35, 0.35, 0.35, 0.35],
+				"armor": [162.9, 179.1, 195.4, 211.7, 228],
+				"resistance": [37.9, 41.7, 45.5, 49.3, 53],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Vincent encounters the demon who killed his family and attacks with furious rage. During the attack, he is severely injured. He barely survives, and from that point on he lives only for vengeance.",
+				"skill": {
+					"level": 2,
+					"passive": "Using a chain-3 skill increases the Hero's crit chance by 15%. If a skill block scores a critical hit, increase the Hero's attack power by 25% for 7 seconds and shoot 2 extra explosives dealing physical damage equal to 150% of the Hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Judge Vincent",
+				"star": 6,
+				"level": 60,
+				"atkPower": [719.5, 791.5, 863.4, 935.4, 1007.3, 1079.3, 1260.3],
+				"hp": [2691.5, 2960.6, 3229.8, 3498.9, 3768.1, 4037.2, 4924.2],
+				"critChance": [0.35, 0.35, 0.35, 0.35, 0.35, 0.35, 0.45],
+				"armor": [188.8, 207.6, 226.5, 245.4, 264.3, 283.1, 393.1],
+				"resistance": [44, 48.4, 52.8, 57.2, 61.6, 66, 91],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.17],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.2],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.1],
+				"background": "Vincent finally succeeds in taking vengeance on the demon that killed his family. However, the emptiness in his heart remains. He takes up demon hunting to fill the emptiness. Vincent now wanders the land as a judge of evil. His only purpose is to destroy all demons.",
+				"skill": {
+					"level": 3,
+					"passive": "Using a chain-3 skill increases the Hero's crit chance by 25%. If a skill block scores a critical hit, increase the Hero's attack power by 45% for 7 seconds and shoot 2 extra explosives dealing physical damage equal to 150% of the Hero's attack power. These explosives have a 30% chance of exploding twice."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"no.9": {
+		"faction": "Unknown",
+		"type": "Premium",
+		"class": "Hunter",
+		"skillName": "RF-247 Sniper Bullet",
+		"passiveSkillName": "Enhanced RF-247",
+		"skillDescription": "Snipes enemies (1/2/3) times equal to the length of the chain. Each bullet deals physical damage equal to 150% of the Hero's attack damage.",
+		"form": [
+			{
+				"name": "No. 9",
+				"star": 4,
+				"level": 40,
+				"atkPower": [286, 314.5, 343.1, 371.7],
+				"hp": [1629.3, 1792.2, 1955.2, 2118.1],
+				"critChance": [0.21, 0.21, 0.21, 0.21],
+				"armor": [143.8, 158.1, 172.5, 186.9],
+				"resistance": [33.7, 37.1, 40.5, 43.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "She served as the leader of the 9th division of the Falcon Troops until her battalion was wiped out by the Neth Empire. Overcome with grief, she made a deal with the devil for magic bullets that never miss.",
+				"skill": {
+					"level": 2,
+					"passive": "After using a block, the next block skill activates as reinforced RF-247 sniper bullet. Critical damage of reinforced RF-247 sniper bullet is increased by 30%. If hero is already receiving buff, the hero immediately shoots 2 more reinforced RF-247 sniper bullets."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Killer Bullet No. 9",
+				"star": 5,
+				"level": 50,
+				"atkPower": [495.6, 545.2, 594.7, 644.3, 693.9],
+				"hp": [2511, 2762.1, 3012.2, 3264.3, 3515.4],
+				"critChance": [0.21, 0.21, 0.21, 0.21, 0.21],
+				"armor": [147.7, 162.4, 177.2, 192, 206.7],
+				"resistance": [39.8, 43.8, 47.8, 51.8, 55.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Driven by the fury of losing her only family, she takes aim at the Neth Empire, weakening it one man at a time.",
+				"skill": {
+					"level": 2,
+					"passive": "After using a block, the next block skill activates as reinforced RF-247 sniper bullet. Critical damage of reinforced RF-247 sniper bullet is increased by 30%. If hero is already receiving buff, the hero immediately shoots 2 more reinforced RF-247 sniper bullets."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Devil Bullet No. 9",
+				"star": 6,
+				"level": 60,
+				"atkPower": [755.5, 831, 906.6, 982.2, 1057.7, 1133.3, 1323.3],
+				"hp": [3647.3, 4012, 4376.7, 4741.5, 5106.2, 5470.9, 6843.9],
+				"critChance": [0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.38],
+				"armor": [198.2, 218, 237.8, 257.7, 277.5, 297.3, 410.3],
+				"resistance": [46.3, 51, 55.6, 60.3, 64.9, 69.5, 95.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.06],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.21],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.11],
+				"background": "Haunted by the souls she murdered, No. 9 continues to hunt villians, each new soul quiets the tempest in her head for a time, but soon the souls begin to murmur again.",
+				"skill": {
+					"level": 3,
+					"passive": "After using a block, the next block skill activates as reinforced RF-247 sniper bullet. Critical damage of reinforced RF-247 sniper bullet is increased by 30% and armor penetration by 50% of hero's attack power. If hero is already receiving buff, the hero immediately shoots 3 more reinforced RF-247 sniper bullets."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"sentinel": {
+		"faction": "Neth Empire",
+		"type": "Promote",
+		"class": "Hunter",
+		"skillName": "Drone Assault",
+		"passiveSkillName": "Satellite Bombardment",
+		"skillDescription": "Summons Drones that deal magical damage equal to (100/300/600)% of hero's attack power based on the chain number.",
+		"form": [
+			{
+				"name": "Sentinel D",
+				"star": 4,
+				"level": 40,
+				"atkPower": [213.8, 235.2, 256.6, 277.9],
+				"hp": [1582.5, 1740.8, 1899, 2057.3],
+				"critChance": [0.21, 0.21, 0.21, 0.21],
+				"armor": [219.7, 241.7, 263.7, 285.6],
+				"resistance": [53.5, 58.9, 64.2, 69.6],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A robot designed to help people. But Stein modified it to become a war machine. Sentinel becomes the basis for a collection of mass-produced robots. These mass-produced robots are the steamers.",
+				"skill": {
+					"level": 2,
+					"passive": "1,2-chain after Sentinel's 3 chain will be counted as 3-chain once."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Sentinel A",
+				"star": 5,
+				"level": 50,
+				"atkPower": [439.8, 483.7, 527.7, 571.7, 615.7],
+				"hp": [1469.8, 1616.7, 1763.7, 1910.7, 2057.7],
+				"critChance": [0.21, 0.21, 0.21, 0.21, 0.21],
+				"armor": [209, 229.9, 250.8, 271.7, 292.6],
+				"resistance": [54.6, 60, 65.5, 70.9, 76.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "During Nemesis' invasion, Stein gathered a massive amount of data and upgraded the Sentinel robot to the limits of his knowledge.",
+				"skill": {
+					"level": 2,
+					"passive": "1,2-chain after Sentinel's 3 chain will be counted as 3-chain once."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Sentinel R",
+				"star": 6,
+				"level": 60,
+				"atkPower": [676.4, 744.1, 811.7, 879.4, 947, 1014.7, 1184.7],
+				"hp": [3542.9, 3897.1, 4251.4, 4605.7, 4960, 5314.3, 6634.3],
+				"critChance": [0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.36],
+				"armor": [325.4, 357.9, 390.5, 423, 455.5, 488.1, 630.1],
+				"resistance": [84.4, 92.8, 101.3, 109.7, 118.1, 126.6, 159.6],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.17],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.2],
+				"background": "Stein found the portal to the future and traveled to the Neth Empire, where he learned new secrets to further advance the Sentinel",
+				"skill": {
+					"level": 3,
+					"passive": "1,2-chain after Sentinel's 3 chain will be counted as 3-chain once and enemy will be struck by statelite 4 times, dealing magical damage equal to 150% of Sentinel's attack power. Enemy's resistance decreases 50 every time the enemy is damaged by satelite."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"mandy": {
+		"faction": "Hero of Freedom",
+		"type": "Premium",
+		"class": "Hunter",
+		"skillName": "Ambush Bullets!",
+		"passiveSkillName": "Surprise!",
+		"skillDescription": "Based on the chain number, the hero shoots (poison fog, ice, fire) bullets dealing magical damage equal to (50,250,250)% of the Hero's attack power.",
+		"form": [
+			{
+				"name": "Mandy",
+				"star": 4,
+				"level": 40,
+				"atkPower": [286, 314.5, 343.1, 371.7],
+				"hp": [1424.9, 1567.4, 1709.9, 1852.4],
+				"critChance": [0.283, 0.283, 0.283, 0.283],
+				"armor": [143.8, 158.1, 172.5, 186.9],
+				"resistance": [33.7, 37.1, 40.5, 43.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Mandy idolized the heroes in her comic books and has even entered the waiting list to join the local chapter of the Super Heroes of Hasla Association.",
+				"skill": {
+					"level": 2,
+					"passive": "When ally uses a skill block, the Hero shoots an enhanced bullet which (decreases enemy resistance by 30% for 5 seconds / stuns enemy for 1 second / deals neutral damage equal to 100% of hero's attack power) based on the chain number of the previously used block. This ability stacks twice."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Mandy the Sidekick",
+				"star": 5,
+				"level": 50,
+				"atkPower": [495.6, 545.2, 594.7, 644.3, 693.9],
+				"hp": [2196.4, 2416.1, 2635.7, 2855.4, 3075],
+				"critChance": [0.283, 0.283, 0.283, 0.283, 0.283],
+				"armor": [147.7, 162.4, 177.2, 192, 206.7],
+				"resistance": [39.8, 43.8, 47.8, 51.8, 55.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Mandy finally found herself in the fight against evil as a sidekick to a mysterious super hero, but learned that she will not be able to become a full-fledged hero until one retires from the Association.",
+				"skill": {
+					"level": 2,
+					"passive": "When ally uses a skill block, the Hero shoots an enhanced bullet which (decreases enemy tesistance by 30% for 5 seconds / stuns enemy for 1 second / deals neutral damage equal to 100% of hero's attack power) based on the chain number of the previously used block. This ability stacks twice."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Super Mandy",
+				"star": 6,
+				"level": 60,
+				"atkPower": [755.5, 831, 906.6, 982.2, 1057.7, 1133.3, 1323.3],
+				"hp": [3190, 3509, 3828, 4147, 4466, 4785, 5925],
+				"critChance": [0.283, 0.283, 0.283, 0.283, 0.283, 0.283, 0.45],
+				"armor": [198.2, 218, 237.8, 257.7, 277.5, 297.3, 410.3],
+				"resistance": [46.3, 51, 55.6, 60.3, 64.9, 69.5, 95.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.05],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.14],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.13],
+				"background": "Unable to wait for a hero to retire, Mandy struck out on her own to become a hero without the aid of the Association. Impressed by her bravado, the Super Heroes of Hasla Association accepted her as a full-time Super Hero.",
+				"skill": {
+					"level": 3,
+					"passive": "When ally uses a skill block, the Hero shoots an enhanced bullet which (decreases enemy tesistance by 50% for 5 seconds / stuns enemy for 1.5 second / deals neutral damage equal to 150% of hero's attack power) based on the chain number of the previously used block. This ability stacks twice."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"wilhelm": {
+		"faction": "Hero of Freedom",
+		"type": "Premium",
+		"class": "Hunter",
+		"skillName": "A-666D Harpoon Shot",
+		"passiveSkillName": "A-666D Trap Bullet",
+		"skillDescription": "Shoots a harpoon bomb that hits an enemy for 3 seconds, dealing physical damage equal to 150% of the Hero's attack power. It decreases the enemy's accuracy by (15/25/35)% based on the chain length.",
+		"form": [
+			{
+				"name": "Wilhelm",
+				"star": 4,
+				"level": 40,
+				"atkPower": [328.9, 361.7, 394.6, 427.5],
+				"hp": [1290.8, 1419.9, 1548.9, 1678],
+				"critChance": [0.2, 0.2, 0.2, 0.2],
+				"armor": [143.8, 158.1, 172.5, 186.9],
+				"resistance": [33.7, 37.1, 40.5, 43.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A skilled hunter who makes a living hunting small animals. Although he is a great marksman, he is a meek and mild guy who tries to avoid conflicts. He inevitably joins the fight against the monsters but he feels uncomfortable and guilty about it.",
+				"skill": {
+					"level": 2,
+					"passive": "Shoots a shackle bomb dealing physical damage equal to (50/75/100)% based on the ally's skill chain length. The enemy struck by the harpoon bomb will receive double damage from the shackle bomb."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Dark Hunter Wilhelm",
+				"star": 5,
+				"level": 50,
+				"atkPower": [570.1, 627.1, 684.1, 741.1, 798.1],
+				"hp": [1989.7, 2188.6, 2387.6, 2586.5, 2785.5],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2],
+				"armor": [171.2, 188.3, 205.4, 222.5, 239.7],
+				"resistance": [39.8, 43.8, 47.8, 51.8, 55.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Wilhelm's battalion was wiped out by the Dark Knight Vane, and even Wilhelm fainted and lost to Vane. After he woke up, he could not see anything but darkness. He had lost his sight to the sword of Vane.",
+				"skill": {
+					"level": 2,
+					"passive": "Shoots a shackle bomb dealing physical damage equal to (50/75/100)% based on the ally's skill chain length. The enemy struck by the harpoon bomb will receive double damage from the shackle bomb."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Dark Slayer Wilhelm",
+				"star": 6,
+				"level": 60,
+				"atkPower": [868.8, 955.7, 1042.5, 1129.4, 1216.3, 1303.2, 1522.2],
+				"hp": [2890.3, 3179.3, 3468.4, 3757.4, 4046.4, 4335.5, 5323.5],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.32],
+				"armor": [198.2, 218, 237.8, 257.7, 277.5, 297.3, 410.3],
+				"resistance": [46.3, 51, 55.6, 60.3, 64.9, 69.5, 95.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.05],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.18],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.17],
+				"background": "Wilhelm was outraged. As he cannot rid himself of his blindness, he sought to murder the one who caused his suffering. After he rebuilds his own body, Wilhelm goes after Vane. His pain will always remind him of his desire for vengeance.",
+				"skill": {
+					"level": 3,
+					"passive": "When ally blocks are used a bomb is launched that deals (75/100/150)% physical damage. Enemies hit directly by the harpoon receive triple damage, and every time that enemy attacks, it has a 50% chance of damaging itself for 100% of its attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"saiga": {
+		"faction": "Eastern Kingdom - Ryu",
+		"type": "Premium",
+		"class": "Hunter",
+		"skillName": "Cannon boom!",
+		"passiveSkillName": "Armorpiercing Ammunition",
+		"skillDescription": "Fires a cannon toward enemies dealing physical damage equal to (75/150/275)% according tothe length of the block chain.",
+		"form": [
+			{
+				"name": "Saiga",
+				"star": 4,
+				"level": 40,
+				"atkPower": [268, 314.5, 343.1, 371.7],
+				"hp": [1348.1, 1482.9, 1617.7, 1752.5],
+				"critChance": [0.315, 0.315, 0.315, 0.315],
+				"armor": [143.8, 158.1, 172.5, 186.9],
+				"resistance": [33.7, 37.1, 40.5, 43.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "The captain of a small mercenary in Ryu. He is a strong leader with great leadership but chooses to live quietly in the countryside because he is sick of the chaotic status of the kingdom's politics.",
+				"skill": {
+					"level": 2,
+					"passive": "When chain-3 skill is used, hero fires a cannon towards the enemy, with 100% accuracy, dealing total physical damage equal to 1000% of Hero's attack power. Cannon damage is bounced from enemy to enemy (maximum 3 times) and each time the hit chance decreases by 20%."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Ambitious Saiga",
+				"star": 5,
+				"level": 50,
+				"atkPower": [495.6, 545.2, 594.7, 644.3, 693.9],
+				"hp": [2077.4, 2285.1, 2492.8, 2700.6, 2908.3],
+				"critChance": [0.315, 0.315, 0.315, 0.315, 0.315],
+				"armor": [171.2, 188.3, 205.4, 222,5, 239.7],
+				"resistance": [39.8, 43.8, 47.8, 51.8, 55.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Carrying out the mission from the Ryu's new shogun, Oda, Saiga decides to serve him, since he feels comfortable with him. Saiga dreams of terminating the civil war in the Eastern Kingdom together with Oda.",
+				"skill": {
+					"level": 2,
+					"passive": "When chain-3 skill is used, hero fires a cannon towards the enemy, with 100% accuracy, dealing total physical damage equal to 1000% of Hero's attack power. Cannon damage is bounced from enemy to enemy (maximum 3 times) and each time the hit chance decreases by 20%."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Red Bullet Saiga",
+				"star": 6,
+				"level": 60,
+				"atkPower": [755.5, 831, 906.6, 982.2, 1057.7, 1133.3, 1323.3],
+				"hp": [3017.8, 3319.5, 3621.3, 3923.1, 4224.9, 4526.6, 5579.6],
+				"critChance": [0.315, 0.315, 0.315, 0.315, 0.315, 0.315, 0.43],
+				"armor": [198.2, 218, 237.8, 257.7, 277.5, 297.3, 410.3],
+				"resistance": [58.2, 64, 69.8, 75.6, 81.4, 87.2, 117.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.01],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.16],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.13],
+				"background": "He seems to be at odds with Oda. Saiga breaks up with Oda and returns to his original life. One day, he hears that Oda went mad and became a slaughterer, calling himself 'the dark lord of the 6th world'. After acquiring the dark power, he rises to restore him.",
+				"skill": {
+					"level": 3,
+					"passive": "When chain-3 skill is used, hero fires a cannon towards the enemy, with (60/80/100)% accuracy, dealing total physical damage equal to 1000% of Hero's attack power. Cannon damage is bounced from enemy to enemy (maximum 3 times) and each time the hit chance decreases by 15%."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"tia": {
+		"faction": "Grancia Empire",
+		"type": "Premium",
+		"class": "Hunter",
+		"skillName": "008 Assassination Kit",
+		"passiveSkillName": "Assassin Chase",
+		"skillDescription": "Shoots a secret bullet which deals physical damage equal to (75/150/275)% of hero's attack power according to the chain number. Hit enemy will be marked as the assassination target for 7 seconds.",
+		"form": [
+			{
+				"name": "Tia",
+				"star": 4,
+				"level": 40,
+				"atkPower": [299.6, 329.6, 359.5, 389.5],
+				"hp": [1706.5, 1877.2, 2047.8, 2218.5],
+				"critChance": [0.2, 0.2, 0.2, 0.2],
+				"armor": [96.5, 106.1, 115.8, 125.4],
+				"resistance": [24.7, 27.1, 29.6, 32.1],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A girl who joined Tristan's mercenary soldiers when she was very young. At first she was just a messenger, but she soon became recognized for her outstanding ability with weapons. Her fist mission was to assassinate Victoria who is the Chief Knight of Grancia in the Central Empire. To accomplish her mission, she secretely infiltrates Grancia.",
+				"skill": {
+					"level": 2,
+					"passive": "When the block skill is used, hero throws the assassination kit to the targeted enemy. The kit deals physical damage equal to 300% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Disguised Maid Tia",
+				"star": 5,
+				"level": 50,
+				"atkPower": [519.1, 571.1, 623, 674.9, 726.8],
+				"hp": [2630.6, 2893.6, 3156.7, 3419.7, 3682.8],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2],
+				"armor": [126.7, 139.3, 152, 164.7, 177.4],
+				"resistance": [35, 38.5, 42, 45.5, 49],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "From outside the castle Tia is always seeking a chance to assassinate Victoria, but she can never catch Victoria alone. So Tia disguises herself as a maid for the Blue Blood Knights and sneaks in.",
+				"skill": {
+					"level": 2,
+					"passive": "When the block skill is used, hero throws the assassination kit to the targeted enemy. The kit deals physical damage equal to 300% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Armed Maid Tia",
+				"star": 6,
+				"level": 60,
+				"atkPower": [791.5, 870.6, 949.8, 1028.9, 1108.1, 1187.2, 1387.2],
+				"hp": [3820.7, 4202.8, 4584.9, 4967, 5349, 5731.1, 7192.1],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.37],
+				"armor": [154.9, 170.4, 185.9, 201.3, 216.8, 232.3, 335.3],
+				"resistance": [44.3, 48.7, 53.1, 57.6, 62, 66.4, 90.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.03],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.18],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.11],
+				"background": "One day, another faction attempts to murder Victoria but Tia accidentally saves Victoria's life. Tia gets promoted to an official armed maid and becomes Victoria's personal assistant. However, Tia is still seeking a chance to assassinate Victoria.",
+				"skill": {
+					"level": 3,
+					"passive": "When the block skill is used, hero throws the assassination kit to the targeted enemy. Assassination kit deals physical damage equal to 350% of hero's attack power. Attack will always be applied as a critical hit."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"spiny": {
+		"faction": "Neth Empire",
+		"type": "Promote",
+		"class": "Hunter",
+		"skillName": "CS-Blast",
+		"passiveSkillName": "Blast Shot",
+		"skillDescription": "Shoots 3 consecutive bullets which deals physical damage equal to (50/90/150)% of attack power according to chain number.",
+		"form": [
+			{
+				"name": "Spiny",
+				"star": 4,
+				"level": 40,
+				"atkPower": [272.3, 299.5, 326.8, 354],
+				"hp": [1318.9, 1450.7, 1582.6, 1714.5],
+				"critChance": [0.3, 0.3, 0.3, 0.3],
+				"armor": [110.1, 121.1, 132.2, 143.2],
+				"resistance": [28.2, 31, 33.8, 36.6],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "She used to be just an ordinary girl but loses her parents during the Neth-Trista war. She was in a great despair waiting for her death right before the last bombardment, but a man in black with gas mask dramatically saves her at the moment. Following that man, Spiny becomes a soldier as well.",
+				"skill": {
+					"level": 2,
+					"passive": "An auto attack after SP reaches 40 will activate Blast Shot that deals physical damage equal to 400% of heros attack power, using 25 SP."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Code Name Spiny",
+				"star": 5,
+				"level": 50,
+				"atkPower": [472.1, 519.3, 566.5, 613.7, 660.9],
+				"hp": [2032.3, 2235.5, 2438.7, 2642, 2845.2],
+				"critChance": [0.3, 0.3, 0.3, 0.3, 0.3],
+				"armor": [142.9, 157.1, 171.4, 185.7, 200],
+				"resistance": [38.9, 42.8, 46.7, 50.6, 54.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "After being fatally wounded in battle, the girl wakes up in the laboratories of Rapture Science... but no past nor memory of her former self remains. Only the cold steel of the mechanical parts replacing her tattered body, and unconditional loyalty towards her savior, remain. And so Code Name Spiny is born.",
+				"skill": {
+					"level": 2,
+					"passive": "An auto attack after SP reaches 40 will activate Blast Shot that deals physical damage equal to 400% of heros attack power, using 25 SP."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Cyborg Spiny",
+				"star": 6,
+				"level": 60,
+				"atkPower": [719.5, 791.5, 863.4, 935.4, 1007.3, 1079.3, 1260.3],
+				"hp": [2952.3, 3247.5, 3542.7, 3837.9, 4133.2, 4428.4, 5447.4],
+				"critChance": [0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.45],
+				"armor": [173.8, 191.1, 208.5, 225.9, 243.3, 260.6, 370.6],
+				"resistance": [60.2, 66.2, 72.2, 78.3, 84.3, 90.3, 199.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.15],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.17],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.13],
+				"background": "With no fear of Death or war, Spiny lives and dies to fight. After her defeat to Viper and Mamba of the Neth Resistance Army, the frustrated Spiny continues to replace her own bone and blood with steel and blase - and so a human girl dies only to be reborn as a fighting machine.",
+				"skill": {
+					"level": 3,
+					"passive": "An auto attack or skill that gives critical damage after SP reaches 40 will activate Blast Shot that deals physical damage equal to 400% of heros attack power, using 15 SP. When Blast Shot gives critical damage armor penetration will double."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"dox": {
+		"faction": "Unknown",
+		"type": "Premium",
+		"class": "Hunter",
+		"skillName": "The Culprit Is You!",
+		"passiveSkillName": "Caught Red-Handed!",
+		"skillDescription": "Upon using block, shoots a bullet that deals physical damage equal to (90/185/310)% of hero's attack power. Hit enemy is marked as the culprit for 3 seconds.",
+		"form": [
+			{
+				"name": "Dox",
+				"star": 4,
+				"level": 40,
+				"atkPower": [381.1, 419.2, 457.3, 495.4],
+				"hp": [1210.1, 1331.1, 1452.1, 1573.1],
+				"critChance": [0.2, 0.2, 0.2, 0.2],
+				"armor": [110.1, 121.1, 132.2, 143.2],
+				"resistance": [28.2, 31, 33.8, 36.6],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A rookie detective Dox. He is so enthusiastic but does not have enough talent in reasoning to capture the victims. To hide his lack of capability, he often quotes 'The victim is... I will tell you later.'. Recently, he heard that the traveling merchants are selling a potion to become a great detective.",
+				"skill": {
+					"level": 2,
+					"passive": "When ally attacks enemy marked as culprit, deals additional physical damage equal to 100% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Sherlock Dox",
+				"star": 5,
+				"level": 50,
+				"atkPower": [661.2, 727.4, 793.5, 859.6, 925.7],
+				"hp": [2010.2, 2211.3, 2412.3, 2613.3, 2914.3],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2],
+				"armor": [142.9, 157.1, 171.4, 185.7, 200],
+				"resistance": [38.9, 42.8, 46.7, 50.6, 54.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Dox took a mysterious medicine and falls asleep. When he woke up, he was turned into a dog-man with outstanding sense of smelling and hearing! However, his sense of vision also became like that of a dog, so he cannot distiguish people's faces anymore.",
+				"skill": {
+					"level": 2,
+					"passive": "When ally attacks enemy marked as culprit, deals additional physical damage equal to 100% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Detective Sherlock Dox",
+				"star": 6,
+				"level": 60,
+				"atkPower": [1006.8, 1107.5, 1208.2, 1308.9, 1409.6, 1510.3, 1710.3],
+				"hp": [3125.1, 3437.6, 3750.2, 4062.7, 4375.2, 4687.7, 6148.7],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.37],
+				"armor": [173.8, 191.1, 208.5, 225.9, 243.3, 260.6, 363.6],
+				"resistance": [49, 53.9, 58.8, 63.7, 68.6, 73.5, 97.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.03],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.18],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.11],
+				"background": "A request from a secret company in Hasla 'L.C' is sent to Dox. The request is to return the stolen L.C 1st anniversary party invitation from the phantom thief 'Lupeow'. It is now up to Sherlock Dox's sense of smell, to penetrate the outstanding disguise of Lupeow!",
+				"skill": {
+					"level": 3,
+					"passive": "Attack power of enemy marked as the culprit will decrease by 30% during activation. When ally attacks enemy marked as culprit, deals additional physical damage equal to 100% of hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"lorelei": {
+		"faction": "Hero of Freedom",
+		"type": "Premium",
+		"class": "Hunter",
+		"skillName": "Drill Gun",
+		"passiveSkillName": "Support Equipment Protocol",
+		"skillDescription": "Using blocks will fire Drill that deals physical damage equal to (150/220/350)% of the hero's attack power. Enemies hit by Drill will take neutral bleeding damage equal to 200% of the hero's attack power. Enemy healing is reduced by 20%. Attacks do not stack and reusing blocks will renew the duration.",
+		"form": [
+			{
+				"name": "Lorelei",
+				"star": 4,
+				"level": 40,
+				"atkPower": [372.3, 409.6, 446.8, 484],
+				"hp": [1535.9, 1689.5, 1843, 1996.6],
+				"critChance": [0.2, 0.2, 0.2, 0.2],
+				"armor": [96.5, 106.1, 115.8, 125.4],
+				"resistance": [24.7, 27.1, 29.6, 32.1],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Lorelei may be one of the greatest archaeologists of Hasla - but a lack of subsidies means she must always worry for her next meal. In order to make a sufficient living, Lorelei publishes her travel journal under the title of \"The Chronicles of Hasla: The Book of Desert.\"",
+				"skill": {
+					"level": 2,
+					"passive": "Using a block after an ally uses a chain-3 skill, causes the hero to summon a Drill Gun out of the ground in front of the enemies. The Drill Gun deals physical Damage equal to 300% of the hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Archaeologist Lorelei",
+				"star": 5,
+				"level": 50,
+				"atkPower": [646.2, 710.8, 775.4, 840, 904.6],
+				"hp": [2367.5, 2604.3, 2841, 3077.8, 3314.5],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2],
+				"armor": [126.7, 139.3, 152, 164.7, 177.4],
+				"resistance": [35, 38.5, 42, 45.5, 49],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "The Chronicles of Hasla becomes a bestseller throughout the continent, and Lorelei succeeds in making a lot of money. Armed now with better equipment, Lorelei embarks on a long journey to explore the lands of Hasla.",
+				"skill": {
+					"level": 2,
+					"passive": "Using a block after an ally uses a chain-3 skill, causes the hero to summon a Drill Gun out of the ground in front of the enemies. The Drill Gun deals physical Damage equal to 300% of the hero's attack power."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Wanderer Lorelei",
+				"star": 6,
+				"level": 60,
+				"atkPower": [992.9, 1092.2, 1191.5, 1290.8, 1390, 1489.3, 1768.7],
+				"hp": [3438.7, 3782.5, 4126.4, 4470.3, 4814.1, 5158, 6154],
+				"critChance": [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.35],
+				"armor": [154.9, 170.4, 185.9, 201.3, 216.8, 232.3, 342.3],
+				"resistance": [44.3, 48.7, 53.1, 57.6, 62, 66.4, 91.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.24],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.15],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.15],
+				"background": "Having explored many ruins and discovered numerous artifacts, Lorelei finally completes \"The Chronicles of Hasla.\" Containing not only newly discovered facts but the true and complete history of Hasla, Lorelei's journal becomes a book of legend: the ultimate guide to truth for the archaeologists and historians of Hasla.",
+				"skill": {
+					"level": 3,
+					"passive": "Using a block after an ally uses a chain-3 skill, causes the hero to summon a Drill Gun out of the ground in front of the enemies. The Drill Gun deals physical Damage equal to 600% of the hero's attack power. It deals extra physical damage equal to 600% of the hero's attack power to enemies that are suffering from the bleed effect caused by the Drill."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"scarlet": {
+		"faction": "Unknown",
+		"type": "Promote",
+		"class": "Hunter",
+		"skillName": "No Mercy",
+		"passiveSkillName": "Barrel Bomb",
+		"skillDescription": "Shoots a bullet, physical damage equal to (100/220/350)% of hero's attack power based on chain length..",
+		"form": [
+			{
+				"name": "Scarlet",
+				"star": 4,
+				"level": 40,
+				"atkPower": [275.8, 303.4, 331, 358.6],
+				"hp": [1738.9, 1912.8, 2086.7, 2260.6],
+				"critChance": [0.21, 0.21, 0.21, 0.21],
+				"armor": [159.4, 175.3, 191.2, 207.2],
+				"resistance": [36.9, 40.5, 44.2, 47.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A valiant soldier of Valencia who has a habit of picking up strange people. Her extraordinary skill in gunmanship as well as leadership raises the expectations of many, but Scarlet refuses to adhere to them and instead runs away from home to become a pirate hunter. Her target this time is a pirate named Drake.",
+				"skill": {
+					"level": 2,
+					"passive": "When an ally uses a 3-chain skill, physical damage equal to 800% of the hero's attack power is dealt as a liquor barrel is kicked toward the enemy. The barrel pushes away the enemy and stuns them for 0.5 second. The next block that the hero uses will be counted as a 3-chain skill. (once per 4 seconds)"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Pirate Hunter Scarlet",
+				"star": 5,
+				"level": 50,
+				"atkPower": [548.6, 603.4, 658.3, 713.1, 768],
+				"hp": [2529.9, 2782.8, 3035.8, 3288.8, 3541.8],
+				"critChance": [0.21, 0.21, 0.21, 0.21, 0.21],
+				"armor": [192.3, 211.5, 230.7, 249.9, 269.1],
+				"resistance": [44.8, 49.2, 53.7, 58.2, 62.6],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "When Drake, for his service of protecting Valencia, is honored by the king with a title of nobility, Scarlet is forced to renounce her intentions of capturing the pirate. Arguing that the sins of the pirate still remain unforgiven, the furious Scarlet departs from Valencia.",
+				"skill": {
+					"level": 2,
+					"passive": "When an ally uses a 3-chain skill, physical damage equal to 800% of the hero's attack power is dealt as a liquor barrel is kicked toward the enemy. The barrel pushes away the enemy and stuns them for 0.5 second. The next block that the hero uses will be counted as a 3-chain skill. (once per 4 seconds)"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!",
+					"Noble Honor Box: Acquired chance to get Noble honor box!"
+				]
+			},
+			{
+				"name": "Navy Admiral Scarlet",
+				"star": 6,
+				"level": 60,
+				"atkPower": [731.9, 805.1, 878.3, 951.5, 1024.7, 1097.8, 1282.3],
+				"hp": [3803.6, 4184, 4564.4, 4944.7, 5325.1, 5705.4, 7157.5],
+				"critChance": [0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.415],
+				"armor": [225.3, 247.9, 270.4, 292.9, 315.5, 338, 460.2],
+				"resistance": [52.8, 58.1, 63.4, 68.7, 74, 79.3, 107.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.3],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.28],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.2],
+				"background": "Yet before long Drake resumes his life of piracy, and Scarlet returns to Valencia to enter the navy, finally capturing her long-awaited rival. Proficient and confident in her goal, Scarlet rushes through the ranks to become the admiral of the Valencian navy. The seas of Valencia shall be peaceful as long as Scarlet guards their waters.",
+				"skill": {
+					"level": 3,
+					"passive": "When an ally uses a 3-chain skill, physical damage equal to 800% of the hero's attack power is dealt as a liquor barrel is kicked towards the enemy. The barrel pushes away the enemy and stuns them for 0.5 second. The next block that the hero uses will be counted as a 3-chain skill. (once per 4 seconds)"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"ag01-neo": {
+		"faction": "Supply all forces",
+		"type": "Premium",
+		"class": "Hunter",
+		"skillName": "Lazer blaze",
+		"passiveSkillName": "Passive",
+		"skillDescription": "Shoots Laser that deals physical damage equal to (70/150/230)% of hero's attack power after using blocks. When laser touches enemy, it explosed and deals physical damage equal to 200% of hero's attack power.",
+		"form": [
+			{
+				"name": "AG01- Neo",
+				"star": 4,
+				"level": 40,
+				"atkPower": [323.9, 356.3, 388.7, 421.1],
+				"hp": [1781.5, 1959.7, 2137.8, 2316],
+				"critChance": [0.15, 0.15, 0.15, 0.15],
+				"armor": [104.9, 115.4, 125.9, 136.4],
+				"resistance": [104.9, 115.4, 125.9, 136.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "All of a sudden, a semi-mech doll emerged and started to destroy the world. To stop this, Badanis squad was deployed. Neo from the squad was so bright and trustworthy that a lot of people liked her.",
+				"skill": {
+					"level": 2,
+					"passive": "Using 5 own blocks leads to overheat mode, increasing the damage of the next block skill up to 100%"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "AG01- Neo",
+				"star": 5,
+				"level": 50,
+				"atkPower": [569.6, 626.5, 683.5, 740.4, 797.4],
+				"hp": [2718.1, 2989.9, 3261.7, 3533.5, 3805.3],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15],
+				"armor": [125, 137.5, 150, 162.4, 174.9],
+				"resistance": [125, 137.5, 150, 162.4, 174.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "As usual, Neo was returning to the spaceship after destorying mech dolls, and witnessed the spaceship being invaded by troops of mech dolls. She ran towards the spaceship but couldn't make it, since she fell into the dimensional portal that was created after an explosion.",
+				"skill": {
+					"level": 2,
+					"passive": "Using 5 own blocks leads to overheat mode, increasing the damage of the next block skill up to 100%"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "AG01- Neo",
+				"star": 6,
+				"level": 60,
+				"atkPower": [858.6, 938.9, 1024.3, 1109.7, 1195, 1280.4, 1500.4],
+				"hp": [3942.1, 4336.3, 4730.5, 5124.7, 5518.9, 5913.1, 7228],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.337],
+				"armor": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 309.9],
+				"resistance": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 243.6],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.977],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.198],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.099],
+				"background": "Neo arrived at Hasla through a portal. While she was finding ways to go back to her world, she encountered the mech doll-like creatures. She could not bear Hasla suffering from those creatures and decided to destroy them.",
+				"skill": {
+					"level": 3,
+					"passive": "Using 5 own blocks leads to overheat mode, increasing the damage of the next block skill up to 150%"
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"ag02-layla": {
+		"faction": "Supply all forces",
+		"type": "Premium",
+		"class": "Hunter",
+		"skillName": "Glider attack",
+		"passiveSkillName": "Passive",
+		"skillDescription": "Using block will summon two 3-shooter Gliders. Each shoot deals magic damage equal (30/90/180)% of hero's attack power.",
+		"form": [
+			{
+				"name": "AG02- Layla",
+				"star": 4,
+				"level": 40,
+				"atkPower": [365.1, 401.6, 438.1, 474.6],
+				"hp": [15812, 1739.3, 1897.5, 2055.6],
+				"critChance": [0.15, 0.15, 0.15, 0.15],
+				"armor": [104.9, 115.4, 125.9, 136.4],
+				"resistance": [104.9, 115.4, 125.9, 136.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Layla is from the Badanis squad that was formed to destroy mech dolls. She seems to be asleep always, but is well known for being a perfectionist when undergoing missions.",
+				"skill": {
+					"level": 2,
+					"passive": "Using 5 own blocks leads to overheat mode, increasing magic penetration 10% for 5 seconds."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "AG02- Layla",
+				"star": 5,
+				"level": 50,
+				"atkPower": [638.5, 702.3, 766.2, 830, 893.9],
+				"hp": [2434.4, 2677.9, 2921.3, 3164.8, 3408.2],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15],
+				"armor": [125, 137.5, 150, 162.4, 174.9],
+				"resistance": [125, 137.5, 150, 162.4, 174.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Layla was fighting against mech doll troops that invaded the spaceship. during the battle, the spaceship exploded. Due to the explosion, a dimensional portal was created and Layla fell into the portal.",
+				"skill": {
+					"level": 2,
+					"passive": "Using 5 own blocks leads to overheat mode, increasing magic penetration 10% for 5 seconds."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "AG02- Layla",
+				"star": 6,
+				"level": 60,
+				"atkPower": [940.1, 1034.1, 1128.1, 1222.1, 1316.1, 1410.2, 1670.2],
+				"hp": [3588.6, 3947.5, 4306.4, 4665.2, 5024.1, 5383, 6405.7],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.371],
+				"armor": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 289.3],
+				"resistance": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 248.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.871],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.234],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.077],
+				"background": "Layla arrived at Hasla through a portal. She wandered around Hasla trying to find a way back to her world. She often takes a nap under Hasla's warm sunlight and then continues her journey",
+				"skill": {
+					"level": 3,
+					"passive": "Using 5 own blocks leads to overheat mode, increasing magic penetration 20% for 5 seconds."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"ag03-mel": {
+		"faction": "Supply all forces",
+		"type": "Premium",
+		"class": "Hunter",
+		"skillName": "Discharge all bullets",
+		"passiveSkillName": "",
+		"skillDescription": "Shoots missile that deals physical damage equal to (15/30/75)% of hero's attack power when using blocks.",
+		"form": [
+			{
+				"name": "AG03- Mel",
+				"star": 4,
+				"level": 40,
+				"atkPower": [344.5, 379, 413.4, 447.9],
+				"hp": [1681.4, 1849.5, 2017.6, 2185.8],
+				"critChance": [0.15, 0.15, 0.15, 0.15],
+				"armor": [104.9, 115.4, 125.9, 136.4],
+				"resistance": [104.9, 115.4, 125.9, 136.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Badanis is liberal and honest. She uses firearms to destroy mech dolls. It's obvious that those firearms don't match with her cutie face, but she likes heavy firearms.",
+				"skill": {
+					"level": 2,
+					"passive": "Using block will jet energy to power up and enhance the damage of the next block skill up to 200%."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "AG03- Mel",
+				"star": 5,
+				"level": 50,
+				"atkPower": [604, 644.4, 724.8, 785.2, 845.6],
+				"hp": [2576.3, 2833.9, 3091.5, 3349.1, 3606.8],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15],
+				"armor": [125, 137.5, 150, 162.4, 174.9],
+				"resistance": [125, 137.5, 150, 162.4, 174.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Mel encountered a group of mech dolls invading their spaceship. Mel tried so hard to protect the spaceship, but despite her effort, spaceship was destroyed. She fell into the dimensional portal that was created after the explosion.",
+				"skill": {
+					"level": 2,
+					"passive": "Using block will jet energy to power up and enhance the damage of the next block skill up to 200%."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "AG03- Mel",
+				"star": 6,
+				"level": 60,
+				"atkPower": [896.8, 986.5, 1076.2, 1165.9, 1255.6, 1345.3, 1575.3],
+				"hp": [3765.3, 4141.9, 4518.4, 4894.9, 5271.5, 5648, 6889.9],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.345],
+				"armor": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 304.7],
+				"resistance": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 244.8],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.951],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.207],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.094],
+				"background": "Mel arrived at Hasla through a portal. She was annoyed after finding out that she was in a different world. She recovered and began helping people who were suffering in Hasla.",
+				"skill": {
+					"level": 3,
+					"passive": "Using block will jet energy to power up and enhance the damage of the next block skill up to 300%."
+				},
+				"howToGet": [
+					"Contract: Buy Contracts! (Except Noble Honor Box)",
 					"Promote Hero: Promoting Heroes!"
 				]
 			}
@@ -5094,6 +6465,156 @@
 			}
 		]
 	},
+	"elpheltvalentine": {
+		"faction": "Supply all forces",
+		"type": "Secret",
+		"class": "Hunter",
+		"skillName": "Piston-In-Law",
+		"passiveSkillName": "Passive",
+		"skillDescription": "Pistol-In-Law activates after the use of a 1 or 2 chain skill and deals physical damage equal to (150/230)% of hero's attack power. Using a chain 3 skill activates 'Miss Confil' dealing physical damage equal to 320% of hero's attack power.",
+		"form": [
+			{
+				"name": "Elphelt Valentine",
+				"star": 4,
+				"level": 40,
+				"atkPower": [366.1, 402.7, 439.3, 475.9],
+				"hp": [1523.6, 1676, 1828.3, 1980.7],
+				"critChance": [0.23, 0.23, 0.23, 0.23],
+				"armor": [157.4, 173.2, 188.9, 204.6],
+				"resistance": [36.9, 40.5, 44.2, 47.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "One of the 'Valentine' twins created by 'Ruthless Revelation'. From an unknown alternate dimension, she was secretly hiding amongst humanity, waiting for her chance to strike. However, Elphelt became aware of emotion and it freed her from the control of 'Ruthless Revelation'.",
+				"skill": {
+					"level": 2,
+					"passive": "Using a 1 or 2 chain skill activates Pistol Stance for the next 5 blocks dealing (100/150/220)% for, up to, the next 3 attacks. Using a 3 chain skill activates Miss Confil stance for the next 5 blocks dealing (150/220/350)% for, up to, the next 3 attacks. The final attack of each stance deals damage 3 times. After using 5 blocks, stance mode will end."
+				},
+				"howToGet": [
+					"Event: Get by event!"
+				]
+			},
+			{
+				"name": "Elphelt Valentine",
+				"star": 5,
+				"level": 50,
+				"atkPower": [633.6, 696.9, 760.3, 823.6, 887],
+				"hp": [2358.4, 2594.2, 2830.1, 3065.9, 3301.7],
+				"critChance": [0.23, 0.23, 0.23, 0.23, 0.23],
+				"armor": [187.4, 206.1, 224.8, 243.6, 262.3],
+				"resistance": [43.8, 48.1, 52.5, 56.9, 61.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Elphelt pursuades her twin sister Ramlethal to make peace after stopping her from fighting against mankind. Everyone helped her defeat Justice, and a peaceful resolution was within reach. However 'Ruthless Revelation' regained control over Elphelt and forcer her to fight against Sol.",
+				"skill": {
+					"level": 2,
+					"passive": "Using a 1 or 2 chain skill activates Pistol Stance for the next 5 blocks dealing (100/150/220)% for, up to, the next 3 attacks. Using a 3 chain skill activates Miss Confil stance for the next 5 blocks dealing (150/220/350)% for, up to, the next 3 attacks. The final attack of each stance deals damage 3 times. After using 5 blocks, stance mode will end."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Elphelt Valentine",
+				"star": 6,
+				"level": 60,
+				"atkPower": [958, 1053.8, 1149.6, 1245.4, 1341.2, 1473, 1679],
+				"hp": [3453, 3798.3, 4143.6, 4488.9, 4834.2, 5179.5, 6253.5],
+				"critChance": [0.23, 0.23, 0.23, 0.23, 0.23, 0.23, 0.445],
+				"armor": [217.1, 238.8, 260.5, 282.2, 303.9, 325.6, 444.6],
+				"resistance": [50.5, 55.5, 60.6, 65.6, 70.7, 75.7, 103.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.11],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.1],
+				"background": "Elphelt's newly found emotions were removed when 'Ruthless Revelation' regained control over her. He locked her in a dream world full of suffering. Through the dream world, a mysterious magic led Elphelt to Hasla.",
+				"skill": {
+					"level": 3,
+					"passive": "Using a 1 or 2 chain skill activates Pistol Stance for the next 5 blocks dealing (100/175/280)% for, up to, the next 3 attacks. Using a 3 chain skill activates Miss Confil stance for the next 5 blocks dealing (150/300/450)% for, up to, the next 3 attacks. The final attack of each stance deals damage 3 times. After using 5 blocks, stance mode will end."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"leonaheidern": {
+		"faction": "Supply all forces",
+		"type": "Secret",
+		"class": "Hunter",
+		"skillName": "I Slasher",
+		"passiveSkillName": "Rebel Spark",
+		"skillDescription": "Releases green backlashing ball of energy that deals physical damage equal to [100/150/200]% of attack power. Damage of normal attack is also increased by same coefficient for 8 seconds. (Can be stacked)",
+		"form": [
+			{
+				"name": "Leona Heidern",
+				"star": 4,
+				"level": 40,
+				"atkPower": [366.1, 402.7, 439.3, 475.9],
+				"hp": [1523.6, 1676, 1828.3, 1980.7],
+				"critChance": [0.23, 0.23, 0.23, 0.23],
+				"armor": [157.4, 173.2, 188.9, 204.6],
+				"resistance": [36.9, 40.5, 44.2, 47.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "The adopted daugher of Heidern, a mercenary band general. Even though it has not been long since she entered military service, she shows great potential with her natural fighting ability. Cool and collected, she even refuses to call Heidern \"father.\" Curiously, Leona has no memories of her past.",
+				"skill": {
+					"level": 2,
+					"passive": "Upon using auto attack 10 times, dispatches a bomb on frontline enemy and denotes it to deal physical damage equal to 500% of attack power to surrounding enemies. Attack acknowledged as 3-chain. Power MAX Effect: Upon activation, critical damage is increased by 45% for 8 seconds."
+				},
+				"howToGet": [
+					"Event: Get by event!"
+				]
+			},
+			{
+				"name": "Leona Heidern",
+				"star": 5,
+				"level": 50,
+				"atkPower": [633.6, 696.9, 760.3, 823.6, 887],
+				"hp": [2358.4, 2594.2, 2830.1, 3065.9, 3301.7],
+				"critChance": [0.23, 0.23, 0.23, 0.23, 0.23],
+				"armor": [187.4, 206.1, 224.8, 243.6, 262.3],
+				"resistance": [43.8, 48.1, 52.5, 56.9, 61.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Heidern, suspicious about the true nature of \"The King of Fighters,\" enters the tournament with Leona. As Orochi is revived, Leona's memories also return. It is revealed that Leona is  the daughter of Gaidel, the strongest incarnation of the strongest member of the Hakkesshu and the inheritor of Orochi's powers.",
+				"skill": {
+					"level": 2,
+					"passive": "Upon using auto attack 10 times, dispatches a bomb on frontline enemy and denotes it to deal physical damage equal to 500% of attack power to surrounding enemies. Attack acknowledged as 3-chain. Power MAX Effect: Upon activation, critical damage is increased by 45% for 8 seconds."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			},
+			{
+				"name": "Leona Heidern",
+				"star": 6,
+				"level": 60,
+				"atkPower": [958, 1053.8, 1149.6, 1245.4, 1341.2, 1473, 1679],
+				"hp": [3453, 3798.3, 4143.6, 4488.9, 4834.2, 5179.5, 6253.5],
+				"critChance": [0.23, 0.23, 0.23, 0.23, 0.23, 0.23, 0.445],
+				"armor": [217.1, 238.8, 260.5, 282.2, 303.9, 325.6, 444.6],
+				"resistance": [50.5, 55.5, 60.6, 65.6, 70.7, 75.7, 103.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.11],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.1],
+				"background": "As Gaidel deemed his family more important than his responsibilities as a Hakkesshu, the enraged Goenitz, one of the Four Heavenly Kings, induced the Riot of Blood in the young Leona. Leona ends up killing her own parents, and had lost her memories in shock. Leona, now remembering her past, attempts to commit suicide... but at that moment a brilliant explosion transports Leona to Hasla.",
+				"skill": {
+					"level": 3,
+					"passive": "Upon using auto attack 7 times, dispatches a bomb on frontline enemy and denotes it to deal physical damage equal to (500% of attack power + 10% of enemy's HP) to surrounding enemies. Attack acknowledged as 3-chain. Explosion damage penetrates armor equal to armor of frontline enemy. Power MAX Effect: Upon activation, critical damage is increased by 45% for 8 seconds."
+				},
+				"howToGet": [
+					"Event: Get by event!",
+					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
 	"bearguy": {
 		"faction": "",
 		"type": "Secret",
@@ -5180,6 +6701,68 @@
 				"skill": {
 					"level": 1,
 					"passive": "Enemies on fire have a 50% chance of being stunned for 1 second. When other heroes use a chain-3 skill, 2 candy bars will be summoned that deal physical damage equal to 221% of the Hero's attack power. (once every 2 sec)"
+				},
+				"howToGet": [
+					"Event: Get by event!"
+				]
+			}
+		]
+	},
+	"a.k.a.santa": {
+		"faction": "",
+		"type": "Secret",
+		"class": "Hunter",
+		"skillName": "Mystery Bell",
+		"passiveSkillName": "Christmas Present",
+		"skillDescription": "Throws (1/1/3) Mysterious Bell(s) each dealing (40/100/150)% of physical damage based on chain length.",
+		"form": [
+			{
+				"name": "A.K.A. Santa",
+				"star": 3,
+				"level": 30,
+				"atkPower": [309.6, 340.6, 371.5],
+				"hp": [1764.8, 1941.2, 2117.7],
+				"critChance": [0.21, 0.21, 0.21, 0.21],
+				"armor": [156, 171.6, 187.2],
+				"resistance": [36.4, 40.1, 43.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Disguised as a saint that delivers presents to children every year, Santa is actually an assassin, who earns a lot of money from his contracts. The presents he leaves behind are actually trophies from the people he kills.",
+				"skill": {
+					"level": 1,
+					"passive": "After using a chain-3 skill, the next ally's chain-1 skill will be counted as chain-3 skill. (Once every 2 seconds.)"
+				},
+				"howToGet": [
+					"Event: Get by event!"
+				]
+			}
+		]
+	},
+	"halloweenchocolat": {
+		"faction": "",
+		"type": "Secret",
+		"class": "Hunter",
+		"skillName": "Frightening Jack-o-Lanterns, Oh My!",
+		"passiveSkillName": "Pumpkin? No, a Bomb!",
+		"skillDescription": "Shoots a Jack-o-Lantern that deals physical damage equal to (40/114/252)% of hero's attack power.",
+		"form": [
+			{
+				"name": "Halloween Chocolat",
+				"star": 3,
+				"level": 30,
+				"atkPower": [513.2, 564.5, 615.8],
+				"hp": [989.6, 1088.5, 1187.5],
+				"critChance": [0.21, 0.21, 0.21, 0.21],
+				"armor": [179.2, 197.1, 215],
+				"resistance": [41.9, 46.1, 50.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Chocolat prepared a lot for Halloween. When Bridget visited her shop, she sighed deeply. Bridget gave Chocolat a special gift, mentioning that it may help her chase off the naughty kids and increase sales. It was a pumpkin shooting gun!",
+				"skill": {
+					"level": 1,
+					"passive": "Jack-o-Lantern shoots when a block skill is used. Has a 50% chance to explode after it hits an enemy and scatters candy around. Enemy hit by candy will take physical damage equal to 300% hero's attack power."
 				},
 				"howToGet": [
 					"Event: Get by event!"

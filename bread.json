@@ -20,6 +20,13 @@
 		"star": 6,
 		"sell": 600
 	},
+	"lebkuchen": {
+		"name": "Lebkuchen",
+		"value": 500,
+		"greatRate": 0,
+		"star": 5,
+		"sell": -1
+	},
 	"strawberrypie": {
 		"name": "Strawberry Pie",
 		"value": 330,
@@ -75,6 +82,13 @@
 		"greatRate": 0.3,
 		"star": 4,
 		"sell": 350
+	},
+	"moonpie": {
+		"name": "Moon Pie",
+		"value": 180,
+		"greatRate": 0.4,
+		"star": 4,
+		"sell": -1
 	},
 	"creambread": {
 		"name": "Cream Bread",

@@ -8570,7 +8570,7 @@
 		"skillDescription": "Explosive chocolates (max 10) fall from the sky dealing magic damage equal to (10/25/50)% of the Hero's attack power. The longer the chain, the more chocolates will fall!",
 		"form": [
 			{
-				"name": "Santa Claus",
+				"name": "Lovely Chocolat",
 				"star": 3,
 				"level": 30,
 				"atkPower": [513.2, 564.5, 615.8],

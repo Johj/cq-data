@@ -1709,6 +1709,84 @@
 			}
 		]
 	},
+	"susanoo": {
+	  "faction": "Eastern Kingdom - Ryu",
+	  "type": "Promote",
+	  "class": "Warrior",
+	  "skillName": "Sword Shot",
+		"passiveSkillName": "Drawing One's Blade",
+	  "skillDescription": "A piercing attack that deals physical damage equal to (49/150/271)% of attack power.",
+	  "form": [
+	    {
+	      "name": "Susanoo",
+	      "star": 4,
+	      "level": 40,
+	      "atkPower": [182.3, 200.6, 218.8, 237],
+	      "hp": [2335.3, 2568.8, 2802.3, 3035.8],
+	      "critChance": [0.1, 0.1, 0.1, 0.1],
+	      "armor": [179.1, 197, 214.9, 232.8],
+	      "resistance": [32.2, 35.4, 38.6, 41.8],
+	      "critDamage": [0.5, 0.5, 0.5, 0.5],
+	      "accuracy": [0, 0, 0, 0],
+	      "evasion": [0, 0, 0, 0],
+	      "background": "He became a warrior after killing a giant snake monster. Presumably he was pretty tough before he kill the snake, but now he is ackknowledged as a warrior.",
+	      "skill": {
+	        "level": 2,
+	        "passive": "Deals additional neutral damage equal to 100% of the hero's attack power whenever an enemy is hit with Sword Shot."
+	      },
+	      "howToGet": [
+	        "Contract: Buy Contracts!",
+	        "Promote Hero: Promoting Heroes!",
+	        "Noble Honor Box: Acquired chance to get Noble honor box!"
+	      ]
+	    },
+			{
+	      "name": "Warrior Susanoo",
+	      "star": 5,
+	      "level": 50,
+	      "atkPower": [314.2, 345.7, 377.1, 408.5, 439.9],
+	      "hp": [3567.3, 3924.1, 4280.8, 4637.5, 4994.3],
+	      "critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+	      "armor": [213, 234.3, 255.6, 276.9, 289.2],
+	      "resistance": [37.9, 41.7, 45.5, 49.3, 53],
+	      "critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+	      "accuracy": [0, 0, 0, 0, 0],
+	      "evasion": [0, 0, 0, 0, 0],
+	      "background": "Susanoo has never lost a battle since becoming a warrior. And people still can't get over the fact that he kill that snake monster.",
+	      "skill": {
+	        "level": 2,
+	        "passive": "Deals additional neutral damage equal to 100% of the hero's attack power whenever an enemy is hit with Sword Shot."
+	      },
+	      "howToGet": [
+	        "Contract: Buy Contracts!",
+	        "Promote Hero: Promoting Heroes!",
+	        "Noble Honor Box: Acquired chance to get Noble honor box!"
+	      ]
+	    },
+			{
+	      "name": "Shogun Susanoo",
+	      "star": 6,
+	      "level": 60,
+	      "atkPower": [479.3, 527.3, 575.2, 623.1, 671.1, 719, 872],
+	      "hp": [5185.5, 5704, 6222.5, 6741, 7259.6, 7778.2, 10317.2],
+	      "critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.217],
+	      "armor": [247.1, 271.9, 296.6, 321.3, 346, 370.7, 676.7],
+	      "resistance": [44, 48.4, 52.8, 57.2, 61.6, 66, 120],
+	      "critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.29],
+	      "accuracy": [0, 0, 0, 0, 0, 0, 0.2],
+	      "evasion": [0, 0, 0, 0, 0, 0, 0.2],
+	      "background": "Susanoo became a shogun due to his remarkable combat skills. Other warriors are jealous of his skill in battle, but they admire him enough to accept him as their lord.",
+	      "skill": {
+	        "level": 3,
+	        "passive": "Deals additional neutral damage equal to 100% of the hero's attack power and reduces the enemy's armor by the same amount for 5 seconds whenever an enemy is hit with Sword Shot."
+	      },
+	      "howToGet": [
+	        "Contract: Buy Contracts!",
+	        "Promote Hero: Promoting Heroes!"
+	      ]
+	    }
+	  ]
+	},
 	"vivian": {
 		"faction": "Unknown",
 		"type": "Premium",

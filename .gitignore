@@ -1,2 +1,7 @@
-/assets
-!/assets/heroes/*/*.png
+assets/*
+!assets/heroes/archer/*.png
+!assets/heroes/hunter/*.png
+!assets/heroes/paladin/*.png
+!assets/heroes/priest/*.png
+!assets/heroes/warrior/*.png
+!assets/heroes/wizard/*.png

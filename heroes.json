@@ -8156,7 +8156,7 @@
 		"skillDescription": "When a block is used, \"Drop the Guillotine\" activates dealing magic damage equal to (60/130/320)% of the hero's attack power.",
 		"form": [
 			{
-				"name": "Jack-O`",
+				"name": "Jack-O\\`",
 				"star": 4,
 				"level": 40,
 				"atkPower": [488.8, 537.7, 586.6, 1063],
@@ -8167,7 +8167,7 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0, 0],
 				"evasion": [0, 0, 0, 0],
-				"background": "Valentine' is from another dimension. Jack-O` was created to stop the convergence of Elphelt and Justice. Jack-O` was awakened much earlier than planned, just to stop the conspiracy of 'Ruthless Revelation'.",
+				"background": "Valentine' is from another dimension. Jack-O\\` was created to stop the convergence of Elphelt and Justice. Jack-O\\` was awakened much earlier than planned, just to stop the conspiracy of 'Ruthless Revelation'.",
 				"skill": {
 					"level": 2,
 					"passive": "When hero uses a block skill twice, a ghost spawns next to the hero. Ghost deals magic damage equal to 250% of hero's attack power when it gets too far from an ally, or touches an enemy. When a block skill is used with an active ghost, a Knight, Lancer, or Magician Servant will be summoned from the ghost sequentially. Servant will rush to the enemy dealing magic damage equal to (100/230/450)% of the hero's attack power."
@@ -8177,7 +8177,7 @@
 				]
 			},
 			{
-				"name": "Jack-O`",
+				"name": "Jack-O\\`",
 				"star": 5,
 				"level": 50,
 				"atkPower": [846.6, 931.2, 1015.9, 1100.5, 1185.2],
@@ -8188,7 +8188,7 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
 				"accuracy": [0, 0, 0, 0, 0],
 				"evasion": [0, 0, 0, 0, 0],
-				"background": "Jack-O` was awakened in an incomplete state, so he needs a mask and candy to function. Suddenly, without permission Jack-O` runs outside to have a look at the world.",
+				"background": "Jack-O\\` was awakened in an incomplete state, so he needs a mask and candy to function. Suddenly, without permission Jack-O\\` runs outside to have a look at the world.",
 				"skill": {
 					"level": 2,
 					"passive": "When hero uses a block skill twice, a ghost spawns next to he hero. Ghost deals magic damage equal to 250% of hero's attack power when it gets too far from an ally, or touches an enemy. When a block skill is used with an active ghost, a Knight, Lancer, or Magician Servant will be summoned from the ghost sequentially. Servant will rush to the enemy dealing magic damage equal to (100/230/450)% of the hero's attack power."
@@ -8199,7 +8199,7 @@
 				]
 			},
 			{
-				"name": "Jack-O`",
+				"name": "Jack-O\\`",
 				"star": 6,
 				"level": 60,
 				"atkPower": [1290, 1419, 1548, 1677, 1806, 1935, 2149.4],
@@ -8210,10 +8210,10 @@
 				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.072],
 				"accuracy": [0, 0, 0, 0, 0, 0, 0.092],
 				"evasion": [0, 0, 0, 0, 0, 0, 0.119],
-				"background": "Raven, the close associate of 'That Man' finds Jack-O` and takes him back to where he should be, with 'Sold Badguy'. When Jack-O` sees Sol's face, a mysterious change of dimension leads Jack-O` to Hasla.",
+				"background": "Raven, the close associate of 'That Man' finds Jack-O\\` and takes him back to where he should be, with 'Sold Badguy'. When Jack-O\\` sees Sol's face, a mysterious change of dimension leads Jack-O\\` to Hasla.",
 				"skill": {
 					"level": 3,
-					"passive": "When hero uses a block skill twice, a ghost spawns next to the hero. Ghost deals magic damage equal to 250% of hero's attack power when it gets too far from an ally, or touches an enemy. When a block skill is used with an active ghost, a Knight, Lancer, or Magician Servant will be summoned from the ghost sequentially. Servant will rush to the enemy dealing magic damage equal to (100/230/450)% of the hero's attack power. When servant attacks an enemy, additional effects will trigger. (Knight : Attacked enemy's resistance decreases by 20% for 5 seconds, Lancer : Jack-O`s attack power increases by 30% for 5 seconds, Magician : stuns the hit enemy)"
+					"passive": "When hero uses a block skill twice, a ghost spawns next to the hero. Ghost deals magic damage equal to 250% of hero's attack power when it gets too far from an ally, or touches an enemy. When a block skill is used with an active ghost, a Knight, Lancer, or Magician Servant will be summoned from the ghost sequentially. Servant will rush to the enemy dealing magic damage equal to (100/230/450)% of the hero's attack power. When servant attacks an enemy, additional effects will trigger. (Knight : Attacked enemy's resistance decreases by 20% for 5 seconds, Lancer : Jack-O\\`s attack power increases by 30% for 5 seconds, Magician : stuns the hit enemy)"
 				},
 				"howToGet": [
 					"Event: Get by event!",

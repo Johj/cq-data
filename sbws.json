@@ -40,14 +40,14 @@
 				"star": 5,
 				"atkPower": 144,
 				"atkSpeed": 0.9,
-				"ability": ""
+				"ability": "When counter attacking, casts a shield which absorbs damage amount equal to 100% of armor, critical hit chance increases by 20%"
 			},
 			{
 				"name": "Allegro Asai",
 				"star": 6,
 				"atkPower": 221,
 				"atkSpeed": 0.9,
-				"ability": ""
+				"ability": "When counter attacking, casts a shield which absorbs damage amount equal to 200% of armor, critical hit chance increases by 20%, deals additional physical damage equal to 100% of attack power"
 			}
 		]
 	},
@@ -59,21 +59,21 @@
 				"star": 4,
 				"atkPower": 60,
 				"atkSpeed": 0.9,
-				"ability": ""
+				"ability": "(The last Ultimate waterspout) damage +50%"
 			},
 			{
 				"name": "Cursed Balmung",
 				"star": 5,
 				"atkPower": 98,
 				"atkSpeed": 0.9,
-				"ability": ""
+				"ability": "(The last Ultimate waterspout) damage +50%"
 			},
 			{
 				"name": "Balmung of Massacre",
 				"star": 6,
 				"atkPower": 149,
 				"atkSpeed": 0.9,
-				"ability": ""
+				"ability": "Attack speed + 40%, Flamespout damage +150%, The last ultimate Flamespout damage +300%, Critical Chance of every Flamespout +15%"
 			}
 		]
 	},
@@ -85,21 +85,21 @@
 				"star": 4,
 				"atkPower": 52,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "When block skill is used during the activation of passive effect, all the enemies' chance of evasion decreases by 20% for 5 seconds (activated once in 2 seconds)"
 			},
 			{
 				"name": "Sacred Conviction",
 				"star": 5,
 				"atkPower": 85,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "When block skill is used during the activation of passive effect, all the enemies' chance of evasion decreases by 20% for 5 seconds (activated once in 2 seconds)"
 			},
 			{
 				"name": "Spreading Light",
 				"star": 6,
 				"atkPower": 129,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "When block skill is used during the activation of passive effect, all the enemies' chance of evasion decreases by 20% for 5 seconds and deals magical damage equal to 200% of hero's resistance (activated once in 2 seconds)"
 			}
 		]
 	},
@@ -111,21 +111,21 @@
 				"star": 4,
 				"atkPower": 85,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "(Passive Activated) Number of Magical Arrow +2"
 			},
 			{
 				"name": "Legendary Bow Granar",
 				"star": 5,
 				"atkPower": 140,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "(Passive Activated) Number of Magical Arrow +2"
 			},
 			{
 				"name": "Demon Bow Granar",
 				"star": 6,
 				"atkPower": 214,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "(Passive Activated) Number of Magic Arrow +3, Damage + 25%, Enemies hit by arrows are stunned for a second"
 			}
 		]
 	},
@@ -137,21 +137,21 @@
 				"star": 4,
 				"atkPower": 106,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "Burn damage amplified by 5 times, Hellfire Arrow ignores 30% of enemy's resistance."
 			},
 			{
 				"name": "Bloom of Fire",
 				"star": 5,
 				"atkPower": 173,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "Burn damage amplified by 5 times, Hellfire Arrow ignores 30% of enemy's resistance."
 			},
 			{
 				"name": "Inferno",
 				"star": 6,
 				"atkPower": 265,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "Burn damage amplified by 5 times, Hellfire Arrow ignores 30% of enemy's resistance. Upon passive activation, Power of Demon is unleashed for 5 seconds (attack power +50%, armor/resistance -20%, obtains immunity to stun, all block skills are activated as Hellfire Arrow)."
 			}
 		]
 	},
@@ -163,21 +163,21 @@
 				"star": 4,
 				"atkPower": 94,
 				"atkSpeed": 0.9,
-				"ability": ""
+				"ability": "(Passive Activated) Damage +35%"
 			},
 			{
 				"name": "Multi-Barreled L.Gun",
 				"star": 5,
 				"atkPower": 156,
 				"atkSpeed": 0.9,
-				"ability": ""
+				"ability": "(Passive Activated) Damage +35%"
 			},
 			{
 				"name": "Peacemaker",
 				"star": 6,
 				"atkPower": 238,
 				"atkSpeed": 0.9,
-				"ability": ""
+				"ability": "(Passive Activated) Damage +70%, Armor penetration +200"
 			}
 		]
 	},
@@ -189,21 +189,21 @@
 				"star": 4,
 				"atkPower": 113,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "When Teressa's SP is below 50, Bombard's attack power is increased by 100%."
 			},
 			{
 				"name": "Calvary's Gun",
 				"star": 5,
 				"atkPower": 187,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "When Teressa's SP is below 50, Bombard's attack power is increased by 100%."
 			},
 			{
 				"name": "Glowing Darkness",
 				"star": 6,
 				"atkPower": 286,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "When Teressa's SP is below 50, Bombard's attack power is increased by 100%. After the 3rd Bombard, a reinforced Bombard is discharged dealing @magical damage@ equal to 700% of hero's attack power, and eliminates the SP of the targeted enemy."
 			}
 		]
 	},
@@ -215,21 +215,21 @@
 				"star": 4,
 				"atkPower": 115,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "(Passive Activation) Cat Beam generated during attack for 5 seconds (100%, Magical damage)"
 			},
 			{
 				"name": "Red Moon",
 				"star": 5,
 				"atkPower": 190,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "(Passive Activation) Cat Beam generated during attack for 5 seconds (100%, Magical damage)"
 			},
 			{
 				"name": "Queen of the Moon",
 				"star": 6,
 				"atkPower": 290,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "(Passive Activated) Extra Cat Beam during attack for 5 seconds (Deals magic damage equal to 150% of the hero's attack power. Eliminates all buffs from enemy), Magic penetration +100% for 5 seconds"
 			}
 		]
 	},
@@ -241,21 +241,21 @@
 				"star": 4,
 				"atkPower": 125,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "(Passive Activated) Cano's attack power increases by 50% for 5 seconds"
 			},
 			{
 				"name": "Broadcasting Mircophone",
 				"star": 5,
 				"atkPower": 207,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "(Passive Activated) Cano's attack power increases by 50% for 5 seconds"
 			},
 			{
 				"name": "Grand Finale",
 				"star": 6,
 				"atkPower": 317,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "(Passive Activated) Cano Band is summoned for 5 seconds increasing entire party's attack power by 50%. Also, Cano's auto attack is strengthened to shoot laser which deals magical damaage equal to 100% of Cano's attack power."
 			}
 		]
 	},
@@ -267,21 +267,21 @@
 				"star": 4,
 				"atkPower": 66,
 				"atkSpeed": 1.1,
-				"ability": ""
+				"ability": "(Extra effect activated) Upon receiving harmful effect, heals 5% of maximum HP."
 			},
 			{
 				"name": "The Cross of Heaven",
 				"star": 5,
 				"atkPower": 108,
 				"atkSpeed": 1.1,
-				"ability": ""
+				"ability": "(Extra effect activated) Upon receiving harmful effect, heals 5% of maximum HP."
 			},
 			{
 				"name": "Michaela",
 				"star": 6,
 				"atkPower": 164,
 				"atkSpeed": 1.1,
-				"ability": ""
+				"ability": "(Extra effect activated) Upon receiving harmful effect, heals 10% of maximum HP, immunity to damage 2 times, increases armor penetration and resistance penetration of healed ally by 30%."
 			}
 		]
 	},
@@ -293,21 +293,21 @@
 				"star": 4,
 				"atkPower": 92,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "Curse is applied to all the enemies and cursed enemies' SP will decrease by 3 every time ally attacks."
 			},
 			{
 				"name": "Grown Creature",
 				"star": 5,
 				"atkPower": 150,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "Curse is applied to all the enemies and cursed enemies' SP will decrease by 3 every time ally attacks."
 			},
 			{
 				"name": "Asmo",
 				"star": 6,
 				"atkPower": 228,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "Curse is applied to all the enemies and cursed enemies' SP will decrease by 3 every time ally attacks. Enemy hit by passive attack will have its attack speed decreased by 50% and accuracy decreased by 20% for 3 secons."
 			}
 		]
 	},
@@ -449,21 +449,21 @@
 				"star": 4,
 				"atkPower": 82,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "Reflection damage +50%"
 			},
 			{
 				"name": "Heir of the Empire",
 				"star": 5,
 				"atkPower": 133,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "Reflection damage +50%"
 			},
 			{
 				"name": "Fallen Throne",
 				"star": 6,
 				"atkPower": 205,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "Reflection damage +50%, additional physical damage equal to 40% of Hero's maximum HP will be added on every 5th reflection attack. (activated once in 2 seconds)"
 			}
 		]
 	},
@@ -631,21 +631,21 @@
 				"star": 4,
 				"atkPower": 80,
 				"atkSpeed": 0.9,
-				"ability": ""
+				"ability": "Decreases cooldown of Thorn of Pain to 1 second"
 			},
 			{
 				"name": "Briar Blade",
 				"star": 5,
 				"atkPower": 138,
 				"atkSpeed": 0.9,
-				"ability": ""
+				"ability": "Decreases cooldown of Thorn of Pain to 1 second"
 			},
 			{
 				"name": "Pale Rose",
 				"star": 6,
 				"atkPower": 208,
 				"atkSpeed": 0.9,
-				"ability": ""
+				"ability": "Decreases cooldown of Thorn of Pain to 1 second. Either (red rosebush / blue roshbush) randomly blooms on the Thorn of Pain, and respectively deals (physical damage / magical damage) equal to 100% of Arita's armor per hit."
 			}
 		]
 	},
@@ -750,21 +750,21 @@
 				"star": 4,
 				"atkPower": 61,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "(Passive Activation) Effect +50%"
 			},
 			{
 				"name": "Oar of the Sacred Tree",
 				"star": 5,
 				"atkPower": 100,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "(Passive Activation) Effect +50%"
 			},
 			{
 				"name": "Oar of Yggdrasil",
 				"star": 6,
 				"atkPower": 151,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "(Passive Activation) Effect +50%, Wave Attack (Physical damage equals to the shield effect)"
 			}
 		]
 	},
@@ -880,21 +880,21 @@
 				"star": 4,
 				"atkPower": 73,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "(In mad state) Life steal increases by 40%"
 			},
 			{
 				"name": "Micro Cutting Machine",
 				"star": 5,
 				"atkPower": 119,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "(In mad state) Life steal increases by 40%"
 			},
 			{
 				"name": "Beam Slicer",
 				"star": 6,
 				"atkPower": 181,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "(In mad state) Life steal increases by 40%. When reinforced block skill is used while the hero is mad, activates V-Slash with 1000% power and 3 seconds increased duration in 50% chance. Second block skill after V-Slash will be reinforced."
 			}
 		]
 	},
@@ -932,21 +932,21 @@
 				"star": 4,
 				"atkPower": 65,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "Shields increase up to 50% of Athena's resistance"
 			},
 			{
 				"name": "War Saint's Axe",
 				"star": 5,
 				"atkPower": 103,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "Shields increase up to 50% of Athena's resistance"
 			},
 			{
 				"name": "Blessing of the War Goddess",
 				"star": 6,
 				"atkPower": 175,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "Shields increase up to 100% of Athena's resistance. When using 3-chain block skill, additional magic damage increases by 150%/ When using 3-chain, it has a 100% chance to create its own block."
 			}
 		]
 	},
@@ -1077,21 +1077,21 @@
 				"star": 4,
 				"atkPower": 94,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "(Passive Activated) Explosion damage +35%"
 			},
 			{
 				"name": "Star Ray",
 				"star": 5,
 				"atkPower": 153,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "(Passive Activated) Explosion damage +35%"
 			},
 			{
 				"name": "Albatross",
 				"star": 6,
 				"atkPower": 234,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "(Passive Activated) Explosion damage +50%, U.W.L-7(400%, physical damage) activated after 10th explosion"
 			}
 		]
 	},
@@ -1103,21 +1103,21 @@
 				"star": 4,
 				"atkPower": 98,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "(Passive Enhanced) Effect applied +1 more time"
 			},
 			{
 				"name": "Hwarang Bow",
 				"star": 5,
 				"atkPower": 160,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "(Passive Enhanced) Effect applied +1 more time"
 			},
 			{
 				"name": "Pomp and Circumstance",
 				"star": 6,
 				"atkPower": 244,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "(Passive Enhanced) Chain-3 skill damage doubled, additional resistance penetration equal to 50% of the hero's attack power is applied to the next skill. Passive effect activation +1."
 			}
 		]
 	},
@@ -1181,21 +1181,21 @@
 				"star": 4,
 				"atkPower": 98,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "(Passive activated) power +20%"
 			},
 			{
 				"name": "Yellow Dragon Hidden Bow",
 				"star": 5,
 				"atkPower": 160,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "(Passive activated) power +20%"
 			},
 			{
 				"name": "Yellow Dragon Divine Bow",
 				"star": 6,
 				"atkPower": 244,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "(Passive activated) summons yellow dragon with power +50%"
 			}
 		]
 	},
@@ -1378,21 +1378,21 @@
 				"star": 4,
 				"atkPower": 104,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "Chance of explosion +15%"
 			},
 			{
 				"name": "Ground One",
 				"star": 5,
 				"atkPower": 171,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "Chance of explosion +15%"
 			},
 			{
 				"name": "Phantom Rage",
 				"star": 6,
 				"atkPower": 264,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "Chance of explosion +15%, STFT-3 Activated after the 10th explosion (300%, Physical damage, chance of explosion applied)"
 			}
 		]
 	},
@@ -1404,21 +1404,21 @@
 				"star": 4,
 				"atkPower": 81,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "(PD-CROW bullet) Number of fire +2"
 			},
 			{
 				"name": "Dark Catapult",
 				"star": 5,
 				"atkPower": 134,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "(PD-CROW bullet) Number of fire +2"
 			},
 			{
 				"name": "Dark Shadow",
 				"star": 6,
 				"atkPower": 205,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "(PD-CROW bullet) Number of fire +2, damage/explosion damage +50%"
 			}
 		]
 	},
@@ -1430,21 +1430,21 @@
 				"star": 4,
 				"atkPower": 96,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "(Chance of extra hit) Maximum reactivation +1"
 			},
 			{
 				"name": "88 Magnum",
 				"star": 5,
 				"atkPower": 159,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "(Chance of extra hit) Maximum reactivation +1"
 			},
 			{
 				"name": "Execution of Justice",
 				"star": 6,
 				"atkPower": 242,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "(Chance of extra hit) Maximum reactivation +1, Second Explosion Chance +45%"
 			}
 		]
 	},
@@ -1508,21 +1508,21 @@
 				"star": 4,
 				"atkPower": 96,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "(Passive activated) Enhanced bullet fire +1"
 			},
 			{
 				"name": "Quiet Daddy",
 				"star": 5,
 				"atkPower": 159,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "(Passive activated) Enhanced bullet fire +1"
 			},
 			{
 				"name": "Outraged Daddy",
 				"star": 6,
 				"atkPower": 242,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "(Passive activated) Enhanced bullet fire +1, last bullet is upgraded with damage +100%"
 			}
 		]
 	},
@@ -1586,21 +1586,21 @@
 				"star": 4,
 				"atkPower": 95,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "Assasin mark lasts an additional 2 seconds."
 			},
 			{
 				"name": "MATI - 5",
 				"star": 5,
 				"atkPower": 178,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "Assasin mark lasts an additional 2 seconds."
 			},
 			{
 				"name": "VARIUS - 7",
 				"star": 6,
 				"atkPower": 290,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "Assasin mark lasts an additional 2 seconds. Crit damage is increased by 40%. After the assassination a bazooka will fire that deals physical damage equal to 450% of the hero's attack power. This attack has a 100% to crit."
 			}
 		]
 	},
@@ -1612,21 +1612,21 @@
 				"star": 4,
 				"atkPower": 95,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "Extra 200% damage to Blast Shot."
 			},
 			{
 				"name": "Bullet Exploder",
 				"star": 5,
 				"atkPower": 178,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "Extra 200% damage to Blast Shot."
 			},
 			{
 				"name": "Blockbuster",
 				"star": 6,
 				"atkPower": 290,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "Extra 200% damage to Blast Shot. After 3 Blast Shots launches full magazine that deals physical damage equal to 600% of hero's attack power. Whenever basic attack give critical damage to the enemy, recovers 3 SP."
 			}
 		]
 	},
@@ -1638,21 +1638,21 @@
 				"star": 4,
 				"atkPower": 95,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "Target damage +100%."
 			},
 			{
 				"name": "Light Handgun",
 				"star": 5,
 				"atkPower": 178,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "Target damage +100%."
 			},
 			{
 				"name": "Mystery Chaser",
 				"star": 6,
 				"atkPower": 290,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "Target damage +100%. Upon using 2 blocks, randomly summons a (beagle/welsh corgi/samoyed), which respectively (targets as culprit/deals additonal physical damage equal to 600% of hero's attack power/decreases armor by 200% of hero's armor) to all enemies. (Once 4 seconds)"
 			}
 		]
 	},
@@ -1674,21 +1674,21 @@
 				"star": 4,
 				"atkPower": 85,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "(Passive Activated) Block skill damage +35%"
 			},
 			{
 				"name": "Optical machine gun",
 				"star": 5,
 				"atkPower": 135,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "(Passive Activated) Block skill damage +35%"
 			},
 			{
 				"name": "Optical machine gun",
 				"star": 6,
 				"atkPower": 215,
 				"atkSpeed": 1,
-				"ability": ""
+				"ability": "(Passive Activated) Block skill damage +35%, 6 Gliders are summoned to shoot laser that deals physical damage equal to 250% of hero's attack power each."
 			}
 		]
 	},
@@ -1700,21 +1700,21 @@
 				"star": 4,
 				"atkPower": 80,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "(Passive Activated) Attack power +30%"
 			},
 			{
 				"name": "Lumen rifle",
 				"star": 5,
 				"atkPower": 125,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "(Passive Activated) Attack power +30%"
 			},
 			{
 				"name": "Lumen rifle",
 				"star": 6,
 				"atkPower": 210,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "(Passive Activated) Attack power +40%, uses sniper rifle and deals physical damage euqal to 500% of hero's attack power."
 			}
 		]
 	},
@@ -1778,21 +1778,21 @@
 				"star": 4,
 				"atkPower": 84,
 				"atkSpeed": 1.1,
-				"ability": ""
+				"ability": "(Chain-3) Effect +30%"
 			},
 			{
 				"name": "Underworld Lantern",
 				"star": 5,
 				"atkPower": 138,
 				"atkSpeed": 1.1,
-				"ability": ""
+				"ability": "(Chain-3) Effect +30%"
 			},
 			{
 				"name": "Flower of Yama",
 				"star": 6,
 				"atkPower": 211,
 				"atkSpeed": 1.1,
-				"ability": ""
+				"ability": "(Chain-3 skill activated) Shield Effect +50%, Entire party's critical chance +20% for 5 seconds"
 			}
 		]
 	},
@@ -1960,21 +1960,21 @@
 				"star": 4,
 				"atkPower": 99,
 				"atkSpeed": 0.9,
-				"ability": ""
+				"ability": "Demon's received damage -50%"
 			},
 			{
 				"name": "Staff of Extortion",
 				"star": 5,
 				"atkPower": 164,
 				"atkSpeed": 0.9,
-				"ability": ""
+				"ability": "Demon's received damage -50%"
 			},
 			{
 				"name": "Pandemonium",
 				"star": 6,
 				"atkPower": 251,
 				"atkSpeed": 0.9,
-				"ability": ""
+				"ability": "Demon's received damage -50%, Demon stats +30%"
 			}
 		]
 	},
@@ -2064,21 +2064,21 @@
 				"star": 4,
 				"atkPower": 120,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "Increases critical chance of card attack by 30%."
 			},
 			{
 				"name": "Magic Rod",
 				"star": 5,
 				"atkPower": 203,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "Increases critical chance of card attack by 30%."
 			},
 			{
 				"name": "Magic Temptation",
 				"star": 6,
 				"atkPower": 305,
 				"atkSpeed": 0.7,
-				"ability": ""
+				"ability": "Increases critical chance of card attack by 30%. Upon activating magic hat 3 times, summons a random magic box with various effects (once 2 seconds; dove trick: decreases enemy accuracy by 45%; jack-in-the-box: stuns all enemies for 1.5 seconds, card storm: deals magical damage equal to 250% of the hero's attack power every 0.5 seconds)"
 			}
 		]
 	},
@@ -2105,21 +2105,21 @@
 				"star": 4,
 				"atkPower": 60,
 				"atkSpeed": 1.2,
-				"ability": ""
+				"ability": "(Healed ally) Immune to damage +3 times"
 			},
 			{
 				"name": "Wingcat Balloon",
 				"star": 5,
 				"atkPower": 97,
 				"atkSpeed": 1.2,
-				"ability": ""
+				"ability": "(Healed ally) Immune to damage +3 times"
 			},
 			{
 				"name": "Ultimacute",
 				"star": 6,
 				"atkPower": 148,
 				"atkSpeed": 1.2,
-				"ability": ""
+				"ability": "(Healed ally) Immune to damage +5 times, immune to debuffs +1 time"
 			}
 		]
 	},
@@ -2417,21 +2417,21 @@
 				"star": 4,
 				"atkPower": 75,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "Recovers 20 sp of vitalized ally."
 			},
 			{
 				"name": "Strategy Map",
 				"star": 5,
 				"atkPower": 127,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "Recovers 20 sp of vitalized ally."
 			},
 			{
 				"name": "NNC SYSTEM",
 				"star": 6,
 				"atkPower": 181,
 				"atkSpeed": 0.8,
-				"ability": ""
+				"ability": "Recovers 20 sp of vitalized ally. Upon using 3 blocks, vitalizes all allies excepting self with power of 3-chain. (Once every 7 seconds)"
 			}
 		]
 	},

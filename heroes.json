@@ -1862,6 +1862,81 @@
 			}
 		]
 	},
+	"arita": {
+	  "faction": "Pumpkin City",
+	  "type": "Premium",
+	  "class": "Warrior",
+	  "skillName": "Thorn of Refusal",
+		"passiveSkillName": "Thorn of Pain",
+	  "skillDescription": "Summons a bush of thorns which deals physical damage equal to (35/80/100)% of the hero's attack power for (2/2/4) seconds every time enemy touches them.",
+	  "form": [
+	    {
+	      "name": "Arita",
+	      "star": 4,
+	      "level": 40,
+	      "atkPower": [191.3, 210.4, 229.6, 248.7],
+	      "hp": [2071.2, 2278.3, 2485.5, 2692.6],
+	      "critChance": [0.1, 0.1, 0.1, 0.1],
+	      "armor": [211.2, 232.4, 253.5, 274.6],
+	      "resistance": [30.7, 33.8, 36.9, 40],
+	      "critDamage": [0.5, 0.5, 0.5, 0.5],
+	      "accuracy": [0, 0, 0, 0],
+	      "evasion": [0, 0, 0, 0],
+	      "background": "Daughter of a Neth Empire high official. She was born with talents but was cursed by a witch and fell into a deep sleep. Even though the curse has been lifted, due to side effects Arita sometimes sleeps while standing up.",
+	      "skill": {
+	        "level": 2,
+	        "passive": "During the activation of Thorn of Refusal, when enemies make attacks from outside of auto-attack range, Thorn of Refusal deals magical damage equal equal to 50% of the hero's attack power with every hit. (once every 2 seconds)"
+	      },
+	      "howToGet": [
+	        "Contract!: Only Contracts! (Except Noble Honor Box)"
+	      ]
+	    },
+			{
+	      "name": "Insomniac Arita",
+	      "star": 5,
+	      "level": 50,
+	      "atkPower": [329.9, 362.9, 395.9, 428.9, 461.9],
+	      "hp": [3237.1, 3560.8, 3884.5, 4208.2, 4531.9],
+	      "critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+	      "armor": [269.9, 296.9, 323.9, 350.9, 377.9],
+	      "resistance": [41.8, 46, 50.2, 54.4, 58.6],
+	      "critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+	      "accuracy": [0, 0, 0, 0, 0],
+	      "evasion": [0, 0, 0, 0, 0],
+	      "background": "Arita wakes up from a deep sleep and finds out that her family has collapsed. She decides to trail after the witch and leaves on a long journey. However, she is able to do without any sleep. After arriving the witch's house, she reveals the truth from her diary.",
+	      "skill": {
+	        "level": 2,
+	        "passive": "During the activation of Thorn of Refusal, when enemies make attacks from outside of auto-attack range, Thorn of Refusal deals magical damage equal equal to 50% of the hero's attack power with every hit. (once every 2 seconds)"
+	      },
+	      "howToGet": [
+	        "Promote Hero: Promoting Heroes!",
+	        "Contract!: Only Contracts! (Except Noble Honor Box)"
+	      ]
+	    },
+	    {
+	      "name": "Forest Witch Arita",
+	      "star": 6,
+	      "level": 60,
+	      "atkPower": [503.5, 553.9, 604.2, 654.6, 704.9, 755.3, 919.3],
+	      "hp": [4781.9, 5260.1, 5738.3, 6216.5, 6694.6, 7172.8, 9472.8],
+	      "critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.22],
+	      "armor": [325.4, 358, 390.5, 423, 455.6, 488.1, 848.1],
+	      "resistance": [52.3, 57.6, 62.8, 68.1, 73.3, 78.5, 134.5],
+	      "critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.2],
+	      "accuracy": [0, 0, 0, 0, 0, 0, 0.15],
+	      "evasion": [0, 0, 0, 0, 0, 0, 0.19],
+	      "background": "Arita was chosen as the test subject for an experiment conducted years ago in the Neth Empire, which was to modify a human with magical talent into an android. Arita's parents tried to protect her by making a contract with the witch, and in return Arita was selected as the 2nd Forest Witch.",
+	      "skill": {
+	        "level": 3,
+	        "passive": "During the activation of Thorn of Refusal, when enemies make attacks from outside of auto-attack range, Thorn of Refusal deals magical damage equal equal to 75% of the hero's attack power with every hit. The attack power and armor of enemies within range of Thorn of Pain are decreased by 75% of the hero's armor. (once every 1.5 seconds)"
+	      },
+	      "howToGet": [
+	        "Promote Hero: Promoting Heroes!",
+	        "Contract!: Only Contracts! (Except Noble Honor Box)"
+	      ]
+	    }
+	  ]
+	},
 	"thor": {
 		"faction": "Unknown",
 		"type": "Promote",
@@ -6828,6 +6903,81 @@
 			}
 		]
 	},
+	"nightingale": {
+		"faction": "Unknown",
+		"type": "Premium",
+		"class": "Priest",
+		"skillName": "Whisper of Light",
+		"passiveSkillName": "Curing Luminescence",
+		"skillDescription": "With the power of light, an ally is healed by 200% of the hero's attack power plus an additional (7/15/25)% based on the chain number.",
+		"form": [
+			{
+				"name": "Nightingale",
+				"star": 4,
+				"level": 40,
+				"atkPower": [193.1, 212.5, 231.8, 251.1],
+				"hp": [2012.9, 2214.2, 2415.5, 2616.8],
+				"critChance": [0.1, 0.1, 0.1, 0.1],
+				"armor": [104.9, 11504, 125.9, 136.4],
+				"resistance": [104.9, 11504, 125.9, 136.4],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "A sister that was saved by Maria. After being saved by Maria, she makes a vow to help others. She leaves the abbey and goes to nursing school.",
+				"skill": {
+					"level": 2,
+					"passive": "When hero uses Whisper of Light, auto attack heals the ally equal to 100% of hero's attack power. Passive will be activated maximum 4 times."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Nightingale of Salvation",
+				"star": 5,
+				"level": 50,
+				"atkPower": [332.7, 366, 399.3, 432.5, 465.8],
+				"hp": [3132.1, 3445.3, 3758.5, 4071.7, 4385],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+				"armor": [125, 137.5, 150, 162.4, 174.9],
+				"resistance": [125, 137.5, 150, 162.4, 174.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "When the great war broke out and the people evacuated, the number of injured people increased. Nightingale led them to safety while healing and encouraging them.",
+				"skill": {
+					"level": 2,
+					"passive": "When hero uses Whisper of Light, auto attack heals the ally equal to 100% of hero's attack power. Passive will be activated maximum 4 times."
+				},
+				"howToGet": [
+					"Promote Hero: Promoting Heroes!",
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Nightingale of Light",
+				"star": 6,
+				"level": 60,
+				"atkPower": [497.8, 547.6, 597.4, 647.2, 697, 746.8, 889.8],
+				"hp": [4628.3, 5091.1, 5553.9, 6016.8, 6479.6, 6942.4, 8963.4],
+				"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.217],
+				"armor": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 277.2],
+				"resistance": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 277.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.15],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.18],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.17],
+				"background": "Wanting the war to end, Nightingale goes to the battlefield to offer her healing powers to both sides. Whilst doing so she makes pleas to both sides for them to see reason and end the senseless bloodshed. Through her words, the soldiers laid down their arms and the fighting ceased.",
+				"skill": {
+					"level": 3,
+					"passive": "When hero uses Whisper of Light, auto attack heals the ally equal to 150$ of hero's attack power. When the passive is activated again during activation, heals the entire ally. Passive will be activated maximum 5 times."
+				},
+				"howToGet": [
+					"Promote Hero: Promoting Heroes!",
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			}
+		]
+	},
 	"yeowoodong": {
 		"faction": "Unknown",
 		"type": "Promote",
@@ -7064,6 +7214,81 @@
 			}
 		]
 	},
+	"himiko": {
+		"faction": "Eastern Kingdom - Ryu",
+		"type": "Premium",
+		"class": "Priest",
+		"skillName": "Fire God's Shield",
+		"passiveSkillName": "Binding Seal",
+		"skillDescription": "Creates a barrier on the frontline. Enemy attacks within the barrier are reduced by (25/35/50)%. Each affected enemy will heal all allies by 45% of their attack damage up to 3 times.",
+		"form": [
+			{
+				"name": "Himiko",
+				"star": 4,
+				"level": 40,
+				"atkPower": [202.9, 223.2, 243.5, 263.8],
+				"hp": [2113.9, 2325.3, 2536.7, 2748.1],
+				"critChance": [0.15, 0.15, 0.15, 0.15],
+				"armor": [110.4, 121.5, 132.5, 143.5],
+				"resistance": [110.4, 121.5, 132.5, 143.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "The only daughter of a legendary Samurai, she was raised as a warrior until the royal Shamans proclaimed she was chosen by their gods to lead them.",
+				"skill": {
+					"level": 2,
+					"passive": "All enemies within the barrier will have their att. speed, Crit. chance and Crit. damage lowered."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Shaman Himiko",
+				"star": 5,
+				"level": 50,
+				"atkPower": [349.4, 384.3, 419.3, 454.2, 489.1],
+				"hp": [3288.9, 3617.8, 3946.7, 4275.6, 4604.5],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15],
+				"armor": [131.3, 144.5, 157.6, 170.7, 183.9],
+				"resistance": [131.3, 144.5, 157.6, 170.7, 183.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Himiko is the first to be chosen to serve as a shaman in over a hundred years and her ascension has brought peace of mind to her kingdom.",
+				"skill": {
+					"level": 2,
+					"passive": "Creates a barrier on the frontline. Enemy attacks within the barrier are reduced by (25/35/50)%. Each affected enemy will heal all allies by 45% of their attack damage up to 3 times."
+				},
+				"howToGet": [
+					"Promote Hero: Promoting Heroes!",
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Great Shaman Himiko",
+				"star": 6,
+				"level": 60,
+				"atkPower": [522.6, 574.9, 627.7, 679.4, 731.7, 783.9, 935.9],
+				"hp": [4859.6, 5345.5, 5831.5, 6317.4, 6803.4, 7289.4, 9428.4],
+				"critChance": [0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.225],
+				"armor": [152.4, 167.7, 182.9, 198.2, 213.4, 228.7, 392.7],
+				"resistance": [152.4, 167.7, 182.9, 198.2, 213.4, 228.7, 392.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.22],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.16],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.14],
+				"background": "Himiko still follows the path of the warrior, and trains her body and soul through exercise instead of prayer. Her path proves to be revelatory and she is granted the title \"Great Shaman.\"",
+				"skill": {
+					"level": 3,
+					"passive": "All enemies within the barrier will have their att. Speed, Crit. Chance, and Crit. dmg lowered (25/35/50)%. Every time a barrier is created there is a 50% chance that a chain-3 barrier will be raised behind the enemies. (triggers once every 2 sec)"
+				},
+				"howToGet": [
+					"Promote Hero: Promoting Heroes!",
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			}
+		]
+	},
 	"stein": {
 		"faction": "Neth Empire",
 		"type": "Promote",
@@ -7138,6 +7363,231 @@
 				"howToGet": [
 					"Contract: Buy Contracts!",
 					"Promote Hero: Promoting Heroes!"
+				]
+			}
+		]
+	},
+	"chai": {
+		"faction": "Unknown",
+		"type": "Premium",
+		"class": "Priest",
+		"skillName": "Fine Cuisine!",
+		"passiveSkillName": "A Full Course Meal",
+		"skillDescription": "Creates (3/5/9) dishes that heal allies for 30% of the User's attack power.",
+		"form": [
+			{
+				"name": "Chai",
+				"star": 4,
+				"level": 40,
+				"atkPower": [162.7, 179, 195.3, 211.5],
+				"hp": [2430.6, 2673.7, 2916.7, 3159.8],
+				"critChance": [0.105, 0.105, 0.105, 0.105],
+				"armor": [110.4, 121.5, 132.5, 143.5],
+				"resistance": [110.4, 121.5, 132.5, 143.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Chai spent most of her life caring for her elderly grandfather. Now, she's on a quest to fulfill his last wish: to taste the most delicious soup in the world.",
+				"skill": {
+					"level": 2,
+					"passive": "Using Fine Cuisine after an ally uses a chain-3 skill creates 8 GREAT dishes that heal all allies for 100% of the value of a regular dish."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Gourmet Chai",
+				"star": 5,
+				"level": 50,
+				"atkPower": [263.6, 290, 316.4, 342.7, 369.1],
+				"hp": [3781.9, 4160, 4538.2, 4916.4, 5294.6],
+				"critChance": [0.105, 0.105, 0.105, 0.105, 0.105],
+				"armor": [131.3 144.5 157.6 170.7 183.9],
+				"resistance": [131.3 144.5 157.6 170.7 183.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Chai has traveled the world, sampling its soups, but she found each of them lacking. Discouraged, she wandered into the mountains, where she met the Red Paw Chef, who taught her his secret and delicious recipe.",
+				"skill": {
+					"level": 2,
+					"passive": "Using Fine Cuisine after an ally uses a chain-3 skill creates 8 GREAT dishes that heal all allies for 100% of the value of a regular dish."
+				},
+				"howToGet": [
+					"Promote Hero: Promoting Heroes!",
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Food Hunter Chai",
+				"star": 6,
+				"level": 60,
+				"atkPower": [394.6, 6147, 6705.9, 513, 552.4, 591.9, 699.9],
+				"hp": [5588.2, 6147, 6705.9, 7264.7, 7823.5, 8382.3, 10892.3],
+				"critChance": [0.105, 0.105, 0.105, 0.105, 0.105, 0.105, 0.225],
+				"armor": [152.4, 167.7, 182.9, 198.2, 213.4, 228.7, 392.7],
+				"resistance": [152.4, 167.7, 182.9, 198.2, 213.4, 228.7, 392.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.29],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.17],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.2],
+				"background": "Armed with the Red Paw Chef's secret recipe, Chai now must gather the ingredients from around the world, hunting monsters and herbs for her grandfather's final repose.",
+				"skill": {
+					"level": 3,
+					"passive": "Using Fine Cuisine after an ally uses a chain-3 skill creates 8 GREAT dishes that heal all allies for 100% of the value of a regular dish and recovers 3 SP for the ally who eats the dish."
+				},
+				"howToGet": [
+					"Promote Hero: Promoting Heroes!",
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			}
+		]
+	},
+	"dara": {
+		"faction": "Unknown",
+		"type": "Premium",
+		"class": "Priest",
+		"skillName": "Bard Song",
+		"passiveSkillName": "Joyful Palaku",
+		"skillDescription": "Hero casts Bard Song on an ally that lasts for (3/4/5) seconds. Affected ally's HP will be recovered by 30% of Ally's attack power every time it attack the enemies.",
+		"form": [
+			{
+				"name": "Dara",
+				"star": 4,
+				"level": 40,
+				"atkPower": [146.4, 161, 175.6, 190.3],
+				"hp": [2599.9, 2859.8, 3119.8, 3379.8],
+				"critChance": [0.105, 0.105, 0.105, 0.105],
+				"armor": [110.4, 121.5, 132.5, 143.5],
+				"resistance": [110.4, 121.5, 132.5, 143.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Shes from a nomadic tribe that prefers peace to war. Her life was riding an elephant with her family, singing, and dancing. Dara's singing and dancing has healing power. She continues her journey to spread happiness to more people.",
+				"skill": {
+					"level": 2,
+					"passive": "When ally uses a chain-3 skill, the hero summons an elephant for 5 seconds. During the skill duration, every block used by the hero will affect the entire party by effect equal to chain-3 skill."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Dara of Hope",
+				"star": 5,
+				"level": 50,
+				"atkPower": [235.7, 259.3, 282.9, 306.4, 330],
+				"hp": [4045, 4449.5, 4854, 5258.5, 5663],
+				"critChance": [0.105, 0.105, 0.105, 0.105, 0.105],
+				"armor": [131.3, 144.5, 157.6, 170.7, 183.9],
+				"resistance": [131.3, 144.5, 157.6, 170.7, 183.9],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "Dara became famous for her healing power and spread hope throughout the country. The monks who heard Dara's story guided her to the temple. In the temple, Dara realized her true power through deep meditation.",
+				"skill": {
+					"level": 2,
+					"passive": "When ally uses a chain-3 skill, the hero summons an elephant for 5 seconds. During the skill duration, every block used by the hero will affect the entire party by effect equal to chain-3 skill."
+				},
+				"howToGet": [
+					"Promote Hero: Promoting Heroes!",
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Dara of Joy",
+				"star": 6,
+				"level": 60,
+				"atkPower": [352.7, 388, 423.2, 458.5, 493.8, 529, 623],
+				"hp": [5977, 6574.7, 7172.4, 7770.1, 8367.8, 8965.5, 11672.5],
+				"critChance": [0.105, 0.105, 0.105, 0.105, 0.105, 0.105, 0.225],
+				"armor": [152.4, 167.7, 182.9, 198.2, 213.4, 228.7, 392.7],
+				"resistance": [152.4, 167.7, 182.9, 198.2, 213.4, 228.7, 392.7],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.27],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.2],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.2],
+				"background": "Although the monks proclaimed Dara their leader, Dara soon left the temple as she wanted to pursue her heart's desire; to sing, to dance, and to travel. Now Dara is enjoying her journey with her family as she did before, spreading hope and happiness to the world.",
+				"skill": {
+					"level": 3,
+					"passive": "Any block used within 5 seconds after an ally's chain-3 skill will affect the entire party with effect equal to a chain-3 skill. Additionally, if an ally is healed by this skill 10 times, the ally will immediately use a chain-3 skill. (occurs every 7 seconds)"
+				},
+				"howToGet": [
+					"Promote Hero: Promoting Heroes!",
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			}
+		]
+	},
+	"beatrice": {
+		"faction": "Unknown",
+		"type": "Premium",
+		"class": "Priest",
+		"skillName": "Dream of Healing",
+		"passiveSkillName": "Benediction of the Saintess",
+		"skillDescription": "(Single/Single/Entire) Ally is healed by (100/230/250)% of Hero's attack power according to the chain number.",
+		"form": [
+			{
+				"name": "Beatrice",
+				"star": 4,
+				"level": 40,
+				"atkPower": [149.1, 164, 178.9, 193.8],
+				"hp": [2156, 2371.6, 2587.2, 2802.9],
+				"critChance": [0.105, 0.105, 0.105, 0.105],
+				"armor": [181.8, 200, 218.1, 236.3],
+				"resistance": [181.8, 200, 218.1, 236.3],
+				"critDamage": [0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0],
+				"background": "Beatrice is the daughter of an aristocrat of the Central Empire. Her father, having gone mad, continuously abused her. However, in a dream, a goddess tells her that her father has been possessed by a demon. When she awakes, she has no choice but to find her father and kill him to free him from the demon's grasp.",
+				"skill": {
+					"level": 2,
+					"passive": "Healed ally's [attack power/defense/resistence] will be increased by 50% of Beatrice's stat for 5 seconds."
+				},
+				"howToGet": [
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Exorcist Beatrice",
+				"star": 5,
+				"level": 50,
+				"atkPower": [291.1, 320.2, 349.3, 378.4, 407.5],
+				"hp": [3354.6, 3690, 4025.5, 4360.9, 4696.4],
+				"critChance": [0.105, 0.105, 0.105, 0.105, 0.105],
+				"armor": [216.5, 238.2, 259.9, 281.6, 303.2],
+				"resistance": [216.5, 238.2, 259.9, 281.6, 303.2],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+				"accuracy": [0, 0, 0, 0, 0],
+				"evasion": [0, 0, 0, 0, 0],
+				"background": "She was revered as the first Saintess, but she is haunted by her painful memmories. One day, she realizes that she has the ability to separate demons from their human hosts. She travels the land freeing people from their demonic possessions. The demons that are removed follow her across the land.",
+				"skill": {
+					"level": 2,
+					"passive": "Healed ally's [attack power/defense/resistence] will be increased by 50% of Beatrice's stat for 5 seconds."
+				},
+				"howToGet": [
+					"Promote Hero: Promoting Heroes!",
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
+				]
+			},
+			{
+				"name": "Demon Destroyer Beatrice",
+				"star": 6,
+				"level": 60,
+				"atkPower": [460.7, 506.7, 552.8, 598.9, 644.9, 691, 816],
+				"hp": [4956.3, 5452, 5947.6, 6443.2, 6938.9, 7434.5, 9502.5],
+				"critChance": [0.105, 0.105, 0.105, 0.105, 0.105, 0.105, 0.222],
+				"armor": [251, 276.1, 301.2, 326.3, 351.4, 376.5, 584.5],
+				"resistance": [251, 276.1, 301.2, 326.3, 351.4, 376.5, 584.5],
+				"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.28],
+				"accuracy": [0, 0, 0, 0, 0, 0, 0.14],
+				"evasion": [0, 0, 0, 0, 0, 0, 0.16],
+				"background": "Beatrice seals herself in order to die together with all the demons. However, even in her dreams she could not find rest and had to fight the demons. Waking up in Hasla after killing all the demons, a 100 years had already passed.",
+				"skill": {
+					"level": 3,
+					"passive": "Healed ally's [attack power/defense/resistence] will be increased by 100% of Beatrice's stat for 5 seconds. Ally with HP less than half of their maximum HP will receive doubled passive effect."
+				},
+				"howToGet": [
+					"Promote Hero: Promoting Heroes!",
+					"Contract!: Only Contracts! (Except Noble Honor Box)"
 				]
 			}
 		]

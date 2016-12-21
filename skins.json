@@ -114,17 +114,6 @@
 	"d'artagnan": {
 		"form": [
 			{
-				"name": "Harvest Festival D'Artagnan",
-				"atkPower": 0,
-				"hp": 0,
-				"critChance": 0,
-				"armor": 0,
-				"resistance": 0,
-				"critDamage": 0.2,
-				"accuracy": 0.2,
-				"evasion": 0
-			},
-			{
 				"name": "Autumn Festival D'Artagnan",
 				"atkPower": 150,
 				"hp": 0,
@@ -145,11 +134,55 @@
 				"critDamage": 0.2,
 				"accuracy": 0,
 				"evasion": 0
+			},
+			{
+				"name": "Harvest Festival D'Artagnan",
+				"atkPower": 0,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0.2,
+				"accuracy": 0.2,
+				"evasion": 0
 			}
 		]
 	},
 	"teresa": {
 		"form": [
+			{
+				"name": "Cozy Night Teresa",
+				"atkPower": 80,
+				"hp": 0,
+				"critChance": 0.1,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			},
+			{
+				"name": "Thief of Holy Night Teresa",
+				"atkPower": 100,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0.25,
+				"accuracy": 0,
+				"evasion": 0
+			},
+			{
+				"name": "Rudolph Teresa",
+				"atkPower": 80,
+				"hp": 0,
+				"critChance": 0.1,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			},
 			{
 				"name": "Sailor Teresa",
 				"atkPower": 0,
@@ -158,6 +191,17 @@
 				"armor": 0,
 				"resistance": 0,
 				"critDamage": 0.2,
+				"accuracy": 0,
+				"evasion": 0
+			},
+			{
+				"name": "Snow Gunman Teresa",
+				"atkPower": 100,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0.25,
 				"accuracy": 0,
 				"evasion": 0
 			}
@@ -558,6 +602,17 @@
 				"critDamage": 0,
 				"accuracy": 0.03,
 				"evasion": 0
+			},
+			{
+				"name": "Winter Mode R-0",
+				"atkPower": 100,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0.3,
+				"accuracy": 0,
+				"evasion": 0
 			}
 		]
 	},
@@ -866,6 +921,17 @@
 				"critDamage": 0,
 				"accuracy": 0,
 				"evasion": 0
+			},
+			{
+				"name": "Ice Queen Lilith",
+				"atkPower": 105,
+				"hp": 0,
+				"critChance": 0.07,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
 			}
 		]
 	},
@@ -966,6 +1032,17 @@
 	},
 	"violet": {
 		"form": [
+			{
+				"name": "Nutcracker Violet",
+				"atkPower": 110,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 120,
+				"resistance": 0,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			}
 		]
 	},
 	"yichui": {
@@ -975,23 +1052,23 @@
 	"mew": {
 		"form": [
 			{
-				"name": "Halloween Witch Mew",
-				"atkPower": 0,
-				"hp": 650,
-				"critChance": 0,
-				"armor": 100,
-				"resistance": 0,
-				"critDamage": 0,
-				"accuracy": 0,
-				"evasion": 0
-			},
-			{
 				"name": "Ghost Cat Mew",
 				"atkPower": 0,
 				"hp": 650,
 				"critChance": 0,
 				"armor": 0,
 				"resistance": 100,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			},
+			{
+				"name": "Halloween Witch Mew",
+				"atkPower": 0,
+				"hp": 650,
+				"critChance": 0,
+				"armor": 100,
+				"resistance": 0,
 				"critDamage": 0,
 				"accuracy": 0,
 				"evasion": 0

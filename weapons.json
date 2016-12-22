@@ -1,1311 +1,1311 @@
 {
-	"redfalchion": {
-		"name": "Red Falchion",
-		"star": 6,
-		"class": "Sword",
-		"atkPower": 163,
-		"atkSpeed": 1.1,
-		"options": ["Attack", "Attack", "Function"],
-		"howToGet": [
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"dragonsword" : {
-		"name": "Dragon Sword",
-		"star": 6,
-		"class": "Sword",
-		"atkPower": 163,
-		"atkSpeed": 1.1,
-		"options": ["Attack", "Defense", "Function"],
-		"howToGet": [
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"volcano" : {
-		"name": "Volcano",
-		"star": 6,
-		"class": "Hammer",
-		"atkPower": 117,
-		"atkSpeed": 1,
-		"options": ["Attack", "Defense", "Function"],
-		"howToGet": [
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"smallax" : {
-		"name": "Small Ax",
-		"star": 6,
-		"class": "Hammer",
-		"atkPower": 117,
-		"atkSpeed": 1,
-		"options": ["Attack", "Attack", "Defense"],
-		"howToGet": [
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"answerer" : {
-		"name": "Answerer",
-		"star": 6,
-		"class": "Bow",
-		"atkPower": 185,
-		"atkSpeed": 1,
-		"options": ["Attack", "Attack", "Function"],
-		"howToGet": [
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"devilhunter" : {
-		"name": "Devil Hunter",
-		"star": 6,
-		"class": "Gun",
-		"atkPower": 200,
-		"atkSpeed": 0.9,
-		"options": ["Attack", "Attack", "Attack"],
-		"howToGet": [
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"superiorstaff" : {
-		"name": "Superior Staff",
-		"star": 6,
-		"class": "Staff",
-		"atkPower": 240,
-		"atkSpeed": 0.9,
-		"options": ["Attack", "Attack", "Attack"],
-		"howToGet": [
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"fantasyharmony" : {
-		"name": "Fantasy Harmony",
-		"star": 6,
-		"class": "Orb",
-		"atkPower": 166,
-		"atkSpeed": 1,
-		"options": ["Attack", "Defense", "Function"],
-		"howToGet": [
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"seakingsword" : {
-		"name": "Sea King Sword",
-		"star": 5,
-		"class": "Sword",
-		"atkPower": 106,
-		"atkSpeed": 1.1,
-		"options": ["Attack", "Defense", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"killersword" : {
-		"name": "Killer Sword",
-		"star": 5,
-		"class": "Sword",
-		"atkPower": 133,
-		"atkSpeed": 0.9,
-		"options": ["Attack", "Attack", "Attack"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"herev" : {
-		"name": "Herev",
-		"star": 5,
-		"class": "Sword",
-		"atkPower": 106,
-		"atkSpeed": 1.1,
-		"options": ["Attack", "Defense", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"goldensword" : {
-		"name": "Golden Sword",
-		"star": 5,
-		"class": "Sword",
-		"atkPower": 84,
-		"atkSpeed": 1.4,
-		"options": ["Attack", "Function", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"icehammer" : {
-		"name": "Ice Hammer",
-		"star": 5,
-		"class": "Hammer",
-		"atkPower": 77,
-		"atkSpeed": 1,
-		"options": ["Defense", "Defense", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"goldenaxe" : {
-		"name": "Golden Axe",
-		"star": 5,
-		"class": "Hammer",
-		"atkPower": 96,
-		"atkSpeed": 0.8,
-		"options": ["Attack", "Defense", "Defense"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"whirlaxe" : {
-		"name": "Whirl Axe",
-		"star": 5,
-		"class": "Hammer",
-		"atkPower": 61,
-		"atkSpeed": 1.2,
-		"options": ["Attack", "Function", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"deepseaanchor" : {
-		"name": "Deep Sea Anchor",
-		"star": 5,
-		"class": "Hammer",
-		"atkPower": 96,
-		"atkSpeed": 0.8,
-		"options": ["Attack", "Defense", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"compoundbow" : {
-		"name": "Compound Bow",
-		"star": 5,
-		"class": "Bow",
-		"atkPower": 121,
-		"atkSpeed": 1,
-		"options": ["Attack", "Defense", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"reddragon(shrt)" : {
-		"name": "RedDragon(Shrt)",
-		"star": 5,
-		"class": "Bow",
-		"atkPower": 97,
-		"atkSpeed": 1.3,
-		"options": ["Attack", "Function", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"reddragon(lng)" : {
-		"name": "RedDragon(Lng)",
-		"star": 5,
-		"class": "Bow",
-		"atkPower": 151,
-		"atkSpeed": 0.8,
-		"options": ["Attack", "Attack", "Attack"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"catpillow" : {
-		"name": "Cat Pillow",
-		"star": 5,
-		"class": "Bow",
-		"atkPower": 97,
-		"atkSpeed": 1.3,
-		"options": ["Defense", "Function", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"blunderbuss" : {
-		"name": "Blunderbuss",
-		"star": 5,
-		"class": "Gun",
-		"atkPower": 131,
-		"atkSpeed": 0.9,
-		"options": ["Attack", "Attack", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"code-14" : {
-		"name": "CODE-14",
-		"star": 5,
-		"class": "Gun",
-		"atkPower": 164,
-		"atkSpeed": 0.7,
-		"options": ["Attack", "Attack", "Attack"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"chaser" : {
-		"name": "Chaser",
-		"star": 5,
-		"class": "Gun",
-		"atkPower": 104,
-		"atkSpeed": 1.1,
-		"options": ["Attack", "Function", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"elfstaff" : {
-		"name": "Elf Staff",
-		"star": 5,
-		"class": "Staff",
-		"atkPower": 157,
-		"atkSpeed": 0.9,
-		"options": ["Attack"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"ancientstaff" : {
-		"name": "Ancient Staff",
-		"star": 5,
-		"class": "Staff",
-		"atkPower": 196,
-		"atkSpeed": 0.7,
-		"options": ["Attack", "Attack", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"archonstaff" : {
-		"name": "Archon Staff",
-		"star": 5,
-		"class": "Staff",
-		"atkPower": 125,
-		"atkSpeed": 1.1,
-		"options": ["Attack", "Function", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"weirdmedicine" : {
-		"name": "Weird Medicine",
-		"star": 5,
-		"class": "Orb",
-		"atkPower": 109,
-		"atkSpeed": 1,
-		"options": ["Attack", "Defense", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"ancientorb" : {
-		"name": "Ancient Orb",
-		"star": 5,
-		"class": "Orb",
-		"atkPower": 136,
-		"atkSpeed": 0.8,
-		"options": ["Attack", "Attack", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"paperdoll" : {
-		"name": "Paper Doll",
-		"star": 5,
-		"class": "Orb",
-		"atkPower": 87,
-		"atkSpeed": 1.3,
-		"options": ["Defense", "Function", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"heavenskein" : {
-		"name": "Heaven Skein",
-		"star": 5,
-		"class": "Orb",
-		"atkPower": 109,
-		"atkSpeed": 1,
-		"options": ["Attack", "Attack", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Volcano 4-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"dragoonsword" : {
-		"name": "Dragoon Sword",
-		"star": 4,
-		"class": "Sword",
-		"atkPower": 65,
-		"atkSpeed": 1.1,
-		"options": ["Attack", "Defense"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"roseknife" : {
-		"name": "Rose Knife",
-		"star": 4,
-		"class": "Sword",
-		"atkPower": 81,
-		"atkSpeed": 0.9,
-		"options": ["Attack", "Attack"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"frozentuna" : {
-		"name": "Frozen Tuna",
-		"star": 4,
-		"class": "Sword",
-		"atkPower": 52,
-		"atkSpeed": 1.4,
-		"options": ["Attack", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"locum'shammer" : {
-		"name": "Locum's Hammer",
-		"star": 4,
-		"class": "Hammer",
-		"atkPower": 47,
-		"atkSpeed": 1,
-		"options": ["Defense", "Defense"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"vulcain" : {
-		"name": "Vulcain",
-		"star": 4,
-		"class": "Hammer",
-		"atkPower": 59,
-		"atkSpeed": 0.8,
-		"options": ["Attack", "Attack"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"toyhammer" : {
-		"name": "Toy Hammer",
-		"star": 4,
-		"class": "Hammer",
-		"atkPower": 38,
-		"atkSpeed": 1.2,
-		"options": ["Function", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"candiva" : {
-		"name": "Candiva",
-		"star": 4,
-		"class": "Hammer",
-		"atkPower": 47,
-		"atkSpeed": 1,
-		"options": ["Defense", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"romanbow" : {
-		"name": "Roman Bow",
-		"star": 4,
-		"class": "Bow",
-		"atkPower": 74,
-		"atkSpeed": 1,
-		"options": ["Attack", "Defense"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"sigruna'sbow" : {
-		"name": "Sigruna's Bow",
-		"star": 4,
-		"class": "Bow",
-		"atkPower": 93,
-		"atkSpeed": 0.8,
-		"options": ["Attack", "Attack"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"lovechaserbow" : {
-		"name": "Love Chaser Bow",
-		"star": 4,
-		"class": "Bow",
-		"atkPower": 59,
-		"atkSpeed": 1.3,
-		"options": ["Attack", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"crabbow" : {
-		"name": "Crab Bow",
-		"star": 4,
-		"class": "Bow",
-		"atkPower": 74,
-		"atkSpeed": 1,
-		"options": ["Defense", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"waterbomb" : {
-		"name": "Water Bomb",
-		"star": 4,
-		"class": "Gun",
-		"atkPower": 79,
-		"atkSpeed": 0.9,
-		"options": ["Attack", "Defense"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"umbrellgun" : {
-		"name": "Umbrell gun",
-		"star": 4,
-		"class": "Gun",
-		"atkPower": 99,
-		"atkSpeed": 0.7,
-		"options": ["Attack", "Attack"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"megaphone" : {
-		"name": "Megaphone",
-		"star": 4,
-		"class": "Gun",
-		"atkPower": 63,
-		"atkSpeed": 1.1,
-		"options": ["Function", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"ancientstungun" : {
-		"name": "Ancient StunGun",
-		"star": 4,
-		"class": "Gun",
-		"atkPower": 79,
-		"atkSpeed": 0.9,
-		"options": ["Attack", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"lyramorse" : {
-		"name": "Lyramorse",
-		"star": 4,
-		"class": "Staff",
-		"atkPower": 95,
-		"atkSpeed": 0.9,
-		"options": ["Attack", "Defense"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"magicgirlstaff" : {
-		"name": "Magic Girl Staff",
-		"star": 4,
-		"class": "Staff",
-		"atkPower": 119,
-		"atkSpeed": 0.7,
-		"options": ["Attack", "Attack"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"firmfishingrod" : {
-		"name": "Firm Fishing Rod",
-		"star": 4,
-		"class": "Staff",
-		"atkPower": 76,
-		"atkSpeed": 1.1,
-		"options": ["Defense", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"sisterstaff" : {
-		"name": "Sister Staff",
-		"star": 4,
-		"class": "Staff",
-		"atkPower": 95,
-		"atkSpeed": 0.9,
-		"options": ["Attack", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"darkball" : {
-		"name": "Dark Ball",
-		"star": 4,
-		"class": "Orb",
-		"atkPower": 67,
-		"atkSpeed": 1,
-		"options": ["Attack", "Defense"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"simyanoodle" : {
-		"name": "Simya Noodle",
-		"star": 4,
-		"class": "Orb",
-		"atkPower": 84,
-		"atkSpeed": 0.8,
-		"options": ["Attack", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"mousebear" : {
-		"name": "Mouse Bear",
-		"star": 4,
-		"class": "Orb",
-		"atkPower": 54,
-		"atkSpeed": 1.3,
-		"options": ["Defense", "Function"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"elanuma'sheart" : {
-		"name": "Elanuma's Heart",
-		"star": 4,
-		"class": "Orb",
-		"atkPower": 67,
-		"atkSpeed": 1,
-		"options": ["Defense", "Defense"],
-		"howToGet": [
-			"Stage: Drops in [Hard] Deep Sea 3-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!",
-			"To the Shop: Obtainable from the Golden Weapon Box!"
-		]
-	},
-	"warriorsword" : {
-		"name": "Warrior Sword",
-		"star": 3,
-		"class": "Sword",
-		"atkPower": 37,
-		"atkSpeed": 1.1,
-		"options": ["Attack", "Function"],
-		"howToGet": [
-			"Stage: Drops in Desert 2-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"steelsword" : {
-		"name": "Steel Sword",
-		"star": 3,
-		"class": "Sword",
-		"atkPower": 46,
-		"atkSpeed": 0.9,
-		"options": ["Attack", "Defense"],
-		"howToGet": [
-			"Stage: Drops in Desert 2-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"liberator" : {
-		"name": "Liberator",
-		"star": 3,
-		"class": "Sword",
-		"atkPower": 29,
-		"atkSpeed": 1.4,
-		"options": ["Attack", "Attack"],
-		"howToGet": [
-			"Stage: Drops in Desert 2-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"fullhammer" : {
-		"name": "Full Hammer",
-		"star": 3,
-		"class": "Hammer",
-		"atkPower": 27,
-		"atkSpeed": 1,
-		"options": ["Defense", "Function"],
-		"howToGet": [
-			"Stage: Drops in Desert 2-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"titanhammer" : {
-		"name": "Titan Hammer",
-		"star": 3,
-		"class": "Hammer",
-		"atkPower": 34,
-		"atkSpeed": 0.8,
-		"options": ["Attack", "Defense"],
-		"howToGet": [
-			"Stage: Drops in Desert 2-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"leatherlongbow" : {
-		"name": "Leather Longbow",
-		"star": 3,
-		"class": "Bow",
-		"atkPower": 42,
-		"atkSpeed": 1,
-		"options": ["Attack", "Function"],
-		"howToGet": [
-			"Stage: Drops in Desert 2-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"evilhunterbow" : {
-		"name": "Evil Hunter Bow",
-		"star": 3,
-		"class": "Bow",
-		"atkPower": 53,
-		"atkSpeed": 0.8,
-		"options": ["Attack", "Attack"],
-		"howToGet": [
-			"Stage: Drops in Desert 2-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"younggon'sbow" : {
-		"name": "Young Gon's Bow",
-		"star": 3,
-		"class": "Bow",
-		"atkPower": 34,
-		"atkSpeed": 1.2,
-		"options": ["Function", "Function"],
-		"howToGet": [
-			"Stage: Drops in Desert 2-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"gunsword" : {
-		"name": "Gun Sword",
-		"star": 3,
-		"class": "Gun",
-		"atkPower": 45,
-		"atkSpeed": 0.9,
-		"options": ["Attack", "Defense"],
-		"howToGet": [
-			"Stage: Drops in Desert 2-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"longrifle" : {
-		"name": "Long Rifle",
-		"star": 3,
-		"class": "Gun",
-		"atkPower": 36,
-		"atkSpeed": 1.1,
-		"options": ["Attack", "Function"],
-		"howToGet": [
-			"Stage: Drops in Desert 2-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"goldengun" : {
-		"name": "Golden Gun",
-		"star": 3,
-		"class": "Gun",
-		"atkPower": 56,
-		"atkSpeed": 0.7,
-		"options": ["Attack", "Attack"],
-		"howToGet": [
-			"Stage: Drops in Desert 2-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"trinitystaff" : {
-		"name": "Trinity Staff",
-		"star": 3,
-		"class": "Staff",
-		"atkPower": 55,
-		"atkSpeed": 0.9,
-		"options": ["Attack", "Defense"],
-		"howToGet": [
-			"Stage: Drops in Desert 2-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"mermaidstaff" : {
-		"name": "Mermaid Staff",
-		"star": 3,
-		"class": "Staff",
-		"atkPower": 69,
-		"atkSpeed": 0.7,
-		"options": ["Attack", "Attack"],
-		"howToGet": [
-			"Stage: Drops in Desert 2-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"starfall" : {
-		"name": "Starfall",
-		"star": 3,
-		"class": "Staff",
-		"atkPower": 44,
-		"atkSpeed": 1.1,
-		"options": ["Attack", "Function"],
-		"howToGet": [
-			"Stage: Drops in Desert 2-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"snowfragment" : {
-		"name": "Snow Fragment",
-		"star": 3,
-		"class": "Staff",
-		"atkPower": 38,
-		"atkSpeed": 1,
-		"options": ["Defense", "Defense"],
-		"howToGet": [
-			"Stage: Drops in Desert 2-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"unknownsheet" : {
-		"name": "Unknown Sheet",
-		"star": 3,
-		"class": "Staff",
-		"atkPower": 48,
-		"atkSpeed": 0.8,
-		"options": ["Attack", "Defense"],
-		"howToGet": [
-			"Stage: Drops in Desert 2-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"god'shourglass" : {
-		"name": "God's Hourglass",
-		"star": 3,
-		"class": "Staff",
-		"atkPower": 30,
-		"atkSpeed": 1.3,
-		"options": ["Defense", "Function"],
-		"howToGet": [
-			"Stage: Drops in Desert 2-24",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"broadsword" : {
-		"name": "Broad Sword",
-		"star": 2,
-		"class": "Sword",
-		"atkPower": 19,
-		"atkSpeed": 1.1,
-		"options": ["Defense"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"bastardsword" : {
-		"name": "Bastard Sword",
-		"star": 2,
-		"class": "Sword",
-		"atkPower": 24,
-		"atkSpeed": 0.9,
-		"options": ["Attack"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"falcata" : {
-		"name": "Falcata",
-		"star": 2,
-		"class": "Sword",
-		"atkPower": 15,
-		"atkSpeed": 1.4,
-		"options": ["Function"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"steelhammer" : {
-		"name": "Steel Hammer",
-		"star": 2,
-		"class": "Hammer",
-		"atkPower": 14,
-		"atkSpeed": 1,
-		"options": ["Defense"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"mace" : {
-		"name": "Mace",
-		"star": 2,
-		"class": "Hammer",
-		"atkPower": 18,
-		"atkSpeed": 0.8,
-		"options": ["Attack"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"gianthammer" : {
-		"name": "Giant Hammer",
-		"star": 2,
-		"class": "Hammer",
-		"atkPower": 11,
-		"atkSpeed": 1.2,
-		"options": ["Function"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"compositebow" : {
-		"name": "Composite Bow",
-		"star": 2,
-		"class": "Bow",
-		"atkPower": 21,
-		"atkSpeed": 1,
-		"options": ["Function"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"enhancedbow" : {
-		"name": "Enhanced Bow",
-		"star": 2,
-		"class": "Bow",
-		"atkPower": 26,
-		"atkSpeed": 0.8,
-		"options": ["Attack"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"huntinggun" : {
-		"name": "Hunting Gun",
-		"star": 2,
-		"class": "Gun",
-		"atkPower": 23,
-		"atkSpeed": 0.9,
-		"options": ["Attack"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"rifle" : {
-		"name": "Rifle",
-		"star": 2,
-		"class": "Gun",
-		"atkPower": 18,
-		"atkSpeed": 1.1,
-		"options": ["Attack"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"snipergun" : {
-		"name": "Sniper Gun",
-		"star": 2,
-		"class": "Gun",
-		"atkPower": 29,
-		"atkSpeed": 0.7,
-		"options": ["Function"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"foreststaff" : {
-		"name": "Forest Staff",
-		"star": 2,
-		"class": "Staff",
-		"atkPower": 27,
-		"atkSpeed": 0.9,
-		"options": ["Function"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"firegem" : {
-		"name": "Fire Gem",
-		"star": 2,
-		"class": "Staff",
-		"atkPower": 34,
-		"atkSpeed": 0.7,
-		"options": ["Attack"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"runefragment" : {
-		"name": "Rune Fragment",
-		"star": 2,
-		"class": "Orb",
-		"atkPower": 19,
-		"atkSpeed": 1,
-		"options": ["Defense"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"shinyorb" : {
-		"name": "Shiny Orb",
-		"star": 2,
-		"class": "Orb",
-		"atkPower": 24,
-		"atkSpeed": 0.8,
-		"options": ["Attack"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!",
-			"World Boss: Clear Reward!"
-		]
-	},
-	"woodensword" : {
-		"name": "Wooden Sword",
-		"star": 1,
-		"class": "Sword",
-		"atkPower": 10,
-		"atkSpeed": 1.1,
-		"options": ["Attack"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!"
-		]
-	},
-	"oldbroadsword" : {
-		"name": "Old Broad Sword",
-		"star": 1,
-		"class": "Sword",
-		"atkPower": 10,
-		"atkSpeed": 1.1,
-		"options": ["Function"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!"
-		]
-	},
-	"woodenbat" : {
-		"name": "Wooden Bat",
-		"star": 1,
-		"class": "Hammer",
-		"atkPower": 7,
-		"atkSpeed": 1,
-		"options": ["Defense"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!"
-		]
-	},
-	"stonehammer" : {
-		"name": "Stone Hammer",
-		"star": 1,
-		"class": "Hammer",
-		"atkPower": 7,
-		"atkSpeed": 1,
-		"options": ["Function"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!"
-		]
-	},
-	"trainingbow" : {
-		"name": "Training Bow",
-		"star": 1,
-		"class": "Bow",
-		"atkPower": 11,
-		"atkSpeed": 1,
-		"options": ["Attack"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!"
-		]
-	},
-	"shortbow" : {
-		"name": "Short Bow",
-		"star": 1,
-		"class": "Bow",
-		"atkPower": 11,
-		"atkSpeed": 1,
-		"options": ["Defense"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!"
-		]
-	},
-	"oldrifle" : {
-		"name": "Old Rifle",
-		"star": 1,
-		"class": "Gun",
-		"atkPower": 12,
-		"atkSpeed": 0.9,
-		"options": ["Attack"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!"
-		]
-	},
-	"shotgun" : {
-		"name": "Shotgun",
-		"star": 1,
-		"class": "Gun",
-		"atkPower": 12,
-		"atkSpeed": 0.9,
-		"options": ["Function"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!"
-		]
-	},
-	"twig" : {
-		"name": "Twig",
-		"star": 1,
-		"class": "Staff",
-		"atkPower": 15,
-		"atkSpeed": 0.9,
-		"options": ["Attack"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!"
-		]
-	},
-	"oakstaff" : {
-		"name": "Oak Staff",
-		"star": 1,
-		"class": "Staff",
-		"atkPower": 15,
-		"atkSpeed": 0.9,
-		"options": ["Function"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!"
-		]
-	},
-	"rytiphlaeacane" : {
-		"name": "Rytiphlaea Cane",
-		"star": 1,
-		"class": "Staff",
-		"atkPower": 19,
-		"atkSpeed": 0.7,
-		"options": ["Attack"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!"
-		]
-	},
-	"mysterystone" : {
-		"name": "Mystery Stone",
-		"star": 1,
-		"class": "Orb",
-		"atkPower": 10,
-		"atkSpeed": 1,
-		"options": ["Defense"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!"
-		]
-	},
-	"spiritstone" : {
-		"name": "Spirit Stone",
-		"star": 1,
-		"class": "Orb",
-		"atkPower": 8,
-		"atkSpeed": 1.3,
-		"options": ["Function"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!"
-		]
-	},
-	"holyorb" : {
-		"name": "Holy Orb",
-		"star": 1,
-		"class": "Orb",
-		"atkPower": 13,
-		"atkSpeed": 0.8,
-		"options": ["attack"],
-		"howToGet": [
-			"Stage: Drops in Forest 1-1",
-			"Ancient Dungeon: Clear Reward!"
-		]
-	}
+  "redfalchion": {
+    "name": "Red Falchion",
+    "star": 6,
+    "class": "Sword",
+    "atkPower": 163,
+    "atkSpeed": 1.1,
+    "options": ["Attack", "Attack", "Function"],
+    "howToGet": [
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "dragonsword" : {
+    "name": "Dragon Sword",
+    "star": 6,
+    "class": "Sword",
+    "atkPower": 163,
+    "atkSpeed": 1.1,
+    "options": ["Attack", "Defense", "Function"],
+    "howToGet": [
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "volcano" : {
+    "name": "Volcano",
+    "star": 6,
+    "class": "Hammer",
+    "atkPower": 117,
+    "atkSpeed": 1,
+    "options": ["Attack", "Defense", "Function"],
+    "howToGet": [
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "smallax" : {
+    "name": "Small Ax",
+    "star": 6,
+    "class": "Hammer",
+    "atkPower": 117,
+    "atkSpeed": 1,
+    "options": ["Attack", "Attack", "Defense"],
+    "howToGet": [
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "answerer" : {
+    "name": "Answerer",
+    "star": 6,
+    "class": "Bow",
+    "atkPower": 185,
+    "atkSpeed": 1,
+    "options": ["Attack", "Attack", "Function"],
+    "howToGet": [
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "devilhunter" : {
+    "name": "Devil Hunter",
+    "star": 6,
+    "class": "Gun",
+    "atkPower": 200,
+    "atkSpeed": 0.9,
+    "options": ["Attack", "Attack", "Attack"],
+    "howToGet": [
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "superiorstaff" : {
+    "name": "Superior Staff",
+    "star": 6,
+    "class": "Staff",
+    "atkPower": 240,
+    "atkSpeed": 0.9,
+    "options": ["Attack", "Attack", "Attack"],
+    "howToGet": [
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "fantasyharmony" : {
+    "name": "Fantasy Harmony",
+    "star": 6,
+    "class": "Orb",
+    "atkPower": 166,
+    "atkSpeed": 1,
+    "options": ["Attack", "Defense", "Function"],
+    "howToGet": [
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "seakingsword" : {
+    "name": "Sea King Sword",
+    "star": 5,
+    "class": "Sword",
+    "atkPower": 106,
+    "atkSpeed": 1.1,
+    "options": ["Attack", "Defense", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "killersword" : {
+    "name": "Killer Sword",
+    "star": 5,
+    "class": "Sword",
+    "atkPower": 133,
+    "atkSpeed": 0.9,
+    "options": ["Attack", "Attack", "Attack"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "herev" : {
+    "name": "Herev",
+    "star": 5,
+    "class": "Sword",
+    "atkPower": 106,
+    "atkSpeed": 1.1,
+    "options": ["Attack", "Defense", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "goldensword" : {
+    "name": "Golden Sword",
+    "star": 5,
+    "class": "Sword",
+    "atkPower": 84,
+    "atkSpeed": 1.4,
+    "options": ["Attack", "Function", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "icehammer" : {
+    "name": "Ice Hammer",
+    "star": 5,
+    "class": "Hammer",
+    "atkPower": 77,
+    "atkSpeed": 1,
+    "options": ["Defense", "Defense", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "goldenaxe" : {
+    "name": "Golden Axe",
+    "star": 5,
+    "class": "Hammer",
+    "atkPower": 96,
+    "atkSpeed": 0.8,
+    "options": ["Attack", "Defense", "Defense"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "whirlaxe" : {
+    "name": "Whirl Axe",
+    "star": 5,
+    "class": "Hammer",
+    "atkPower": 61,
+    "atkSpeed": 1.2,
+    "options": ["Attack", "Function", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "deepseaanchor" : {
+    "name": "Deep Sea Anchor",
+    "star": 5,
+    "class": "Hammer",
+    "atkPower": 96,
+    "atkSpeed": 0.8,
+    "options": ["Attack", "Defense", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "compoundbow" : {
+    "name": "Compound Bow",
+    "star": 5,
+    "class": "Bow",
+    "atkPower": 121,
+    "atkSpeed": 1,
+    "options": ["Attack", "Defense", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "reddragon(shrt)" : {
+    "name": "RedDragon(Shrt)",
+    "star": 5,
+    "class": "Bow",
+    "atkPower": 97,
+    "atkSpeed": 1.3,
+    "options": ["Attack", "Function", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "reddragon(lng)" : {
+    "name": "RedDragon(Lng)",
+    "star": 5,
+    "class": "Bow",
+    "atkPower": 151,
+    "atkSpeed": 0.8,
+    "options": ["Attack", "Attack", "Attack"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "catpillow" : {
+    "name": "Cat Pillow",
+    "star": 5,
+    "class": "Bow",
+    "atkPower": 97,
+    "atkSpeed": 1.3,
+    "options": ["Defense", "Function", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "blunderbuss" : {
+    "name": "Blunderbuss",
+    "star": 5,
+    "class": "Gun",
+    "atkPower": 131,
+    "atkSpeed": 0.9,
+    "options": ["Attack", "Attack", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "code-14" : {
+    "name": "CODE-14",
+    "star": 5,
+    "class": "Gun",
+    "atkPower": 164,
+    "atkSpeed": 0.7,
+    "options": ["Attack", "Attack", "Attack"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "chaser" : {
+    "name": "Chaser",
+    "star": 5,
+    "class": "Gun",
+    "atkPower": 104,
+    "atkSpeed": 1.1,
+    "options": ["Attack", "Function", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "elfstaff" : {
+    "name": "Elf Staff",
+    "star": 5,
+    "class": "Staff",
+    "atkPower": 157,
+    "atkSpeed": 0.9,
+    "options": ["Attack"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "ancientstaff" : {
+    "name": "Ancient Staff",
+    "star": 5,
+    "class": "Staff",
+    "atkPower": 196,
+    "atkSpeed": 0.7,
+    "options": ["Attack", "Attack", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "archonstaff" : {
+    "name": "Archon Staff",
+    "star": 5,
+    "class": "Staff",
+    "atkPower": 125,
+    "atkSpeed": 1.1,
+    "options": ["Attack", "Function", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "weirdmedicine" : {
+    "name": "Weird Medicine",
+    "star": 5,
+    "class": "Orb",
+    "atkPower": 109,
+    "atkSpeed": 1,
+    "options": ["Attack", "Defense", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "ancientorb" : {
+    "name": "Ancient Orb",
+    "star": 5,
+    "class": "Orb",
+    "atkPower": 136,
+    "atkSpeed": 0.8,
+    "options": ["Attack", "Attack", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "paperdoll" : {
+    "name": "Paper Doll",
+    "star": 5,
+    "class": "Orb",
+    "atkPower": 87,
+    "atkSpeed": 1.3,
+    "options": ["Defense", "Function", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "heavenskein" : {
+    "name": "Heaven Skein",
+    "star": 5,
+    "class": "Orb",
+    "atkPower": 109,
+    "atkSpeed": 1,
+    "options": ["Attack", "Attack", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "dragoonsword" : {
+    "name": "Dragoon Sword",
+    "star": 4,
+    "class": "Sword",
+    "atkPower": 65,
+    "atkSpeed": 1.1,
+    "options": ["Attack", "Defense"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "roseknife" : {
+    "name": "Rose Knife",
+    "star": 4,
+    "class": "Sword",
+    "atkPower": 81,
+    "atkSpeed": 0.9,
+    "options": ["Attack", "Attack"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "frozentuna" : {
+    "name": "Frozen Tuna",
+    "star": 4,
+    "class": "Sword",
+    "atkPower": 52,
+    "atkSpeed": 1.4,
+    "options": ["Attack", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "locum'shammer" : {
+    "name": "Locum's Hammer",
+    "star": 4,
+    "class": "Hammer",
+    "atkPower": 47,
+    "atkSpeed": 1,
+    "options": ["Defense", "Defense"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "vulcain" : {
+    "name": "Vulcain",
+    "star": 4,
+    "class": "Hammer",
+    "atkPower": 59,
+    "atkSpeed": 0.8,
+    "options": ["Attack", "Attack"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "toyhammer" : {
+    "name": "Toy Hammer",
+    "star": 4,
+    "class": "Hammer",
+    "atkPower": 38,
+    "atkSpeed": 1.2,
+    "options": ["Function", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "candiva" : {
+    "name": "Candiva",
+    "star": 4,
+    "class": "Hammer",
+    "atkPower": 47,
+    "atkSpeed": 1,
+    "options": ["Defense", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "romanbow" : {
+    "name": "Roman Bow",
+    "star": 4,
+    "class": "Bow",
+    "atkPower": 74,
+    "atkSpeed": 1,
+    "options": ["Attack", "Defense"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "sigruna'sbow" : {
+    "name": "Sigruna's Bow",
+    "star": 4,
+    "class": "Bow",
+    "atkPower": 93,
+    "atkSpeed": 0.8,
+    "options": ["Attack", "Attack"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "lovechaserbow" : {
+    "name": "Love Chaser Bow",
+    "star": 4,
+    "class": "Bow",
+    "atkPower": 59,
+    "atkSpeed": 1.3,
+    "options": ["Attack", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "crabbow" : {
+    "name": "Crab Bow",
+    "star": 4,
+    "class": "Bow",
+    "atkPower": 74,
+    "atkSpeed": 1,
+    "options": ["Defense", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "waterbomb" : {
+    "name": "Water Bomb",
+    "star": 4,
+    "class": "Gun",
+    "atkPower": 79,
+    "atkSpeed": 0.9,
+    "options": ["Attack", "Defense"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "umbrellgun" : {
+    "name": "Umbrell gun",
+    "star": 4,
+    "class": "Gun",
+    "atkPower": 99,
+    "atkSpeed": 0.7,
+    "options": ["Attack", "Attack"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "megaphone" : {
+    "name": "Megaphone",
+    "star": 4,
+    "class": "Gun",
+    "atkPower": 63,
+    "atkSpeed": 1.1,
+    "options": ["Function", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "ancientstungun" : {
+    "name": "Ancient StunGun",
+    "star": 4,
+    "class": "Gun",
+    "atkPower": 79,
+    "atkSpeed": 0.9,
+    "options": ["Attack", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "lyramorse" : {
+    "name": "Lyramorse",
+    "star": 4,
+    "class": "Staff",
+    "atkPower": 95,
+    "atkSpeed": 0.9,
+    "options": ["Attack", "Defense"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "magicgirlstaff" : {
+    "name": "Magic Girl Staff",
+    "star": 4,
+    "class": "Staff",
+    "atkPower": 119,
+    "atkSpeed": 0.7,
+    "options": ["Attack", "Attack"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "firmfishingrod" : {
+    "name": "Firm Fishing Rod",
+    "star": 4,
+    "class": "Staff",
+    "atkPower": 76,
+    "atkSpeed": 1.1,
+    "options": ["Defense", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "sisterstaff" : {
+    "name": "Sister Staff",
+    "star": 4,
+    "class": "Staff",
+    "atkPower": 95,
+    "atkSpeed": 0.9,
+    "options": ["Attack", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "darkball" : {
+    "name": "Dark Ball",
+    "star": 4,
+    "class": "Orb",
+    "atkPower": 67,
+    "atkSpeed": 1,
+    "options": ["Attack", "Defense"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "simyanoodle" : {
+    "name": "Simya Noodle",
+    "star": 4,
+    "class": "Orb",
+    "atkPower": 84,
+    "atkSpeed": 0.8,
+    "options": ["Attack", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "mousebear" : {
+    "name": "Mouse Bear",
+    "star": 4,
+    "class": "Orb",
+    "atkPower": 54,
+    "atkSpeed": 1.3,
+    "options": ["Defense", "Function"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "elanuma'sheart" : {
+    "name": "Elanuma's Heart",
+    "star": 4,
+    "class": "Orb",
+    "atkPower": 67,
+    "atkSpeed": 1,
+    "options": ["Defense", "Defense"],
+    "howToGet": [
+      "Stage: Drops in [Hard] Deep Sea 3-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "warriorsword" : {
+    "name": "Warrior Sword",
+    "star": 3,
+    "class": "Sword",
+    "atkPower": 37,
+    "atkSpeed": 1.1,
+    "options": ["Attack", "Function"],
+    "howToGet": [
+      "Stage: Drops in Desert 2-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "steelsword" : {
+    "name": "Steel Sword",
+    "star": 3,
+    "class": "Sword",
+    "atkPower": 46,
+    "atkSpeed": 0.9,
+    "options": ["Attack", "Defense"],
+    "howToGet": [
+      "Stage: Drops in Desert 2-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "liberator" : {
+    "name": "Liberator",
+    "star": 3,
+    "class": "Sword",
+    "atkPower": 29,
+    "atkSpeed": 1.4,
+    "options": ["Attack", "Attack"],
+    "howToGet": [
+      "Stage: Drops in Desert 2-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "fullhammer" : {
+    "name": "Full Hammer",
+    "star": 3,
+    "class": "Hammer",
+    "atkPower": 27,
+    "atkSpeed": 1,
+    "options": ["Defense", "Function"],
+    "howToGet": [
+      "Stage: Drops in Desert 2-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "titanhammer" : {
+    "name": "Titan Hammer",
+    "star": 3,
+    "class": "Hammer",
+    "atkPower": 34,
+    "atkSpeed": 0.8,
+    "options": ["Attack", "Defense"],
+    "howToGet": [
+      "Stage: Drops in Desert 2-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "leatherlongbow" : {
+    "name": "Leather Longbow",
+    "star": 3,
+    "class": "Bow",
+    "atkPower": 42,
+    "atkSpeed": 1,
+    "options": ["Attack", "Function"],
+    "howToGet": [
+      "Stage: Drops in Desert 2-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "evilhunterbow" : {
+    "name": "Evil Hunter Bow",
+    "star": 3,
+    "class": "Bow",
+    "atkPower": 53,
+    "atkSpeed": 0.8,
+    "options": ["Attack", "Attack"],
+    "howToGet": [
+      "Stage: Drops in Desert 2-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "younggon'sbow" : {
+    "name": "Young Gon's Bow",
+    "star": 3,
+    "class": "Bow",
+    "atkPower": 34,
+    "atkSpeed": 1.2,
+    "options": ["Function", "Function"],
+    "howToGet": [
+      "Stage: Drops in Desert 2-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "gunsword" : {
+    "name": "Gun Sword",
+    "star": 3,
+    "class": "Gun",
+    "atkPower": 45,
+    "atkSpeed": 0.9,
+    "options": ["Attack", "Defense"],
+    "howToGet": [
+      "Stage: Drops in Desert 2-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "longrifle" : {
+    "name": "Long Rifle",
+    "star": 3,
+    "class": "Gun",
+    "atkPower": 36,
+    "atkSpeed": 1.1,
+    "options": ["Attack", "Function"],
+    "howToGet": [
+      "Stage: Drops in Desert 2-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "goldengun" : {
+    "name": "Golden Gun",
+    "star": 3,
+    "class": "Gun",
+    "atkPower": 56,
+    "atkSpeed": 0.7,
+    "options": ["Attack", "Attack"],
+    "howToGet": [
+      "Stage: Drops in Desert 2-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "trinitystaff" : {
+    "name": "Trinity Staff",
+    "star": 3,
+    "class": "Staff",
+    "atkPower": 55,
+    "atkSpeed": 0.9,
+    "options": ["Attack", "Defense"],
+    "howToGet": [
+      "Stage: Drops in Desert 2-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "mermaidstaff" : {
+    "name": "Mermaid Staff",
+    "star": 3,
+    "class": "Staff",
+    "atkPower": 69,
+    "atkSpeed": 0.7,
+    "options": ["Attack", "Attack"],
+    "howToGet": [
+      "Stage: Drops in Desert 2-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "starfall" : {
+    "name": "Starfall",
+    "star": 3,
+    "class": "Staff",
+    "atkPower": 44,
+    "atkSpeed": 1.1,
+    "options": ["Attack", "Function"],
+    "howToGet": [
+      "Stage: Drops in Desert 2-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "snowfragment" : {
+    "name": "Snow Fragment",
+    "star": 3,
+    "class": "Staff",
+    "atkPower": 38,
+    "atkSpeed": 1,
+    "options": ["Defense", "Defense"],
+    "howToGet": [
+      "Stage: Drops in Desert 2-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "unknownsheet" : {
+    "name": "Unknown Sheet",
+    "star": 3,
+    "class": "Staff",
+    "atkPower": 48,
+    "atkSpeed": 0.8,
+    "options": ["Attack", "Defense"],
+    "howToGet": [
+      "Stage: Drops in Desert 2-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "god'shourglass" : {
+    "name": "God's Hourglass",
+    "star": 3,
+    "class": "Staff",
+    "atkPower": 30,
+    "atkSpeed": 1.3,
+    "options": ["Defense", "Function"],
+    "howToGet": [
+      "Stage: Drops in Desert 2-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "broadsword" : {
+    "name": "Broad Sword",
+    "star": 2,
+    "class": "Sword",
+    "atkPower": 19,
+    "atkSpeed": 1.1,
+    "options": ["Defense"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "bastardsword" : {
+    "name": "Bastard Sword",
+    "star": 2,
+    "class": "Sword",
+    "atkPower": 24,
+    "atkSpeed": 0.9,
+    "options": ["Attack"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "falcata" : {
+    "name": "Falcata",
+    "star": 2,
+    "class": "Sword",
+    "atkPower": 15,
+    "atkSpeed": 1.4,
+    "options": ["Function"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "steelhammer" : {
+    "name": "Steel Hammer",
+    "star": 2,
+    "class": "Hammer",
+    "atkPower": 14,
+    "atkSpeed": 1,
+    "options": ["Defense"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "mace" : {
+    "name": "Mace",
+    "star": 2,
+    "class": "Hammer",
+    "atkPower": 18,
+    "atkSpeed": 0.8,
+    "options": ["Attack"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "gianthammer" : {
+    "name": "Giant Hammer",
+    "star": 2,
+    "class": "Hammer",
+    "atkPower": 11,
+    "atkSpeed": 1.2,
+    "options": ["Function"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "compositebow" : {
+    "name": "Composite Bow",
+    "star": 2,
+    "class": "Bow",
+    "atkPower": 21,
+    "atkSpeed": 1,
+    "options": ["Function"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "enhancedbow" : {
+    "name": "Enhanced Bow",
+    "star": 2,
+    "class": "Bow",
+    "atkPower": 26,
+    "atkSpeed": 0.8,
+    "options": ["Attack"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "huntinggun" : {
+    "name": "Hunting Gun",
+    "star": 2,
+    "class": "Gun",
+    "atkPower": 23,
+    "atkSpeed": 0.9,
+    "options": ["Attack"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "rifle" : {
+    "name": "Rifle",
+    "star": 2,
+    "class": "Gun",
+    "atkPower": 18,
+    "atkSpeed": 1.1,
+    "options": ["Attack"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "snipergun" : {
+    "name": "Sniper Gun",
+    "star": 2,
+    "class": "Gun",
+    "atkPower": 29,
+    "atkSpeed": 0.7,
+    "options": ["Function"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "foreststaff" : {
+    "name": "Forest Staff",
+    "star": 2,
+    "class": "Staff",
+    "atkPower": 27,
+    "atkSpeed": 0.9,
+    "options": ["Function"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "firegem" : {
+    "name": "Fire Gem",
+    "star": 2,
+    "class": "Staff",
+    "atkPower": 34,
+    "atkSpeed": 0.7,
+    "options": ["Attack"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "runefragment" : {
+    "name": "Rune Fragment",
+    "star": 2,
+    "class": "Orb",
+    "atkPower": 19,
+    "atkSpeed": 1,
+    "options": ["Defense"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "shinyorb" : {
+    "name": "Shiny Orb",
+    "star": 2,
+    "class": "Orb",
+    "atkPower": 24,
+    "atkSpeed": 0.8,
+    "options": ["Attack"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!"
+    ]
+  },
+  "woodensword" : {
+    "name": "Wooden Sword",
+    "star": 1,
+    "class": "Sword",
+    "atkPower": 10,
+    "atkSpeed": 1.1,
+    "options": ["Attack"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!"
+    ]
+  },
+  "oldbroadsword" : {
+    "name": "Old Broad Sword",
+    "star": 1,
+    "class": "Sword",
+    "atkPower": 10,
+    "atkSpeed": 1.1,
+    "options": ["Function"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!"
+    ]
+  },
+  "woodenbat" : {
+    "name": "Wooden Bat",
+    "star": 1,
+    "class": "Hammer",
+    "atkPower": 7,
+    "atkSpeed": 1,
+    "options": ["Defense"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!"
+    ]
+  },
+  "stonehammer" : {
+    "name": "Stone Hammer",
+    "star": 1,
+    "class": "Hammer",
+    "atkPower": 7,
+    "atkSpeed": 1,
+    "options": ["Function"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!"
+    ]
+  },
+  "trainingbow" : {
+    "name": "Training Bow",
+    "star": 1,
+    "class": "Bow",
+    "atkPower": 11,
+    "atkSpeed": 1,
+    "options": ["Attack"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!"
+    ]
+  },
+  "shortbow" : {
+    "name": "Short Bow",
+    "star": 1,
+    "class": "Bow",
+    "atkPower": 11,
+    "atkSpeed": 1,
+    "options": ["Defense"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!"
+    ]
+  },
+  "oldrifle" : {
+    "name": "Old Rifle",
+    "star": 1,
+    "class": "Gun",
+    "atkPower": 12,
+    "atkSpeed": 0.9,
+    "options": ["Attack"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!"
+    ]
+  },
+  "shotgun" : {
+    "name": "Shotgun",
+    "star": 1,
+    "class": "Gun",
+    "atkPower": 12,
+    "atkSpeed": 0.9,
+    "options": ["Function"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!"
+    ]
+  },
+  "twig" : {
+    "name": "Twig",
+    "star": 1,
+    "class": "Staff",
+    "atkPower": 15,
+    "atkSpeed": 0.9,
+    "options": ["Attack"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!"
+    ]
+  },
+  "oakstaff" : {
+    "name": "Oak Staff",
+    "star": 1,
+    "class": "Staff",
+    "atkPower": 15,
+    "atkSpeed": 0.9,
+    "options": ["Function"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!"
+    ]
+  },
+  "rytiphlaeacane" : {
+    "name": "Rytiphlaea Cane",
+    "star": 1,
+    "class": "Staff",
+    "atkPower": 19,
+    "atkSpeed": 0.7,
+    "options": ["Attack"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!"
+    ]
+  },
+  "mysterystone" : {
+    "name": "Mystery Stone",
+    "star": 1,
+    "class": "Orb",
+    "atkPower": 10,
+    "atkSpeed": 1,
+    "options": ["Defense"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!"
+    ]
+  },
+  "spiritstone" : {
+    "name": "Spirit Stone",
+    "star": 1,
+    "class": "Orb",
+    "atkPower": 8,
+    "atkSpeed": 1.3,
+    "options": ["Function"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!"
+    ]
+  },
+  "holyorb" : {
+    "name": "Holy Orb",
+    "star": 1,
+    "class": "Orb",
+    "atkPower": 13,
+    "atkSpeed": 0.8,
+    "options": ["attack"],
+    "howToGet": [
+      "Stage: Drops in Forest 1-1",
+      "Ancient Dungeon: Clear Reward!"
+    ]
+  }
 
 }

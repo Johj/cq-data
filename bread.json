@@ -20,13 +20,6 @@
 		"star": 6,
 		"sell": 600
 	},
-	"lebkuchen": {
-		"name": "Lebkuchen",
-		"value": 500,
-		"greatRate": 0,
-		"star": 5,
-		"sell": -1
-	},
 	"strawberrypie": {
 		"name": "Strawberry Pie",
 		"value": 330,
@@ -48,48 +41,6 @@
 		"star": 5,
 		"sell": 400
 	},
-	"chocolate": {
-		"name": "Chocolate",
-		"value": 280,
-		"greatRate": 0,
-		"star": 4,
-		"sell": 214
-	},
-	"chocolatewitchbread": {
-		"name": "Chocolate Witch Bread",
-		"value": 270,
-		"greatRate": 0,
-		"star": 4,
-		"sell": 300
-	},
-	"chococupcake": {
-		"name": "Choco Cup Cake",
-		"value": 240,
-		"greatRate": 0.15,
-		"star": 4,
-		"sell": 214
-	},
-	"tiramisu": {
-		"name": "Tiramisu",
-		"value": 216,
-		"greatRate": 0.2,
-		"star": 4,
-		"sell": 888
-	},
-	"shamrockcupcake": {
-		"name": "Shamrock Cupcake",
-		"value": 200,
-		"greatRate": 0.3,
-		"star": 4,
-		"sell": 350
-	},
-	"moonpie": {
-		"name": "Moon Pie",
-		"value": 180,
-		"greatRate": 0.4,
-		"star": 4,
-		"sell": -1
-	},
 	"creambread": {
 		"name": "Cream Bread",
 		"value": 180,
@@ -97,33 +48,12 @@
 		"star": 4,
 		"sell": 260
 	},
-	"christmascake": {
-		"name": "Christmas Cake",
-		"value": 150,
-		"greatRate": 0.25,
-		"star": 4,
-		"sell": 350
-	},
-	"halloweencake": {
-		"name": "Halloween Cake",
-		"value": 150,
-		"greatRate": 0.25,
-		"star": 4,
-		"sell": -1
-	},
 	"sandwich": {
 		"name": "Sandwich",
 		"value": 144,
 		"greatRate": 0.2,
 		"star": 4,
 		"sell": 260
-	},
-	"bigchococcake": {
-		"name": "Big Choco Cake",
-		"value": 140,
-		"greatRate": 0.5,
-		"star": 4,
-		"sell": 214
 	},
 	"ricedonut": {
 		"name": "Rice Donut",
@@ -194,5 +124,76 @@
 		"greatRate": 0.4,
 		"star": 1,
 		"sell": 70
+	},
+	"lebkuchen": {
+		"name": "Lebkuchen",
+		"value": 500,
+		"greatRate": 0,
+		"star": 5,
+		"sell": -1
+	},
+	"chocolate": {
+		"name": "Chocolate",
+		"value": 280,
+		"greatRate": 0,
+		"star": 4,
+		"sell": 214
+	},
+	"chocolatewitchbread": {
+		"name": "Chocolate Witch Bread",
+		"value": 270,
+		"greatRate": 0,
+		"star": 4,
+		"sell": 300
+	},
+	"chococupcake": {
+		"name": "Choco Cup Cake",
+		"value": 240,
+		"greatRate": 0.15,
+		"star": 4,
+		"sell": 214
+	},
+	"tiramisu": {
+		"name": "Tiramisu",
+		"value": 216,
+		"greatRate": 0.2,
+		"star": 4,
+		"sell": 888
+	},
+	"shamrockcupcake": {
+		"name": "Shamrock Cupcake",
+		"value": 200,
+		"greatRate": 0.3,
+		"star": 4,
+		"sell": 350
+	},
+	"moonpie": {
+		"name": "Moon Pie",
+		"value": 180,
+		"greatRate": 0.4,
+		"star": 4,
+		"sell": -1
+	},
+	"christmascake": {
+		"name": "Christmas Cake",
+		"value": 150,
+		"greatRate": 0.25,
+		"star": 4,
+		"sell": 350
+	},
+	"halloweencake": {
+		"name": "Halloween Cake",
+		"value": 150,
+		"greatRate": 0.25,
+		"star": 4,
+		"sell": -1
+	},
+	"bigchococcake": {
+		"name": "Big Choco Cake",
+		"value": 140,
+		"greatRate": 0.5,
+		"star": 4,
+		"sell": 214
 	}
+
 }

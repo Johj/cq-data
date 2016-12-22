@@ -151,6 +151,17 @@
 	"teresa": {
 		"form": [
 			{
+				"name": "Candy Cane Teresa",
+				"atkPower": 100,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0.25,
+				"accuracy": 0,
+				"evasion": 0
+			},
+			{
 				"name": "Cozy Night Teresa",
 				"atkPower": 80,
 				"hp": 0,
@@ -174,6 +185,17 @@
 			},
 			{
 				"name": "Rudolph Teresa",
+				"atkPower": 80,
+				"hp": 0,
+				"critChance": 0.1,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0
+			},
+			{
+				"name": "Silent Night Teresa",
 				"atkPower": 80,
 				"hp": 0,
 				"critChance": 0.1,
@@ -336,6 +358,17 @@
 				"critDamage": 0.3,
 				"accuracy": 0.05,
 				"evasion": 0
+			},
+			{
+				"name": "Holidays Part-Time Working Uzimant",
+				"atkPower": 0,
+				"hp": 0,
+				"critChance": 0,
+				"armor": 0,
+				"resistance": 0,
+				"critDamage": 0,
+				"accuracy": 0,
+				"evasion": 0.12
 			}
 		]
 	},

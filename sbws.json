@@ -315,21 +315,21 @@
     "class": "Sword",
     "form": [
       {
-        "name": "Guillotine",
+        "name": "Galatine",
         "star": 4,
         "atkPower": 54,
         "atkSpeed": 1.5,
         "ability": "(Passive activated) Immune to physical damage +5 times"
       },
       {
-        "name": "Steel Guillotine",
+        "name": "Steel Galatine",
         "star": 5,
         "atkPower": 88,
         "atkSpeed": 1.5,
         "ability": "(Passive activated) Immune to physical damage +5 times"
       },
       {
-        "name": "Guillotine of Faith",
+        "name": "Galatine of Faith",
         "star": 6,
         "atkPower": 135,
         "atkSpeed": 1.5,

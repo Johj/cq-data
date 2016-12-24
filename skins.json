@@ -195,17 +195,6 @@
         "evasion": 0
       },
       {
-        "name": "Silent Night Teresa",
-        "atkPower": 80,
-        "hp": 0,
-        "critChance": 0.1,
-        "armor": 0,
-        "resistance": 0,
-        "critDamage": 0,
-        "accuracy": 0,
-        "evasion": 0
-      },
-      {
         "name": "Sailor Teresa",
         "atkPower": 0,
         "hp": 0,
@@ -213,6 +202,28 @@
         "armor": 0,
         "resistance": 0,
         "critDamage": 0.2,
+        "accuracy": 0,
+        "evasion": 0
+      },
+      {
+        "name": "Santa Girl Teresa",
+        "atkPower": 100,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0.25,
+        "accuracy": 0,
+        "evasion": 0
+      },
+      {
+        "name": "Silent Night Teresa",
+        "atkPower": 80,
+        "hp": 0,
+        "critChance": 0.1,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
         "accuracy": 0,
         "evasion": 0
       },

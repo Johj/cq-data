@@ -6,8 +6,8 @@
   },
   "prestina": {
     "name": "Prestina",
-    "skillName": "The Raging Storm",
-    "skillDescription": "Deals neutral damage equal to 5% of the hero's maximum HP to the entire enemy team, floats them high in the air, and gives them a 50% chance to miss their attacks."
+    "skillName": "Embrace of Yggdrasil",
+    "skillDescription": "Immobilizes all enemeis for 4 seconds. Every time the enemy tries to attack, entire party heals for 5% of their maximum HP. When an ally attacks the corresponding enemy, The ally is healed for 30% of the damage done."
   },
   "anut": {
     "name": "Anut",

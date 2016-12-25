@@ -1850,7 +1850,7 @@
         "critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.25],
         "accuracy": [0, 0, 0, 0, 0, 0, 0.27],
         "evasion": [0, 0, 0, 0, 0, 0, 0.13],
-        "background": "Vivian start a war to clear her head. Surprisingly, the other devils surrender instantly. Lo and behold, Vivian is now the Absolute Devil.",
+        "background": "Vivian starts a war to clear her head. Surprisingly, the other devils surrender instantly. Lo and behold, Vivian is now the Absolute Devil.",
         "skill": {
           "level": 3,
           "passive": "Upon chain-3 combo, summons Call of Demon Sword and deals magic damage equal to 380% of attack power. Afterwards, reduces damage received by 50% for 3 secs. Upon enemy attack ultimate demon sword is summoned again. (Up to 2 times.)"
@@ -3991,7 +3991,7 @@
         "critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.05],
         "accuracy": [0, 0, 0, 0, 0, 0, 0.11],
         "evasion": [0, 0, 0, 0, 0, 0, 0.13],
-        "background": "An assassin appears during Lee's performans but at the critical moment Lee defends assassin's attack with her fans. Lee gets recognized as the royal savior and gets promoted as the principal dancer who secretly guards the royal family.",
+        "background": "An assassin appears during Lee's performance but at the critical moment Lee defends assassin's attack with her fans. Lee gets recognized as the royal savior and gets promoted as the principal dancer who secretly guards the royal family.",
         "skill": {
           "level": 3,
           "passive": "When a block skill is used after ally's chain-3 skill, Lee throws a fan which deals physical damage equal to 498% of attack power. Hit enemy's armor is reduced by 30% for 5 seconds."

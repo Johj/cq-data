@@ -13,7 +13,7 @@
         "evasion": 0
       },
       {
-        "name": "Selected Leon",
+        "name": "Leon of Fate",
         "atkPower": 70,
         "hp": 0,
         "critChance": 0,
@@ -163,6 +163,28 @@
       },
       {
         "name": "Cozy Night Teresa",
+        "atkPower": 80,
+        "hp": 0,
+        "critChance": 0.1,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
+      },
+      {
+        "name": "Holiday Present Teresa",
+        "atkPower": 100,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0.25,
+        "accuracy": 0,
+        "evasion": 0
+      },
+      {
+        "name": "Nice Not Naughty Teresa",
         "atkPower": 80,
         "hp": 0,
         "critChance": 0.1,

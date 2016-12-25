@@ -95,7 +95,7 @@
         "ability": "When block skill is used during the activation of passive effect, all the enemies' chance of evasion decreases by 20% for 5 seconds (activated once in 2 seconds)"
       },
       {
-        "name": "Spreading Light",
+        "name": "Incandescent Light",
         "star": 6,
         "atkPower": 129,
         "atkSpeed": 1,
@@ -199,7 +199,7 @@
         "ability": "When Teressa's SP is below 50, Bombard's attack power is increased by 100%."
       },
       {
-        "name": "Glowing Darkness",
+        "name": "Brilliant Darkness",
         "star": 6,
         "atkPower": 286,
         "atkSpeed": 0.7,

@@ -1,4 +1,88 @@
 {
+  "oldsword": {
+    "name": "Old Sword",
+    "star": 5,
+    "class": "Sword",
+    "atkPower": 1,
+    "atkSpeed": 1,
+    "options": [],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "oldhammer": {
+    "name": "Old Hammer",
+    "star": 5,
+    "class": "Hammer",
+    "atkPower": 1,
+    "atkSpeed": 1,
+    "options": [],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "oldbow": {
+    "name": "Old Bow",
+    "star": 5,
+    "class": "Bow",
+    "atkPower": 1,
+    "atkSpeed": 1,
+    "options": [],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "oldgun": {
+    "name": "Old Gun",
+    "star": 5,
+    "class": "Gun",
+    "atkPower": 1,
+    "atkSpeed": 1,
+    "options": [],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "oldstaff": {
+    "name": "Old Staff",
+    "star": 5,
+    "class": "Staff",
+    "atkPower": 1,
+    "atkSpeed": 1,
+    "options": [],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "oldorb": {
+    "name": "Old Orb",
+    "star": 5,
+    "class": "Orb",
+    "atkPower": 1,
+    "atkSpeed": 1,
+    "options": [],
+    "howToGet": [
+      "Stage: Drops in [Hard] Volcano 4-24",
+      "Ancient Dungeon: Clear Reward!",
+      "World Boss: Clear Reward!",
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
   "redfalchion": {
     "name": "Red Falchion",
     "star": 6,
@@ -1301,10 +1385,76 @@
     "class": "Orb",
     "atkPower": 13,
     "atkSpeed": 0.8,
-    "options": ["attack"],
+    "options": ["Attack"],
     "howToGet": [
       "Stage: Drops in Forest 1-1",
       "Ancient Dungeon: Clear Reward!"
+    ]
+  },
+  "puresteelsword": {
+    "name": "Pure Steel Sword",
+    "star": 6,
+    "class": "Sword",
+    "atkPower": 10,
+    "atkSpeed": 1.1,
+    "options": ["Salvage: Obtain Iron by salvaging."],
+    "howToGet": [
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "puresteelhammer": {
+    "name": "Pure Steel Hammer",
+    "star": 6,
+    "class": "Hammer",
+    "atkPower": 7,
+    "atkSpeed": 1,
+    "options": ["Salvage: Obtain Iron by salvaging."],
+    "howToGet": [
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "puregoldenbow": {
+    "name": "Pure Golden Bow",
+    "star": 6,
+    "class": "Bow",
+    "atkPower": 11,
+    "atkSpeed": 1,
+    "options": ["Sell: Obtain Gold by selling"],
+    "howToGet": [
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "puregoldengun": {
+    "name": "Pure Golden Gun",
+    "star": 6,
+    "class": "Gun",
+    "atkPower": 12,
+    "atkSpeed": 0.9,
+    "options": ["Sell: Obtain Gold by selling"],
+    "howToGet": [
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "condensedcrystalstaff": {
+    "name": "Condensed Crystal Staff",
+    "star": 6,
+    "class": "Staff",
+    "atkPower": 15,
+    "atkSpeed": 0.9,
+    "options": ["Salvage: When salvaged, obtain Crystal/Shard/Powder by large amount."],
+    "howToGet": [
+      "To the Shop: Obtainable from the Golden Weapon Box!"
+    ]
+  },
+  "condensedcrystalorb": {
+    "name": "Condensed Crystal Orb",
+    "star": 6,
+    "class": "Orb",
+    "atkPower": 10,
+    "atkSpeed": 1,
+    "options": ["Salvage: When salvaged, obtain Crystal/Shard/Powder by large amount."],
+    "howToGet": [
+      "To the Shop: Obtainable from the Golden Weapon Box!"
     ]
   }
 

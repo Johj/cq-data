@@ -162,7 +162,29 @@
         "evasion": 0
       },
       {
+        "name": "Christmas Teresa",
+        "atkPower": 100,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0.25,
+        "accuracy": 0,
+        "evasion": 0
+      },
+      {
         "name": "Cozy Night Teresa",
+        "atkPower": 80,
+        "hp": 0,
+        "critChance": 0.1,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
+      },
+      {
+        "name": "Fairy of Holy Night Teresa",
         "atkPower": 80,
         "hp": 0,
         "critChance": 0.1,

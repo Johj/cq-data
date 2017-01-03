@@ -583,9 +583,9 @@
         "hp": 0,
         "critChance": 0,
         "armor": 0,
-        "resistance": 0,
+        "resistance": 150,
         "critDamage": 0,
-        "accuracy": 0,
+        "accuracy": 0.15,
         "evasion": 0
       }
     ]

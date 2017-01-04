@@ -1862,6 +1862,694 @@
       }
     ]
   },
+  "monte": {
+  	"faction": "Neth Empire",
+  	"type": "Promote",
+  	"class": "Warrior",
+  	"skillName": "Sonic Sword",
+  	"passiveSkillName": "Extreme Wind Blade",
+  	"skillDescription": "Throws a wave of energy that deals physical damage equal to (49/122/221)% of attack power based on the chain number.",
+  	"form": [
+  		{
+  			"name": "Monte Proto",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [236.9, 260.6, 284.3, 308],
+  			"hp": [1634.8, 1798.3, 1961.8, 2125.3],
+  			"armor": [179.1, 197, 214.9, 232.8],
+  			"resistance": [32.2, 35.4, 38.6, 41.8],
+  			"critChance": [0.1, 0.1, 0.1, 0.1],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "There are a lot of science groups in the Neth Empire. Rapture Science started project Monte after stealing Road Industry's research data for the R series. Monte Proto is a prototype, and it targets R-0 for more data.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Sonic Sword activates when an ally uses a block after an ally uses a chain-3 skill, granting a single chance to activate the ultimate wind sword that deals physical damage equal to 300% of hero's attack power plus 100% of the enemy's attack power. (Activates once every 2 seconds)"
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts!",
+  				"Promote Hero: Promoting Heroes!",
+  				"Quest: Epic Quest Reward!",
+  				"Noble Honor Box: Acquired chance to get Noble honor box!"
+  			]
+  		},
+  		{
+  			"name": "Mass Produced Monte",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [408.8, 449.7, 490.6, 531.4, 572.3],
+  			"hp": [2497.2, 2746.9, 2996.6, 3246.3, 3496.1],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+  			"armor": [213, 234.3, 255.6, 276.9, 298.2],
+  			"resistance": [37.9, 41.7, 45.5, 49.3, 53],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "The New Monte, produced from the minute data obtained from Monte Proto, who was destroyed by R-0. To gain more data, Monte is mass produced, and all the mass produced models target R-0.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Sonic Sword activates when an ally uses a block after an ally uses a chain-3 skill, granting a single chance to activate the ultimate wind sword that deals physical damage equal to 300% of hero's attack power plus 100% of the enemy's attack power. (Activates once every 2 seconds)"
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts!",
+  				"Promote Hero: Promoting Heroes!",
+  				"Noble Honor Box: Acquired chance to get Noble honor box!"
+  			]
+  		},
+  		{
+  			"name": "Monte Cristo",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [623.3, 658.6, 748, 810.3, 872.6, 934.9, 1148.9],
+  			"hp": [3629.6, 3992.6, 4355.5, 4718.5, 5081.5, 5444.4, 7060.4],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.217],
+  			"armor": [247.1, 271.9, 296.6, 321.3, 346, 370.7, 676.7],
+  			"resistance": [44, 48.4, 52.8, 57.2, 61.6, 66, 120],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.14],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.15],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.15],
+  			"background": "The data acquisition is now complete after sacrificing thousands of the Mass Produced Montes. Rapture Science gives a mission to Monte Cristo to completely destroy R-0.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "Sonic Sword activates when an ally uses a block after an ally uses a chain-3 skill, granting a single chance to activate the ultimate wind sword that deals physical damage equal to 300% of hero's attack power plus 150% of the enemy's attack power. If activated, the Hero's evasion rates increases by 50% for 3 seconds. (Activates once every 2 seconds)"
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+  "kaori": {
+  	"faction": "Eastern Kingdom - Ryu",
+  	"type": "Promote",
+  	"class": "Warrior",
+  	"skillName": "Black Moon Slash",
+  	"passiveSkillName": "Black Moon Slash",
+  	"skillDescription": "Performs eastern style swordsmanship, dealing physical damage equal to (56/178/271)% of attack power based on the chain number.",
+  	"form": [
+  		{
+  			"name": "Koari",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [182.3, 200.6, 218.8, 237],
+  			"hp": [2230.3, 2453.4, 2676.4, 2899.4],
+  			"critChance": [0.13, 0.13, 0.13, 0.13],
+  			"armor": [179.1, 197, 214.9, 232.8],
+  			"resistance": [32.2, 35.4, 38.6, 41.8],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "International student from the Eastern Kingdom. The kendo club doesn't like her just because she's from the Eastern Kingdom, but she refuses to let that stop her from pursuing her dream. She has a sister named Hikari.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "When a 3-chain skill is used after a 1-chain or 2-chain skill, activates Black Moon Slash that deals physical damage equal to 450% of the Hero's attack power. Activates again if the previous hit was a critical hit."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts!",
+  				"Promote Hero: Promoting Heroes!",
+  				"Noble Honor Box: Acquired chance to get Noble honor box!"
+  			]
+  		},
+  		{
+  			"name": "Kaori of Victory",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [314.2, 346.7, 377.1, 408.5, 439.9],
+  			"hp": [3406.6, 3747.3, 4087.9, 4428.6, 4769.3],
+  			"critChance": [0.13, 0.13, 0.13, 0.13, 0.13],
+  			"armor": [213, 234.3, 255.6, 276.9, 298.2],
+  			"resistance": [37.9, 41.7, 45.5, 49.3, 53],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "Kaori becomes the head of the kendo club by defeating the previous head. A lot of people don't seem to like this, but everyone is too afraid of her prowess to speak up.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "When a 3-chain skill is used after a 1-chain or 2-chain skill, activates Black Moon Slash that deals physical damage equal to 450% of the Hero's attack power. Activates again if the previous hit was a critical hit."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts!",
+  				"Promote Hero: Promoting Heroes!",
+  				"Noble Honor Box: Acquired chance to get Noble honor box!"
+  			]
+  		},
+  		{
+  			"name": "Kaori the Undefeated",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [479.3, 527.3, 575.2, 623.1, 671.1, 719, 872],
+  			"hp": [4601.9, 5062.1, 5522.3, 5982.5, 6442.7, 6902.9, 9095.9],
+  			"critChance": [0.175, 0.175, 0.175, 0.175, 0.175, 0.175, 0.342],
+  			"armor": [247.1, 271.9, 296.6, 321.3, 346, 370.7, 676.7],
+  			"resistance": [44, 48.4, 52.8, 57.2, 61.6, 66, 120],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.17],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.14],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.12],
+  			"background": "Kaori dominates at the all-kingdom Kendo tournament. She's so good everyone wants to join the kendo club now.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "When a 3-chain skill is used after a 1-chain or 2-chain skill, activates Black Moon Slash that deals physical damage equal to 450% of the Hero's attack power. Black Moon Slash will be provided with 30% extra damage and critical chance and be counted as a 2-chain. When Black Moon Slash give critical damage to the enemy, it will be activated at maximum twice more."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+  "abel": {
+  	"faction": "Unknown",
+  	"type": "Premium",
+  	"class": "Warrior",
+  	"skillName": "Winds of Vengeance",
+  	"passiveSkillName": "Reflected Death",
+  	"skillDescription": "A flourish of the Hero's cape. Enemies caught in the cape receive (33/147/275)% magic damage based on the Hero's attack power.",
+  	"form": [
+  		{
+  			"name": "Abel",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [182.3, 200.6, 218.8, 237],
+  			"hp": [2320, 2552, 2784, 3016.1],
+  			"critChance": [0.1, 0.1, 0.1, 0.1],
+  			"armor": [232.5, 255.8, 279, 302.3],
+  			"resistance": [27.1, 29.8, 32.5, 35.2],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "A prince who inherited the throne with the help of a noble priest. His reign was short-lived, as his opponents performed a nefarious ritual to steal his soul. The priest advised him to go to the Neth Empire in search of help, but he is little more than a puppet.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "1 second after Winds of Vengeance, 100% of all damage received is reflected back. For the next 2 seconds, 50% of all damage received is reflected back as neutral damage. When triggered, the hero is healed for 2% of their maximum HP."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)"
+  			]
+  		},
+  		{
+  			"name": "Devil Hunter Abel",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [314.2, 345.7, 377.1, 408.5, 439.9],
+  			"hp": [3605.1, 4015.2, 4380.2, 4745.2, 5110.2],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+  			"armor": [267.7, 304.4, 332.1, 359.7, 387.4],
+  			"resistance": [37.9, 41.7, 45.5, 49.3, 52],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "Though his soul is removed, his hatred for his brother Cain remained. He dedicated his life to the extermination of demons in hope of one day re-claiming his soul.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "1 second after Winds of Vengeance, 100% of all damage received is reflected back. For the next 2 seconds, 50% of all damage received is reflected back as neutral damage. When triggered, the hero is healed for 2% of their maximum HP."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Devil Slayer Abel",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [479.3, 527.3, 575.2, 623.1, 671.1, 719, 872],
+  			"hp": [5368.9, 5905.8, 6442.7, 6979.6, 7516.5, 8053.4, 10423.4],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.217],
+  			"armor": [320.9, 353, 385.1, 417.2, 449.2, 481.3, 831.3],
+  			"resistance": [44, 48.4, 52.8, 57.2, 61.6, 66, 120],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.29],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.1],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.2],
+  			"background":  "Abel finally confronts his brother Cain and, after a vicious duel, both are severely wounded. The Neth Empire retrieves Abel's body and revives him with advanced technology and magic. And so, his quest for vengeance continues.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "1 second after Winds of Vengeance, 150% of all damage received is reflected back. For the next 2 seconds, 75% of all damage received is reflected back as neutral damage. When triggered, the hero is healed for 5% of their maximum HP and the attack power increases by 30% for 5 seconds."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+  "uzimant": {
+  	"faction": "Unknown",
+  	"type": "Promote",
+  	"class": "Warrior",
+  	"skillName": "Rage of the Beast",
+  	"passiveSkillName": "Burning Rage",
+  	"skillDescription": "A rapid torrent of slashes. Deals physical damage equal to (50/125/250)% of the Hero's attack power based on the chain number.",
+  	"form": [
+  		{
+  			"name": "Uzimant",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [218.6, 240.5, 262.3, 284.2],
+  			"hp": [1868.4, 2055.3, 2242.1, 2428.9],
+  			"critChance": [0.1, 0.1, 0.1, 0.1],
+  			"armor": [146.1, 160.7, 175.3, 189.9],
+  			"resistance": [29.2, 32.1, 35, 37.9],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "Long ago, the Wolf Tribe and the Frost Elves were in constant conflict. In those days, Uzimant was a young warrior of the Wolf Tribe who fell in love with the Frost Elves' princess.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "After every 4th normal attack, the next strike deals physical damage equal to 240% of the Hero's attack power. When a chain-3 is used, the Hero's att. speed is increased by 20%."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts!",
+  				"Promote Hero: Promoting Heroes!",
+  				"Noble Honor Box: Acquired chance to get Noble honor box!"
+  			]
+  		},
+  		{
+  			"name": "Uzimant the Undefeated",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [377, 414.6, 452.3, 490, 527.7],
+  			"hp": [2853.9, 3139.3, 3424.7, 3710.1, 3995.5],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+  			"armor": [192, 211.2, 230.4, 249.6, 268.8],
+  			"resistance": [39.9, 43.9, 47.9, 51.9, 55.8],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "Uzimant strives to prove himself in battle so that he may become the king of his people and unify his clan with the Frost Elves.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "After every 4th normal attack, the next strike deals physical damage equal to 240% of the Hero's attack power. When a chain-3 is used, the Hero's att. speed is increased by 20%."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts!",
+  				"Promote Hero: Promoting Heroes!",
+  				"Noble Honor Box: Acquired chance to get Noble honor box!"
+  			]
+  		},
+  		{
+  			"name": "Tribal King Uzimant",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [574.9, 632.4, 689.9, 747.4, 804.9, 862.4, 1056.4],
+  			"hp": [4148.2, 4563.1, 4977.9, 5392.7, 5807.5, 6222.3, 8146.3],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.217],
+  			"armor": [235.1, 258.7, 282.2, 305.7, 329.2, 352.7, 658.7],
+  			"resistance": [50, 55, 60, 65, 70, 75, 129],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.07],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.11],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.17],
+  			"background": "Uzimant became the head of his clan and married the daughter of the King of the Frost Elves. Unaware of the depth of the animosity between the clans, Uzimant found his new bride murdered in their marriage chamber. Driven by rage, Uzimant launched a war against the Elves.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "After every 4th normal attack, the next strike deals physical damage equal to 240% of the Hero's attack power. When a chain-3 is used, the Hero's att. speed is increased by 35%. In addition, all attacks excluding special blocks deal extra neutral damage equal to 75% of the Hero's attack power."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+  "b.sworden": {
+  	"faction": "Unknown",
+  	"type": "Premium",
+  	"class": "Warrior",
+  	"skillName": "Sword Spirit",
+  	"passiveSkillName": "Flaming Sword Spirit",
+  	"skillDescription": "Wield the soul of the sword to deal physical damage equal to (50/125/250)% of Hero's attack power.",
+  	"form": [
+  		{
+  			"name": "B. Sworden",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [191.3, 210.4, 229.6, 248.7],
+  			"hp": [2452.3, 2697.5, 2942.7, 3187.9],
+  			"critChance": [0.105, 0.1051, 0.105, 0.105],
+  			"armor": [188.1, 206.9, 225.7, 244.5],
+  			"resistance": [28.3, 31.1, 33.9, 36.8],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "Born the son of a wealthy magistrate, he lived his life in destitute poverty after his father abandoned him and his mother. Driven by rage, he left his home in search of revenge.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Every time the Sword Spirit skill is used, 3% of the Hero's maximum health is healed. If an ally uses a chain-3 skill, 'Fire Sword Spirit' activates and deals physical damage equal to 240% of the Hero's attack power. (Skill can be activated only once every 2 seconds)"
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)"
+  			]
+  		},
+  		{
+  			"name": "Magistrate B. Sworden",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [329.9, 362.9, 395.9, 428.9, 461.9],
+  			"hp": [3745.7, 4120.3, 4494.8, 4869.4, 5244],
+  			"critChance": [0.105, 0.105, 0.105, 0.105, 0.105],
+  			"armor": [174.3, 191.8, 209.2, 226.6, 244],
+  			"resistance": [31, 34.1, 37.2, 40.3, 43.4],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "Sworden rose through the ranks of civilized society to become a magistrate, but quickly learned that power would corrupt him. He refused to become like his father and swore that he would find his own way in life.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Every time the Sword Spirit skill is used, 3% of the Hero's maximum health is healed. If an ally uses a chain-3 skill, 'Fire Sword Spirit' activates and deals physical damage equal to 240% of the Hero's attack power. (Skill can be activated only once every 2 seconds)"
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Captain B. Sworden",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [503.5, 553.9, 604.2, 654.6, 704.9, 755.3, 919.3],
+  			"hp": [5444.5, 5988.9, 6533.4, 7077.8, 7622.2, 8166.7, 10859.7],
+  			"critChance": [0.105, 0.105, 0.105, 0.105, 0.105, 0.105, 0.225],
+  			"armor": [259.5, 285.5, 311.4, 337.4, 363.3, 389.3, 703.3],
+  			"resistance": [46.3, 51, 55.6, 60.3, 64.9, 69.5, 125.5],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.01],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.13],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.18],
+  			"background": "Determined to balance the wickendess of his father, Sword became a captain of the guard, but soon learned that life would never be as black and white as black and white as he believed it to be.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "Every time the Sword Spirit skill is used, 5% of the Hero's maximum health is healed. If an ally uses a chain-3 skill, 'Fire Sword Spirit' activates and deals physical damage equal to 270% of the Hero's attack power and heals all allies. (Skill can be activated only once every 0.5 seconds)"
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+  "isabel": {
+  	"faction": "Grancia Empire",
+  	"type": "Premium",
+  	"class": "Warrior",
+  	"skillName": "Evil Spirits",
+  	"passiveSkillName": "Ghoul Arm",
+  	"skillDescription": "Summons evil spirits which deal physical damage equal to (78/100/138) of the hero's attack power based on the chain length. When a chain-3 skill is activated, the Hero's evasion increases by 35%.",
+  	"form": [
+  		{
+  			"name": "Isabel",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [191.3, 210.4, 229.6, 248.7],
+  			"hp": [2047.4, 2252.2, 2456.9, 2661.7],
+  			"critChance": [0.2, 0.2, 0.2, 0.2],
+  			"armor": [188.1, 206.9, 225.7, 244.5],
+  			"resistance": [33.7, 37.1, 40.5, 43.9],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "The only survivor of a village destroyed duing a dark ritual, Isabel barely exorcised the evil spirit but part of it still lingers within her arms. Since then, she travels the world to find a cure while fighting the evil spirit for control of her body.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "When using a block after an ally's chain-3 skill, a 2 and a 3 chain attack are immediately activated."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)"
+  			]
+  		},
+  		{
+  			"name": "Mad Isabel",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [329.9, 362.9, 395.9, 428.9, 461.9],
+  			"hp": [3127.3, 3440.1, 3752.8, 4065.5, 4378.2],
+  			"critChance": [0.2, 0.2, 0.2, 0.2, 0.2],
+  			"armor": [223.8, 246.2, 268.6, 291, 313.3],
+  			"resistance": [39.8, 43.8, 47.8, 51.8, 55.8],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "Isabel thought her twisted appearance would curse her to forever walk alone, so she was shocked to meet people who were kind enough to take her in despite her appearance. Little did she know, that the evil lingering in her body had other plans. It slaughtered the kind folk, driving Isabel into a mindless frenzy.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "When using a block after an ally's chain-3 skill, a 2 and a 3 chain attack are immediately activated."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Psychic Isabel",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [503.5, 553.9, 604.2, 654.6, 704.9, 755.3, 919.3],
+  			"hp": [4871, 5358.1, 5845.2, 6332.3, 6819.4, 7306.5, 9659.5],
+  			"critChance": [0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.4],
+  			"armor": [259.5, 285.5, 311.4, 337.4, 363.3, 389.3, 703.3],
+  			"resistance": [46.3, 51, 55.6, 60.3, 64.9, 69.5, 125.5],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.04],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.13],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.13],
+  			"background": "Isabel is haunted by dreams of what she did during her mindless quest for vengeance. She resolves to turn her hatred toward the Necromancer who ruined her life. She learns to master the evil inside her and use it for her own goals.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "When using a block after an ally's chain-3 skill, a 2 and a 3 chain attack are immediately activated. When an ally's block is used during the skill activation, the chain attack is reactivated with chain-3 power."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+  "koxinga": {
+  	"faction": "Unknown",
+  	"type": "Premium",
+  	"class": "Warrior",
+  	"skillName": "Water God's dragon wave",
+  	"passiveSkillName": "Ascending Sea Dragon",
+  	"skillDescription": "Deals magical damage equal to (100/150/250)% of the hero's attack power based on the length of the chain skill used.",
+  	"form": [
+  		{
+  			"name": "Koxinga",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [156.6, 172.2, 187.9, 203.6],
+  			"hp": [2758.8, 3034.7, 3310.5, 3586.4],
+  			"critChance": [0.105, 0.105, 0.105, 0.105],
+  			"armor": [155.1, 170.6, 186.1, 201.6],
+  			"resistance": [30.7, 33.8, 36.9, 40],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "He is the general of a small country near the East Sea. The country is crowded with vicious pirates and is always under security threats by Chen. Despite this desperate situation, he sincerley serves the King with his outstanding ability.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "When hero uses Water God's Dragon Wave, ally's chance of evasion increases by 20% for 4 seconds. During the activation when ally succeeds in evading an attack, hero summons Water Dragon which deals magical damage equal to 30% of hero HP. (Activated once in every 2 seconds)"
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)"
+  			]
+  		},
+  		{
+  			"name": "Sea King Koxinga",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [270.1, 297.1, 324.2, 351.2, 378.2],
+  			"hp": [4213.6, 4635, 5056.4, 5477.7, 5899.1],
+  			"critChance": [0.105, 0.105, 0.105, 0.105, 0.105],
+  			"armor": [202.8, 223.1, 234.4, 263.7, 283.9],
+  			"resistance": [41.8, 46, 50.2, 54.4, 58.6],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "To resist the Tristan army invading the Eastern sea, Koxinga leads the navy force himself through great danger. When he gloriously returns to the nation after defeating the army, the King grants him the title, Aqua king.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "When hero uses Water God's Dragon Wave, ally's chance of evasion increases by 20% for 4 seconds. During the activation when ally succeeds in evading an attack, hero summons Water Dragon which deals magical damage equal to 30% of hero HP. (Activated once in every 2 seconds)"
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Ocean King Koxinga",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [362.5, 398.8, 435, 471.3, 507.5, 543.8, 647.8],
+  			"hp": [6125.3, 6737.9, 7350.4, 7962.9, 8575.4, 9188, 12285],
+  			"critChance": [0.105, 0.105, 0.105, 0.105, 0.105, 0.105, 0.225],
+  			"armor": [247.5, 272.3, 297, 321.8, 346.5, 371.3, 685.3],
+  			"resistance": [52.3, 57.6, 62.8, 68.1, 73.3, 78.5, 134.5],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.06],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.14],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.25],
+  			"background": "As he gains more support throughout the nation, some treacherous forces deceive the King in order to maintain their power. As a result, the King sends him to an uninhabited island crowded with pirates. He continously develops the island while defeating pirates, and gains great public support. People praise him as the Ocean king.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "When hero uses Water God's Dragon Wave, ally's chance of evasion increases by 20% for 4 seconds. During the activation when ally succeeds in evading an attack, hero summons Water Dragon which deals magical damage equal to 35% of hero HP. (Activated once in every second) When ally successfully evades 5 attacks, hero summons a Water Dragon near the enemy at the rear which decreases their accuracy by 15% additionally."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+  "victoria": {
+  	"faction": "Grancia Empire",
+  	"type": "Premium",
+  	"class": "Warrior",
+  	"skillName": "Grancian Swordsmanship",
+  	"passiveSkillName": "Ensign of Victory",
+  	"skillDescription": "Hero deals physical damage equal to (50/135/221)% of Hero's attack power according to the chain number.",
+  	"form": [
+  		{
+  			"name": "Victoria",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [182.3, 200.6, 218.8, 237],
+  			"hp": [2311.5, 2542.6, 2773.8, 3004.9],
+  			"critChance": [0.1, 0.1, 0.1, 0.1],
+  			"armor": [203.4, 223.8, 244.1, 264.5],
+  			"resistance": [24.1, 26.5, 28.9, 31.3],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "A knight who is a distant relative of Alexander. She is the leader of the 'Blue Blood Knights'. Although she is highly talented, extremely attractive and honored by the nation, some people still criticize her and accuse her of only becoming leader becuase of her connections.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "When a block is used, the Flag of Victory is summoned at the front line of the ally for 5 seconds once in every 10 seconds. All allies near the summoned flag ignore amount of damage equal to 50% of Victoria's armor."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)"
+  			]
+  		},
+  		{
+  			"name": "Victoria of the Battlefield",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [314.2, 345.7, 377.1, 408.5, 439.9],
+  			"hp": [3643.8, 4008.2, 4372.5, 4736.9, 5101.3],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+  			"armor": [260.1, 286.2, 312.2, 338.2, 364.2],
+  			"resistance": [39.9, 43.9, 47.9, 51.9, 55.8],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "Victoria does not spare herself from battle. She leads her knights from the front and her armor is rarely not stained with blood. However, she slowly gains the respect of Alexander and appoints her to the position of Chief Knight of the Kingdom.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "When a block is used, the Flag of Victory is summoned at the front line of the ally for 5 seconds once in every 10 seconds. All allies near the summoned flag ignore amount of damage equal to 50% of Victoria's armor."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Victoria of the Oath",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [479.3, 527.3, 575.2, 623.1, 671.1, 719, 872],
+  			"hp": [5364.2, 5900.6, 6437.1, 6973.5, 7509.9, 8046.3, 10691.3],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.217],
+  			"armor": [314.2, 345.6, 377, 408.5, 439.9, 471.3, 824.3],
+  			"resistance": [50, 55, 60, 65, 70, 75, 129],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.03],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.13],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.26],
+  			"background": "Victoria leaves the battlefield due to Alexander's decision. However, she gives her word that she will come back if the soldiers need a victory. Her position as Chief Knight of the Kingdom causes her to become the target of enemies abroad. Those enemies start to come from within, as the kingdom grows to include nations that were once enemies",
+  			"skill": {
+  				"level": 3,
+  				"passive": "When a block is used, the Flag of Victory is summoned at the front line of the ally for 5 seconds once in every 10 seconds. Also, Victoria's auto attack deals physical damage equal to 280% of her armor. All allies near the summoned flag ignore amount of damage equal to 100% of Victoria's armor."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+  "lionel": {
+  	"faction": "Unknown",
+  	"type": "Promote",
+  	"class": "Warrior",
+  	"skillName": "Ferdinando Swordsmanship",
+  	"passiveSkillName": "Onset of Darkness",
+  	"skillDescription": "Deals physical damage equal to (75/165/315)% of attack power according to chain number.",
+  	"form": [
+  		{
+  			"name": "Lionel",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [240.8, 264.9, 298, 313.1],
+  			"hp": [1588, 1746.8, 1905.6, 2064.4],
+  			"critChance": [0.1, 0.1, 0.1, 0.1],
+  			"armor": [146.1, 160.7, 175.3, 189.9],
+  			"resistance": [29.2, 32.1, 35, 37.9],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "An aristocrat boy who ran away from his home. He is traveling around dressed in black armor and using fake names. He lives a hard life working as a mercenary, utilizing his good swordsmanship and intelligence whenever he runs out of money.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Whenever the hero is attacked 4 times, the attack power increases 10% each (Maximum 5 stacks) for 3 seconds and a Demonic Sphere that deals physical damage equal to 200% of heros attack power. (Activated once every 5 seconds)"
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts!",
+  				"Promote Hero: Promoting Heroes!",
+  				"Noble Honor Box: Acquired chance to get Noble honor box!"
+  			]
+  		},
+  		{
+  			"name": "Suffering Lionel",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [414.7, 456.1, 497.6, 539.1, 580.6],
+  			"hp": [2425.6, 2668.2, 2910.8, 3153.3, 3395.9],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+  			"armor": [192, 211.2, 230.4, 249.6, 268.8],
+  			"resistance": [39.9, 43.9, 47.9, 51.9, 55.8],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "From his journey, Lionel finds out about his family's sins and hears the criticism from around the world. He keeps traveling to gather the scattered remnants of his family's power in order to revive them and recover their honor.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Whenever the hero is attacked 4 times, the attack power increases 10% each (Maximum 5 stacks) for 3 seconds and a Demonic Sphere that deals physical damage equal to 200% of heros attack power. (Activated once every 5 seconds)"
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts!",
+  				"Promote Hero: Promoting Heroes!",
+  				"Noble Honor Box: Acquired chance to get Noble honor box!"
+  			]
+  		},
+  		{
+  			"name": "Dark Knight Lionel",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [632.7, 696, 759.3, 822.6, 885.8, 949.1, 1167.1],
+  			"hp": [3525.8, 3878.4, 4230.9, 4583.5, 4936.1, 5288.7, 6843.7],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.22],
+  			"armor": [235.1, 258.7, 282.2, 305.7, 329.2, 352.7, 658.7],
+  			"resistance": [50, 55, 60, 65, 70, 75, 129],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.2],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.2],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.1],
+  			"background": "Lionel becomes renowned as the dark knight. He decides to head toward Edenburg, a city in Neth Empire to make a contribution to the war which may help him revive his family. At Edenberg, he meets the woman of destiny.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "Whenever the hero is attacked 4 times, the attack power increases 15% each (Maximum 10 stacks) for 5 seconds and summon Demonic Sphere that deals physical damage equal to 200% of heros attack power. (Activated once every 5 seconds) When the hero uses block after Demonic Sphere is summoned, additionally summons Demonic Pillar that deals physical damage equal to 400% of heros attack power."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
   "arita": {
     "faction": "Pumpkin City",
     "type": "Premium",
@@ -1936,6 +2624,234 @@
         ]
       }
     ]
+  },
+  "sien": {
+  	"faction": "Grancia Empire",
+  	"type": "Premium",
+  	"class": "Warrior",
+  	"skillName": "Uncontrollable Blood",
+  	"passiveSkillName": "Blood Explosion",
+  	"skillDescription": "Using blocks deal physical damage equal to (200/275/350)% of hero's attack power.",
+  	"form": [
+  		{
+  			"name": "Sien",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [218.8, 240.7, 262.6, 284.4],
+  			"hp": [1849.2, 2034.1, 2219, 2403.9],
+  			"critChance": [0.1, 0.1, 0.1, 0.1],
+  			"armor": [203.4, 223.8, 244.1, 264.5],
+  			"resistance": [24.1, 26.5, 28.9, 31.3],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "A warrior of a small mercenary troop. Although she learned the traditional art of Grancian swordsmanship from her father, her skills are rather mediocre. Yet Sien is liked and trusted among many due to her cheerful nature and neat blade. She and Faust, an alchemist and her mercenary comrade, are a couple.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Passive (support type): The Hero enters a state of bloodlust, automatically activating an attack of a random chain length every 4 seconds. The chance to activate a chain-3 powered skill increases as the hero's HP decreases."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)"
+  			]
+  		},
+  		{
+  			"name": "Jiangshi Sien",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [377.1, 414.8, 452.5, 490.2, 527.9],
+  			"hp": [2915, 3206.5, 3498, 3789.5, 4081],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+  			"armor": [260.1, 286.2, 312.2, 338.2, 364.2],
+  			"resistance": [39.9, 43.9, 47.9, 51.9, 55.8],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "Although Sien and Faust promise to marry after one last expedition against fighting monsters, Sien is killed in battle while defending Faust's life. Sien, however - cannot rest in death - for Faust casts a forbidden spell to revive her as an undead monster, a \"jiangsi.\"",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Passive (support type): The Hero enters a state of bloodlust, automatically activating an attack of a random chain length every 4 seconds. The chance to activate a chain-3 powered skill increases as the hero's HP decreases."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Sien of Bloodlust",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [575.2, 632.7, 690.2, 747.8, 805.3, 862.8, 1076.2],
+  			"hp": [4291.4, 4720.5, 5149.7, 5578.8, 6007.9, 6437.1, 8168.1],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.217],
+  			"armor": [314.2, 345.6, 377, 408.5, 439.9, 471.3, 777.3],
+  			"resistance": [50, 55, 60, 65, 70, 75, 129],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.07],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.11],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.17],
+  			"background": "Despite having been revived, Sien is not Sien - for she has lost all her memories in life. She does not react to anything save for the allure of darkness, and she often disappears, always wandering after its trail...",
+  			"skill": {
+  				"level": 3,
+  				"passive": "Passive (support type): The hero enters a state of bloodlust, automatically activating an attack of a random chain length every 4 seconds. The chance to activate a chain-3 powered skill increases as the hero's HP decreases. The hero will also be healed for 40% of the block skill damage dealt."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+  "borgos": {
+  	"faction": "Hero of Freedom",
+  	"type": "Promote",
+  	"class": "Warrior",
+  	"skillName": "Borgos Slash",
+  	"passiveSkillName": "Boss Monster Power",
+  	"skillDescription": "When the hero uses a block, Dark Slash activates dealing physical damage equal to (75/150/225)% of the hero's attack power.",
+  	"form": [
+  		{
+  			"name": "Borgos",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [151.5, 166.7, 181.8, 197],
+  			"hp": [2306, 2536.6, 2767.2, 2997.8],
+  			"critChance": [0.1, 0.1, 0.1, 0.1],
+  			"armor": [215.4, 236.9, 258.5, 280],
+  			"resistance": [31.4, 34.5, 37.7, 40.8],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "Borgos may have the countenance of a scoundrel, but he has the heart of an angel. Secretly wishing that he could be friends with the other children, Borgos always selflessly offers to be the villian when playing \"Heroes and Villains.\"",
+  			"skill": {
+  				"level": 2,
+  				"passive": "When the hero is attacked, or when a block skill is used, they accrue Monster stacks (1/2/4) based on the length of the block skill used. Each Monster stack increases the hero's armor and resistance by 10. When the stacks are over 5, the next 3-chain skill will summon a monster that deals physical damage equal to 400% of the hero's attack power. Maximum 20 stacks (once per 4.5 seconds)"
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts!",
+  				"Promote Hero: Promoting Heroes!",
+  				"Noble Honor Box: Acquired chance to get Noble honor box!"
+  			]
+  		},
+  		{
+  			"name": "Borgos of Darkness",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [263.8, 290.1, 316.5, 342.9, 369.3],
+  			"hp": [3535, 3888.5, 4242, 4595.5, 4949],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+  			"armor": [260.1, 286.1, 312.1, 338.1, 364.1],
+  			"resistance": [37.9, 41.7, 45.5, 49.3, 53],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "Before long, Borgos realizes that people only love him when he plays the role of the villain. Desperate for attention, Borgos volunteers himself as a henchman to an evil villain. Armed with a face that strikes fear into the hearts of others, Borgos finds himself to have unwittingly become the Evil Lord of Darkness himself.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "When the hero is attacked, or when a block skill is used, they accrue Monster stacks (1/2/4) based on the length of the block skill used. Each Monster stack increases the hero's armor and resistance by 10. When the stacks are over 5, the next 3-chain skill will summon a monster that deals physical damage equal to 400% of the hero's attack power. Maximum 20 stacks (once per 4.5 seconds)"
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts!",
+  				"Promote Hero: Promoting Heroes!",
+  				"Noble Honor Box: Acquired chance to get Noble honor box!"
+  			]
+  		},
+  		{
+  			"name": "Overlord Borgos of Darkness",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [419.8, 461.7, 503.7, 545.7, 587.7, 629.6, 757.9],
+  			"hp": [5153.6, 5668.9, 6184.3, 6699.7, 7215, 7730.4, 10250.7],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.217],
+  			"armor": [305, 335.5, 366, 396.4, 426.9, 457.4, 797.8],
+  			"resistance": [44.6, 49, 53.5, 58, 62.4, 66.9, 121.6],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.29],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.24],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.15],
+  			"background": "The new Evil Overlord Borgos of Darkness is pleased to hear his enemy, the Gatcha Rangers, have vowed to never leave him alone until he is defeated. Touched by the Gatcha Rangers' unfailing perseverance, Borgos vows to meet up to their expectations by becoming the best Evil Overlord of Darkness that Hasla has ever seen.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "When the hero is attacked, or when a block skill is used, they accrue Monster stacks (1/2/4) based on the length of the block skill used. Each Monster stack increases the hero's armor and resistance by 25. When the stacks are over 5, the next 3-chain skill will summon a monster that deals physical damage equal to (400+100*Monster's stack)% of the hero's attack power. Maximum 20 stacks (once per 4.5 seconds)"
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+  "bihyeongrang": {
+  	"faction": "Unknown",
+  	"type": "Premium",
+  	"class": "Warrior",
+  	"skillName": "Advent of Vaisravana",
+  	"passiveSkillName": "Incarnation of Vaisravana",
+  	"skillDescription": "When block skill is used, Vaisravana appears above Bihyeongrang, dealing magic damage equal to (60/180/390)% of hero's attack power. This will last for 5 seconds.",
+  	"form": [
+  		{
+  			"name": "Bihyeongrang",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [198.6, 218.5, 238.3, 258.2],
+  			"hp": [2249.7, 2474.7, 2699.6, 2924.6],
+  			"critChance": [0.1, 0.1, 0.1, 0.1],
+  			"armor": [162.4, 178.7, 194.9, 211.1],
+  			"resistance": [30.4, 33.4, 36.5, 39.5],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "Bihyeongrang, the son of a royal family from a small country in the East has a secret. He can sense ghosts. A hostile family has started rumors, stating Bihyeongrang is the son of a ghost, and that he left his country to be with his own family.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "While Vaisravana is activated, Bihyeongrang orders Vaisravana to [Ghost Slash - magic attack equal to 221% of Bihyeongrangs attack power and increases activation time of Vaisravana 2 seconds / Ghost Cleaver - magic attack equal to 480% of Bihyeongrangs attack power and ignores enemys evasion for 3 seconds / Ghost sword Medley - magic attack equal to 612% of Bihyeongrangs attack power and increases attack power of Bihyeongrangs attack power 50%] according to ally's block skill chain."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)"
+  			]
+  		},
+  		{
+  			"name": "Ghost Eye Bihyeongrang",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [342.4, 376.6, 410.9, 445.1, 479.4],
+  			"hp": [345.9, 3802.6, 4148.3, 4494, 4839.7],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+  			"armor": [192.9, 212.2, 231.5, 250.8, 270.1],
+  			"resistance": [35.8, 39.4, 43, 46.6, 50.2],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "One day, Bihyeongrang hurt his eyes. While he was distressed with his injury, he saw the death angel and ghost. The death angel was surprised that she could be seen. Eventually, the two became close and spent time together. Bihyeongrang felt pitty towards the death angel working so hard, and decides to help her.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "While Vaisravana is activated, Bihyeongrang orders Vaisravana to [Ghost Slash - magic attack equal to 221% of Bihyeongrangs attack power and increases actiation time of Vaisravana 2 seconds / Ghost Cleaver - magic attack equal to 480% of Bihyeongrangs attack power and ignores enemys evasion for 3 seconds / Ghost sword Medley - magic attack equal to 612% of Bihyeongrangs attack power and increases attack power of Bihyeongrangs attack power 50%] according to ally's block skill chain."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Ghost King Bihyeongrang",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [513.9, 565.3, 616.7, 668.1, 719.5, 770.9, 925],
+  			"hp": [5059, 5564.9, 6070.8, 6576.71, 7082.6, 7588.5, 10623.9],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.25],
+  			"armor": [223.7, 246, 268.4, 290.8, 313.1, 335.5, 570.3],
+  			"resistance": [41.6, 45.8, 50, 54.1, 58.3, 62.4, 113],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.13],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.16],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.24],
+  			"background": "Bihyeongrang was invited to the underworld for helping the death angel. The king of the underworld proceeds to tell Bihyeongrang that he is actually a descendant of the Ghost King and was born to become a ruler of ghosts. Bihyeongrang accepts his fate and decides to help humans by controlling ghosts.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "While Vaisravana is activated, Bihyeongrang orders Vaisravana to [Ghost Slash - magic attack equal to 221% of Bihyeongrangs attack power and increases actiation time of Vaisravana 2 seconds / Ghost Cleaver - magic attack equal to 480% of Bihyeongrangs attack power and ignores enemys evasion for 3 seconds / Ghost sword Medley - magic attack equal to 612% of Bihyeongrangs attack power and increases attack power of Bihyeongrangs attack power 50%] according to ally's block skill chain. When Bihyeongrang uses block skill after, Vaisravana deals extra neutral damage equal to 487% of Bihyeongrang's attack power to entire enemy and disappears."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
   },
   "thor": {
     "faction": "Unknown",
@@ -7592,6 +8508,81 @@
       }
     ]
   },
+  "orfeo": {
+  	"faction": "Unknown",
+  	"type": "Premium",
+  	"class": "Priest",
+  	"skillName": "Whisper of the Muse",
+  	"passiveSkillName": "Song of the Muse",
+  	"skillDescription": "Hero heals the entire party (42/152/275)% of Hero's attack power according to the chain number.",
+  	"form": [
+  		{
+  			"name": "Orfeo",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [243.5, 267.8, 292.2, 316.5],
+  			"hp": [1564, 1720.4, 1876.8, 2033.2],
+  			"critChance": [0.1, 0.1, 0.1, 0.1],
+  			"armor": [91.4, 100.6, 109.7, 118.8],
+  			"resistance": [91.4, 100.6, 109.7, 118.8],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "A handsome and attractive boy who is popular among the nation. He is a hot celebrity in the Roman Empire, who thinks very highly of himself. He arrogantly belives that he can attract or tempt anyone but comments that he has not found he right person yet.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Using a 2nd block will heal an ally's HP up to 35% of Orfeo's total HP for 3 seconds."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)"
+  			]
+  		},
+  		{
+  			"name": "Arrogant Orfeo",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [419.5, 461.4, 503.4, 545.3, 587.2],
+  			"hp": [2433.9, 2677.2, 2920.6, 3164, 3407.4],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+  			"armor": [119.3, 131.3, 143.2, 155.1, 167.1],
+  			"resistance": [119.3, 131.3, 143.2, 155.1, 167.1],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "As days go by Orfeo becomes even more arrogant about himself. One day, he decides to seduce Athena who is famous for being difficult to catch. However, he totally fails. Further more, he loses on a bet with her and becomes her servant. However, Orfeo seems to enjoy his life as Athena's secret agent.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Using a 2nd block will heal an ally's HP up to 35% of Orfeo's total HP for 3 seconds."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Orfeo of Temptation",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [627.6, 690.4, 753.2, 815.9, 878.7, 941.5, 1146.5],
+  			"hp": [3596.4, 3956, 4315.7, 4675.3, 5034.9, 5394.6, 7296.6],
+  			"critChance": [0.105, 0.105, 0.105, 0.105, 0.105, 0.105, 0.222],
+  			"armor": [145.4, 160, 174.5, 189.1, 203.6, 218.2, 378.2],
+  			"resistance": [145.4, 160, 174.5, 189.1, 203.6, 218.2, 378.2],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.05],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.16],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.13],
+  			"background": "While chasing after the apostles according to Athena's order, Orfeo finds out that there is a spy disguised as an high aristocrat in the nation. Although quite disinclined, Orfeo seduces female aristocrats to collect sufficient information to trace he spy.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "Using a 2nd block will heal an ally's HP up to 50% of Orfeo's total HP for 3 seconds. Accuracy and Crit Chance are increased by 15%."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
   "aria": {
     "faction": "Unknown",
     "type": "Promote",
@@ -7670,6 +8661,156 @@
       }
     ]
   },
+  "yuria": {
+  	"faction": "Neth Empire",
+  	"type": "Premium",
+  	"class": "Priest",
+  	"skillName": "Mission Delivered!",
+  	"passiveSkillName": "Morale Boost",
+  	"skillDescription": "Upon using block, heals all allies equal to (100/150/200)% of hero's attack power. Using 1-chain increases affected ally's attack power by 20%, 2-chain increases affected ally's armor by 30%, and 3-chain dispells debuffs.",
+  	"form": [
+  		{
+  			"name": "Yuria",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [284, 312.3, 340.7, 369.1],
+  			"hp": [1364, 1500.4, 1636.8, 1773.2],
+  			"critChance": [0.1, 0.1, 0.1, 0.1],
+  			"armor": [91.4, 100.6, 109.7, 118.8],
+  			"resistance": [91.4, 100.6, 109.7, 118.8],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "Yuria used to reside in a small village in the Neth Empire. However, because of the war with Trista, Yuria lost her parents and barely managed to survive, thanks to the general of the Neth Army. Since then Yuria feels indebted to the Neth Army and is working as a hospital orderly.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Of the allies affected by Yuria's block skill, the hero with the lowest HP will be vitalized, immediately activating the vitalized ally's block skill under the same count as Yuria's passive trigger chain, and recovering HP equal to (100/150/200)% of Yuria's attack power. Passive is not activated when Yuria heals herself. (Once every 4 seconds)"
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)"
+  			]
+  		},
+  		{
+  			"name": "Resistance Yuria",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [488.6, 537.4, 586.3, 635.1, 684],
+  			"hp": [2135.9, 2349.5, 2563.1, 2776.7, 2990.2],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+  			"armor": [119.3, 131.3, 143.2, 155.1, 167.1],
+  			"resistance": [119.3, 131.3, 143.2, 155.1, 167.1],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "Yuria became a military nursing officer due to her outstanding abilities. She always had the same vocation with the man who saved her life. However, one day she recognizes that he is going down the wrong path and eventually decides to stand alone to keep her beliefs.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Of the allies affected by Yuria's block skill, the hero with the lowest HP will be vitalized, immediately activating the vitalized ally's block skill under the same count as Yuria's passive trigger chain, and recovering HP equal to (100/150/200)% of Yuria's attack power. Passive is not activated when Yuria heals herself. (Once every 4 seconds)"
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Neth Army Officer Yuria",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [725.6, 798.1, 870.7, 943.2, 1015.8, 1088.4, 1301.8],
+  			"hp": [3190.6, 3509.7, 3828.7, 4147.8, 4466.8, 4785.9, 5969.9],
+  			"critChance": [0.105, 0.105, 0.105, 0.105, 0.105, 0.105, 0.222],
+  			"armor": [145.4, 160, 174.5, 189.1, 203.6, 218.2, 378.2],
+  			"resistance": [145.4, 160, 174.5, 189.1, 203.6, 218.2, 378.2],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.17],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.18],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.13],
+  			"background": "As the head of the Resistance army, Yuria took part in revealing the Neth Empire's dirty secret. She lost what she thought was the most important thing in her life, but has overcome it and worked hard as a temporary representative of the new Neth Empire.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "Of the allies affected by Yuria's block skill, the hero with the lowest HP will be vitalized, immediately activating the vitalized ally's block skill under the same count as Yuria's passive trigger chain, and recovering HP equal to (100/150/200)% of Yuria's attack power. Passive is not activated when Yuria heals herself. (Once every 3 seconds)"
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+  "faust": {
+  	"faction": "Hero of Freedom",
+  	"type": "Premium",
+  	"class": "Priest",
+  	"skillName": "Occult Potion",
+  	"passiveSkillName": "Occult Flask",
+  	"skillDescription": "Using blocks make the hero throw a potion to the allies in the front. The potion will break and release smoke that heals allies in a range equal to (100/180/210)% of allies' attack power for 2 seconds",
+  	"form": [
+  		{
+  			"name": "Faust",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [300.4, 330.4, 360.4, 390.5],
+  			"hp": [1407.6, 1548.4, 1689.1, 1829.9],
+  			"critChance": [0.1, 0.1, 0.1, 0.1],
+  			"armor": [91.4, 100.6, 109.7, 118.8],
+  			"resistance": [91.4, 100.6, 109.7, 118.8],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "An alchemist wandering to fill the emptiness within. His wanderlust earned him great knowledge of both eastern and western medicine. It was on one of his neverending journeys that he met the warrior Sien, and his love for her finally quietens his restlessness, settling down in a quiet country village as a felllow mercenaries.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "After an ally attacks 10 times, throw a potion to the allies in the front. The potion will break and release smoke that heals allies within range equal to (100%) of the allies' attack power for 2 seconds."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)"
+  			]
+  		},
+  		{
+  			"name": "Faust of Taboos",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [518.2, 570, 621.8, 673.6, 725.4],
+  			"hp": [2190.5, 2409.5, 2628.6, 2847.6, 3066.7],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+  			"armor": [119.3, 131.3, 143.2, 155.1, 167.1],
+  			"resistance": [119.3, 131.3, 143.2, 155.1, 167.1],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "Yet Faust's happiness does not last long: after fatally losing Sien during a monster expedition, Faust combines the western study of alchemy and a forbidden spell of the ancient east to revive Sien as an undead jiangsi. Sien, after all, is the first and only meaning to his life.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "After an ally attacks 10 times, throw a potion to the allies in the front. the potion will break and release smoke that heals allies within range equal to (100%) of the allies' attack power for 2 seconds."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Faust of Desolation",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [780.8, 858.8, 936.9, 1015, 1093.1, 1171.2, 1384.6],
+  			"hp": [3236.7, 3560.4, 3884.1, 4207.8, 4531.4, 4855.1, 6039.1],
+  			"critChance": [0.105, 0.105, 0.105, 0.105, 0.105, 0.105, 0.222],
+  			"armor": [145.4, 160, 174.5, 189.1, 203.6, 218.2, 378.2],
+  			"resistance": [145.4, 160, 174.5, 189.1, 203.6, 218.2, 378.2],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.17],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.18],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.13],
+  			"background": "But when the revived Sien does not listen to Faust's pleas and instead disappears into the shadows, Faust once more begins a neverending journey to find her: a journey that may have no meaning, for Sien is not his Sien anymore. Yet he cannot stop. He cannot rest. She is the only meaning to his life. She is everything and the only thing that remains for him.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "After an ally attacks 10 times, throw a potion to the allies in the front. The potion will break and release smoke that heals allies within range equal to (100%) of the allies' attack power for 2 seconds and increases armor/magic penetration by 100%."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
   "seiren": {
     "faction": "Unknown",
     "type": "Promote",
@@ -7747,6 +8888,81 @@
         ]
       }
     ]
+  },
+  "noel": {
+  	"faction": "Unknown",
+  	"type": "Premium",
+  	"class": "Priest",
+  	"skillName": "Celebration of Saint",
+  	"passiveSkillName": "Stance of the Holy Knight",
+  	"skillDescription": "Heals ally with the lowest HP equal to (30/42/58)% of hero's maximum HP based on chain number.",
+  	"form": [
+  		{
+  			"name": "Noel",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [110.1, 121.1, 132.1, 143.1],
+  			"hp": [2878.7, 3166.6, 3454.5, 3742.3],
+  			"critChance": [0.1, 0.1, 0.1, 0.1],
+  			"armor": [177.9, 195.7, 213.5, 231.2],
+  			"resistance": [177.9, 195.7, 213.5, 231.2],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "Noel lives in Elandia, the Holy City. Her devoted parents brought her to Elandia when she was young. Noel felt supressed due to the godly mood of the city. She only felt normal while wearing her helmet and acting like a knight.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "When ally other than Noel is attacked, Noel goes to the front and swings her sword, push and stun enemy for 1.5 seconds and get 30% of ally's damage for 5 seconds. (once per 5 seconds, Noel does not debuffs instead, and damaged ally's armor and resistance will be applicated to Noel.)"
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)"
+  			]
+  		},
+  		{
+  			"name": "Divine Knight Noel",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [189.6, 208.6, 227.6, 246.5, 265.5],
+  			"hp": [4479.1, 4927, 5374.9, 5822.9, 6270.8],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+  			"armor": [211.7, 232.9, 254, 275.2, 296.4],
+  			"resistance": [211.7, 232.9, 254, 275.2, 296.4],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "Noel watched the Knights of the Order of the Goddess while they were training, and would often imitate them for fun. The head of the Knights once saw Noel following their moves and asked her parents if they could scout her. Noel then became the youngest knight.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "When ally other than Noel is attacked, Noel goes to the front and swings her sword, push and stun enemy for 1.5 seconds and get 30% of ally's damage for 5 seconds. (once per 5 seconds, Noel does not debuffs instead, and damaged ally's armor and resistance will be applicated to Noel.)"
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Divine Guardian Noel",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [283.7, 312, 340.4, 368.8, 397.1, 425.5, 525.5],
+  			"hp": [6617.8, 7279.5, 7941.3, 8603.1, 9264.9, 9926.7, 12823],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.215],
+  			"armor": [245.7, 270.2, 294.8, 319.4, 343.9, 368.5, 569.5],
+  			"resistance": [245.7, 270.2, 294.8, 319.4, 343.9, 368.5, 569.5],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.924],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.16],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.145],
+  			"background": "Noel was no longer a hidden treasure. With talent and devotion inherited from her parents, she soon became a official knight. She became a star in the Order due to her politeness and sweetness.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "When ally other than Noel is attacked, Noel goes to the front and swings her sword, push and stun enemy for 1.5 seconds and get 50% of ally's damage for 5 seconds. (once per 5 seconds, Noel does not debuffs instead, and damaged ally's armor and resistance will be applicated to Noel.) When Noel's HP goes under 50%, the next block will count as  3-chain skill for once, healing entire ally and Noel's armor and resistance increase by 1000 each for 5 seconds."
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts! (Except Noble Honor Box)",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
   },
   "bravedog": {
     "faction": "",
@@ -7850,6 +9066,532 @@
       }
     ]
   },
+  "solbadguy": {
+  	"faction": "Supply all forces",
+  	"type": "Secret",
+  	"class": "Warrior",
+  	"skillName": "Immoral Flame",
+  	"passiveSkillName": "Passive",
+  	"skillDescription": "Using a chain skill activates Fafnir, Gun Flame or Grand Viper, dealing physical damage equal to (150/200/320)% of hero's attack power.",
+  	"form": [
+  		{
+  			"name": "Sol Badguy",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [228.2, 251, 273.8, 296.6],
+  			"hp": [2505.6, 2426.2, 2646.8, 2867.3],
+  			"critChance": [0.2, 0.2, 0.2, 0.2],
+  			"armor": [206, 226.6, 247.2, 267.8],
+  			"resistance": [36.9, 40.5, 44.2, 47.9],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "A researcher who studied high-end technology in another dimension. His coleague 'That Man' betrayed him. Sol lost his lover and was converted into a human/machine weapon as a result of the betrayal. He vowed to use his newfound power to get revenge upon 'That Man'. He wanders the land in search of gears so that he may complete his revenge.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Using a block after an ally's chain-3 skill, activates Gun flame and Grand viper consecutively."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!"
+  			]
+  		},
+  		{
+  			"name": "Sol Badguy",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [392.4, 431.6, 470.8, 510.1, 549.3],
+  			"hp": [3394.8, 3734.2, 4073.7, 4413.2, 4752.7],
+  			"critChance": [0.2, 0.2, 0.2, 0.2, 0.2],
+  			"armor": [244.9, 269.4, 293.9, 318.3, 342.8],
+  			"resistance": [43.8, 48.1, 52.5, 56.9, 61.3],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "Sol brought down Ramlethal, after she declared war against mankind. However, Sol was just bait to revive Justice the Destroyer. With the help of Ramlethal and her twin sister Elphelt he won over Justice, but Elphelt was caught by 'Ruthless Revelation'.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Using a block after an ally's chain-3 skill, activates Gun flame and Grand viper consecutively."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Sol Badguy",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [591, 650.1, 709.2, 768.3, 827.4, 886.5, 1036.5],
+  			"hp": [4995.7, 5495.2, 5994.8, 6494.4, 6993.9, 7493.5, 9920.5],
+  			"critChance": [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.383],
+  			"armor": [284.3, 312.7, 341.2, 360.6, 398, 426.5, 754.5],
+  			"resistance": [50.5, 55.5, 60.6, 65.6, 70.7, 75.7, 133.7],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.02],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.12],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.11],
+  			"background": "As Sol was preparing to go after 'Ruthless Revelation', 'That Man' came to him and asked him to help defeat 'Ruthless Revelation'. Sol was confilcted by this turn of events. and while contemplating these thoughts, a mysterious magic led Sol to Hasla.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "Using a block after an ally's chain-3 skill, activates Gun flame and Grand viper consecutively."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+  "kykiske": {
+  	"faction": "Supply all forces",
+  	"type": "Secret",
+  	"class": "Warrior",
+  	"skillName": "Stun Edge",
+  	"passiveSkillName": "Passive",
+  	"skillDescription": "Launches (Stun Edge/Stun Edge(Charge Attack)/Sacred Edge) that deals magical damage equal to (80/155/255)% of the Hero's attack power according to the chain length. Damaged enemy can't move for 1 second.",
+  	"form": [
+  		{
+  			"name": "Ky Kiske",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [199.1, 219, 238.9, 258.8],
+  			"hp": [2551.3, 2806.4, 3061.6, 3316.7],
+  			"critChance": [0.11, 0.11, 0.11, 0.11],
+  			"armor": [195.5, 215, 234.6, 254.1],
+  			"resistance": [29.5, 32.4, 35.3, 38.3],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "Genius prosecutor from the Holy Knights. His looks, charisma and talent as a fencer make him popular among the citizens. He thinks of Sol as a rival, and he has to compete against Sol's outgoing personality.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Ride the lightning: Pushes enemy back and deals magical damage equal to 285% of hero's attack power when an enemy is hit by Sacred Edge. Using a block after an ally's chain-3 skill launches Sacred Edge 1 time."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!"
+  			]
+  		},
+  		{
+  			"name": "Ky Kiske",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [343.1, 377.5, 411.8, 446.1, 480.4],
+  			"hp": [4897.1, 4286.8, 4676.5, 5066.2, 5456],
+  			"critChance": [0.11, 0.11, 0.11, 0.11, 0.11],
+  			"armor": [232.6, 255.9, 279.2, 302.4, 325.7],
+  			"resistance": [41.3, 45.5, 49.6, 53.7, 57.8],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "Ky was recognized for his contribution during the Holy War and became the King of Iryulia. However, Iryulia faces collapse after the attack from 'Ruthless Revelation'. Ky managed to save Iruylia and his wife Dizzy with the help of his colleagues.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Ride the lightning: Pushes enemy back and deals magical damage equal to 285% of hero's attack power when an enemy is hit by Sacred Edge. Using a block after an ally's chain-3 skill launches Sacred Edge 1 time."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Ky Kiske",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [523.6, 575.9, 628.3, 680.7, 733, 785.4, 957.4],
+  			"hp": [5665.1, 6231.6, 6798.1, 7364.7, 7931.2, 8497.7, 11321.7],
+  			"critChance": [0.11, 0.11, 0.11, 0.11, 0.11, 0.11, 0.233],
+  			"armor": [269.6, 296.5, 323.5, 350.4, 377.4, 404.3, 724.3],
+  			"resistance": [48.1, 52.9, 57.7, 62.6, 67.4, 72.2, 129.2],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.15],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.15],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.15],
+  			"background": "Ruthless Revelation has continously threatened mankind, leading Ky to investigate how he could stop them. At the moment when he finally found clues about 'Ruthless Revelation', a mysterous magic square led him to Hasla.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "Ride the lightning: Pushes enemy back and deals magical damage equal to 350% of hero's attack power and reduces damage taken by 25% when an enemy is hit by Sacred Edge. Using a block after an ally's chain-3 skill, launches Sacred Edge 2 times."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+  "milliarage": {
+  	"faction": "Supply all forces",
+  	"type": "Secret",
+  	"class": "Warrior",
+  	"skillName": "Lust Shaker",
+  	"passiveSkillName": "Passive",
+  	"skillDescription": "When a block is used it activates Lust Shaker that deals magic damage equal to (60/150/270)% of the hero's attack power.",
+  	"form": [
+  		{
+  			"name": "Millia Rage",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [193.9, 213.3, 232.7, 252.1],
+  			"hp": [2536.5, 2790.1, 3043.8, 3297.4],
+  			"critChance": [0.23, 0.23, 0.23, 0.23],
+  			"armor": [236.9, 260.6, 284.3, 308],
+  			"resistance": [31.3, 34.5, 37.6, 40.7],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "Assassin from another dimension. Millia became an orphan during the Holy War. 'Jato', the Assassin leader has raised her since then. She is now a decent Assassin member, mainly because of Jato and has used prohibited spells gaining the ability to handle her hairs quite freely.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "When block is used after 2 auto attacks it activates Winger. Winger deals magic damage equal to (120/300/500)% of hero's attack power depending on chain length. (Once per 3 seconds)"
+  			},
+  			"howToGet": [
+  				"Event: Get by event!"
+  			]
+  		},
+  		{
+  			"name": "Millia Rage",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [333.5, 366.9, 400.2, 433.6, 466.9],
+  			"hp": [3904, 4294.4, 4684.8, 5075.2, 5465.6],
+  			"critChance": [0.23, 0.23, 0.23, 0.23, 0.23],
+  			"armor": [281.6, 309.8, 337.9, 366.1, 394.3],
+  			"resistance": [37.2, 40.9, 44.6, 48.4, 52.1],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "Millia is distressed because of what Assassins do. She betrays the Assassin group which leads to her being hunted. Meanwhile Jato the leader as lost his ego, and his shaddow \"Eddie\" who ruled after him. Unfortunately, he has perished too. As a result this Millia is free, but suffers from hatred and guilt.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "When block is used after 2 auto attacks it activates Winger. Winger deals magic damage equal to (120/300/500)% of hero's attack power depending on chain length. (Once per 3 seconds)"
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Millia Rage",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [502.3, 552.6, 602.8, 653, 703.3, 753.5, 891.5],
+  			"hp": [5745, 6319.5, 6894, 7468.5, 8043, 8617.5, 11238.7],
+  			"critChance": [0.23, 0.23, 0.23, 0.23, 0.23, 0.23, 0.398],
+  			"armor": [327, 359.7, 392.3, 425, 457.7, 490.4, 844.7],
+  			"resistance": [42.9, 47.2, 51.5, 55.8, 60.1, 64.4, 117.7],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.062],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.11],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.119],
+  			"background": "Millia hears a rumor that Jati might still be alive, and starts looking for him. She is attacked by Bed Man the mysterious guy. However Jato appears and saves Millia. Millia and the Assassins start searching for the mysterious guy, when all of a sudden Millia is ditched at Hasla due to an unexpected change in dimension.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "When block is used after 2 auto attacks it activates Winger. Winger deals magic damage equal to (120/300/500)% of hero's attack power depending on chain length. Additionally, allies critical strike chance is increased by 20% for 4 seconds. (Once per 3 seconds)"
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+  "johnny": {
+  	"faction": "Supply all forces",
+  	"type": "Secret",
+  	"class": "Warrior",
+  	"skillName": "Mist Finer",
+  	"passiveSkillName": "Passive",
+  	"skillDescription": "When a block is used, Mist Finer is activated dealing physical damage equal to (60/130/250)% of the hero's attack power.",
+  	"form": [
+  		{
+  			"name": "Johnny",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [229, 251.9, 274.8, 297.7],
+  			"hp": [2168.6, 2385.5, 2602.3, 2819.2],
+  			"critChance": [0.94, 0.94, 0.94, 0.94],
+  			"armor": [166.2, 182.8, 199.4, 216],
+  			"resistance": [33.9, 37.3, 40.6, 44],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "The leader of the Jellyfish air pirates from another dimension. He became an orphan during the Holy War and stood alone since then. He finds out that there are many other people in the same circumstance. To save them he organized the Jellyfish air pirates.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "When an ally or the hero uses a chain-3 skill, a coin is thrown at the enemy. When the coin hits an enemy, the next block skill used will do 30% more damage."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!"
+  			]
+  		},
+  		{
+  			"name": "Johnny",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [394.6, 434.1, 473.5, 513, 552.5],
+  			"hp": [3312.5, 3643.8, 3975.1, 4306,3, 4637.6],
+  			"critChance": [0.94, 0.94, 0.94, 0.94, 0.94],
+  			"armor": [197.7, 217.5, 237.3, 257.1, 276.8],
+  			"resistance": [47.5, 52.3, 57, 61.8, 66.5],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "Johnny journeys off to find a doctor who cures diseases to save May, who is suffering from mysterious headaches. In one village he finds the doctor, and succeeds in asking him to cure May.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "When an ally or the hero uses a chain-3 skill, a coin is thrown at the enemy. When the coin hits an enemy, the next block skill used will do 30% more damage."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Johnny",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [602.1, 662.3, 722.6, 782.8, 843, 903.2, 1061.4],
+  			"hp": [4815.4, 5296.9, 5778.4, 6260, 6741.5, 7223, 10272.9],
+  			"critChance": [0.94, 0.94, 0.94, 0.94, 0.94, 0.94, 0.207],
+  			"armor": [229.1, 252, 275, 297.9, 320.8, 343.7, 689.3],
+  			"resistance": [55.3, 60.9, 66.4, 71.9, 77.5, 83, 135.4],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 120.2],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.138],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.163],
+  			"background": "Johnny contacts 'Liberator' who is essential for curing May and any Japanese who suffer from the same pain. While heading to Colony where Japanese live to meet Liberator, Johnny is ditched at Hasla due to an unexpected change in dimension.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "When an ally or the hero uses a chain-3 skill, a coin is thrown at the enemy. When the coin hits an enemy, the next 2 block skills used will do 50% more damage. After the skill ends, \"That's My Name\" will activate dealing physical damage equal to 500% of the hero's attack power."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+  "kyokusanagi": {
+  	"faction": "Supply all forces",
+  	"type": "Secret",
+  	"class": "Warrior",
+  	"skillName": "108 Shiki: Yami Barai",
+  	"passiveSkillName": "Ura 108 Shiki: Orochi Nagi",
+  	"skillDescription": "Releases a ball of energy that deals physical damage equal to [80/190/360]% of attack power.",
+  	"form": [
+  		{
+  			"name": "Kyo Kusanagi",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [293.5, 322.9, 352.2, 381.6],
+  			"hp": [1972.3, 2169.5, 2366.8, 2564],
+  			"critChance": [0.2, 0.2, 0.2, 0.2],
+  			"armor": [205.9, 226.5, 247, 267.6],
+  			"resistance": [29.5, 32.4, 35.3, 38.3],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "A pyrokinetic student of the Kusanagi clan. Although lazy and rebellious, he is a born fighter of natural skill. Recently he became the champion of the national martial arts competition in Japan.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Upon using 3 blocks, next block is changed to \"Ura 108 Shiki: Orochi Nagi,\" and deals additional physical damage equal to 450% of attack power. Power MAX Effect: Upon activation, armor penetration is increased by 250 for 8 seconds."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!"
+  			]
+  		},
+  		{
+  			"name": "Kyo Kusanagi",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [506, 556.6, 607.2, 657.8, 708.4],
+  			"hp": [3281.8, 3609.9, 3938.1, 4266.3, 4594.5],
+  			"critChance": [0.2, 0.2, 0.2, 0.2, 0.2],
+  			"armor": [244.9, 269.4, 293.9, 318.4, 342.9],
+  			"resistance": [35, 38.4, 41.9, 45.4, 48.9],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "Kyo receives an invitation to a mysterious fighting tournament called \"The King of Fighters,\" and once again forms a team with Benimaru Nikaido and Goro Daimon, whom he met during the national martial arts competition. Yet Kyo soon discovers that \"The King of Fighters\" is no ordinary tournament: it is part of a greater scheme to revive Orochi, the eight-headed snake entity.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Upon using 3 blocks, next block is changed to \"Ura 108 Shiki: Orochi Nagi,\" and deals additional physical damage equal to 450% of attack power. Power MAX Effect: Upon activation, armor penetration is increased by 250 for 8 seconds."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Kyo Kusanagi",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [771.7, 848.9, 926.1, 1003.2, 1080.4, 1157.6, 1337.6],
+  			"hp": [4980.5, 5478.5, 5976.6, 6474.6, 6972.7, 7470.7, 10078.7],
+  			"critChance": [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.383],
+  			"armor": [284.1, 312.5, 340.9, 369.3, 397.7, 426.1, 754.1],
+  			"resistance": [40.5, 44.6, 48.6, 52.7, 56.7, 60.8, 118.8],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.14],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.1],
+  			"background": "Long ago the three clans of Kusanagi, Yasakani, and Yata succeeded in sealing Orochi. Facing the revived Orochi as his ancestors once did, Kyo gains full control over the Sacred Treasure of Kusanagi. With his final blow against Orochi, Kyo and Orochi's powers collide in a brilliant explosion that transports Kyo to the dimension of Hasla.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "Upon using 3 blocks, next block is changed to \"Ura 108 Shiki: Orochi Nagi,\" and deals additional physical damage equal to 450% of attack power. If last explosion damage does not kill enemy, attack is reactivated. (Once every 5 seconds) Power MAX Effect: Upon activation, armor penetration is increased by 250 for 8 seconds."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+  "ioriyagami": {
+  	"faction": "Supply all forces",
+  	"type": "Secret",
+  	"class": "Warrior",
+  	"skillName": "108 Shiki: Yami Barai",
+  	"passiveSkillName": "Kin 1211 Shiki: Ya Otome",
+  	"skillDescription": "Releases ball of energy that deals magical damage equal to [80/190/360]% of attack power.",
+  	"form": [
+  		{
+  			"name": "Iori Yagami",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [257.9, 283.7, 309.5, 335.2],
+  			"hp": [2914, 3205.4, 3946.8, 3788.2],
+  			"critChance": [0.108, 0.108, 0.108, 0.108],
+  			"armor": [179.1, 197, 214.9, 232.8],
+  			"resistance": [36.8, 40.5, 44.2, 47.8],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "A member of the Yagami clan, which is at odds with the Kusanagi clan. Iori is both the lead bassist of a popular band and a skilled fighter. He is usually quiet and uninterested in his surroundings, but his hatred for Kyo renders him unstable and belligerent whenver Kyo is around.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "If enemy attacked by \"108 Shiki: Yami Barai\" is outside normal attack range, uses \"Kin 1211 Shiki: Ya Otome\" to stun one enemy, and deal magical equal to 350% of attack power. Cannot be pushed back during attack. Power MAX Effect: Upon activation, resistance penetration is incrased by 300."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!"
+  			]
+  		},
+  		{
+  			"name": "Iori Yagami",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [444.6, 489, 533.5, 577.9, 622.4],
+  			"hp": [4450.9, 4896, 5341.1, 5786.2, 6231.3],
+  			"critChance": [0.108, 0.108, 0.108, 0.108, 0.108],
+  			"armor": [213.1, 234.4, 255.7, 277, 298.4],
+  			"resistance": [43.7, 48.1, 52.4, 56.8, 61.2],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "Iori receives an offer to fight in a mysterious fighting tournament, \"The King of Fighters,\" and enters in his animosity against Kyo. It is revealed, however, the tournament is no ordinary competition: it is part of a greater scheme to revive Orochi, the eight-headed snake entity.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "If enemy attacked by \"108 Shiki: Yami Barai\" is outside normal attack range, uses \"Kin 1211 Shiki: Ya Otome\" to stun one enemy, and deal magical equal to 350% of attack power. Cannot be pushed back during attack. Power MAX Effect: Upon activation, resistance penetration is incrased by 300."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Iori Yagami",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [678, 745.8, 813.6, 881.4, 949.2, 1017, 1170],
+  			"hp": [6470, 7117, 7764, 8411, 10.8, 9705, 12244],
+  			"critChance": [0.108, 0.108, 0.108, 0.108, 0.108, 0.108, 0.225],
+  			"armor": [247.1, 271.8, 296.5, 321.3, 346, 370.7, 676.7],
+  			"resistance": [50.6, 55.7, 60.7, 65.8, 70.8, 75.9, 129.9],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.29],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.2],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.2],
+  			"background": "The Yagami clan, known long ago as the Yasakani clan, was one of the three families that sealed Orochi. Yet after being tricked by one of the Hakkesshu, the leader of Yagami clan ended up swearing a blood oath of loyalty to the snake entity. Its descendant and heir, Yagami, is thus controlled by Orochi in an attempt to kill Kyo and Chizuru, the other descendants of the Three Sacred Treasures... But at the last moment Iori awakens and binds Orochi, who directly receives Kyo's final blow - which ends up in a brilliant explosion that transports Iori to the dimension of Hasla.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "If enemy attacked by \"108 Shiki: Yami Barai\" is outside normal attack range, uses \"Kin 1211 Shiki: Ya Otome\" to stun one enemy and deal magical equal to 610% of attack power. Cannot be pushed back during attack. Becomes immune to all damage except magical. Power MAX Effect: Upon activation, resistance penetration is incrased by 300."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+  "omegarugal": {
+  	"faction": "Supply all heroes",
+  	"type": "Secret",
+  	"class": "Warrior",
+  	"skillName": "Dark Genocide",
+  	"passiveSkillName": "Gravity Smash",
+  	"skillDescription": "Deals an upper kick that deals physical damage equal to [60/115/200]% of attack power 2 times.",
+  	"form": [
+  		{
+  			"name": "Omega Rugal",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [230.6, 253.7, 276.7, 299.8],
+  			"hp": [2417.3, 2659.1, 2900.8, 3142.5],
+  			"critChance": [0.24, 0.24, 0.24, 0.24],
+  			"armor": [205.8, 226.4, 247, 267.6],
+  			"resistance": [35, 38.5, 42, 45.4],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "An extremely rich arms dealer of the black market, wealthy enough to own an enormous aircraft carrier. In his youth, Rugal lost one of his eyes in a fight against Goenitz, one of the Hakkesshu, but acquired the power of Orochi in its stead. Ever since then he has been expanding his influence through his powers.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Rugal cannot be pushed back. After normal attack, releases a ball of gravity that deals physical damage equal to 185% of attack power. (Once every 6 seconds) Power MAX Effect: Upon activation, motion speed is increased by 40% for 8 seconds."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!"
+  			]
+  		},
+  		{
+  			"name": "Omega Rugal",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [397.6, 437.3, 477.1, 516.8, 556.6],
+  			"hp": [3692.3, 4061.6, 4430.8, 4800, 5169.2],
+  			"critChance": [0.24, 0.24, 0.24, 0.24, 0.24],
+  			"armor": [245, 269.4, 293.9, 318.4, 342.9],
+  			"resistance": [41.5, 45.7, 49.8, 54, 58.1],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "Rugal has a peculiar hobby: defeating strong fighters and making their bodies into \"trophies.\" In order to satisfy his desires, Rugal hosts the fighting tournament \"The King of Fighters\" and attempts to turn its participants into statues, but is defeated by Kusanagi Kyo. The enraged Rugal, gone mad by his defeat, blows his own aircraft carrier up into flames..",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Rugal cannot be pushed back. After normal attack, releases a ball of gravity that deals physical damage equal to 185% of attack power. (Once every 6 seconds) Power MAX Effect: Upon activation, motion speed is increased by 40% for 8 seconds."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Omega Rugal",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [606.4, 667, 727.6, 788.3, 848.9, 909.5, 1062.6],
+  			"hp": [5367.3, 5904, 6440.8, 6977.5, 7514.2, 8050.9, 10589.9],
+  			"critChance": [0.24, 0.24, 0.24, 0.24, 0.24, 0.24, 0.357],
+  			"armor": [284, 312.5, 340.9, 369.3, 397.7, 426.1, 732.1],
+  			"resistance": [48.1, 52.9, 57.7, 62.5, 67.3, 72.1, 126.1],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.29],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.2],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.2],
+  			"background": "... but Rugal, believed to be dead, returns much stronger than before: he has replaced his body with mechanical parts and unleashed the power of Orochi. Although he attempts revenge against Kyo, he is once more defeated. Rugal goes beserk, and just before the moment of his self-destruction, a brilliant explosion transports him to Hasla.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "Rugal cannot be pushed back. After normal attack, releases a ball of gravity that deals physical damage equal to 275% of attack power. Also, attack power increases by 5% of remaining HP, and life steal in ratio to lost HP for 3 seconds. (Once every 6 seconds) Power MAX Effect: Upon activation, motion speed is increased by 40% for 8 seconds."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+
   "jin-kyung": {
     "faction": "Supply all forces",
     "type": "Secret",
@@ -8825,6 +10567,187 @@
       }
     ]
   },
+  "i-no": {
+  	"faction": "Supply all forces",
+  	"type": "Secret",
+  	"class": "Priest",
+  	"skillName": "Marlene!",
+  	"passiveSkillName": "Passive",
+  	"skillDescription": "Heals a single ally by (190/260/335)% of hero's attack power and discharge electric wave that deals magical damage to frontline.",
+  	"form": [
+  		{
+  			"name": "I-No",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [242.3, 266.5, 290.7, 315],
+  			"hp": [1558.6, 1714.4, 1870.3, 2026.1],
+  			"critChance": [0.115, 0.115, 0.115, 0.115],
+  			"armor": [140.8, 154.9, 169, 183.1],
+  			"resistance": [140.8, 154.9, 169, 183.1],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "A witch living in another dimension. She was born with the ability to slip through time. Her ability made normal life boring and her interest in the world waned. She doesn't remember who she is, where she is from or how she got this ability.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Discharge Antidepressant Scale deals magical damage equal to 250% of hero's attack power when an ally uses a chain-3 skill. Enemy hit by block and Discharge Antidepressant gains a mark that has a 20% chance to block buffs. (once every 8 seconds)"
+  			},
+  			"howToGet": [
+  				"Event: Get by event!"
+  			]
+  		},
+  		{
+  			"name": "I-No",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [450.3, 495.4, 540.4, 585.4, 630.5],
+  			"hp": [2612.2, 2873.4, 3134.7, 3395.9, 3657.1],
+  			"critChance": [0.115, 0.115, 0.115, 0.115, 0.115],
+  			"armor": [149.5, 164.4, 179.4, 194.3, 209.2],
+  			"resistance": [149.5, 164.4, 179.4, 194.3, 209.2],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "Ramlethal has declared war against mankind and I-No has gone through this several times. She is disappointed with the fact that history hasn't changed at all. I-No has fought with Ramlethal before, but this time there is a good chance history may be different.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Discharge Antidepressant Scale deals magical damage equal to 250% of hero's attack power when an ally uses a chain-3 skill. Enemy hit by block and Discharge Antidepressant gains a mark that has a 20% to block buffs. (once every 8 seconds)"
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "I-No",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [721.5, 793.6, 865.7, 937.9, 1010, 1082.2, 1301.2],
+  			"hp": [4135.6, 4549.2, 4962.8, 5376.3, 5789.9, 6203.5, 7974.5],
+  			"critChance": [0.115, 0.115, 0.115, 0.115, 0.115, 0.115, 0.246],
+  			"armor": [164.2, 180.7, 197.1, 213.5, 229.9, 246.4, 421.4],
+  			"resistance": [164.2, 180.7, 197.1, 213.5, 229.9, 246.4, 421.4],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.2],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.15],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.12],
+  			"background": "While I-No was living in the dark as 'That Man' asked for, she recognizes her true identity due to one incident. At the moment when the truth was being revealed, mysterious magic led I-No to Hasla.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "Discharge Antidepressant Scale deals magical damage equal to 360% of hero's attack power when an ally uses a chain-3 skill. Enemy hit by block and Discharge Antidepressant gains a mark that has a 20% chance to block buffs and the party becomes immune to all debuffs when using blocks while the mark is active. (once every 6 seconds)"
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+  "siekensou": {
+  	"faction": "Supply all forces",
+  	"type": "Secret",
+  	"class": "Priest",
+  	"skillName": "Choukyuu Dan",
+  	"passiveSkillName": "Meat Dumpling RESPECT",
+  	"skillDescription": "Releases \"Choukyuu Dan\" that either (heals / deals neutral damage) equal to [11/16/20]% of hero's HP whenever it touches (ally / enemy).",
+  	"form": [
+  		{
+  			"name": "Sie Kensou",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [112, 123.2, 134.4, 145.6],
+  			"hp": [2959.1, 3255, 3550.9, 3846.8],
+  			"critChance": [0.1, 0.1, 0.1, 0.1],
+  			"armor": [110.4, 121.5, 132.5, 143.5],
+  			"resistance": [110.4, 121.5, 132.5, 143.5],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "Kensou became the disciple of Chin Gentsai, a famous master of martial arts, after a chance meeting. As he grew up without having much to eat. he is always hungry. Kensou may seem flippant and noisy, but in fact he is very serious and works hard at what he does.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "If ally is attacked 6 times, eats meat dumpling to increase own health by 150% of attack power (Once every 4 seconds) Power MAX Effect: Maximum HP is increased by 10% for 8 seconds."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!"
+  			]
+  		},
+  		{
+  			"name": "Sie Kensou",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [199.9, 219.9, 239.9, 259.9, 279.9],
+  			"hp": [34385, 4823.5, 5262, 5700.6, 6139.1],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1],
+  			"armor": [125, 137.5, 150, 162.4, 174.9],
+  			"resistance": [125, 137.5, 150, 162.4, 174.9],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "After hard training, Kensou earns not only the knowledge but the psychic powers of Chin Gentsai. While training in a lone cottage in the mountains with Athena Asamiya, the subject of his infatuation, Kensou receives an invitation to the mysterious tournament \"The King of Fighters.\" Chin Gentsai takes his disciples Kensou and Athena to mark their progress.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "If ally is attacked 6 times, eats meat dumpling to increase own health by 150% of attack power (Once every 4 seconds) Power MAX Effect: Maximum HP is increased by 10% for 8 seconds."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Sie Kensou",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [299, 328.9, 358.8, 388.7, 418.6, 448.5, 667.5],
+  			"hp": [6479.1, 7127, 7774.9, 8422.9, 9070.8, 9718.7, 11489.7],
+  			"critChance": [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.231],
+  			"armor": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 392.2],
+  			"resistance": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 392.2],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.2],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.15],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.12],
+  			"background": "Kensou realizes the true objective of \"The King of Fighters\": the revival of Orochi, a being close to god, and his desire to end the human race for the sake of nature. In order to enlighten Orochi of the possibility of the human race, Kensou and Athena rush to the site of Orochi's revial. At that moment, a brilliant explosion transports Kensou to Hasla.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "If ally is attacked 6 times, eats meat dumpling to increase own health by 250% of attack power. Has a 50% chance of reducing (physical/magical) damage by 75% until next meat dumpling. (Once every 4 seconds) Power MAX Effect: Maximum HP is increased by 10% for 8 seconds."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+  "snowman": {
+  	"faction": "",
+  	"type": "Secret",
+  	"class": "Warrior",
+  	"skillName": "Deck the Halls",
+  	"passiveSkillName": "A Warm Christmas",
+  	"skillDescription": "Strikes the frontline with a Christmas tree, dealing physical damage equal to (56/178/322)% of the Hero's atack power. It also fills your heart with cheer.",
+  	"form": [
+  		{
+  			"name": "Snowman",
+  			"star": 3,
+  			"level": 30,
+  			"atkPower": [118.5, 130.3, 142.2],
+  			"hp": [3541.9, 3896.1, 4250.2],
+  			"critChance": [0.1, 0.1, 0.1],
+  			"armor": [193.8, 213.2, 232.6],
+  			"resistance": [34.7, 38.1, 41.6],
+  			"critDamage": [0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0],
+  			"evasion": [0, 0, 0],
+  			"background": "Snowmen are notorious for leaving Christmas Trees on people's lawns and then just running away. No one wants to call them out on it though, they figure they can just wait for Spring.",
+  			"skill": {
+  				"level": 1,
+  				"passive": "Using skill blocks increases the Hero's attack power by (100/100/200) for 5 seconds. When an ally uses a chain-3 skill, the next Deck the Halls will count as chain-3 skill."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!"
+  			]
+      }
+    ]
+  },
   "bearguy": {
     "faction": "",
     "type": "Secret",
@@ -9039,6 +10962,99 @@
         "howToGet": [
           "Event: Get by event!"
         ]
+      }
+    ]
+  },
+  "tycoonwang": {
+  	"faction": "",
+  	"type": "Secret",
+  	"class": "Priest",
+  	"skillName": "Golden Pig Statue",
+  	"passiveSkillName": "The Sign of the Rich",
+  	"skillDescription": "Summons a statue which heals near ally 8 times by (80/150/270)% of hero's attack power according to chain number.",
+  	"form": [
+  		{
+  			"name": "Tycoon Wang",
+  			"star": 3,
+  			"level": 30,
+  			"atkPower": [280, 308.1, 336.1],
+  			"hp": [2818.4, 3100.3, 3382.1],
+  			"critChance": [0.2, 0.2, 0.2],
+  			"armor": [108.8, 119.7, 130.6],
+  			"resistance": [108.8, 119.7, 130.6],
+  			"critDamage": [0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0],
+  			"evasion": [0, 0, 0],
+  			"background": "One day, millionare Tycoon Wang hears a rumor about a girl who sends people to other dimensions. With curiosity, he went to meet the girl to ask about the portal. Refusing the payment offer from Wang, the girl just opens the dimentional portal for her own fun without hesitation. That's the story of how Tycoon Wang arrived in Hasla.",
+  			"skill": {
+  				"level": 1,
+  				"passive": "When a block is used, near enemy's attack power is reduced by 50% by 50% chance and Tycoon Wang additionally summons a statue which deals magical damage equal to 50% of his attack power."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!"
+  			]
+      }
+    ]
+  },
+  "a.k.a.rudolph": {
+  	"faction": "",
+  	"type": "Secret",
+  	"class": "Priest",
+  	"skillName": "Meathead Icon",
+  	"passiveSkillName": "Muscular Blessing",
+  	"skillDescription": "Heals nearby allies 8 times for (10/25/52)% of the hero's attack power. It's big and beautiful.",
+  	"form": [
+  		{
+  			"name": "A.K.A. Rudolph",
+  			"star": 3,
+  			"level": 30,
+  			"atkPower": [186.4, 205, 223.7],
+  			"hp": [2113.7, 2325.1, 2536.5],
+  			"critChance": [0.1, 0.1, 0.1],
+  			"armor": [141.9, 156.1, 170.2],
+  			"resistance": [141.9, 156.1, 170.2],
+  			"critDamage": [0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0],
+  			"evasion": [0, 0, 0],
+  			"background": "A macho assassin with horns. No one dares look at him when he does his missions. Lately his fancy clothes are drawing people's attention, making his life difficult.",
+  			"skill": {
+  				"level": 1,
+  				"passive": "An ally gains 5 SP every time it is attacked while under the effect of Meathead Icon. If an ally who gained 5 SP uses a chain-3, then Rudolph will also use a chain-3. (Once every 2 sec)"
+  			},
+  			"howToGet": [
+  				"Event: Get by event!"
+  			]
+      }
+    ]
+  },
+  "chocolat": {
+  	"faction": "",
+  	"type": "Secret",
+  	"class": "Priest",
+  	"skillName": "Time for Pastries!",
+  	"passiveSkillName": "Yummy Bread Party",
+  	"skillDescription": "Up to 10 pastries will fall from the sky! Each bread eaten heals 50% of the Hero's attack power. Longer chains produce better pastries.",
+  	"form": [
+  		{
+  			"name": "Chocolat",
+  			"star": 3,
+  			"level": 30,
+  			"atkPower": [270.2, 297.2, 324.2],
+  			"hp": [2818.4, 3100.3, 3382.1],
+  			"critChance": [0.1, 0.1, 0.1],
+  			"armor": [147.1, 161.8, 176.5],
+  			"resistance": [147.1, 161.8, 176.5],
+  			"critDamage": [0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0],
+  			"evasion": [0, 0, 0],
+  			"background": "She works as the town's baker but lives in the shadow of her father, a legendary gladiator of the colosseum.",
+  			"skill": {
+  				"level": 1,
+  				"passive": "Pastries increase the hero's stats. Morning Bread increases the Hero's armor by 30. Croissants increases the Hero's attack power by 30 for 5 secs. Macaroons will increase the Hero's SP by 20."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!"
+  			]
       }
     ]
   }

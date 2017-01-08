@@ -6448,7 +6448,7 @@
     "type": "Premium",
     "class": "Hunter",
     "skillName": "Discharge all bullets",
-    "passiveSkillName": "",
+    "passiveSkillName": "Passive",
     "skillDescription": "Shoots missile that deals physical damage equal to (15/30/75)% of hero's attack power when using blocks.",
     "form": [
       {

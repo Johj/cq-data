@@ -1789,7 +1789,7 @@
   },
   "vivian": {
     "faction": "Unknown",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Warrior",
     "skillName": "Call of Demon Sword",
     "passiveSkillName": "Ultimate Demonic Sword",
@@ -2021,7 +2021,7 @@
   },
   "abel": {
   	"faction": "Unknown",
-  	"type": "Premium",
+  	"type": "Contract",
   	"class": "Warrior",
   	"skillName": "Winds of Vengeance",
   	"passiveSkillName": "Reflected Death",
@@ -2174,7 +2174,7 @@
   },
   "b.sworden": {
   	"faction": "Eastern Kingdom - Han",
-  	"type": "Premium",
+  	"type": "Contract",
   	"class": "Warrior",
   	"skillName": "Sword Spirit",
   	"passiveSkillName": "Flaming Sword Spirit",
@@ -2249,7 +2249,7 @@
   },
   "isabel": {
   	"faction": "Grancia Empire",
-  	"type": "Premium",
+  	"type": "Contract",
   	"class": "Warrior",
   	"skillName": "Evil Spirits",
   	"passiveSkillName": "Ghoul Arm",
@@ -2324,7 +2324,7 @@
   },
   "koxinga": {
   	"faction": "Unknown",
-  	"type": "Premium",
+  	"type": "Contract",
   	"class": "Warrior",
   	"skillName": "Water God's dragon wave",
   	"passiveSkillName": "Ascending Sea Dragon",
@@ -2399,7 +2399,7 @@
   },
   "victoria": {
   	"faction": "Grancia Empire",
-  	"type": "Premium",
+  	"type": "Contract",
   	"class": "Warrior",
   	"skillName": "Grancian Swordsmanship",
   	"passiveSkillName": "Ensign of Victory",
@@ -2552,7 +2552,7 @@
   },
   "arita": {
     "faction": "Pumpkin City",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Warrior",
     "skillName": "Thorn of Refusal",
     "passiveSkillName": "Thorn of Pain",
@@ -2627,7 +2627,7 @@
   },
   "sien": {
   	"faction": "Grancia Empire",
-  	"type": "Premium",
+  	"type": "Contract",
   	"class": "Warrior",
   	"skillName": "Uncontrollable Blood",
   	"passiveSkillName": "Blood Explosion",
@@ -2780,7 +2780,7 @@
   },
   "bihyeongrang": {
   	"faction": "Eastern Kingdom - Han",
-  	"type": "Premium",
+  	"type": "Contract",
   	"class": "Warrior",
   	"skillName": "Advent of Vaisravana",
   	"passiveSkillName": "Incarnation of Vaisravana",
@@ -3168,7 +3168,7 @@
   },
   "vane": {
     "faction": "Hero of Freedom",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Paladin",
     "skillName": "Pillar of Destruction",
     "passiveSkillName": "Pillars of the Underworld",
@@ -3243,7 +3243,7 @@
   },
   "cain": {
     "faction": "Unknown",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Paladin",
     "skillName": "Whirlwind of Pain",
     "passiveSkillName": "Whirwind of Despair",
@@ -3396,7 +3396,7 @@
   },
   "mundeok": {
     "faction": "Eastern Kingdom - Han",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Paladin",
     "skillName": "Rush into Battle",
     "passiveSkillName": "Undefeated Courage",
@@ -3471,7 +3471,7 @@
   },
   "v": {
     "faction": "Neth Empire",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Paladin",
     "skillName": "Unlimited!",
     "passiveSkillName": "Undisputed!",
@@ -3546,7 +3546,7 @@
   },
   "hector": {
     "faction": "Unknown",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Paladin",
     "skillName": "Shattering Spear",
     "passiveSkillName": "Shield of Roman",
@@ -3699,7 +3699,7 @@
   },
   "siegfried": {
     "faction": "Unknown",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Paladin",
     "skillName": "Chains of Confinement",
     "passiveSkillName": "Cry of the Dragon",
@@ -3774,7 +3774,7 @@
   },
   "dullahan": {
     "faction": "Unknown",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Paladin",
     "skillName": "Executioner's Ax",
     "passiveSkillName": "Cruel Punishment",
@@ -3927,7 +3927,7 @@
   },
   "wolfgang": {
     "faction": "Unknown",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Paladin",
     "skillName": "Raging Hammer",
     "passiveSkillName": "Totem Blessing",
@@ -4002,7 +4002,7 @@
   },
   "gon": {
     "faction": "Hero of Freedom",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Archer",
     "skillName": "Resolute Shot",
     "passiveSkillName": "Hunt Start!",
@@ -4390,7 +4390,7 @@
   },
   "hikari": {
     "faction": "Eastern Kingdom - Ryu",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Archer",
     "skillName": "Wind Arrow",
     "passiveSkillName": "Tempest Arrow",
@@ -4543,7 +4543,7 @@
   },
   "arona": {
     "faction": "Eastern Kingdom - Han",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Archer",
     "skillName": "Guards!",
     "passiveSkillName": "Elite Hyangdan",
@@ -4618,7 +4618,7 @@
   },
   "magnus": {
     "faction": "Unknown",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Archer",
     "skillName": "Bark Bomb!",
     "passiveSkillName": "Tree Spirit Summon",
@@ -4693,7 +4693,7 @@
   },
   "atalante": {
     "faction": "Unknown",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Archer",
     "skillName": "Essence of Fairy",
     "passiveSkillName": "Fairy Wing",
@@ -4846,7 +4846,7 @@
   },
   "lee": {
     "faction": "Unknown",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Archer",
     "skillName": "Wind Dance",
     "passiveSkillName": "Dance of Blossoming Fans",
@@ -4921,7 +4921,7 @@
   },
   "rahima": {
     "faction": "Hero of Freedom",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Archer",
     "skillName": "Speeding Arrow",
     "passiveSkillName": "Queen of Hawks",
@@ -5074,7 +5074,7 @@
   },
   "kaguya": {
     "faction": "Eastern Kingdom - Ryu",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Archer",
     "skillName": "Storm of Cherry Blossoms",
     "passiveSkillName": "Sakura Blossoms",
@@ -5305,7 +5305,7 @@
   },
   "viper": {
     "faction": "Neth Empire",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Hunter",
     "skillName": "Consecutive Fire",
     "passiveSkillName": "Chain Explosion",
@@ -5536,7 +5536,7 @@
   },
   "no.9": {
     "faction": "Unknown",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Hunter",
     "skillName": "RF-247 Sniper Bullet",
     "passiveSkillName": "Enhanced RF-247",
@@ -5689,7 +5689,7 @@
   },
   "mandy": {
     "faction": "Hero of Freedom",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Hunter",
     "skillName": "Ambush Bullets!",
     "passiveSkillName": "Surprise!",
@@ -5764,7 +5764,7 @@
   },
   "wilhelm": {
     "faction": "Hero of Freedom",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Hunter",
     "skillName": "A-666D Harpoon Shot",
     "passiveSkillName": "A-666D Trap Bullet",
@@ -5839,7 +5839,7 @@
   },
   "saiga": {
     "faction": "Eastern Kingdom - Ryu",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Hunter",
     "skillName": "Cannon boom!",
     "passiveSkillName": "Armorpiercing Ammunition",
@@ -5914,7 +5914,7 @@
   },
   "tia": {
     "faction": "Grancia Empire",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Hunter",
     "skillName": "008 Assassination Kit",
     "passiveSkillName": "Assassin Chase",
@@ -6067,7 +6067,7 @@
   },
   "dox": {
     "faction": "Unknown",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Hunter",
     "skillName": "The Culprit Is You!",
     "passiveSkillName": "Caught Red-Handed!",
@@ -6142,7 +6142,7 @@
   },
   "lorelei": {
     "faction": "Hero of Freedom",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Hunter",
     "skillName": "Drill Gun",
     "passiveSkillName": "Support Equipment Protocol",
@@ -6295,7 +6295,7 @@
   },
   "ag01-neo": {
     "faction": "Supply all forces",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Hunter",
     "skillName": "Lazer blaze",
     "passiveSkillName": "Passive",
@@ -6370,7 +6370,7 @@
   },
   "ag02-layla": {
     "faction": "Supply all forces",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Hunter",
     "skillName": "Glider attack",
     "passiveSkillName": "Passive",
@@ -6445,7 +6445,7 @@
   },
   "ag03-mel": {
     "faction": "Supply all forces",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Hunter",
     "skillName": "Discharge all bullets",
     "passiveSkillName": "Passive",
@@ -6755,7 +6755,7 @@
   },
   "lilith": {
     "faction": "Pumpkin City",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Wizard",
     "skillName": "Meteor Shower",
     "passiveSkillName": "Blessing of the Night",
@@ -6909,7 +6909,7 @@
   },
   "alice": {
     "faction": "Pumpkin City",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Wizard",
     "skillName": "Draw!",
     "passiveSkillName": "Attack! Spade!",
@@ -7062,7 +7062,7 @@
   },
   "mondrian": {
     "faction": "Eastern Kingdom - Han",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Wizard",
     "skillName": "Shadow Clone",
     "passiveSkillName": "Enhanced Illusion",
@@ -7137,7 +7137,7 @@
   },
   "necron": {
     "faction": "Grancia Empire",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Wizard",
     "skillName": "Hungry Dead",
     "passiveSkillName": "Ghost Control",
@@ -7212,7 +7212,7 @@
   },
   "demeter": {
     "faction": "Grancia Empire",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Wizard",
     "skillName": "Catcher in the wheat field",
     "passiveSkillName": "Scarecrow Summon",
@@ -7287,7 +7287,7 @@
   },
   "uriel": {
     "faction": "Unknown",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Wizard",
     "skillName": "Cross of the Blade",
     "passiveSkillName": "Blade of Execution",
@@ -7440,7 +7440,7 @@
   },
   "lupeow": {
     "faction": "Unknown",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Wizard",
     "skillName": "The phantom thief appears!",
     "passiveSkillName": "Trick Hat",
@@ -7515,7 +7515,7 @@
   },
   "vesper": {
     "faction": "Pumpkin City",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Wizard",
     "skillName": "Guidance of Water",
     "passiveSkillName": "Trial by Water",
@@ -7668,7 +7668,7 @@
   },
   "yichui": {
     "faction": "Pumpkin City",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Wizard",
     "skillName": "Rabbit Punch!",
     "passiveSkillName": "Moon Bunny Paw Attack!",
@@ -7821,7 +7821,7 @@
   },
   "nightingale": {
     "faction": "Unknown",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Priest",
     "skillName": "Whisper of Light",
     "passiveSkillName": "Curing Luminescence",
@@ -8132,7 +8132,7 @@
   },
   "himiko": {
     "faction": "Eastern Kingdom - Ryu",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Priest",
     "skillName": "Fire God's Shield",
     "passiveSkillName": "Binding Seal",
@@ -8285,7 +8285,7 @@
   },
   "chai": {
     "faction": "Unknown",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Priest",
     "skillName": "Fine Cuisine!",
     "passiveSkillName": "A Full Course Meal",
@@ -8360,7 +8360,7 @@
   },
   "dara": {
     "faction": "Unknown",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Priest",
     "skillName": "Bard Song",
     "passiveSkillName": "Joyful Palaku",
@@ -8435,7 +8435,7 @@
   },
   "beatrice": {
     "faction": "Unknown",
-    "type": "Premium",
+    "type": "Contract",
     "class": "Priest",
     "skillName": "Dream of Healing",
     "passiveSkillName": "Benediction of the Saintess",
@@ -8510,7 +8510,7 @@
   },
   "orfeo": {
   	"faction": "Unknown",
-  	"type": "Premium",
+  	"type": "Contract",
   	"class": "Priest",
   	"skillName": "Whisper of the Muse",
   	"passiveSkillName": "Song of the Muse",
@@ -8663,7 +8663,7 @@
   },
   "yuria": {
   	"faction": "Neth Empire",
-  	"type": "Premium",
+  	"type": "Contract",
   	"class": "Priest",
   	"skillName": "Mission Delivered!",
   	"passiveSkillName": "Morale Boost",
@@ -8738,7 +8738,7 @@
   },
   "faust": {
   	"faction": "Hero of Freedom",
-  	"type": "Premium",
+  	"type": "Contract",
   	"class": "Priest",
   	"skillName": "Occult Potion",
   	"passiveSkillName": "Occult Flask",
@@ -8891,7 +8891,7 @@
   },
   "noel": {
   	"faction": "Unknown",
-  	"type": "Premium",
+  	"type": "Contract",
   	"class": "Priest",
   	"skillName": "Celebration of Saint",
   	"passiveSkillName": "Stance of the Holy Knight",

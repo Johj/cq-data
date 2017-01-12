@@ -2173,7 +2173,7 @@
   	]
   },
   "b.sworden": {
-  	"faction": "Unknown",
+  	"faction": "Eastern Kingdom - Han",
   	"type": "Premium",
   	"class": "Warrior",
   	"skillName": "Sword Spirit",
@@ -2779,7 +2779,7 @@
   	]
   },
   "bihyeongrang": {
-  	"faction": "Unknown",
+  	"faction": "Eastern Kingdom - Han",
   	"type": "Premium",
   	"class": "Warrior",
   	"skillName": "Advent of Vaisravana",
@@ -3395,7 +3395,7 @@
     ]
   },
   "mundeok": {
-    "faction": "Unknown",
+    "faction": "Eastern Kingdom - Han",
     "type": "Premium",
     "class": "Paladin",
     "skillName": "Rush into Battle",
@@ -4310,7 +4310,7 @@
     ]
   },
   "giparang": {
-    "faction": "Unknown",
+    "faction": "Eastern Kingdom - Han",
     "type": "Promote",
     "class": "Archer",
     "skillName": "Flame Arrow",
@@ -4542,7 +4542,7 @@
     ]
   },
   "arona": {
-    "faction": "Unknown",
+    "faction": "Eastern Kingdom - Han",
     "type": "Premium",
     "class": "Archer",
     "skillName": "Guards!",
@@ -6597,7 +6597,7 @@
     ]
   },
   "korin": {
-    "faction": "Unknown",
+    "faction": "Eastern Kingdom - Han",
     "type": "Promote",
     "class": "Wizard",
     "skillName": "Phantom Talisman",
@@ -7061,7 +7061,7 @@
     ]
   },
   "mondrian": {
-    "faction": "Unknown",
+    "faction": "Eastern Kingdom - Han",
     "type": "Premium",
     "class": "Wizard",
     "skillName": "Shadow Clone",
@@ -7895,7 +7895,7 @@
     ]
   },
   "yeowoodong": {
-    "faction": "Unknown",
+    "faction": "Eastern Kingdom - Han",
     "type": "Promote",
     "class": "Priest",
     "skillName": "Bell of Goddess",
@@ -10043,7 +10043,7 @@
     ]
   },
   "altair": {
-    "faction": "Unknown",
+    "faction": "Eastern Kingdom - Han",
     "type": "Secret",
     "class": "Archer",
     "skillName": "Moonlight Arrow",

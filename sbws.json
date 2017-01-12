@@ -2606,9 +2606,56 @@
       }
     ]
   },
+  "chris": {
+    "class": "Sword",
+    "form": [
+      {
+        "name": "Flames of Orochi",
+        "star": 4,
+        "atkPower": 89,
+        "atkSpeed": 1.2,
+        "ability": "(Upon activating passive) Activation limit of '' (Ankoku Orochinagi) +1; power can be stacked maximum 4 times"
+      },
+      {
+        "name": "Flames of Orochi",
+        "star": 5,
+        "atkPower": 143,
+        "atkSpeed":1.2 ,
+        "ability": "(Upon activating passive) Activation limit of '' (Ankoku Orochinagi) +1; power can be stacked maximum 4 times"
+      },
+      {
+        "name": "Flames of Orochi",
+        "star": 6,
+        "atkPower": 255,
+        "atkSpeed": 1.2,
+        "ability": "(Upon activating passive) Activation limit of '' (Ankoku Orochinagi) +1; power can be stacked maximum 4 times (Passive enhanced) Upon using Power MAX, additionally uses ' ' (Emerges from a Chrysalis) that deals magical damage equal to 750% of attack power, and neutral damage equal to 240% per power stack. All enemy movement is restricted during this attack."
+      }
+    ]
+  },
   "omegarugal": {
     "class": "Sword",
     "form": [
+      {
+        "name": "Destruct Button",
+        "star": 4,
+        "atkPower": 89,
+        "atkSpeed": 1.2,
+        "ability": "(Passive enhanced) Generates 6 SP every time ally attacks or is attacked (once every 0.5 seconds); power can be stacked maximum 5 times."
+      },
+      {
+        "name": "Destruct Button",
+        "star": 5,
+        "atkPower": 143,
+        "atkSpeed":1.2 ,
+        "ability": "(Passive enhanced) Generates 6 SP every time ally attacks or is attacked (once every 0.5 seconds); power can be stacked maximum 5 times."
+      },
+      {
+        "name": "Destruct Button",
+        "star": 6,
+        "atkPower": 255,
+        "atkSpeed": 1.2,
+        "ability": "(Passive enhanced) Generates 6 SP every time ally attacks or is attacked (once every 0.5 seconds); power can be stacked maximum 5 times. (Passive enhanced) If there are at least 2 power stacks, additionally uses 'Destruction Omega' that deals physical damage equal to 895% of attack power, after 'Gravity Smash', 'Destruction Omega' deals additional netural damage equal to 100% of attack power per power stack with every hit, and stuns enemies."
+      }
     ]
   },
   "jin-kyung": {
@@ -2741,6 +2788,84 @@
       }
     ]
   },
+  "terrybogard": {
+    "class": "Hammer",
+    "form": [
+      {
+        "name": "Father's Heirloom",
+        "star": 4,
+        "atkPower": 63,
+        "atkSpeed": 0.8,
+        "ability": "(Upon activating passive) Generates 1 block"
+      },
+      {
+        "name": "Father's Heirloom",
+        "star": 5,
+        "atkPower": 102,
+        "atkSpeed": 0.8,
+        "ability": "(Upon activating passive) Generates 1 block"
+      },
+      {
+        "name": "Father's Heirloom",
+        "star": 6,
+        "atkPower": 155,
+        "atkSpeed": 0.8,
+        "ability": "(Upon activating passive) Generates 1 block. (Passive altered) Upon using Power MAX, the next passive skill is changed to 'High Angle Geyser' that deals physical damage equal to 385% of maximum HP. The SP of enemies hit by the attack decrease by 20, and when Terry uses a block 3 seconds after the attack, and additional 20 SP is decreased."
+      }
+    ]
+  },
+  "kimkaphwan": {
+    "class": "Hammer",
+    "form": [
+      {
+        "name": "Glove",
+        "star": 4,
+        "atkPower": 63,
+        "atkSpeed": 0.8,
+        "ability": "(Passive enhanced) Generates 8 SP for self and leader per hit; power can be stacked maximum 3 times."
+      },
+      {
+        "name": "Glove",
+        "star": 5,
+        "atkPower": 102,
+        "atkSpeed": 0.8,
+        "ability": "(Passive enhanced) Generates 8 SP for self and leader per hit; power can be stacked maximum 3 times."
+      },
+      {
+        "name": "Glove",
+        "star": 6,
+        "atkPower": 155,
+        "atkSpeed": 0.8,
+        "ability": "(Passive enhanced) Generates 8 SP for self and leader per hit; power can be stacked maximum 3 times. (Passive altered) If there is at least 1 power stack, the next auto attack changes to 'Houou Kyaku' that deals physical damage equal to 420% of attack power, and 210% per power stack, 'Phoenix Flattener' stuns all enemies. (Once every 3 seconds)"
+      }
+    ]
+  },
+  "chippzanuff": {
+    "class": "Bow",
+    "form": [
+      {
+        "name": "Kunai",
+        "star": 4,
+        "atkPower": 57,
+        "atkSpeed": 1.5,
+        "ability": "Y blade, fungus damage +50%"
+      },
+      {
+        "name": "Kunai",
+        "star": 5,
+        "atkPower": 93,
+        "atkSpeed": 1.5,
+        "ability": "Y blade, fungus damage +50%"
+      },
+      {
+        "name": "Kunai",
+        "star": 6,
+        "atkPower": 142,
+        "atkSpeed": 1.5,
+        "ability": "Y blade, fungus damage +50%, using block after fugnus activates chinois(deals magical damage equal to (200/300/450)% of attack power per each dragger)"
+      }
+    ]
+  },
   "hong-ran": {
     "class": "Bow",
     "form": [
@@ -2793,29 +2918,29 @@
       }
     ]
   },
-  "chippzanuff": {
+  "maishiranui": {
     "class": "Bow",
     "form": [
       {
-        "name": "Kunai",
+        "name": "Kacho Sen",
         "star": 4,
-        "atkPower": 57,
-        "atkSpeed": 1.5,
-        "ability": "Y blade, fungus damage +50%"
+        "atkPower": 80,
+        "atkSpeed": 0.9,
+        "ability": "(Upon activating passive) Generates 1  Power MAX block; power can be stacked maximum 3 times."
       },
       {
-        "name": "Kunai",
+        "name": "Kacho Sen",
         "star": 5,
-        "atkPower": 93,
-        "atkSpeed": 1.5,
-        "ability": "Y blade, fungus damage +50%"
+        "atkPower": 132,
+        "atkSpeed": 0.9,
+        "ability": "(Upon activating passive) Generates 1  Power MAX block; power can be stacked maximum 3 times."
       },
       {
-        "name": "Kunai",
+        "name": "Kacho Sen",
         "star": 6,
-        "atkPower": 142,
-        "atkSpeed": 1.5,
-        "ability": "Y blade, fungus damage +50%, using block after fugnus activates chinois(deals magical damage equal to (200/300/450)% of attack power per each dragger)"
+        "atkPower": 223,
+        "atkSpeed": 0.9,
+        "ability": "(Upon activating passive) Generates 1  Power MAX block; power can be stacked maximum 3 times. (Passive enhanced) Generates 1 leader block upon using Power MAX (Passive altered) If there is at least one power stack, the next block is changed into 'Cho Hissatsu Shinobibachi' that deals magical damge equal to 430% of attack power, and 300% per power stack. 'Super Deadly Ninja Bees' ignores enemy's resistance by amount of own resistance."
       }
     ]
   },
@@ -2949,6 +3074,32 @@
       }
     ]
   },
+  "shermie": {
+    "class": "Staff",
+    "form": [
+      {
+        "name": "Lightning of Orochi",
+        "star": 4,
+        "atkPower": 123,
+        "atkSpeed": 0.8,
+        "ability": "(Passive enhanced) Passive activation conditions are decreased to 6 hits; becomes immune to harmful effects upon activation."
+      },
+      {
+        "name": "Lightning of Orochi",
+        "star": 5,
+        "atkPower": 207,
+        "atkSpeed": 0.8,
+        "ability": "(Passive enhanced) Passive activation conditions are decreased to 6 hits; becomes immune to harmful effects upon activation."
+      },
+      {
+        "name": "Lightning of Orochi",
+        "star": 6,
+        "atkPower": 305,
+        "atkSpeed": 0.8,
+        "ability": "(Passive enhanced) Passive activation conditions are decreased to 6 hits; becomes immune to harmful effects upon activation; generates 2 blocks upon using Power MAX (Passive enhanced) If there is at least 1 power stack, additionally uses (Syukumei - Genei - Shinshi) that deal magical damage equal to 723% of attack power."
+      }
+    ]
+  },
   "i-no": {
     "class": "Orb",
     "form": [
@@ -2998,6 +3149,32 @@
         "atkPower": 143,
         "atkSpeed": 0.8,
         "ability": "(Passive enhanced) SP is increased by 3 every time ally is attacked. Power can be stacked maximum 3 times. If there exists at least 1 power stack, uses \"Sen Ki Hakkei\" upon exact moment of ally's death to revive ally to 100% HP. Deals netural damage equal to 250% of revived ally's HP to frontline enemy. (Cool time: 10 seconds)"
+      }
+    ]
+  },
+  "athenaasamiya": {
+    "class": "Orb",
+    "form": [
+      {
+        "name": "Hair Band",
+        "star": 4,
+        "atkPower": 70,
+        "atkSpeed": 0.8,
+        "ability": "Passive effect doubled; chance of activation increased by 15%; power can be stacked maximum 3 times."
+      },
+      {
+        "name": "Hair Band",
+        "star": 5,
+        "atkPower": 114,
+        "atkSpeed": 0.8,
+        "ability": "Passive effect doubled; chance of activation increased by 15%; power can be stacked maximum 3 times."
+      },
+      {
+        "name": "Hair Band",
+        "star": 6,
+        "atkPower": 143,
+        "atkSpeed": 0.8,
+        "ability": "Passive effect doubled; chance of activation increased by 15%; power can be stacked maximum 3 times. (Upon passive activation) Generates a shield equal to 50% of remaining HP over all allies for 4 seconds (Once every 2 seconds). (Passive enhanced) If there is at least 1 power stack, uses 'Crystal Shoot' that decreases attacking enemy's attack power by 40%, and increases all allies' critical chance by 30%."
       }
     ]
   }

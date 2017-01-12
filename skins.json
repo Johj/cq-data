@@ -40,10 +40,10 @@
       },
       {
         "name": "Neth Commander Rochefort",
-        "atkPower": 200,
+        "atkPower": 0,
         "hp": 0,
         "critChance": 0.05,
-        "armor": 0,
+        "armor": 200,
         "resistance": 0,
         "critDamage": 0,
         "accuracy": 0,
@@ -460,6 +460,17 @@
   },
   "arita": {
     "form": [
+      {
+        "name": "Young Duchess Arita",
+        "atkPower": 85,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0.05,
+        "evasion": 0
+      }
     ]
   },
   "sien": {
@@ -641,6 +652,17 @@
   },
   "siegfried": {
     "form": [
+      {
+        "name": "Dragon Hunter Siegfried",
+        "atkPower": 150,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 100,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
+      }
     ]
   },
   "dullahan": {
@@ -657,6 +679,17 @@
   },
   "gon": {
     "form": [
+      {
+        "name": "Princess Gon",
+        "atkPower": 120,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0.3,
+        "accuracy": 0,
+        "evasion": 0
+      }
     ]
   },
   "hanzo": {
@@ -670,6 +703,17 @@
         "resistance": 200,
         "critDamage": 0,
         "accuracy": 0,
+        "evasion": 0
+      },
+      {
+        "name": "Fox Mask Hanzo",
+        "atkPower": 100,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0.05,
         "evasion": 0
       }
     ]
@@ -850,6 +894,17 @@
   },
   "crow": {
     "form": [
+      {
+        "name": "Steampunk Crow",
+        "atkPower": 0,
+        "hp": 500,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 150,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
+      }
     ]
   },
   "vincent": {
@@ -866,6 +921,17 @@
         "armor": 0,
         "resistance": 0,
         "critDamage": 0.3,
+        "accuracy": 0,
+        "evasion": 0
+      },
+      {
+        "name": "New Year Greeting No.9",
+        "atkPower": 90,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0.35,
         "accuracy": 0,
         "evasion": 0
       }
@@ -1108,6 +1174,17 @@
   },
   "benjamin": {
     "form": [
+      {
+        "name": "Chief Research Officer Benjamin",
+        "atkPower": 80,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0.1
+      }
     ]
   },
   "lupeow": {
@@ -1251,6 +1328,17 @@
   },
   "stein": {
     "form": [
+      {
+        "name": "Mecha Baron Stein",
+        "atkPower": 0,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 150,
+        "resistance": 150,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
+      }
     ]
   },
   "chai": {

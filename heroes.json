@@ -9591,81 +9591,80 @@
   		}
   	]
   },
-
-  "jin-kyung": {
-    "faction": "Supply all forces",
-    "type": "Secret",
-    "class": "Paladin",
-    "skillName": "Flaming Spear",
-    "passiveSkillName": "Ornate Warfare",
-    "skillDescription": "Throws \"Flaming Spear\" to deal physical damage equal to [100/230/380]% of attack power.",
-    "form": [
-      {
-        "name": "Jin-Kyung",
-        "star": 4,
-        "level": 40,
-        "atkPower": [203.7, 224.1, 244.5, 264.8],
-        "hp": [2360.4, 2596.5, 2832.5, 3068.6],
-        "critChance": [0.1, 0.1, 0.1, 0.1],
-        "armor": [19.3, 21.2, 23.2, 25.1],
-        "resistance": [94.1, 103.5, 112.9, 122.3],
-        "critDamage": [0.5, 0.5, 0.5, 0.5],
-        "accuracy": [0, 0, 0, 0],
-        "evasion": [0, 0, 0, 0],
-        "background": "The boy who wants to become the greatest general in history. On his way to go fishing, he unintentionally defeated a wild dog with his rod. This incident inspired his decision to practice his spearsmanship.",
-        "skill": {
-          "level": 2,
-          "passive": "When ally's block is used after hero's 3-chain, Jin-Kyung charges towards the enemy and deals physical damage equal to 30% of maximum HP, for a maximum of 3 times per activation."
-        },
-        "howToGet": [
-          "Event: Get by event!"
-        ]
-      },
-      {
-        "name": "General Jin-Kyung",
-        "star": 5,
-        "level": 50,
-        "atkPower": [352.8, 388.1, 423.4, 458.7, 494],
-        "hp": [3620.8, 3982.8, 4344.9, 4707, 5069.1],
-        "critChance": [0.105, 0.105, 0.105, 0.105, 0.105],
-        "armor": [22.7, 25, 27.2, 29.5, 31.8],
-        "resistance": [127.8, 140.5, 153.3, 166.1, 178.9],
-        "critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
-        "accuracy": [0, 0, 0, 0, 0],
-        "evasion": [0, 0, 0, 0, 0],
-        "background": "Jin-Kyung gets recognized for his talented spearsmanship. While serving as a general in the empire, he saved the imperial prince from danger. Ever since then, Jin-Kyung became the right hand man of the imperial prince.",
-        "skill": {
-          "level": 2,
-          "passive": "When ally's block is used after hero's 3-chain, Jin-Kyung charges towards the enemy and deals physical damage equal to 30% of maximum HP, for a maximum of 3 times per activation."
-        },
-        "howToGet": [
-          "Event: Get by event!",
-          "Promote Hero: Promoting Heroes!"
-        ]
-      },
-      {
-        "name": "Invincible General Jin-Kyung",
-        "star": 6,
-        "level": 60,
-        "atkPower": [537.4, 591.1, 644.9, 698.6, 752.3, 806.1, 910.1],
-        "hp": [5256.7, 5782.4, 6308.1, 6833.7, 7359.4, 7885.1, 12799.1],
-        "critChance": [0.105, 0.105, 0.105, 0.105, 0.105, 0.105, 0.222],
-        "armor": [26.3, 28.9, 31.5, 34.2, 36.8, 39.4, 95.4],
-        "resistance": [148, 162.8, 177.6, 192.4, 207.2, 222, 536],
-        "critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.22],
-        "accuracy": [0, 0, 0, 0, 0, 0, 0.2],
-        "evasion": [0, 0, 0, 0, 0, 0, 0.22],
-        "background": "The empire decides to hold a festival just for Jin-Kyung. While people were preparing for festival, Jin-Kyung went outside to get some fresh air and accidentally runs into Hong-Ran. At that moment, he fell into the dimentional portal and arrived at Hasla.",
-        "skill": {
-          "level": 3,
-          "passive": "When ally's block is used after hero's 3-chain, Jin-Kyung charges towards the enemy and deals physical damage equal to 90% of maximum HP, for a maximum of 3 times per activation."
-        },
-        "howToGet": [
-          "Event: Get by event!",
-          "Promote Hero: Promoting Heroes!"
-        ]
-      }
-    ]
+  "chris": {
+  	"faction": "Supply all forces",
+  	"type": "Secret",
+  	"class": "Warrior",
+  	"skillName": "Taiyou o Iru Honoo",
+  	"passiveSkillName": "Ankoku Orochinagi",
+  	"skillDescription": "Uses (Taiyou o Iru Honoo) that deals magical damage equal to [90/215/320]% of attack power. Resistance of hit enemies decrease by 30% for 5 seconds.",
+  	"form": [
+  		{
+  			"name": "Chris of the Destiny of Flames",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [220.2, 242.2, 264.2, 286.2],
+  			"hp": [1736.2, 1909.8, 2083.5, 2257.1],
+  			"critChance": [0.105, 0.105, 0.105, 0.105],
+  			"armor": [216.2, 237.8, 259.4, 291],
+  			"resistance": [38.8, 42.7, 46.6, 50.5],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "A member of the popular rock band 'C_Y_S,' Chris is loved for his cute appearance and innocent smile. He is polite towards everyone, but certain instances betray his seemingly darker nature. His motivation in entering \"The King of Fighters\" is vengeance towards Iori, who ruined their very first concert.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "If enemies hit by '  ' (Taiyou o Iru Honoo) are under harmful effect, additionally uses ' ' (Ankoku Orochinagi) that deals magical damage equal to 480% of attack power. Power MAX Effect: Upon activation, attack power is increased by 400 for 8 seconds."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!"
+  			]
+  		},
+  		{
+  			"name": "Chris of the Destiny of Flames",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [379.4, 417.3, 455.3, 493.2, 531.2],
+  			"hp": [2702, 2972.2, 3242.4, 3512.6, 3782.2],
+  			"critChance": [0.105, 0.105, 0.105, 0.105, 0.105],
+  			"armor": [257.1, 282.8, 308.6, 334.3, 360],
+  			"resistance": [45.7, 50.3, 54.9, 59.4, 64],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "After entering \"The King of Fighters,\" Chris reveals his true self: One of the Four Heavenly Kings of Orochi, and a user of dark flames in opposition to those of the Kusanagi Clan. Chris defeats the fighters of the tournament and uses their energy in order to revive Orochi.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "If enemies hit by '  ' (Taiyou o Iru Honoo) are under harmful effect, additionally uses ' ' (Ankoku Orochinagi) that deals magical damage equal to 480% of attack power. Power MAX Effect: Upon activation, attack power is increased by 400 for 8 seconds."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Chris of the Destiny of Flames",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [579, 637, 694.9, 752.8, 810.7, 868.6, 1064.3],
+  			"hp": [3979.5, 4377.4, 4775.4, 5173.3, 5571.3, 5969.2, 22.5],
+  			"critChance": [0.105, 0.105, 0.105, 0.105, 0.105, 0.105, 0.225],
+  			"armor": [298.5, 328.3, 358.2, 388, 417.9, 447.7, 784.3],
+  			"resistance": [52.8, 58.1, 63.4, 68.7, 74, 79.3, 138.9],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.02],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.18],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.15],
+  			"background": "Chris's plans are foiled by other fighters. However, Orochi succeeds in reincarnation through Chris's body and the energy of defeated contestants. At that moment, the fighters of the Three Sacred Treasures deliver their final blow against Orochi, who flees from Chris's Body. The resulting brilliant explosion transports Chizuru to the dimension of Hasla.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "If enemies hit by '  ' (Taiyou o Iru Honoo) are under harmful effect, additionally uses ' ' (Ankoku Orochinagi) that deals magical damage equal to 480% of attack power. The resistance penetration for said attack is increased by the amount of Chris's armor. Power MAX Effect: Upon activation, attack power is increased by 400 for 8 seconds."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
   },
   "rebecca": {
     "faction": "Unknown",
@@ -9734,6 +9733,81 @@
         "skill": {
           "level": 3,
           "passive": "When marked enemies are attacked by ally, they receive additional physical damage equal to 40% of attacking Hero's attack power. The maximum HP is increased by 10% during the attack."
+        },
+        "howToGet": [
+          "Event: Get by event!",
+          "Promote Hero: Promoting Heroes!"
+        ]
+      }
+    ]
+  },
+  "jin-kyung": {
+    "faction": "Supply all forces",
+    "type": "Secret",
+    "class": "Paladin",
+    "skillName": "Flaming Spear",
+    "passiveSkillName": "Ornate Warfare",
+    "skillDescription": "Throws \"Flaming Spear\" to deal physical damage equal to [100/230/380]% of attack power.",
+    "form": [
+      {
+        "name": "Jin-Kyung",
+        "star": 4,
+        "level": 40,
+        "atkPower": [203.7, 224.1, 244.5, 264.8],
+        "hp": [2360.4, 2596.5, 2832.5, 3068.6],
+        "critChance": [0.1, 0.1, 0.1, 0.1],
+        "armor": [19.3, 21.2, 23.2, 25.1],
+        "resistance": [94.1, 103.5, 112.9, 122.3],
+        "critDamage": [0.5, 0.5, 0.5, 0.5],
+        "accuracy": [0, 0, 0, 0],
+        "evasion": [0, 0, 0, 0],
+        "background": "The boy who wants to become the greatest general in history. On his way to go fishing, he unintentionally defeated a wild dog with his rod. This incident inspired his decision to practice his spearsmanship.",
+        "skill": {
+          "level": 2,
+          "passive": "When ally's block is used after hero's 3-chain, Jin-Kyung charges towards the enemy and deals physical damage equal to 30% of maximum HP, for a maximum of 3 times per activation."
+        },
+        "howToGet": [
+          "Event: Get by event!"
+        ]
+      },
+      {
+        "name": "General Jin-Kyung",
+        "star": 5,
+        "level": 50,
+        "atkPower": [352.8, 388.1, 423.4, 458.7, 494],
+        "hp": [3620.8, 3982.8, 4344.9, 4707, 5069.1],
+        "critChance": [0.105, 0.105, 0.105, 0.105, 0.105],
+        "armor": [22.7, 25, 27.2, 29.5, 31.8],
+        "resistance": [127.8, 140.5, 153.3, 166.1, 178.9],
+        "critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+        "accuracy": [0, 0, 0, 0, 0],
+        "evasion": [0, 0, 0, 0, 0],
+        "background": "Jin-Kyung gets recognized for his talented spearsmanship. While serving as a general in the empire, he saved the imperial prince from danger. Ever since then, Jin-Kyung became the right hand man of the imperial prince.",
+        "skill": {
+          "level": 2,
+          "passive": "When ally's block is used after hero's 3-chain, Jin-Kyung charges towards the enemy and deals physical damage equal to 30% of maximum HP, for a maximum of 3 times per activation."
+        },
+        "howToGet": [
+          "Event: Get by event!",
+          "Promote Hero: Promoting Heroes!"
+        ]
+      },
+      {
+        "name": "Invincible General Jin-Kyung",
+        "star": 6,
+        "level": 60,
+        "atkPower": [537.4, 591.1, 644.9, 698.6, 752.3, 806.1, 910.1],
+        "hp": [5256.7, 5782.4, 6308.1, 6833.7, 7359.4, 7885.1, 12799.1],
+        "critChance": [0.105, 0.105, 0.105, 0.105, 0.105, 0.105, 0.222],
+        "armor": [26.3, 28.9, 31.5, 34.2, 36.8, 39.4, 95.4],
+        "resistance": [148, 162.8, 177.6, 192.4, 207.2, 222, 536],
+        "critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.22],
+        "accuracy": [0, 0, 0, 0, 0, 0, 0.2],
+        "evasion": [0, 0, 0, 0, 0, 0, 0.22],
+        "background": "The empire decides to hold a festival just for Jin-Kyung. While people were preparing for festival, Jin-Kyung went outside to get some fresh air and accidentally runs into Hong-Ran. At that moment, he fell into the dimentional portal and arrived at Hasla.",
+        "skill": {
+          "level": 3,
+          "passive": "When ally's block is used after hero's 3-chain, Jin-Kyung charges towards the enemy and deals physical damage equal to 90% of maximum HP, for a maximum of 3 times per activation."
         },
         "howToGet": [
           "Event: Get by event!",
@@ -9967,80 +10041,155 @@
       }
     ]
   },
-  "hong-ran": {
-    "faction": "Supply all forces",
-    "type": "Secret",
-    "class": "Archer",
-    "skillName": "Fireworks!",
-    "passiveSkillName": "Festive Hour",
-    "skillDescription": "Shoots a portable firecracker which deals magical damage equal to (80/150/350)% of hero's attack power to the enemy with least amount of HP left according to chain number.",
-    "form": [
-      {
-        "name": "Hong-Ran",
-        "star": 4,
-        "level": 40,
-        "atkPower": [227.5, 250.3, 273, 295.8],
-        "hp": [1939.2, 2133.1, 2327, 2520.9],
-        "critChance": [0.15, 0.15, 0.15, 0.15],
-        "armor": [104.9, 115.4, 125.9, 136.4],
-        "resistance": [104.9, 115.4, 125.9, 136.4],
-        "critDamage": [0.5, 0.5, 0.5, 0.5],
-        "accuracy": [0, 0, 0, 0],
-        "evasion": [0, 0, 0, 0],
-        "background": "Hong-Ran could never forget about the beautiful fireworks she watched at a festival when she was young. She decides to become a great fireworks craftsman. She always quotes, \"I will become the greatest Queen of fireworks!\"",
-        "skill": {
-          "level": 2,
-          "passive": "When chain-3 skill is used, hit enemy becomes stunned for 0.5 seconds and their accuracy and chance of evasion decreases by 20% for 5 seconds."
-        },
-        "howToGet": [
-          "Event: Get by event!"
-        ]
-      },
-      {
-        "name": "Hong-Ran of Fireworks",
-        "star": 5,
-        "level": 50,
-        "atkPower": [393.4, 432.8, 472.1, 511.4, 550.8],
-        "hp": [2989.4, 3288.4, 3587.3, 3886.3, 4185.2],
-        "critChance": [0.15, 0.15, 0.15, 0.15, 0.15],
-        "armor": [107.8, 118.6, 129.4, 140.2, 150.9],
-        "resistance": [107.8, 118.6, 129.4, 140.2, 150.9],
-        "critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
-        "accuracy": [0, 0, 0, 0, 0],
-        "evasion": [0, 0, 0, 0, 0],
-        "background": "Hong-Ran becomes the disciple of a famous fireworks craftsman. While she was training, she met Jin-Kyung and had a deep conversation about each other's future. Being inspired by Jin-Kyung's vision and diligence, she decided to work even harder to achieve her dreams.",
-        "skill": {
-          "level": 2,
-          "passive": "When chain-3 skill is used, hit enemy becomes stunned for 0.5 seconds and their accuracy and chance of evasion decreases by 20% for 5 seconds."
-        },
-        "howToGet": [
-          "Event: Get by event!",
-          "Promote Hero: Promoting Heroes!"
-        ]
-      },
-      {
-        "name": "Hong-Ran of Flame",
-        "star": 6,
-        "level": 60,
-        "atkPower": [599.1, 659, 719, 778.9, 838.8, 989.7, 1090.7],
-        "hp": [4341.1, 4775.3, 5209.4, 5643.5, 6077.6, 6511.7, 8174.7],
-        "critChance": [0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.311],
-        "armor": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 333.2],
-        "resistance": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 333.2],
-        "critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1,21],
-        "accuracy": [0, 0, 0, 0, 0, 0, 0.17],
-        "evasion": [0, 0, 0, 0, 0, 0, 0.17],
-        "background": "Hong-Ran becomes the best fireworks craftsman in the empire. One day the emperor himself asked Hong-Ran to prepare for the national festival for Jin-Kyung. Excited to hear that, Hong-Ran works her hardest for Jin-Kyung to present the best festival. However, she was accidentally sucked up by the dimentional portal which opened up mysteriously.",
-        "skill": {
-          "level": 3,
-          "passive": "When chain-3 skill is used, hit enemy becomes stunned for 0.5 seconds and their accuracy and chance of evasion decreases by 20% for 5 seconds. When ally uses chain-3 skill, hero fires installable firecracker which deals magical damage equal to 300% of attack power instead of auto attacking for 5 seconds."
-        },
-        "howToGet": [
-          "Event: Get by event!",
-          "Promote Hero: Promoting Heroes!"
-        ]
-      }
-    ]
+  "kimkaphwan": {
+  	"faction": "Supply all forces",
+  	"type": "Secret",
+  	"class": "Paladin",
+  	"skillName": "Comet Cruncher",
+  	"passiveSkillName": "Crescent Moon Slice",
+  	"skillDescription": "Uses 'Comet Cruncher' that deals physical damage equal to [130/260/390]% of attack power, and receives all allies' damage for 3 seconds.",
+  	"form": [
+  		{
+  			"name": "Kim Kaphwan",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [100, 110, 120, 130],
+  			"hp": [4265.6, 4692.1, 5118.7, 5545.3],
+  			"critChance": [0.15, 0.15, 0.15, 0.15],
+  			"armor": [50.9, 56, 61.1, 66.2],
+  			"resistance": [285.2, 313.7, 342.2, 370.7],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "A master of taekwondo, Kim is already quite famous in the world of fighters, and many promising individuals come wishing to train as students at his dojang. Kim is of a serious and righteous personality, and considers himself a fighter of justice.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Upon using block in buffed state, additionally uses \"Crescent Moon Slice\" that deals physical damage equal to 420% of attack power. Kim Kaphwan cannot be pushed back. Power MAX Effect: Upon activation, evasion is increased by 15% for 8 seconds."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!"
+  			]
+  		},
+  		{
+  			"name": "Kim Kaphwan",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [186.2, 204.9, 223.5, 242.1, 260.7],
+  			"hp": [6542.6, 7196.9, 7851.2, 8505.4, 9159.7],
+  			"critChance": [0.15, 0.15, 0.15, 0.15, 0.15],
+  			"armor": [60.4, 66.5, 72.5, 78.6, 84.6],
+  			"resistance": [339.5, 373.4, 407.3, 441.3, 475.2],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "One day, Kim hears of fighters who use their strength to commit atrocious crimes, and enters the fighting tournament \"The King of Fighters\" in order to rehabilitate them. Yet he soon comes to realize that \"The King of Fighters\" is a part of a greater scheme to revive Orochi, the eight-headed snake entity.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Upon using block in buffed state, additionally uses \"Crescent Moon Slice\" that deals physical damage equal to 420% of attack power. Kim Kaphwan cannot be pushed back. Power MAX Effect: Upon activation, evasion is increased by 15% for 8 seconds."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Kim Kaphwan",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [293.7, 323.1, 352.5, 381.8, 411.2, 440.6, 520.2],
+  			"hp": [9499.4, 10449.3, 11399.3, 12349.2, 13299.2, 14249.1, 20383.1],
+  			"critChance": [0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.3],
+  			"armor": [69.9, 76.9, 83.9, 90.9, 97.9, 104.9, 174.7],
+  			"resistance": [393.5, 432.8, 472.2, 511.5, 550.8, 590.2, 983.1],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.05],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.15],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.24],
+  			"background": "Kim comes to hear of Orochi's true objective: complete obliteration of the human race. The enraged Kim, arguing that even evil people must be given a chance to change their ways, helps the other fighters in stopping Orochi. However, he loses consciousness before the brilliant explosion that results from the ensuing battle, and he wakes up in the dimension of Hasla.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "Upon using block in buffed state, additionally uses \"Crescent Moon Slice\" that deals physical damage equal to 420% of attack power, and renews duration for block skill effect. Upon using ally's 3-chain in buffed state, automatically generates 1 block for Kim. (Once every 2 seconds) Power MAX Effect: Upon activation, evasion is increased by 15% for 8 seconds."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+  "terrybogard": {
+  	"faction": "Supply all forces",
+  	"type": "Secret",
+  	"class": "Paladin",
+  	"skillName": "Burning Knuckles",
+  	"passiveSkillName": "Power Geyser",
+  	"skillDescription": "Uses 'Burning Knuckles' that deals physical damage equal to [60/145/285]% of attack power.",
+  	"form": [
+  		{
+  			"name": "Terry Bogard",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [105.1, 115.6, 126.1, 136.6],
+  			"hp": [2950.5, 3245.6, 3540.6, 3835.6],
+  			"critChance": [0.105, 0.105, 0.105, 0.105],
+  			"armor": [64.3, 70.7, 77.1, 83.6],
+  			"resistance": [343.1, 377.4, 411.7, 446],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "An orphan who struggles to survive with his younger brother Andy on the streets of Southtown. Fortunately, he is adopted by the famous fighter Jeff Bogard, who begins to train Terry in the martial arts.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Upon using block after ally's 3-chain, uses \"Power Geyser\" that deals physical damage equal to 154% of maximum HP. (Once every 1 second) Power MAX Effect: Upon activation, critical damage is increased by 40% for 8 seconds."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!"
+  			]
+  		},
+  		{
+  			"name": "Terry Bogard",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [213.2, 234.5, 255.8, 277.1, 298.5],
+  			"hp": [4525.3, 4977.8, 5430.4, 5882.9, 6335.4],
+  			"critChance": [0.105, 0.105, 0.105, 0.105, 0.105],
+  			"armor": [82, 90.2, 98.4, 106.6, 114.8],
+  			"resistance": [426.3, 468.9, 511.5, 554.1, 596.8],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "Yet tragedy strikes the peaceful lives of Jeff and Terry: Jeff, who had been hiding legendary scrolls that contained secrets to immortality, is killed at the hands of his once comrade, Geese Howard. Terry, once more an orphan, starts his long training in order to avenge his father.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Upon using block after ally's 3-chain, uses \"Power Geyser\" that deals physical damage equal to 154% of maximum HP. (Once every 1 second) Power MAX Effect: Upon activation, critical damage is increased by 40% for 8 seconds."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Terry Bogard",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [349.2, 384.1, 419, 953.9, 488.9, 523.8, 622.2],
+  			"hp": [6570.6, 7227.7, 7884.8, 8541.8, 9198.9, 9856, 13756.2],
+  			"critChance": [0.105, 0.105, 0.105, 0.105, 0.105, 0.105, 0.225],
+  			"armor": [98.4, 108.2, 118, 127.9, 137.7, 147.6, 230.6],
+  			"resistance": [506.5, 557.2, 607.8, 658.5, 709.2, 759.8, 1226.9],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.05],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.20],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.13],
+  			"background": "After long years of training and pursuit, Terry comes to know that Geese is connected to a tournament called \"The King of Fighters.\" Terry eagerly enters the tournament with the purpose of finally having his revenge, but only meets other fighters who fight to stop Orochi, a supernatural being. Terry helps them, but is transported to Hasla by a brilliant explosion in the ensuing battle.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "Upon using block after ally's 3-chain, uses \"Power Geyser\" that deals physical damage equal to 154% of maximum HP. Armor and resistance of hit enemies are decreased by 50% for 5 seconds. (Once every 1 second) Power MAX Effect: Upon activation, critical damage is increased by 40% for 8 seconds."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
   },
   "altair": {
     "faction": "Eastern Kingdom - Han",
@@ -10109,6 +10258,81 @@
         "skill": {
           "level": 3,
           "passive": "When a chain-3 skill is activated, a Lunar Mark appears on all allies, that increases their armor and resistance by 75%. The Lunar Mark also deals magical damage to surrounding enemies equal to 75% of the enemies' attack power every .5 seconds."
+        },
+        "howToGet": [
+          "Event: Get by event!",
+          "Promote Hero: Promoting Heroes!"
+        ]
+      }
+    ]
+  },
+  "hong-ran": {
+    "faction": "Supply all forces",
+    "type": "Secret",
+    "class": "Archer",
+    "skillName": "Fireworks!",
+    "passiveSkillName": "Festive Hour",
+    "skillDescription": "Shoots a portable firecracker which deals magical damage equal to (80/150/350)% of hero's attack power to the enemy with least amount of HP left according to chain number.",
+    "form": [
+      {
+        "name": "Hong-Ran",
+        "star": 4,
+        "level": 40,
+        "atkPower": [227.5, 250.3, 273, 295.8],
+        "hp": [1939.2, 2133.1, 2327, 2520.9],
+        "critChance": [0.15, 0.15, 0.15, 0.15],
+        "armor": [104.9, 115.4, 125.9, 136.4],
+        "resistance": [104.9, 115.4, 125.9, 136.4],
+        "critDamage": [0.5, 0.5, 0.5, 0.5],
+        "accuracy": [0, 0, 0, 0],
+        "evasion": [0, 0, 0, 0],
+        "background": "Hong-Ran could never forget about the beautiful fireworks she watched at a festival when she was young. She decides to become a great fireworks craftsman. She always quotes, \"I will become the greatest Queen of fireworks!\"",
+        "skill": {
+          "level": 2,
+          "passive": "When chain-3 skill is used, hit enemy becomes stunned for 0.5 seconds and their accuracy and chance of evasion decreases by 20% for 5 seconds."
+        },
+        "howToGet": [
+          "Event: Get by event!"
+        ]
+      },
+      {
+        "name": "Hong-Ran of Fireworks",
+        "star": 5,
+        "level": 50,
+        "atkPower": [393.4, 432.8, 472.1, 511.4, 550.8],
+        "hp": [2989.4, 3288.4, 3587.3, 3886.3, 4185.2],
+        "critChance": [0.15, 0.15, 0.15, 0.15, 0.15],
+        "armor": [107.8, 118.6, 129.4, 140.2, 150.9],
+        "resistance": [107.8, 118.6, 129.4, 140.2, 150.9],
+        "critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+        "accuracy": [0, 0, 0, 0, 0],
+        "evasion": [0, 0, 0, 0, 0],
+        "background": "Hong-Ran becomes the disciple of a famous fireworks craftsman. While she was training, she met Jin-Kyung and had a deep conversation about each other's future. Being inspired by Jin-Kyung's vision and diligence, she decided to work even harder to achieve her dreams.",
+        "skill": {
+          "level": 2,
+          "passive": "When chain-3 skill is used, hit enemy becomes stunned for 0.5 seconds and their accuracy and chance of evasion decreases by 20% for 5 seconds."
+        },
+        "howToGet": [
+          "Event: Get by event!",
+          "Promote Hero: Promoting Heroes!"
+        ]
+      },
+      {
+        "name": "Hong-Ran of Flame",
+        "star": 6,
+        "level": 60,
+        "atkPower": [599.1, 659, 719, 778.9, 838.8, 989.7, 1090.7],
+        "hp": [4341.1, 4775.3, 5209.4, 5643.5, 6077.6, 6511.7, 8174.7],
+        "critChance": [0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.311],
+        "armor": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 333.2],
+        "resistance": [144.8, 159.2, 173.7, 188.2, 202.7, 217.2, 333.2],
+        "critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1,21],
+        "accuracy": [0, 0, 0, 0, 0, 0, 0.17],
+        "evasion": [0, 0, 0, 0, 0, 0, 0.17],
+        "background": "Hong-Ran becomes the best fireworks craftsman in the empire. One day the emperor himself asked Hong-Ran to prepare for the national festival for Jin-Kyung. Excited to hear that, Hong-Ran works her hardest for Jin-Kyung to present the best festival. However, she was accidentally sucked up by the dimentional portal which opened up mysteriously.",
+        "skill": {
+          "level": 3,
+          "passive": "When chain-3 skill is used, hit enemy becomes stunned for 0.5 seconds and their accuracy and chance of evasion decreases by 20% for 5 seconds. When ally uses chain-3 skill, hero fires installable firecracker which deals magical damage equal to 300% of attack power instead of auto attacking for 5 seconds."
         },
         "howToGet": [
           "Event: Get by event!",
@@ -10191,6 +10415,81 @@
         ]
       }
     ]
+  },
+  "maishiranui": {
+  	"faction": "Supply all forces",
+  	"type": "Secret",
+  	"class": "Archer",
+  	"skillName": "Waterfowl Fandango",
+  	"passiveSkillName": "Phoenix Fandango",
+  	"skillDescription": "Uses 'Waterfowl Fandango' that deals magical damage equal to [84/132/270]% of attack power.",
+  	"form": [
+  		{
+  			"name": "Mai Shiranui",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [334.8, 368.2, 401.7, 435.2],
+  			"hp": [1078.8, 1186.7, 1294.6, 1402.5],
+  			"critChance": [0.158, 0.158, 0.158, 0.158],
+  			"armor": [91.4, 100.6, 109.7, 118.8],
+  			"resistance": [91.4, 100.6, 109.7, 118.8],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "A kunoichi of the Shiranui clan, a family of a long line of Ninjas. Mai becomes infatuated on sight with Andy Bogard, her grandfather Hanzo's disciple, but Andy remains uninterested and shies away from her.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Enemies hit by Mai's block skill or passive attack become burned for 3 seconds, receiving magical damage equal to 180% of Mai's attack power. Upon using ally's 3-chain, Mai's next block skill is changed into \"Phoenix Fandango\" that deals magical damage equal to 430% of attack power. (Once every 3 seconds) Power MAX Effect: Upon activation, accuracy is increased by 30% for 8 seconds, and 1 block is automatically generated."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!"
+  			]
+  		},
+  		{
+  			"name": "Mai Shiranui",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [578.6, 636.5, 694.4, 752.2, 810.1],
+  			"hp": [1662.5, 1828.8, 1995, 2161.3, 2327.5],
+  			"critChance": [0.158, 0.158, 0.158, 0.158, 0.158],
+  			"armor": [119.3, 131.3, 143.2, 155.1, 167.1],
+  			"resistance": [119.3, 131.3, 143.2, 155.1, 167.1],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "Mai comes to hear of a tournament called \"The King of Fighters,\" in which famous fighters come to test their strength. Mai too enters in hopes of proposing to Andy after winning the tournament. Yet it is revealed that \"The King of Fighters\" is a part of a greater scheme to revive Orochi, the eight-headed snake entity.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Enemies hit by Mai's block skill or passive attack become burned for 3 seconds, receiving magical damage equal to 180% of Mai's attack power. Upon using ally's 3-chain, Mai's next block skill is changed into \"Phoenix Fandango\" that deals magical damage equal to 430% of attack power. (Once every 3 seconds) Power MAX Effect: Upon activation, accuracy is increased by 30% for 8 seconds, and 1 block is automatically generated."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Mai Shiranui",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [692.3, 761.6, 830.8, 900.1, 969.3, 1038.5, 1269.8],
+  			"hp": [3634.9, 3998.4, 4361.9, 4725.4, 5088.9, 5452.4, 6816.6],
+  			"critChance": [0.158, 0.158, 0.158, 0.158, 0.158, 0.158, 0.323],
+  			"armor": [145.4, 160, 174.5, 189.1, 203.6, 218.2, 337.2],
+  			"resistance": [145.4, 160, 174.5, 189.1, 203.6, 218.2, 337.2],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.3],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.27],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.1],
+  			"background": "The tournament falls apart in chaos due to Orochi's revival. However, Mai does not flee but instead searches for Andy in the uproar. At that moment, there is a brilliant explosion, resulting in a crack in the dimension which transports Mai to Hasla.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "Enemies hit by Mai's block skill or passive attack become burned for 3 seconds, receiving magical damage equal to 180% of Mai's attack power. Upon using ally's 3-chain, Mai's next block skill is changed into \"Phoenix Fandango\" that deals magical damage equal to 430% of attack power. \"Phoenix Fandango\" will deactivate any buff. (Once every 3 seconds) Power MAX Effect: Upon activation, accuracy is increased by 30% for 8 seconds, and 1 block is automatically generated."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
   },
   "elpheltvalentine": {
     "faction": "Supply all forces",
@@ -10567,6 +10866,81 @@
       }
     ]
   },
+  "shermie": {
+  	"faction": "Supply all forces",
+  	"type": "Secret",
+  	"class": "Wizard",
+  	"skillName": "Mugetu no Raiun",
+  	"passiveSkillName": "Ankoku Raikouken",
+  	"skillDescription": "Uses  (Mugetu no Raiun) equal to [180/234/234]% of attack power.",
+  	"form": [
+  		{
+  			"name": "Shermie of the Insanely Violent Lightning",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [463.3, 509.6, 555.9, 602.3],
+  			"hp": [976, 1073.7, 1171.3, 1268.9],
+  			"critChance": [0.35, 0.35, 0.35, 0.35],
+  			"armor": [21.6, 23.8, 26, 28.1],
+  			"resistance": [93.4, 102.8, 112.1, 121.5],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "A member of the popular rock band \"C_Y_S,\" Shermie is loved for her compassionate nature and amiable smile. Her motivation in entering \"The King of Fighters\" is vengeance towards Iori, who ruined their very first concert.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Upon hitting 10 times with  (Mugetu no Raiun), additionally uses ' ' (Ankoku Raikouken) that deals magical damage equal to 320% of attack power 3 times. (Once every 2 seconds) Power MAX Effect: Upon activation, critical chance is increased by 12% for 8 seconds, and 1 block is automatically generated."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!"
+  			]
+  		},
+  		{
+  			"name": "Shermie of the Insanely Violent Lightning",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [802.8, 883.1, 963.3, 1043.6, 1123.9],
+  			"hp": [1504.2, 1654.6, 1805.1, 1955.5, 2105.9],
+  			"critChance": [0.35, 0.35, 0.35, 0.35, 0.35],
+  			"armor": [26.1, 28.7, 31.4, 34, 36.6],
+  			"resistance": [111.4, 122.5, 133.7, 144.8, 156],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "After entering \"The King of Fighters,\" Shermie reveals her true self: One of the Four Heavenly Kings of Orochi. Shermie defeats the fighters of the tournament and uses their energy in order to revive Orochi.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Upon hitting 10 times with  (Mugetu no Raiun), additionally uses ' ' (Ankoku Raikouken) that deals magical damage equal to 320% of attack power 3 times. (Once every 2 seconds) Power MAX Effect: Upon activation, critical chance is increased by 12% for 8 seconds, and 1 block is automatically generated."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Shermie of the Insanely Violent Lightning",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [1222.6, 1344.9, 1467.2, 1589.4, 1711.7, 1834, 2142.4],
+  			"hp": [2184.1, 2402.5, 2602.9, 2839.3, 3057.6, 3276.1, 3851.2],
+  			"critChance": [0.35, 0.35, 0.35, 0.35, 0.35, 0.35, 64.9],
+  			"armor": [29.8, 32.8, 35.8, 38.8, 41.8, 44.7, 65.1],
+  			"resistance": [129.2, 142.1, 155, 167.9, 180.8, 193.8, 283.4],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.05],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.11],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.1],
+  			"background": "Shermie realizes that the energy of the contestants alone is not enough, and decides to sacrifice her own life to revive Orochi. She asks her fellow team member, Yashiro, to kill her, and it is due to her sacrifice that Orochi succeeds in revival... Yet their plans are foiled due to other fighters, and Shermie, who was waiting only for her death, is transported to the dimension of Hasla in the brilliant explosion that results from their clash.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "Upon hitting 10 times with  (Mugetu no Raiun), additionally uses ' ' (Ankoku Raikouken) that deals magical damage equal to 475% of attack power 3 times, and has a 50% chance of dealing additional magical damage equal to 200% of attack power. (Once every 2 seconds) Power MAX Effect: Upon activation, critical chance is increased by 12% for 8 seconds, and 1 block is automatically regenerated."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
   "i-no": {
   	"faction": "Supply all forces",
   	"type": "Secret",
@@ -10709,6 +11083,81 @@
   			"skill": {
   				"level": 3,
   				"passive": "If ally is attacked 6 times, eats meat dumpling to increase own health by 250% of attack power. Has a 50% chance of reducing (physical/magical) damage by 75% until next meat dumpling. (Once every 4 seconds) Power MAX Effect: Maximum HP is increased by 10% for 8 seconds."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		}
+  	]
+  },
+  "athenaasamiya": {
+  	"faction": "Supply all forces",
+  	"type": "Secret",
+  	"class": "Priest",
+  	"skillName": "Psycho Ball Attack",
+  	"passiveSkillName": "Shining Crystal Bit",
+  	"skillDescription": "Heals all allies equal to [55/200/370]% of attack power, and releases 'Psycho Ball' that decreases critical damage of hit enemies by 50%.",
+  	"form": [
+  		{
+  			"name": "Athena Asamiya",
+  			"star": 4,
+  			"level": 40,
+  			"atkPower": [213, 234.3, 255.6, 277],
+  			"hp": [2219.6, 2441.6, 2663.5, 2885.5],
+  			"critChance": [0.105, 0.105, 0.105, 0.105],
+  			"armor": [70.3, 77.4, 84.4, 91.5],
+  			"resistance": [70.3, 77.4, 84.4, 91.5],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0],
+  			"background": "A famous high school pop star, Athena has inherited psychic powers from her ancestors, the princess of the Kingdom of Victory, who was skilled at both swordfighting and magic. After meeting the famed fighter Chin Gentsai and Sie Kensou, Athena also becomes a student under Chin Gentsai",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Upon using block, has a 50% chance of using 'Shiny Crystal Beat' that heals all allies by 200% of attack power. 'Shining Crystal Beat' is recognized as a 3-chain. (Once every 2 seconds) Power MAX Effect: Upon activation, decreases received damage by 400 for 8 seconds."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!"
+  			]
+  		},
+  		{
+  			"name": "Athena Asamiya",
+  			"star": 5,
+  			"level": 50,
+  			"atkPower": [367, 403.7, 440.4, 477.1, 513.8],
+  			"hp": [3453.1, 3798.4, 4143.7, 4489, 4834.3],
+  			"critChance": [0.105, 0.105, 0.105, 0.105, 0.105],
+  			"armor": [83.6, 91.9, 100.3, 108.6, 117],
+  			"resistance": [83.6, 91.9, 100.3, 108.6, 117],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0, 0, 0],
+  			"evasion": [0, 0, 0, 0, 0],
+  			"background": "While training with Chin Gentsai and Sie Kensou in a secluded cottage in the mountains, Athena receives an invitation to the mysterious fighting tournament, \"The King of Fighters.\" She decides to enter the tournament to check her progress, and teams up with Chin Gentsai and Sie Kensou.",
+  			"skill": {
+  				"level": 2,
+  				"passive": "Upon using block, has a 50% chance of using 'Shiny Crystal Beat' that heals all allies by 200% of attack power. 'Shining Crystal Beat' is recognized as a 3-chain. (Once every 2 seconds) Power MAX Effect: Upon activation, decreases received damage by 400 for 8 seconds."
+  			},
+  			"howToGet": [
+  				"Event: Get by event!",
+  				"Promote Hero: Promoting Heroes!"
+  			]
+  		},
+  		{
+  			"name": "Athena Asamiya",
+  			"star": 6,
+  			"level": 60,
+  			"atkPower": [549.2, 604.1, 659, 713.9, 768.8, 823.8, 984.4],
+  			"hp": [5102.6, 5612.9, 6123.2, 6633.4, 7143.7, 7654, 9916.5],
+  			"critChance": [0.105, 0.105, 0.105, 0.105, 0.105, 0.105, 0.225],
+  			"armor": [91.8, 100.9, 110.1, 119.3, 128.4, 137.6, 274.1],
+  			"resistance": [91.8, 100.9, 110.1, 119.3, 128.4, 137.6, 274.1],
+  			"critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.25],
+  			"accuracy": [0, 0, 0, 0, 0, 0, 0.21],
+  			"evasion": [0, 0, 0, 0, 0, 0, 0.22],
+  			"background": "Athena realizes the true objecive of \"The King of Fighters\": The revival of Orochi. A being close to god, and his desire to end the human race for the sake of nature. In order to enlighten Orochi of the possibility of the human race, Athena rushes to the site of Orochi's revival. At that moment, a brilliant explosion transports Athena to Hasla.",
+  			"skill": {
+  				"level": 3,
+  				"passive": "Upon using a block, has a 50% chance of using 'Shiny Crystal Beat' that heals all allies by 200% of attack power, and increases their attack power by 40% and critical damage by 25%. 'Shining Crystal Beat' is recognized as a 3-chain. (Once every 2 seconds) Power MAX Effect: Upon activation, decreases received damage by 400 for 8 seconds."
   			},
   			"howToGet": [
   				"Event: Get by event!",

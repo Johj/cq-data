@@ -2666,21 +2666,21 @@
         "star": 4,
         "atkPower": 78,
         "atkSpeed": 0.7,
-        "ability": "(Passive activated) Damage is increased by 20% and armor penetration is increased by 50% of hero's armor."
+        "ability": "(Upon activating passive) Deals additional physical damage equal to 60% of maximum HP. Additional armor penetration equal to 50% of resistance."
       },
       {
         "name": "Guardian Spear",
         "star": 5,
         "atkPower": 128,
         "atkSpeed": 0.7,
-        "ability": "(Passive activated) Damage is increased by 20% and armor penetration is increased by 50% of hero's armor."
+        "ability": "(Upon activating passive) Deals additional physical damage equal to 60% of maximum HP. Additional armor penetration equal to 50% of resistance."
       },
       {
         "name": "Black Tortoise Guarding Spear",
         "star": 6,
         "atkPower": 194,
         "atkSpeed": 0.7,
-        "ability": "(Passive activated) Damage is increased by 40% and armor penetration is increased by 100% of hero's armor."
+        "ability": "(Upon activating passive) Deals additional physical damage equal to 180% of maximum HP. Additional armor penetration equal to 100% of resistance."
       }
     ]
   },
@@ -2770,21 +2770,21 @@
         "star": 4,
         "atkPower": 63,
         "atkSpeed": 0.8,
-        "ability": "(Upon activating passive) SP is increased by 60. Power can be stacked maximum 3 times"
+        "ability": "(Upon activating passive) SP is increased by 60, total damage of \"Chou Kaen Senpuu Kon\" is doubled; power can be stacked maximum 3 times"
       },
       {
         "name": "Three Section Staff",
         "star": 5,
         "atkPower": 102,
         "atkSpeed": 0.8,
-        "ability": "(Upon activating passive) SP is increased by 60. Power can be stacked maximum 3 times"
+        "ability": "(Upon activating passive) SP is increased by 60, total damage of \"Chou Kaen Senpuu Kon\" is doubled; power can be stacked maximum 3 times"
       },
       {
         "name": "Three Section Staff",
         "star": 6,
         "atkPower": 155,
         "atkSpeed": 0.8,
-        "ability": "(Upon activating passive)  SP is increased by 60. Power can be stacked maximum 3 times. If there exists at least 1 power stack, uses \"Dai Senpuu\" after \"Chou Kaen Senpuu Kon.\" Dai Senpuu: Deals an additional physical damage equal to 225% of armor per power stack, and stuns enemy."
+        "ability": "(Upon activating passive) SP is increased by 60, total damage of \"Chou Kaen Senpuu Kon\" is doubled; power can be stacked maximum 3. (Passive enhanced) If there exists at least 1 power stack, uses \"Dai Senpuu\" after \"Chou Kaen Senpuu Kon.\" that deals physical damage equal to 225% of armor per power stack."
       }
     ]
   },

@@ -2556,7 +2556,7 @@
     "class": "Warrior",
     "skillName": "Thorn of Refusal",
     "passiveSkillName": "Thorn of Pain",
-    "skillDescription": "Summons a bush of thorns which deals physical damage equal to (35/80/100)% of the hero's attack power for (2/2/4) seconds every time enemy touches them.",
+    "skillDescription": "Through Magic of the Forest, summons \"Thorns of Refusal\" that deal physical damage equal to [35/80/100]% of hero's attack power per hit for [1/2/4] seconds.",
     "form": [
       {
         "name": "Arita",
@@ -2573,7 +2573,7 @@
         "background": "Daughter of a Neth Empire high official. She was born with talents but was cursed by a witch and fell into a deep sleep. Even though the curse has been lifted, due to side effects Arita sometimes sleeps while standing up.",
         "skill": {
           "level": 2,
-          "passive": "During the activation of Thorn of Refusal, when enemies make attacks from outside of auto-attack range, Thorn of Refusal deals magical damage equal equal to 50% of the hero's attack power with every hit. (once every 2 seconds)"
+          "passive": "During the activation of Thorn of Refusal, when enemies make attacks from outside of auto-attack range, Thorn of Refusal deals magical damage equal equal to 50% of the hero's attack power with every hit. (Once every 2 seconds)"
         },
         "howToGet": [
           "Contract!: Only Contracts! (Except Noble Honor Box)"
@@ -2594,7 +2594,7 @@
         "background": "Arita wakes up from a deep sleep and finds out that her family has collapsed. She decides to trail after the witch and leaves on a long journey. However, she is able to do without any sleep. After arriving the witch's house, she reveals the truth from her diary.",
         "skill": {
           "level": 2,
-          "passive": "During the activation of Thorn of Refusal, when enemies make attacks from outside of auto-attack range, Thorn of Refusal deals magical damage equal equal to 50% of the hero's attack power with every hit. (once every 2 seconds)"
+          "passive": "During the activation of Thorn of Refusal, when enemies make attacks from outside of auto-attack range, Thorn of Refusal deals magical damage equal equal to 50% of the hero's attack power with every hit. (Once every 2 seconds)"
         },
         "howToGet": [
           "Promote Hero: Promoting Heroes!",
@@ -2616,7 +2616,7 @@
         "background": "Arita was chosen as the test subject for an experiment conducted years ago in the Neth Empire, which was to modify a human with magical talent into an android. Arita's parents tried to protect her by making a contract with the witch, and in return Arita was selected as the 2nd Forest Witch.",
         "skill": {
           "level": 3,
-          "passive": "During the activation of Thorn of Refusal, when enemies make attacks from outside of auto-attack range, Thorn of Refusal deals magical damage equal equal to 75% of the hero's attack power with every hit. The attack power and armor of enemies within range of Thorn of Pain are decreased by 75% of the hero's armor. (once every 1.5 seconds)"
+          "passive": "During the activation of Thorn of Refusal, when enemies make attacks from outside of auto-attack range, Thorn of Refusal deals magical damage equal equal to 75% of the hero's attack power with every hit. The attack power and armor of enemies within range of Thorn of Pain are decreased by 75% of the hero's armor. (Once every 1.5 seconds)"
         },
         "howToGet": [
           "Promote Hero: Promoting Heroes!",
@@ -3763,7 +3763,7 @@
         "background": "Having awoken from the curse, Siegfried finds that the world is in total chaos. To help Kriemhild, the warrior chosen to fight against devils, Siegfried arms himself with armor made from the horn and scales of a corrupted devil dragon and joins her in battle.",
         "skill": {
           "level": 3,
-          "passive": "Upon using 4 blocks, hero will plunge spear towards enemy and deal physical damage equal to 400% of hero's attack power. Enemies already under hero's confinement will receive additional damage equal to 700% of hero's attack power."
+          "passive": "Upon using 4 blocks, hero will plunge spear towards enemy and deal physical damage equal to 400% of hero's attack power. Enemies already under hero's confinement will receive additional physical damage equal to 700% of hero's attack power."
         },
         "howToGet": [
           "Contract: Buy Contracts! (Except Noble Honor Box)",
@@ -9989,7 +9989,7 @@
         "background": "A poor youth working in a factory belonging to Howard Connection. Billy works day and night to protect his younger sister Lily Cane, who is suffering from a heart disease.",
         "skill": {
           "level": 2,
-          "passive": "Upon using block after ally's 3-chain, uses \"Chou Kaen Senpuu Kon\" that deals additional physical damage equal to 140% of HP. Enemies are pushed back while spinning flames. Power MAX Effect: Upon activation, armor is increased by 350 for 8 seconds."
+          "passive": "Upon using block after ally's 3-chain, uses \"Chou Kaen Senpuu Kon\" deals additional physical damage equal to 85% of maximum HP. Enemies are pushed back with spinning flames. Power MAX Effect: Upon activation, armor is increased by 350 for 8 seconds."
         },
         "howToGet": [
           "Event: Get by event!"
@@ -10010,7 +10010,7 @@
         "background": "One day Billy gets into a fight with the factory workers, defeating them all with his skills at the three sectional staff. He is noticed by Geese Howard, the CEO of Howard Connection, and becomes his personal bodyguard and later second-in-command.",
         "skill": {
           "level": 2,
-          "passive": "Upon using block after ally's 3-chain, uses \"Chou Kaen Senpuu Kon\" that deals additional physical damage equal to 140% of HP. Enemies are pushed back while spinning flames. Power MAX Effect: Upon activation, armor is increased by 350 for 8 seconds."
+          "passive": "Upon using block after ally's 3-chain, uses \"Chou Kaen Senpuu Kon\" deals additional physical damage equal to 85% of maximum HP. Enemies are pushed back with spinning flames. Power MAX Effect: Upon activation, armor is increased by 350 for 8 seconds."
         },
         "howToGet": [
           "Event: Get by event!",
@@ -10032,7 +10032,7 @@
         "background": "Under Geese's orders to find out more about Orochi's powers, Billy enters \"The King of Fighters.\" He tries to team up with Iori Yagami, only to be attacked and defeated by the ill-tempered Iori. At that moment, a brilliant explosion transports Billy to Hasla.",
         "skill": {
           "level": 3,
-          "passive": "Upon using block after ally's 3-chain, uses \"Chou Kaen Senpuu Kon\" that deals additional physical damage equal to 235% of HP. Enemies are pushed back while spinning flames. Deals additional neutral damage equal to 30% of attack power per hit. Power MAX Effect: Upon activation, armor is increased by 350 for 8 seconds."
+          "passive": "Upon using block after ally's 3-chain, uses \"Chou Kaen Senpuu Kon\" deals additional physical damage equal to 117% of maximum HP. Enemies are pushed back with spinning flames. Deals additional neutral damage equal to 30% of attack power per hit. Power MAX Effect: Upon activation, armor is increased by 350 for 8 seconds."
         },
         "howToGet": [
           "Event: Get by event!",

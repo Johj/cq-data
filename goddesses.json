@@ -7,7 +7,7 @@
   "prestina": {
     "name": "Prestina",
     "skillName": "Embrace of Yggdrasil",
-    "skillDescription": "Immobilizes all enemeis for 4 seconds. Every time the enemy tries to attack, entire party heals for 5% of their maximum HP. When an ally attacks the corresponding enemy, The ally is healed for 30% of the damage done."
+    "skillDescription": "Immobilizes all enemies for 4 seconds. Every time ally is hit by enemy, ally's HP is healed by 5% of said ally's maximum HP. If ally attacks said enemy, the ally is healed by 30% of total damage."
   },
   "anut": {
     "name": "Anut",

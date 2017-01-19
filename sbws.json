@@ -1091,7 +1091,7 @@
         "star": 6,
         "atkPower": 234,
         "atkSpeed": 1,
-        "ability": "(Passive Activated) Explosion damage +50%, U.W.L-7(400%, physical damage) activated after 10th explosion"
+        "ability": "(Upon activating passive) Explosion damage +50%, U.W.L.-7 activated after 5th explosion (physical damage equal to 400% of attack power; explosion rate 100%)"
       }
     ]
   },
@@ -1418,7 +1418,7 @@
         "star": 6,
         "atkPower": 205,
         "atkSpeed": 1,
-        "ability": "(PD-CROW bullet) Number of fire +2, damage/explosion damage +50%"
+        "ability": "(Upon activating passive) Instead of passive, throws 5 grenades that each deal physical damage equal to 250% of attack power."
       }
     ]
   },
@@ -1856,21 +1856,21 @@
         "star": 4,
         "atkPower": 112,
         "atkSpeed": 0.8,
-        "ability": "(35% chance when Passive Activated) Next skill block is enhanced (315%, Magical)"
+        "ability": "(35% chance upon passive activation) Next skill block deals additional magical damage equal to 315% of attack power"
       },
       {
         "name": "Kiss of Temptation",
         "star": 5,
         "atkPower": 185,
         "atkSpeed": 0.8,
-        "ability": "(35% chance when Passive Activated) Next skill block is enhanced (315%, Magical)"
+        "ability": "(35% chance upon passive activation) Next skill block deals additional magical damage equal to 315% of attack power"
       },
       {
         "name": "Deadly Kiss",
         "star": 6,
         "atkPower": 282,
         "atkSpeed": 0.8,
-        "ability": "(50% chance when Passive Activated) Next skill block is enhanced (480%, Magical, Entire party heal +10%)"
+        "ability": "(50% chance upon passive activation) Next skill block is changed into 'Deadly Kiss' (additional magical damage equal to 425% of attack power, entire party heals 10% of total HP)"
       }
     ]
   },

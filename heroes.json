@@ -4300,7 +4300,7 @@
         "background": "With the success of R-1, Road Industry receives wide-ranging support from the empire, and finally created the ultimate android, R-0. But R-0, having the memories of R-9999, seeks the truth of its existence.",
         "skill": {
           "level": 3,
-          "passive": "Enemies hit by her arrows have 50% reduced damage for 5 seconds. When a block is used after an ally's chain-3 skill, the arrows will have a 40% chance of exploding, dealing physical damage equal to 75& of hero's attack power. Also, the enemies' SP will decrease by 7."
+          "passive": "Enemies hit by her arrows have 50% reduced damage for 5 seconds. When a block is used after an ally's chain-3 skill, the arrows will have a 40% chance of exploding, dealing physical damage equal to 75% of hero's attack power. Also, the enemies' SP will decrease by 7."
         },
         "howToGet": [
           "Contract: Buy Contracts!",

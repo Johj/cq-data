@@ -8993,9 +8993,44 @@
           "Contract: Buy Contracts!",
           "Promote Hero: Promoting Heroes!",
           "Stage: Volcano 4-13",
-          "Stage: Volcano 4-13 Hard.",
+          "Stage: Appears at Volcano 4-13 Hard.",
           "Noble Honor Box: Acquired chance to get Noble honor box!"
         ]
+      }
+    ]
+  },
+  "meowcat": {
+  	"faction": "",
+  	"type": "Promote",
+  	"class": "Priest",
+  	"skillName": "Light-nyan!",
+  	"passiveSkillName": "",
+  	"skillDescription": "With the power of light, an ally is healed by 200% of the hero's attack power plus an additional (7/15/25)% based on the chain number.",
+  	"form": [
+  		{
+  			"name": "Meowcat",
+  			"star": 3,
+  			"level": 30,
+  			"atkPower": [82.8, 91.1, 99.4],
+  			"hp": [1663.1, 1829.4, 1995.7],
+  			"critChance": [0.1, 0.1, 0.1],
+  			"armor": [85, 93.5, 102],
+  			"resistance": [85, 93.5, 102],
+  			"critDamage": [0.5, 0.5, 0.5],
+  			"accuracy": [0, 0, 0],
+  			"evasion": [0, 0, 0],
+  			"background": "Meow! meowmewomeowmeowmeowmewo! meowmeow!",
+  			"skill": {
+  				"level": 1,
+  				"passive": ""
+  			},
+  			"howToGet": [
+  				"Contract: Buy Contracts!",
+  				"Promote Hero: Promoting Heroes!",
+          "Stage: Deep Sea 3-11",
+          "Stage: Appears at Deep Sea 3-11 Hard.",
+  				"Noble Honor Box: Acquired chance to get Noble honor box!"
+  			]
       }
     ]
   },

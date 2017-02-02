@@ -483,6 +483,17 @@
   },
   "bihyeongrang": {
     "form": [
+      {
+        "name": "Lion Dance Bihyeongrang",
+        "atkPower": 70,
+        "hp": 500,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
+      }
     ]
   },
   "thor": {
@@ -1042,6 +1053,17 @@
         "critChance": 0,
         "armor": 0,
         "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
+      },
+      {
+        "name": "Winter Girl Korin",
+        "atkPower": 0,
+        "hp": 500,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 80,
         "critDamage": 0,
         "accuracy": 0,
         "evasion": 0

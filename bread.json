@@ -194,6 +194,20 @@
     "greatRate": 0.5,
     "star": 4,
     "sell": 214
+  },
+  "yakgwa": {
+    "name": "Yakgwa",
+    "value": 216,
+    "greatRate": 0.2,
+    "star": 4,
+    "sell": 888
+  },
+  "vasilopita": {
+    "name": "Vasilopita",
+    "value": 396,
+    "greatRate": 0.2,
+    "star": 4,
+    "sell": -1
   }
 
 }

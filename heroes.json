@@ -136,7 +136,7 @@
     ]
   },
   "rochefort": {
-    "faction": "Unknown",
+    "faction": "Southwestern Alliance",
     "type": "Legendary",
     "class": "Warrior",
     "skillName": "Hawk Feather",
@@ -816,7 +816,7 @@
     ]
   },
   "d'artagnan": {
-    "faction": "Unknown",
+    "faction": "Southwestern Alliance",
     "type": "Legendary",
     "class": "Hunter",
     "skillName": "Consecutive Fire",
@@ -2020,7 +2020,7 @@
   	]
   },
   "abel": {
-  	"faction": "Unknown",
+  	"faction": "Southwestern Alliance",
   	"type": "Contract",
   	"class": "Warrior",
   	"skillName": "Winds of Vengeance",
@@ -2473,7 +2473,7 @@
   	]
   },
   "lionel": {
-  	"faction": "Unknown",
+  	"faction": "Southwestern Alliance",
   	"type": "Promote",
   	"class": "Warrior",
   	"skillName": "Ferdinando Swordsmanship",
@@ -3089,7 +3089,7 @@
     ]
   },
   "drake": {
-    "faction": "Unknown",
+    "faction": "Southwestern Alliance",
     "type": "Promote",
     "class": "Paladin",
     "skillName": "Navigation Basics",
@@ -3242,7 +3242,7 @@
     ]
   },
   "cain": {
-    "faction": "Unknown",
+    "faction": "Southwestern Alliance",
     "type": "Contract",
     "class": "Paladin",
     "skillName": "Whirlwind of Pain",
@@ -5148,7 +5148,7 @@
     ]
   },
   "maxi": {
-    "faction": "Unknown",
+    "faction": "Southwestern Alliance",
     "type": "Promote",
     "class": "Hunter",
     "skillName": "MD-21 Bullet",
@@ -5535,7 +5535,7 @@
     ]
   },
   "no.9": {
-    "faction": "Unknown",
+    "faction": "Southwestern Alliance",
     "type": "Contract",
     "class": "Hunter",
     "skillName": "RF-247 Sniper Bullet",
@@ -6216,7 +6216,7 @@
     ]
   },
   "scarlet": {
-    "faction": "Unknown",
+    "faction": "Southwestern Alliance",
     "type": "Promote",
     "class": "Hunter",
     "skillName": "No Mercy",
@@ -6519,7 +6519,7 @@
     ]
   },
   "archon": {
-    "faction": "Unknown",
+    "faction": "Southwestern Alliance",
     "type": "Promote",
     "class": "Wizard",
     "skillName": "Meteor Shower",
@@ -6757,9 +6757,9 @@
     "faction": "Pumpkin City",
     "type": "Contract",
     "class": "Wizard",
-    "skillName": "Meteor Shower",
+    "skillName": "Black Nightmare",
     "passiveSkillName": "Blessing of the Night",
-    "skillDescription": "Summons a meteor shower from the sky, dealing physical damage equal to (49/150/270)% of attack power based on the chain number.",
+    "skillDescription": "Summons black thorns that deal physical damage equal to (49/150/270)% of attack power according to chain number.",
     "form": [
       {
         "name": "Lilith",
@@ -8584,7 +8584,7 @@
   	]
   },
   "aria": {
-    "faction": "Unknown",
+    "faction": "Southwestern Alliance",
     "type": "Promote",
     "class": "Priest",
     "skillName": "Blessings of the Stars",

@@ -311,6 +311,17 @@
         "critDamage": 0,
         "accuracy": 0,
         "evasion": 0
+      },
+      {
+        "name": "Superstar Cano",
+        "atkPower": 0,
+        "hp": 700,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0.25,
+        "accuracy": 0,
+        "evasion": 0
       }
     ]
   },
@@ -399,6 +410,17 @@
   },
   "abel": {
     "form": [
+      {
+        "name": "Prince Abel",
+        "atkPower": 0,
+        "hp": 800,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 110,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
+      }
     ]
   },
   "uzimant": {
@@ -452,6 +474,17 @@
   },
   "victoria": {
     "form": [
+      {
+        "name": "Sugar & Spice Victoria",
+        "atkPower": 90,
+        "hp": 0,
+        "critChance": 0.1,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
+      }
     ]
   },
   "lionel": {
@@ -629,6 +662,17 @@
   },
   "v": {
     "form": [
+      {
+        "name": "Air Force Officer V",
+        "atkPower": 0,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0.15,
+        "accuracy": 0.06,
+        "evasion": 0
+      }
     ]
   },
   "hector": {
@@ -780,6 +824,17 @@
   },
   "niven": {
     "form": [
+      {
+        "name": "Assassin of the Cold Niven",
+        "atkPower": 0,
+        "hp": 0,
+        "critChance": 0.1,
+        "armor": 100,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
+      }
     ]
   },
   "arona": {
@@ -920,6 +975,17 @@
   },
   "vincent": {
     "form": [
+      {
+        "name": "Matador Vincent",
+        "atkPower": 90,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 110,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
+      }
     ]
   },
   "no.9": {
@@ -1192,6 +1258,17 @@
   },
   "uriel": {
     "form": [
+      {
+        "name": "Dandy Romantic Uriel",
+        "atkPower": 120,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0.08,
+        "evasion": 0
+      }
     ]
   },
   "benjamin": {
@@ -1414,6 +1491,17 @@
   },
   "aria": {
     "form": [
+      {
+        "name": "Astrologist Aria",
+        "atkPower": 200,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
+      }
     ]
   },
   "yuria": {

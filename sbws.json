@@ -652,6 +652,27 @@
   "sien": {
     "class": "Sword",
     "form": [
+      {
+        "name": "Occult Wooden Sword",
+        "star": 4,
+        "atkPower": 86,
+        "atkSpeed": 0.9,
+        "ability": "(Passive enhanced) Chance of activating a high level chain is increased."
+      },
+      {
+        "name": "Wooden Sword of Yin and Yang",
+        "star": 5,
+        "atkPower": 140,
+        "atkSpeed": 0.9,
+        "ability": "(Passive enhanced) Chance of activating a high level chain is increased."
+      },
+      {
+        "name": "Spiral of Heaven and Earth",
+        "star": 6,
+        "atkPower": 216,
+        "atkSpeed": 0.9,
+        "ability": "(Passive altered) Sien's 3-chain skill is changed to 'Bursting Spiral Slash' that deals physical damage equal to 700% of attack power. (Passive enhanced) Sien's passive cooltime is decreased to 3.5 seconds. If Sien receives a buff, chance of activating 'Bursting Spiral Slash' becomes 100%."
+      }
     ]
   },
   "borgos": {
@@ -1155,21 +1176,21 @@
         "star": 4,
         "atkPower": 72,
         "atkSpeed": 1.1,
-        "ability": "(Passive activated) Enemies Hit cannot move for 5 seconds, extra 3-chain skill will be activated if the stunned enemy is attacked 10 times (once in every 2 seconds)"
+        "ability": "(Passive activated) Enemies hit cannot move for 5 seconds, extra 3-chain skill will be activated if the stunned enemy is attacked 10 times (once in every 2 seconds)"
       },
       {
         "name": "Frost Canine",
         "star": 5,
         "atkPower": 118,
         "atkSpeed": 1.1,
-        "ability": "(Passive activated) Enemies Hit cannot move for 5 seconds, extra 3-chain skill will be activated if the stunned enemy is attacked 10 times (once in every 2 seconds)"
+        "ability": "(Passive activated) Enemies hit cannot move for 5 seconds, extra 3-chain skill will be activated if the stunned enemy is attacked 10 times (once in every 2 seconds)"
       },
       {
         "name": "Niflheim",
         "star": 6,
         "atkPower": 181,
         "atkSpeed": 1.1,
-        "ability": "(Passive activated) Enemies hit cannot move for 5 seconds, Absolute Zero Thorn skill will be activated, if the stunned enemy is attacked 5 times, dealing  damage equal to 450% of Hero's attack power. (once in every 2 seconds)"
+        "ability": "(Passive activated) Enemies hit cannot move for 5 seconds, Absolute Zero Thorn skill will be activated, if the stunned enemy is attacked 5 times, dealing damage equal to 450% of Hero's attack power. (once in every 2 seconds)"
       }
     ]
   },
@@ -1306,6 +1327,27 @@
   "rahima": {
     "class": "Bow",
     "form": [
+      {
+        "name": "Nomad's Bow",
+        "star": 4,
+        "atkPower": 80,
+        "atkSpeed": 0.9,
+        "ability": "(Upon activating passive) Lahima's armor and resistance increase by 150 and decreases accuracy of all enemies hit by 15%."
+      },
+      {
+        "name": "Nomad's Pride",
+        "star": 5,
+        "atkPower": 132,
+        "atkSpeed": 0.9,
+        "ability": "(Upon activating passive) Lahima's armor and resistance increase by 150 and decreases accuracy of all enemies hit by 15%."
+      },
+      {
+        "name": "Khan's Heritage",
+        "star": 6,
+        "atkPower": 223,
+        "atkSpeed": 0.9,
+        "ability": "(Upon activating passive) The King and Queen of Hawks are summoned to deal magical damage equal to 500% of attack power. (Passive enhanced) Lahima's armor and resistance increase by 300, decreases accuracy of all enemies hit by 30%, and All allies' HP is healed at 100% of Lahima's attack power."
+      }
     ]
   },
   "viola": {
@@ -1659,6 +1701,27 @@
   "lorelei": {
     "class": "Gun",
     "form": [
+      {
+        "name": "Mercenary Call",
+        "star": 4,
+        "atkPower": 95,
+        "atkSpeed": 0.7,
+        "ability": "(Upon activating passive) Lorelei's armor penetration for all attacks is increased by 300 for 3 seconds. 'Drill Gun''s heal reduction rate is increased by 40%."
+      },
+      {
+        "name": "Heavy Mercenary Call",
+        "star": 5,
+        "atkPower": 178,
+        "atkSpeed": 0.7,
+        "ability": "(Upon activating passive) Lorelei's armor penetration for all attacks is increased by 300 for 3 seconds. 'Drill Gun''s heal reduction rate is increased by 40%."
+      },
+      {
+        "name": "Sky Driller",
+        "star": 6,
+        "atkPower": 290,
+        "atkSpeed": 0.7,
+        "ability": "(Upon activating passive) Lorelei's armor penetration for all attacks is increased by 500 for 3 seconds. 'Drill Gun''s heal reduction rate is increased by 40%. (Passive altered) 'Support Equipment Protocol' is changed to 'Giga Rocket Break' that deals physical damage equal to 1000% of attack power. All effects of Lorelei's block skill are applied to 'Giga Rocket Break'; causing neutral damage at 600% of attack power."
+      }
     ]
   },
   "scarlet": {

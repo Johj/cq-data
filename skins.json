@@ -78,6 +78,17 @@
         "critDamage": 0,
         "accuracy": 0,
         "evasion": 0
+      },
+      {
+        "name": "Proposing Roland",
+        "atkPower": 0,
+        "hp": 450,
+        "critChance": 0,
+        "armor": 110,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
       }
     ]
   },
@@ -337,11 +348,33 @@
         "critDamage": 0,
         "accuracy": 0,
         "evasion": 0
+      },
+      {
+        "name": "Lovely Patissiere Maria",
+        "atkPower": 0,
+        "hp": 800,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 80,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
       }
     ]
   },
   "melissa": {
     "form": [
+      {
+        "name": "Bunny Magician Melissa",
+        "atkPower": 100,
+        "hp": 0,
+        "critChance": 0.1,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
+      }
     ]
   },
   "joan": {
@@ -455,6 +488,17 @@
   },
   "isabel": {
     "form": [
+      {
+        "name": "Consumed Isabel",
+        "atkPower": 90,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0.15,
+        "accuracy": 0,
+        "evasion": 0
+      }
     ]
   },
   "koxinga": {
@@ -489,6 +533,17 @@
   },
   "lionel": {
     "form": [
+      {
+        "name": "Freed Lionel",
+        "atkPower": 0,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
+      }
     ]
   },
   "arita": {
@@ -583,6 +638,17 @@
   },
   "achilles": {
     "form": [
+      {
+        "name": "Gladiator Achilles",
+        "atkPower": 150,
+        "hp": 0,
+        "critChance": 0.05,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
+      }
     ]
   },
   "drake": {
@@ -775,6 +841,17 @@
   },
   "robinhood": {
     "form": [
+      {
+        "name": "Robin Hood of Dusk",
+        "atkPower": 110,
+        "hp": 0,
+        "critChance": 0.07,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
+      }
     ]
   },
   "r": {
@@ -955,6 +1032,17 @@
         "critDamage": 0.3,
         "accuracy": 0,
         "evasion": 0
+      },
+      {
+        "name": "Gold Weapon Merchant Viper",
+        "atkPower": 200,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
       }
     ]
   },
@@ -1016,6 +1104,17 @@
   },
   "sentinel": {
     "form": [
+      {
+        "name": "Full Armor Sentinel",
+        "atkPower": 0,
+        "hp": 0,
+        "critChance": 0.05,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0.3,
+        "accuracy": 0,
+        "evasion": 0
+      }
     ]
   },
   "mandy": {
@@ -1024,6 +1123,17 @@
         "name": "Lollipop Mandy",
         "atkPower": 0,
         "hp": 800,
+        "critChance": 0.05,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
+      },
+      {
+        "name": "Clover Girl Mandy",
+        "atkPower": 150,
+        "hp": 0,
         "critChance": 0.05,
         "armor": 0,
         "resistance": 0,
@@ -1239,6 +1349,17 @@
   },
   "necron": {
     "form": [
+      {
+        "name": "Necron of Cataclysm",
+        "atkPower": 0,
+        "hp": 900,
+        "critChance": 0,
+        "armor": 150,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
+      }
     ]
   },
   "demeter": {

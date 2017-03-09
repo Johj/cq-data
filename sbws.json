@@ -1000,6 +1000,27 @@
   "dullahan": {
     "class": "Hammer",
     "form": [
+      {
+        "name": "Pumpkin Crusher",
+        "star": 4,
+        "atkPower": 73,
+        "atkSpeed": 0.7,
+        "ability": "(Upon activating passive) Deals additional physical damage equal to 50% of Dullahan's resistance."
+      },
+      {
+        "name": "Wood Crusher",
+        "star": 5,
+        "atkPower": 119,
+        "atkSpeed": 0.7,
+        "ability": "(Upon activating passive) Deals additional physical damage equal to 50% of Dullahan's resistance."
+      },
+      {
+        "name": "Heaven Crusher",
+        "star": 6,
+        "atkPower": 181,
+        "atkSpeed": 0.7,
+        "ability": "(Upon activating passive) 'Cruel Punishment' is changed to 'Guillotine of the Apocalypse', which deals physical damage equal to 500% of attack power and 50% of armor every hit. If Dullahan fails his attack, his head rolls on the ground to surprise and stun enemies for 2 seconds. Afterwards, Dullahan's HP is healed by 60% of his maximum HP."
+      }
     ]
   },
   "captain": {
@@ -2148,6 +2169,27 @@
   "vesper": {
     "class": "Staff",
     "form": [
+      {
+        "name": "Fay of the Pond",
+        "star": 4,
+        "atkPower": 115,
+        "atkSpeed": 0.8,
+        "ability": "(Upon activating passive) Generates shield that absorbs fixed damage of 1500"
+      },
+      {
+        "name": "Fay of the Lake",
+        "star": 5,
+        "atkPower": 190,
+        "atkSpeed": 0.8,
+        "ability": "(Upon activating passive) Generates shield that absorbs fixed damage of 1500"
+      },
+      {
+        "name": "Naiad",
+        "star": 6,
+        "atkPower": 290,
+        "atkSpeed": 0.8,
+        "ability": "(Upon activating passive) Generates shield that absorbs fixed damage of 3000 (Passive Enhanced) Activating passive has 50% of summoning 'Water Spirit.' 'Water Spirit' shoots 4 waterdrops each dealing magical damage equal to 100-150% of attack power."
+      }
     ]
   },
   "violet": {
@@ -2501,6 +2543,27 @@
   "faust": {
     "class": "Orb",
     "form": [
+      {
+        "name": "Sorcerer's Potion",
+        "star": 4,
+        "atkPower": 57,
+        "atkSpeed": 1.3,
+        "ability": "(Upon activating passive) Passive heals allies' HP by 300% of Faust's attack power, and duration time increases by 1 second."
+      },
+      {
+        "name": "Forbidden Potion",
+        "star": 5,
+        "atkPower": 92,
+        "atkSpeed": 1.3,
+        "ability": "(Upon activating passive) Passive heals allies' HP by 300% of Faust's attack power, and duration time increases by 1 second."
+      },
+      {
+        "name": "Elixir",
+        "star": 6,
+        "atkPower": 141,
+        "atkSpeed": 1.3,
+        "ability": "(Upon activating passive) Passive activation requirement is decreased to 6 hits, and duration time increases by 1 second. Passive heals allies by 450% of Faust's attack power. (Passive enhanced) When ally hits 8 times, Faust throws 'Rune Flask' to frontline enemies. The resulting smoke that arises from the broken 'Rune Flask' decreases enemies' attack power and armor by 30% for 5 seconds. Affected allies, on the other hand, receive neutral damage equal to 5% of ally's maximum HP per second, but are granted a buff of Faust's stats (50% of attack power, armor, and resistance) for 5 seconds. Affected allies' speed also increases by 50%. Faust's own attack power, armor, and resistance increase by 50%. This effect is not affected by other allies' buff."
+      }
     ]
   },
   "seiren": {
@@ -3241,5 +3304,4 @@
       }
     ]
   }
-
 }

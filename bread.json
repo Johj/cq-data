@@ -208,6 +208,40 @@
     "greatRate": 0.2,
     "star": 4,
     "sell": -1
+  },
+  "sera'schocolate": {
+    "name": "Sera's Chocolate",
+    "value": 720,
+    "greatRate": 0.2,
+    "star": 6,
+    "sell": 1004
+  },
+  "anut'schocolate": {
+    "name": "Anut's Chocolate",
+    "value": 720,
+    "greatRate": 0.2,
+    "star": 6,
+    "sell": 1004
+  },
+  "prestina'schocolate": {
+    "name": "Prestina's Chocolate",
+    "value": 720,
+    "greatRate": 0.2,
+    "star": 6,
+    "sell": 1004
+  },
+  "bella'schocolate": {
+    "name": "Bella's Chocolate",
+    "value": 720,
+    "greatRate": 0.2,
+    "star": 6,
+    "sell": 1004
+  },
+  "aubrey'schocolate": {
+    "name": "Aubrey's Chocolate",
+    "value": 720,
+    "greatRate": 0.2,
+    "star": 6,
+    "sell": 1004
   }
-
 }

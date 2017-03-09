@@ -4622,7 +4622,7 @@
     "class": "Archer",
     "skillName": "Bark Bomb!",
     "passiveSkillName": "Tree Spirit Summon",
-    "skillDescription": "Shoots seeds at an enemy in the rear and summons ivy dealing magic damage equal to (50/120/250)% of the Hero's attack power The seed remains for 5 seconds.",
+    "skillDescription": "Shoots seeds at an enemy in the rear and summons ivy dealing magic damage equal to (60/120/312.5)% of the Hero's attack power The seed remains for 5 seconds.",
     "form": [
       {
         "name": "Magnus",
@@ -4931,11 +4931,11 @@
         "name": "Rahima",
         "star": 4,
         "level": 40,
-        "atkPower": [358.3, 394.1, 429.9, 465.7],
-        "hp": [1106.1, 1216.7, 1327.3, 1437.9],
+        "atkPower": [188.9, 207.8, 226.7, 245.6],
+        "hp": [2443.4, 2687.8, 2932.1, 3176.5],
         "critChance": [0.315, 0.315, 0.315, 0.315],
-        "armor": [64.9, 71.4, 77.9, 84.4],
-        "resistance": [64.9, 71.4, 77.9, 84.4],
+        "armor": [110.4, 121.5, 132.5, 143.5],
+        "resistance": [110.4, 121.5, 132.5, 143.5],
         "critDamage": [0.5, 0.5, 0.5, 0.5],
         "accuracy": [0, 0, 0, 0],
         "evasion": [0, 0, 0, 0],
@@ -4952,11 +4952,11 @@
         "name": "Hawk Eye Rahima",
         "star": 5,
         "level": 50,
-        "atkPower": [618, 679.7, 741.6, 803.4, 865.2],
-        "hp": [1717.7, 1889.5, 2061.3, 2233.1, 2404.8],
+        "atkPower": [305.7, 336.3, 366.8, 397.4, 428],
+        "hp": [3766.6, 4143.2, 4519.9, 4896.6, 5273.2],
         "critChance": [0.315, 0.315, 0.315, 0.315, 0.315],
-        "armor": [88, 96.8, 105.6, 114.4, 123.2],
-        "resistance": [88, 96.8, 105.6, 114.4, 123.2],
+        "armor": [131.3, 144.5, 157.6, 170.7, 183.9],
+        "resistance": [131.3, 144.5, 157.6, 170.7, 183.9],
         "critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
         "accuracy": [0, 0, 0, 0, 0],
         "evasion": [0, 0, 0, 0, 0],
@@ -4974,11 +4974,11 @@
         "name": "Rahima, Daughter of Hawks",
         "star": 6,
         "level": 60,
-        "atkPower": [935.1, 1028.6, 1122.1, 1215.6, 1309.1, 1402.7, 1715.1],
-        "hp": [2530.1, 2783.1, 3036.1, 3289.1, 3542.1, 3795.1, 4740.1],
+        "atkPower": [465.8, 512.4, 558.9, 605.5, 652.1, 698.7, 1011.1],
+        "hp": [5469.8, 6016.8, 6563.8, 7110.8, 7657.7, 8204.7, 9149.7],
         "critChance": [0.315, 0.315, 0.315, 0.315, 0.315, 0.315, 0.48],
-        "armor": [108.9, 119.7, 130.6, 141.5, 152.4, 163.3, 282.3],
-        "resistance": [108.9, 119.7, 130.6, 141.5, 152.4, 163.3, 282.3],
+        "armor": [152.4, 167.7, 182.9, 198.2, 213.4, 228.7, 347.7],
+        "resistance": [152.4, 167.7, 182.9, 198.2, 213.4, 228.7, 347.7],
         "critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.05],
         "accuracy": [0, 0, 0, 0, 0, 0, 0.11],
         "evasion": [0, 0, 0, 0, 0, 0, 0.13],
@@ -9682,7 +9682,7 @@
   			"star": 6,
   			"level": 60,
   			"atkPower": [579, 637, 694.9, 752.8, 810.7, 868.6, 1064.3],
-  			"hp": [3979.5, 4377.4, 4775.4, 5173.3, 5571.3, 5969.2, 22.5],
+  			"hp": [3979.5, 4377.4, 4775.4, 5173.3, 5571.3, 5969.2, 7793.1],
   			"critChance": [0.105, 0.105, 0.105, 0.105, 0.105, 0.105, 0.225],
   			"armor": [298.5, 328.3, 358.2, 388, 417.9, 447.7, 784.3],
   			"resistance": [52.8, 58.1, 63.4, 68.7, 74, 79.3, 138.9],
@@ -10976,6 +10976,81 @@
   		}
   	]
   },
+  "littlegirl": {
+    "faction": "Supply all forces",
+    "type": "Secret",
+    "class": "Wizard",
+    "skillName": "Harmony",
+    "passiveSkillName": "Crescendo",
+    "skillDescription": "Activates a different effect with each chain. [1-chain 'Friction' : Deals magical damage equal to 150% of attack power] [2-chain 'Utopiosphere & Reverse-Parallel Universe' : Pulls in nearby enemie sto deal magical damage equal to 100% of attack power] [3-chain 'I hate to tell you & Entrance' : Decreases all enemies' resistance by 25% for 10 seconds]",
+    "form": [
+      {
+        "name": "Little Girl",
+        "star": 4,
+        "level": 40,
+        "atkPower": [429, 471.8, 514.7, 557.6],
+        "hp": [896.1, 985.7, 1075.3, 1164.9],
+        "critChance": [0.21, 0.21, 0.21, 0.21],
+        "armor": [43.1, 47.4, 51.7, 56],
+        "resistance": [184.3, 202.8, 221.2, 239.6],
+        "critDamage": [0.5, 0.5, 0.5, 0.5],
+        "accuracy": [0, 0, 0, 0],
+        "evasion": [0, 0, 0, 0],
+        "background": "The Little Girl's endless fall is broken by the warm embrace of a dark figure in a suit, Deemo, who has been playing the piano all alone in the strange dimension. Deemo promises the Little Girl that he will help her return home.",
+        "skill": {
+          "level": 2,
+          "passive": "For 10 seconds after using 3-chain 'I hate to tell you & Entrance', block skill damage increases by 50%."
+        },
+        "howToGet": [
+          "Event: Get by event!"
+        ]
+      },
+      {
+        "name": "Little Girl",
+        "star": 5,
+        "level": 50,
+        "atkPower": [743.5, 817.8, 892.2, 966.5, 1040.9],
+        "hp": [1381.2, 1519.3, 1657.5, 1795.6, 1933.7],
+        "critChance": [0.21, 0.21, 0.21, 0.21, 0.21],
+        "armor": [39.8, 43.8, 47.8, 51.8, 55.8],
+        "resistance": [171.2, 188.3, 205.4, 222.5, 239.7],
+        "critDamage": [0.5, 0.5, 0.5, 0.5, 0.5],
+        "accuracy": [0, 0, 0, 0, 0],
+        "evasion": [0, 0, 0, 0, 0],
+        "background": "The Little Girl sees a sapling growing in tune to Deemo's performance. Deemo tells her that if they grow it into a tree, it will reach the window in the ceiling through which the Little Girl will be able to return home. True to his word, Deemo ceaselessly plays the piano for the relieved Little Girl.",
+        "skill": {
+          "level": 2,
+          "passive": "For 10 seconds after using 3-chain 'I hate to tell you & Entrance', block skill damage increases by 50%."
+        },
+        "howToGet": [
+          "Event: Get by event!",
+          "Promote Hero: Promoting Heroes!"
+        ]
+      },
+      {
+        "name": "Little Girl",
+        "star": 6,
+        "level": 60,
+        "atkPower": [1132.4, 1245.6, 1358.8, 1472.1, 1585.3, 1698.6, 1900],
+        "hp": [2005.3, 2205.9, 2406.4, 2606.9, 2807.4, 3008, 4400],
+        "critChance": [0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.39],
+        "armor": [46.3, 51, 55.6, 60.3, 64.9, 69.5, 150],
+        "resistance": [249.5, 274.5, 299.4, 324.4, 349.3, 374.3, 450],
+        "critDamage": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.12],
+        "accuracy": [0, 0, 0, 0, 0, 0, 0.14],
+        "evasion": [0, 0, 0, 0, 0, 0, 0.14],
+        "background": "However, when the tree reaches a considerable height, the Masked Girl pushes Deemo and the Little Girl into the dimension of a mysterious book in order to keep the tree from growing. The Little Girl and Deemo together fall into Hasla, once again coming face to face with a strange new world.",
+        "skill": {
+          "level": 3,
+          "passive": "For 10 seconds after using 3-chain 'I hate to tell you & Entrance', block skill damage increases by 100%."
+        },
+        "howToGet": [
+          "Event: Get by event!",
+          "Promote Hero: Promoting Heroes!"
+        ]
+      }
+    ]
+  },
   "i-no": {
   	"faction": "Supply all forces",
   	"type": "Secret",
@@ -11542,5 +11617,4 @@
       }
     ]
   }
-
 }

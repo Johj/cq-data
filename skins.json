@@ -424,6 +424,17 @@
   },
   "monte": {
     "form": [
+      {
+        "name": "Full Armor Monte",
+        "atkPower": 100,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 100,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
+      }
     ]
   },
   "kaori": {
@@ -723,6 +734,17 @@
         "critDamage": 0,
         "accuracy": 0,
         "evasion": 0
+      },
+      {
+        "name": "Mundeok of Wind and Moon",
+        "atkPower": 80,
+        "hp": 500,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
       }
     ]
   },
@@ -767,6 +789,17 @@
         "resistance": 0,
         "critDamage": 0,
         "accuracy": 0,
+        "evasion": 0
+      },
+      {
+        "name": "Awakened Goddess Athena",
+        "atkPower": 105,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0.05,
         "evasion": 0
       }
     ]
@@ -882,6 +915,17 @@
   },
   "giparang": {
     "form": [
+      {
+        "name": "Giparang of Moonlit Lanterns",
+        "atkPower": 120,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0.08,
+        "evasion": 0
+      }
     ]
   },
   "hikari": {
@@ -931,6 +975,17 @@
   },
   "magnus": {
     "form": [
+      {
+        "name": "Magnus of White Roses",
+        "atkPower": 90,
+        "hp": 0,
+        "critChance": 0.05,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
+      }
     ]
   },
   "atalante": {
@@ -959,6 +1014,17 @@
         "resistance": 100,
         "critDamage": 0,
         "accuracy": 0.2,
+        "evasion": 0
+      },
+      {
+        "name": "Rattlesnake Mamba",
+        "atkPower": 120,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
         "evasion": 0
       }
     ]
@@ -1145,6 +1211,17 @@
   },
   "wilhelm": {
     "form": [
+      {
+        "name": "Wilhelm, Ver.02",
+        "atkPower": 150,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
+      }
     ]
   },
   "saiga": {
@@ -1340,6 +1417,17 @@
         "critDamage": 0.3,
         "accuracy": 0,
         "evasion": 0
+      },
+      {
+        "name": "Saint Nazrune",
+        "atkPower": 120,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
       }
     ]
   },
@@ -1413,6 +1501,17 @@
   },
   "vesper": {
     "form": [
+      {
+        "name": "Summer Vacation Vesper",
+        "atkPower": 100,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0.07,
+        "evasion": 0
+      }
     ]
   },
   "violet": {
@@ -1432,6 +1531,43 @@
   },
   "yichui": {
     "form": [
+    ]
+  },
+  "littlegirl": {
+    "form": [
+      {
+        "name": "Girl of the Farewell Waltz",
+        "atkPower": 70,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0.15,
+        "accuracy": 0,
+        "evasion": 0
+      },
+      {
+        "name": "Sailor Girl",
+        "atkPower": 70,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0.15,
+        "accuracy": 0,
+        "evasion": 0
+      },
+      {
+        "name": "Girl of Lovely Flowers",
+        "atkPower": 70,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0.15,
+        "accuracy": 0,
+        "evasion": 0
+      }
     ]
   },
   "mew": {
@@ -1588,11 +1724,33 @@
         "critDamage": 0,
         "accuracy": 0,
         "evasion": 0
+      },
+      {
+        "name": "Dara of Gleaming Blossoms",
+        "atkPower": 0,
+        "hp": 0,
+        "critChance": 0,
+        "armor": 150,
+        "resistance": 150,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0
       }
     ]
   },
   "beatrice": {
     "form": [
+      {
+        "name": "Beatrice of Hope",
+        "atkPower": 0,
+        "hp": 500,
+        "critChance": 0,
+        "armor": 0,
+        "resistance": 0,
+        "critDamage": 0,
+        "accuracy": 0,
+        "evasion": 0.05
+      }
     ]
   },
   "orfeo": {

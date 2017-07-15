@@ -1,3 +1,3 @@
-# cqdb
+# cq-data
 Deprecated. Now using game data as a flat-file database.
-~~Crusaders Quest database in JSON format.~~
+~~Crusaders Quest data in JSON format.~~
